@@ -1,0 +1,17 @@
+{
+  "titulo": "El primer mando era una linterna",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "El primer mando de la tele era una linterna, y el sol te cambiaba de canal.", "clave": "sol", "hook": true },
+    { "texto": "Apuntabas a una esquina de la pantalla, y cada esquina hacía una cosa.", "clave": "esquina" },
+    { "texto": "Pero si entraba el sol por la ventana, la tele se volvía loca.", "clave": "loca" },
+    { "texto": "Así que al año siguiente sacaron otro, sin luz y sin pilas.", "clave": "pilas" },
+    { "texto": "Cada botón golpeaba una barrita de metal con un martillo diminuto.", "clave": "martillo" },
+    { "texto": "Sonaba tan agudo que tú no lo oías, pero la tele sí.", "clave": "agudo" },
+    { "texto": "Y no le pusieron pilas por miedo a que, al gastarse, pensaras que la tele estaba rota.", "clave": "rota" },
+    { "texto": "Hoy tu mando usa una luz que no ves, y sigue gastando pilas.", "clave": "pilas" },
+    { "texto": "El siguiente mando ya lo llevas en el bolsillo: tu móvil.", "clave": "móvil" },
+    { "texto": "Descarga la app que tienes en el link de la bio, y envíaselo a ese amigo que siempre está sin pilas.", "clave": "app" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "Cuatro trucos para ahorrar cada mes",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el café de cada mañana te puede costar casi quinientos euros al año?", "clave": "quinientos", "hook": true },
+    { "texto": "Son los gastos que no ves. Cuatro trucos para que no se te escape el dinero cada mes.", "clave": "cuatro", "hook": true },
+    { "texto": "Uno: cuenta tus gastos hormiga. Un café de un euro ochenta cada día de trabajo son unos cuarenta euros al mes.", "clave": "hormiga" },
+    { "texto": "Dos: revisa tus suscripciones. Tres de diez euros que ya no usas son trescientos sesenta euros al año.", "clave": "suscripciones" },
+    { "texto": "Tres: págate a ti primero. El día que cobras, pasa cincuenta euros a otra cuenta antes de gastar nada.", "clave": "primero" },
+    { "texto": "Cuatro: antes de un capricho, espera un día entero. Muchas veces, al día siguiente ya no lo quieres.", "clave": "día" },
+    { "texto": "Solo con los tres primeros, son más de mil cuatrocientos euros al año.", "clave": "mil" },
+    { "texto": "Envíaselo a ese amigo que siempre llega a fin de mes con la cuenta a cero.", "clave": "cero" }
+  ]
+}

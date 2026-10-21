@@ -1,0 +1,1058 @@
+{
+  "firma": "ffc40bff5abb",
+  "duracion": 45.92,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que cada mes se te escapan hasta cien euros por cinco agujeros que ni ves?",
+      "clave": "agujeros",
+      "inicio": 0,
+      "fin": 4.72
+    },
+    {
+      "n": 2,
+      "texto": "¿Dónde están?",
+      "clave": "dónde",
+      "inicio": 4.96,
+      "fin": 5.88
+    },
+    {
+      "n": 3,
+      "texto": "El primero, tu fibra y tu móvil: cambia de tarifa y ahorras hasta veintinueve euros al mes.",
+      "clave": "fibra",
+      "inicio": 6.16,
+      "fin": 11.84
+    },
+    {
+      "n": 4,
+      "texto": "El segundo, las suscripciones: cancela dos de diez euros que ni abres y son veinte al mes.",
+      "clave": "suscripciones",
+      "inicio": 11.88,
+      "fin": 17.68
+    },
+    {
+      "n": 5,
+      "texto": "El tercero, la comida que tiras: planifica la compra y ahorras unos veintiún euros al mes por persona.",
+      "clave": "comida",
+      "inicio": 17.72,
+      "fin": 23.84
+    },
+    {
+      "n": 6,
+      "texto": "El cuarto, tu banco: algunos cobran hasta veinte euros al mes por la cuenta, y hay cuentas gratis.",
+      "clave": "banco",
+      "inicio": 23.88,
+      "fin": 29.64
+    },
+    {
+      "n": 7,
+      "texto": "El quinto, tu luz: uno de cada tres hogares paga por más potencia de la que usa, unos siete euros al mes.",
+      "clave": "luz",
+      "inicio": 29.84,
+      "fin": 36.16
+    },
+    {
+      "n": 8,
+      "texto": "Súmalos: casi cien euros al mes que ahora se te escapan.",
+      "clave": "cien",
+      "inicio": 36.2,
+      "fin": 39.68
+    },
+    {
+      "n": 9,
+      "texto": "No es ganar más: es dejar de perder.",
+      "clave": "perder",
+      "inicio": 39.76,
+      "fin": 42.24
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que nunca llega a fin de mes.",
+      "clave": "Envíaselo",
+      "inicio": 42.32,
+      "fin": 45.12
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 0.64,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 0.88,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 1.16,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 1.28,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "escapan",
+      "inicio": 1.44,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 1.84,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cien",
+      "inicio": 2.16,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 2.4,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 2.8,
+      "fin": 2.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cinco",
+      "inicio": 3.04,
+      "fin": 3.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "agujeros",
+      "inicio": 3.36,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 3.92,
+      "fin": 4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 4.08,
+      "fin": 4.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ves?",
+      "inicio": 4.32,
+      "fin": 4.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "¿Dónde",
+      "inicio": 4.96,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "están?",
+      "inicio": 5.2,
+      "fin": 5.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 6.16,
+      "fin": 6.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "primero,",
+      "inicio": 6.36,
+      "fin": 6.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.96,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "fibra",
+      "inicio": 7.12,
+      "fin": 7.52,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 7.56,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.68,
+      "fin": 7.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "móvil:",
+      "inicio": 7.84,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cambia",
+      "inicio": 8.48,
+      "fin": 8.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 8.68,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tarifa",
+      "inicio": 8.8,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 9.2,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 9.36,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 9.76,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "veintinueve",
+      "inicio": 9.96,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 10.64,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 11,
+      "fin": 11.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 11.12,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 11.88,
+      "fin": 11.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "segundo,",
+      "inicio": 12,
+      "fin": 12.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 12.72,
+      "fin": 12.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "suscripciones:",
+      "inicio": 12.92,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "cancela",
+      "inicio": 14,
+      "fin": 14.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 14.32,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.56,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 14.72,
+      "fin": 14.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 14.88,
+      "fin": 15.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 15.28,
+      "fin": 15.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 15.44,
+      "fin": 15.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "abres",
+      "inicio": 15.6,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 16,
+      "fin": 16.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 16.2,
+      "fin": 16.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 16.56,
+      "fin": 16.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 16.88,
+      "fin": 16.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 17.08,
+      "fin": 17.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 17.72,
+      "fin": 17.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tercero,",
+      "inicio": 17.84,
+      "fin": 18.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.56,
+      "fin": 18.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "comida",
+      "inicio": 18.72,
+      "fin": 19.04,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 19.08,
+      "fin": 19.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tiras:",
+      "inicio": 19.2,
+      "fin": 19.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "planifica",
+      "inicio": 19.84,
+      "fin": 20.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 20.24,
+      "fin": 20.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "compra",
+      "inicio": 20.32,
+      "fin": 20.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 20.72,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 20.88,
+      "fin": 21.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 21.32,
+      "fin": 21.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "veintiún",
+      "inicio": 21.52,
+      "fin": 22,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 22.08,
+      "fin": 22.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 22.4,
+      "fin": 22.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 22.56,
+      "fin": 22.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 22.72,
+      "fin": 22.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "persona.",
+      "inicio": 22.96,
+      "fin": 23.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 23.88,
+      "fin": 23.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cuarto,",
+      "inicio": 24,
+      "fin": 24.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 24.64,
+      "fin": 24.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "banco:",
+      "inicio": 24.8,
+      "fin": 25.36,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "algunos",
+      "inicio": 25.44,
+      "fin": 25.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cobran",
+      "inicio": 25.92,
+      "fin": 26.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 26.2,
+      "fin": 26.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 26.56,
+      "fin": 26.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 26.96,
+      "fin": 27.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 27.24,
+      "fin": 27.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 27.36,
+      "fin": 27.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 27.6,
+      "fin": 27.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 27.72,
+      "fin": 27.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cuenta,",
+      "inicio": 27.84,
+      "fin": 28.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 28.36,
+      "fin": 28.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 28.48,
+      "fin": 28.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 28.72,
+      "fin": 28.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "gratis.",
+      "inicio": 29.04,
+      "fin": 29.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 29.84,
+      "fin": 30,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "quinto,",
+      "inicio": 30.08,
+      "fin": 30.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 30.72,
+      "fin": 30.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "luz:",
+      "inicio": 30.84,
+      "fin": 31.36,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "uno",
+      "inicio": 31.44,
+      "fin": 31.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 31.6,
+      "fin": 31.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 31.733,
+      "fin": 31.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 31.92,
+      "fin": 32.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hogares",
+      "inicio": 32.16,
+      "fin": 32.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "paga",
+      "inicio": 32.56,
+      "fin": 32.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 32.8,
+      "fin": 32.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 33.04,
+      "fin": 33.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "potencia",
+      "inicio": 33.28,
+      "fin": 33.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.76,
+      "fin": 33.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 33.84,
+      "fin": 33.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 33.92,
+      "fin": 34,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "usa,",
+      "inicio": 34.08,
+      "fin": 34.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 34.64,
+      "fin": 34.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 34.84,
+      "fin": 35.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 35.12,
+      "fin": 35.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 35.48,
+      "fin": 35.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 35.6,
+      "fin": 36.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Súmalos:",
+      "inicio": 36.2,
+      "fin": 36.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 36.96,
+      "fin": 37.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cien",
+      "inicio": 37.28,
+      "fin": 37.44,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "euros",
+      "inicio": 37.52,
+      "fin": 37.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 37.84,
+      "fin": 37.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 38,
+      "fin": 38.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 38.24,
+      "fin": 38.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ahora",
+      "inicio": 38.4,
+      "fin": 38.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 38.64,
+      "fin": 38.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 38.76,
+      "fin": 38.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "escapan.",
+      "inicio": 38.88,
+      "fin": 39.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 39.76,
+      "fin": 39.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 39.88,
+      "fin": 39.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ganar",
+      "inicio": 40,
+      "fin": 40.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más:",
+      "inicio": 40.24,
+      "fin": 40.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 40.88,
+      "fin": 40.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dejar",
+      "inicio": 41.04,
+      "fin": 41.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 41.44,
+      "fin": 41.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "perder.",
+      "inicio": 41.6,
+      "fin": 42.24,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 42.32,
+      "fin": 42.8,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "a",
+      "inicio": 42.827,
+      "fin": 42.853,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 42.88,
+      "fin": 43.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.12,
+      "fin": 43.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.36,
+      "fin": 43.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "nunca",
+      "inicio": 43.6,
+      "fin": 43.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 44,
+      "fin": 44.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 44.28,
+      "fin": 44.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "fin",
+      "inicio": 44.4,
+      "fin": 44.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 44.56,
+      "fin": 44.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "mes.",
+      "inicio": 44.64,
+      "fin": 45.12,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

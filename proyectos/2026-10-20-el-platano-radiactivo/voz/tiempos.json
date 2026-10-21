@@ -1,0 +1,932 @@
+{
+  "firma": "1c19d791982e",
+  "duracion": 44.8,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que los plátanos son radiactivos?",
+      "clave": "radiactivos",
+      "inicio": 0,
+      "fin": 2.52
+    },
+    {
+      "n": 2,
+      "texto": "Dentro de este, ahora mismo, unos quince átomos se rompen cada segundo y sueltan radiación.",
+      "clave": "quince",
+      "inicio": 2.8,
+      "fin": 8.4
+    },
+    {
+      "n": 3,
+      "texto": "La culpa es del potasio: de cada ocho mil átomos de potasio, más o menos uno es radiactivo.",
+      "clave": "potasio",
+      "inicio": 8.64,
+      "fin": 14.8
+    },
+    {
+      "n": 4,
+      "texto": "Pero es tan poquito que una sola radiografía de pecho equivale a comerte mil plátanos.",
+      "clave": "mil",
+      "inicio": 14.853,
+      "fin": 20.08
+    },
+    {
+      "n": 5,
+      "texto": "Para hacerte daño, harían falta decenas de millones.",
+      "clave": "millones",
+      "inicio": 20.32,
+      "fin": 23.2
+    },
+    {
+      "n": 6,
+      "texto": "Y ni así: tu cuerpo echa el potasio que le sobra.",
+      "clave": "echa",
+      "inicio": 23.36,
+      "fin": 26.44
+    },
+    {
+      "n": 7,
+      "texto": "Lo más curioso: tú también eres radiactivo.",
+      "clave": "tú",
+      "inicio": 26.72,
+      "fin": 29.6
+    },
+    {
+      "n": 8,
+      "texto": "Dentro de ti se rompen unos cinco mil átomos de potasio cada segundo: como trescientos plátanos juntos.",
+      "clave": "trescientos",
+      "inicio": 30,
+      "fin": 36
+    },
+    {
+      "n": 9,
+      "texto": "Así que tranquilo con el plátano: en tu sofá, el más radiactivo eres tú.",
+      "clave": "tú",
+      "inicio": 36.24,
+      "fin": 41.12
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que se come tres plátanos al día.",
+      "clave": "tres",
+      "inicio": 41.2,
+      "fin": 44
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.64,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "plátanos",
+      "inicio": 0.8,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 1.36,
+      "fin": 1.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "radiactivos?",
+      "inicio": 1.52,
+      "fin": 2.52,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Dentro",
+      "inicio": 2.8,
+      "fin": 3.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 3.12,
+      "fin": 3.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "este,",
+      "inicio": 3.2,
+      "fin": 3.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ahora",
+      "inicio": 3.76,
+      "fin": 3.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mismo,",
+      "inicio": 4,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 4.56,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "quince",
+      "inicio": 4.88,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "átomos",
+      "inicio": 5.2,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 5.64,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "rompen",
+      "inicio": 5.76,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 6.24,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "segundo",
+      "inicio": 6.48,
+      "fin": 6.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 7.12,
+      "fin": 7.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sueltan",
+      "inicio": 7.28,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "radiación.",
+      "inicio": 7.72,
+      "fin": 8.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 8.64,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "culpa",
+      "inicio": 8.8,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "potasio:",
+      "inicio": 9.6,
+      "fin": 10.48,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 10.52,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.64,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 10.88,
+      "fin": 11.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 11.12,
+      "fin": 11.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "átomos",
+      "inicio": 11.36,
+      "fin": 11.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 11.68,
+      "fin": 11.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "potasio,",
+      "inicio": 11.76,
+      "fin": 12.4,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "más",
+      "inicio": 12.48,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 12.64,
+      "fin": 12.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 12.72,
+      "fin": 12.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 13.2,
+      "fin": 13.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 13.6,
+      "fin": 13.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "radiactivo.",
+      "inicio": 13.76,
+      "fin": 14.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 14.853,
+      "fin": 14.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 15.04,
+      "fin": 15.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 15.2,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "poquito",
+      "inicio": 15.52,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 16.16,
+      "fin": 16.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 16.32,
+      "fin": 16.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sola",
+      "inicio": 16.56,
+      "fin": 16.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "radiografía",
+      "inicio": 16.8,
+      "fin": 17.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 17.4,
+      "fin": 17.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pecho",
+      "inicio": 17.52,
+      "fin": 17.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "equivale",
+      "inicio": 17.92,
+      "fin": 18.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 18.36,
+      "fin": 18.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "comerte",
+      "inicio": 18.48,
+      "fin": 18.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 18.96,
+      "fin": 19.2,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "plátanos.",
+      "inicio": 19.28,
+      "fin": 20.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Para",
+      "inicio": 20.32,
+      "fin": 20.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hacerte",
+      "inicio": 20.48,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "daño,",
+      "inicio": 20.88,
+      "fin": 21.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "harían",
+      "inicio": 21.24,
+      "fin": 21.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "falta",
+      "inicio": 21.627,
+      "fin": 21.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "decenas",
+      "inicio": 22,
+      "fin": 22.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.48,
+      "fin": 22.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "millones.",
+      "inicio": 22.56,
+      "fin": 23.2,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 23.36,
+      "fin": 23.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 23.52,
+      "fin": 23.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "así:",
+      "inicio": 23.68,
+      "fin": 24.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 24.28,
+      "fin": 24.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo",
+      "inicio": 24.4,
+      "fin": 24.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "echa",
+      "inicio": 24.88,
+      "fin": 25.12,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 25.16,
+      "fin": 25.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "potasio",
+      "inicio": 25.28,
+      "fin": 25.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 25.64,
+      "fin": 25.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 25.72,
+      "fin": 25.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sobra.",
+      "inicio": 25.84,
+      "fin": 26.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Lo",
+      "inicio": 26.72,
+      "fin": 26.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 26.88,
+      "fin": 26.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "curioso:",
+      "inicio": 27.04,
+      "fin": 27.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tú",
+      "inicio": 27.88,
+      "fin": 28,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "también",
+      "inicio": 28.16,
+      "fin": 28.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "eres",
+      "inicio": 28.76,
+      "fin": 28.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "radiactivo.",
+      "inicio": 29,
+      "fin": 29.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Dentro",
+      "inicio": 30,
+      "fin": 30.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 30.32,
+      "fin": 30.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ti",
+      "inicio": 30.4,
+      "fin": 30.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30.72,
+      "fin": 30.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "rompen",
+      "inicio": 30.88,
+      "fin": 31.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 31.24,
+      "fin": 31.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cinco",
+      "inicio": 31.44,
+      "fin": 31.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 31.84,
+      "fin": 31.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "átomos",
+      "inicio": 32,
+      "fin": 32.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 32.36,
+      "fin": 32.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "potasio",
+      "inicio": 32.48,
+      "fin": 32.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 32.96,
+      "fin": 33.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "segundo:",
+      "inicio": 33.28,
+      "fin": 34.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 34.16,
+      "fin": 34.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "trescientos",
+      "inicio": 34.32,
+      "fin": 34.84,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "plátanos",
+      "inicio": 34.88,
+      "fin": 35.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "juntos.",
+      "inicio": 35.36,
+      "fin": 36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.24,
+      "fin": 36.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36.48,
+      "fin": 36.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tranquilo",
+      "inicio": 36.8,
+      "fin": 37.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 37.36,
+      "fin": 37.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 37.48,
+      "fin": 37.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "plátano:",
+      "inicio": 37.56,
+      "fin": 38.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 38.28,
+      "fin": 38.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 38.4,
+      "fin": 38.48,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "sofá,",
+      "inicio": 38.56,
+      "fin": 39.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.12,
+      "fin": 39.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 39.28,
+      "fin": 39.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "radiactivo",
+      "inicio": 39.44,
+      "fin": 40,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "eres",
+      "inicio": 40.16,
+      "fin": 40.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tú.",
+      "inicio": 40.48,
+      "fin": 41.12,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 41.2,
+      "fin": 41.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 41.64,
+      "fin": 41.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 41.76,
+      "fin": 41.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 41.92,
+      "fin": 42.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.16,
+      "fin": 42.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 42.28,
+      "fin": 42.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "come",
+      "inicio": 42.4,
+      "fin": 42.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 42.72,
+      "fin": 42.88,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "plátanos",
+      "inicio": 42.96,
+      "fin": 43.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 43.4,
+      "fin": 43.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "día.",
+      "inicio": 43.52,
+      "fin": 44,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "firma": "90cb25b03c34",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "texto": "cocinar",
+      "inicio": 0.56,
+      "fin": 0.96
+    },
+    {
+      "texto": "sin",
+      "inicio": 1.08,
+      "fin": 1.2
+    },
+    {
+      "texto": "tapa",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "texto": "te",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "texto": "sube",
+      "inicio": 1.76,
+      "fin": 1.92
+    },
+    {
+      "texto": "la",
+      "inicio": 1.96,
+      "fin": 2
+    },
+    {
+      "texto": "factura",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.44,
+      "fin": 2.48
+    },
+    {
+      "texto": "la",
+      "inicio": 2.56,
+      "fin": 2.6
+    },
+    {
+      "texto": "luz",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "y",
+      "inicio": 2.88,
+      "fin": 2.92
+    },
+    {
+      "texto": "del",
+      "inicio": 2.96,
+      "fin": 3.04
+    },
+    {
+      "texto": "gas?",
+      "inicio": 3.12,
+      "fin": 3.68
+    },
+    {
+      "texto": "Aunque",
+      "inicio": 3.92,
+      "fin": 4.16
+    },
+    {
+      "texto": "subas",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "el",
+      "inicio": 4.48,
+      "fin": 4.56
+    },
+    {
+      "texto": "fuego",
+      "inicio": 4.6,
+      "fin": 4.8
+    },
+    {
+      "texto": "al",
+      "inicio": 4.88,
+      "fin": 4.96
+    },
+    {
+      "texto": "máximo,",
+      "inicio": 5.013,
+      "fin": 5.52
+    },
+    {
+      "texto": "el",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "texto": "agua",
+      "inicio": 5.8,
+      "fin": 5.92
+    },
+    {
+      "texto": "nunca",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "texto": "pasa",
+      "inicio": 6.48,
+      "fin": 6.72
+    },
+    {
+      "texto": "de",
+      "inicio": 6.8,
+      "fin": 6.84
+    },
+    {
+      "texto": "cien",
+      "inicio": 6.88,
+      "fin": 7.04
+    },
+    {
+      "texto": "grados.",
+      "inicio": 7.12,
+      "fin": 7.92
+    },
+    {
+      "texto": "Todo",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 8.16,
+      "fin": 8.2
+    },
+    {
+      "texto": "que",
+      "inicio": 8.24,
+      "fin": 8.32
+    },
+    {
+      "texto": "le",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "texto": "echas",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "texto": "de",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "más",
+      "inicio": 8.8,
+      "fin": 9.04
+    },
+    {
+      "texto": "se",
+      "inicio": 9.12,
+      "fin": 9.2
+    },
+    {
+      "texto": "escapa",
+      "inicio": 9.32,
+      "fin": 9.6
+    },
+    {
+      "texto": "convertido",
+      "inicio": 9.68,
+      "fin": 10.16
+    },
+    {
+      "texto": "en",
+      "inicio": 10.2,
+      "fin": 10.24
+    },
+    {
+      "texto": "vapor.",
+      "inicio": 10.28,
+      "fin": 10.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "texto": "cada",
+      "inicio": 11.2,
+      "fin": 11.44
+    },
+    {
+      "texto": "gota",
+      "inicio": 11.56,
+      "fin": 11.68
+    },
+    {
+      "texto": "que",
+      "inicio": 11.72,
+      "fin": 11.76
+    },
+    {
+      "texto": "se",
+      "inicio": 11.84,
+      "fin": 11.92
+    },
+    {
+      "texto": "va",
+      "inicio": 11.96,
+      "fin": 12
+    },
+    {
+      "texto": "así",
+      "inicio": 12.08,
+      "fin": 12.4
+    },
+    {
+      "texto": "se",
+      "inicio": 12.56,
+      "fin": 12.64
+    },
+    {
+      "texto": "lleva",
+      "inicio": 12.72,
+      "fin": 12.96
+    },
+    {
+      "texto": "más",
+      "inicio": 13,
+      "fin": 13.12
+    },
+    {
+      "texto": "de",
+      "inicio": 13.24,
+      "fin": 13.36
+    },
+    {
+      "texto": "cinco",
+      "inicio": 13.44,
+      "fin": 13.68
+    },
+    {
+      "texto": "veces",
+      "inicio": 13.76,
+      "fin": 14
+    },
+    {
+      "texto": "el",
+      "inicio": 14.08,
+      "fin": 14.16
+    },
+    {
+      "texto": "calor",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "que",
+      "inicio": 14.52,
+      "fin": 14.56
+    },
+    {
+      "texto": "costó",
+      "inicio": 14.64,
+      "fin": 14.88
+    },
+    {
+      "texto": "calentarla.",
+      "inicio": 14.96,
+      "fin": 15.92
+    },
+    {
+      "texto": "Ahora",
+      "inicio": 16,
+      "fin": 16.24
+    },
+    {
+      "texto": "ponle",
+      "inicio": 16.4,
+      "fin": 16.64
+    },
+    {
+      "texto": "la",
+      "inicio": 16.68,
+      "fin": 16.72
+    },
+    {
+      "texto": "tapa.",
+      "inicio": 16.8,
+      "fin": 17.44
+    },
+    {
+      "texto": "El",
+      "inicio": 17.48,
+      "fin": 17.52
+    },
+    {
+      "texto": "vapor",
+      "inicio": 17.56,
+      "fin": 17.92
+    },
+    {
+      "texto": "choca",
+      "inicio": 18,
+      "fin": 18.24
+    },
+    {
+      "texto": "contra",
+      "inicio": 18.32,
+      "fin": 18.56
+    },
+    {
+      "texto": "ella,",
+      "inicio": 18.64,
+      "fin": 19.12
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 19.16,
+      "fin": 19.36
+    },
+    {
+      "texto": "a",
+      "inicio": 19.4,
+      "fin": 19.44
+    },
+    {
+      "texto": "ser",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "texto": "agua",
+      "inicio": 19.8,
+      "fin": 20
+    },
+    {
+      "texto": "y",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "texto": "cae",
+      "inicio": 20.28,
+      "fin": 20.4
+    },
+    {
+      "texto": "dentro,",
+      "inicio": 20.52,
+      "fin": 20.96
+    },
+    {
+      "texto": "con",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "texto": "todo",
+      "inicio": 21.4,
+      "fin": 21.52
+    },
+    {
+      "texto": "su",
+      "inicio": 21.6,
+      "fin": 21.68
+    },
+    {
+      "texto": "calor.",
+      "inicio": 21.8,
+      "fin": 22.4
+    },
+    {
+      "texto": "Así",
+      "inicio": 22.48,
+      "fin": 22.64
+    },
+    {
+      "texto": "que,",
+      "inicio": 22.72,
+      "fin": 22.96
+    },
+    {
+      "texto": "en",
+      "inicio": 23.04,
+      "fin": 23.12
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 23.16,
+      "fin": 23.36
+    },
+    {
+      "texto": "hierva,",
+      "inicio": 23.44,
+      "fin": 24
+    },
+    {
+      "texto": "bajas",
+      "inicio": 24.107,
+      "fin": 24.32
+    },
+    {
+      "texto": "el",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "texto": "fuego",
+      "inicio": 24.613,
+      "fin": 24.88
+    },
+    {
+      "texto": "y",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "texto": "sigue",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "hirviendo",
+      "inicio": 25.36,
+      "fin": 25.68
+    },
+    {
+      "texto": "igual.",
+      "inicio": 25.76,
+      "fin": 26.4
+    },
+    {
+      "texto": "Resultado:",
+      "inicio": 26.68,
+      "fin": 27.28
+    },
+    {
+      "texto": "hasta",
+      "inicio": 27.36,
+      "fin": 27.52
+    },
+    {
+      "texto": "un",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 27.72,
+      "fin": 28.32
+    },
+    {
+      "texto": "por",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "texto": "ciento",
+      "inicio": 28.64,
+      "fin": 28.8
+    },
+    {
+      "texto": "menos",
+      "inicio": 28.88,
+      "fin": 29.12
+    },
+    {
+      "texto": "de",
+      "inicio": 29.2,
+      "fin": 29.28
+    },
+    {
+      "texto": "gas",
+      "inicio": 29.36,
+      "fin": 29.44
+    },
+    {
+      "texto": "o",
+      "inicio": 29.52,
+      "fin": 29.56
+    },
+    {
+      "texto": "luz",
+      "inicio": 29.6,
+      "fin": 29.84
+    },
+    {
+      "texto": "cada",
+      "inicio": 29.88,
+      "fin": 30.08
+    },
+    {
+      "texto": "vez",
+      "inicio": 30.16,
+      "fin": 30.24
+    },
+    {
+      "texto": "que",
+      "inicio": 30.28,
+      "fin": 30.32
+    },
+    {
+      "texto": "cocinas.",
+      "inicio": 30.4,
+      "fin": 31.2
+    },
+    {
+      "texto": "Así",
+      "inicio": 31.28,
+      "fin": 31.44
+    },
+    {
+      "texto": "que",
+      "inicio": 31.48,
+      "fin": 31.52
+    },
+    {
+      "texto": "el",
+      "inicio": 31.6,
+      "fin": 31.68
+    },
+    {
+      "texto": "secreto",
+      "inicio": 31.76,
+      "fin": 32.16
+    },
+    {
+      "texto": "no",
+      "inicio": 32.32,
+      "fin": 32.4
+    },
+    {
+      "texto": "es",
+      "inicio": 32.48,
+      "fin": 32.64
+    },
+    {
+      "texto": "más",
+      "inicio": 32.68,
+      "fin": 32.8
+    },
+    {
+      "texto": "fuego:",
+      "inicio": 32.84,
+      "fin": 33.44
+    },
+    {
+      "texto": "es",
+      "inicio": 33.56,
+      "fin": 33.68
+    },
+    {
+      "texto": "una",
+      "inicio": 33.76,
+      "fin": 33.92
+    },
+    {
+      "texto": "tapa.",
+      "inicio": 34.08,
+      "fin": 34.8
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 34.827,
+      "fin": 35.2
+    },
+    {
+      "texto": "para",
+      "inicio": 35.28,
+      "fin": 35.36
+    },
+    {
+      "texto": "más",
+      "inicio": 35.44,
+      "fin": 35.52
+    },
+    {
+      "texto": "consejos",
+      "inicio": 35.6,
+      "fin": 36
+    },
+    {
+      "texto": "como",
+      "inicio": 36.12,
+      "fin": 36.24
+    },
+    {
+      "texto": "este.",
+      "inicio": 36.4,
+      "fin": 36.8
+    }
+  ]
+}

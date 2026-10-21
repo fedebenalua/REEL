@@ -1,0 +1,774 @@
+{
+  "firma": "42871eed8c47",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "doblas",
+      "inicio": 0.24,
+      "fin": 0.48
+    },
+    {
+      "texto": "un",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "folio",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "texto": "por",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "la",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "mitad",
+      "inicio": 1.28,
+      "fin": 1.6
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 1.68,
+      "fin": 2.08
+    },
+    {
+      "texto": "y",
+      "inicio": 2.12,
+      "fin": 2.16
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "texto": "veces,",
+      "inicio": 2.4,
+      "fin": 3.04
+    },
+    {
+      "texto": "llega",
+      "inicio": 3.12,
+      "fin": 3.36
+    },
+    {
+      "texto": "a",
+      "inicio": 3.4,
+      "fin": 3.44
+    },
+    {
+      "texto": "la",
+      "inicio": 3.52,
+      "fin": 3.56
+    },
+    {
+      "texto": "Luna.",
+      "inicio": 3.6,
+      "fin": 4.16
+    },
+    {
+      "texto": "¿Cómo",
+      "inicio": 4.4,
+      "fin": 4.64
+    },
+    {
+      "texto": "llega",
+      "inicio": 4.72,
+      "fin": 4.88
+    },
+    {
+      "texto": "tan",
+      "inicio": 4.96,
+      "fin": 5.12
+    },
+    {
+      "texto": "lejos",
+      "inicio": 5.2,
+      "fin": 5.52
+    },
+    {
+      "texto": "algo",
+      "inicio": 5.64,
+      "fin": 5.76
+    },
+    {
+      "texto": "tan",
+      "inicio": 5.84,
+      "fin": 6
+    },
+    {
+      "texto": "fino?",
+      "inicio": 6.08,
+      "fin": 6.8
+    },
+    {
+      "texto": "Un",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "texto": "folio",
+      "inicio": 7.04,
+      "fin": 7.36
+    },
+    {
+      "texto": "mide",
+      "inicio": 7.4,
+      "fin": 7.6
+    },
+    {
+      "texto": "una",
+      "inicio": 7.68,
+      "fin": 7.84
+    },
+    {
+      "texto": "décima",
+      "inicio": 7.92,
+      "fin": 8.32
+    },
+    {
+      "texto": "de",
+      "inicio": 8.4,
+      "fin": 8.44
+    },
+    {
+      "texto": "milímetro.",
+      "inicio": 8.48,
+      "fin": 9.52
+    },
+    {
+      "texto": "Pero",
+      "inicio": 9.573,
+      "fin": 9.68
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.72,
+      "fin": 9.92
+    },
+    {
+      "texto": "vez",
+      "inicio": 10,
+      "fin": 10.08
+    },
+    {
+      "texto": "que",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "texto": "doblas,",
+      "inicio": 10.4,
+      "fin": 10.88
+    },
+    {
+      "texto": "su",
+      "inicio": 10.92,
+      "fin": 10.96
+    },
+    {
+      "texto": "grosor",
+      "inicio": 11,
+      "fin": 11.36
+    },
+    {
+      "texto": "se",
+      "inicio": 11.44,
+      "fin": 11.52
+    },
+    {
+      "texto": "duplica:",
+      "inicio": 11.56,
+      "fin": 12.4
+    },
+    {
+      "texto": "dos",
+      "inicio": 12.48,
+      "fin": 12.56
+    },
+    {
+      "texto": "capas,",
+      "inicio": 12.64,
+      "fin": 13.28
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 13.32,
+      "fin": 14
+    },
+    {
+      "texto": "ocho.",
+      "inicio": 14.08,
+      "fin": 14.48
+    },
+    {
+      "texto": "A",
+      "inicio": 14.96,
+      "fin": 15
+    },
+    {
+      "texto": "los",
+      "inicio": 15.04,
+      "fin": 15.12
+    },
+    {
+      "texto": "diecisiete",
+      "inicio": 15.2,
+      "fin": 15.68
+    },
+    {
+      "texto": "dobleces,",
+      "inicio": 15.76,
+      "fin": 16.4
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "texto": "es",
+      "inicio": 16.6,
+      "fin": 16.64
+    },
+    {
+      "texto": "más",
+      "inicio": 16.72,
+      "fin": 16.88
+    },
+    {
+      "texto": "alto",
+      "inicio": 17,
+      "fin": 17.12
+    },
+    {
+      "texto": "que",
+      "inicio": 17.16,
+      "fin": 17.2
+    },
+    {
+      "texto": "un",
+      "inicio": 17.28,
+      "fin": 17.36
+    },
+    {
+      "texto": "edificio",
+      "inicio": 17.4,
+      "fin": 17.84
+    },
+    {
+      "texto": "de",
+      "inicio": 17.92,
+      "fin": 18
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 18.08,
+      "fin": 18.32
+    },
+    {
+      "texto": "pisos.",
+      "inicio": 18.4,
+      "fin": 19.2
+    },
+    {
+      "texto": "A",
+      "inicio": 19.28,
+      "fin": 19.32
+    },
+    {
+      "texto": "los",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "texto": "veintitrés,",
+      "inicio": 19.52,
+      "fin": 20.4
+    },
+    {
+      "texto": "más",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "que",
+      "inicio": 20.64,
+      "fin": 20.68
+    },
+    {
+      "texto": "el",
+      "inicio": 20.72,
+      "fin": 20.8
+    },
+    {
+      "texto": "rascacielos",
+      "inicio": 20.84,
+      "fin": 21.44
+    },
+    {
+      "texto": "más",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "texto": "alto",
+      "inicio": 21.88,
+      "fin": 22
+    },
+    {
+      "texto": "del",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 22.24,
+      "fin": 23.04
+    },
+    {
+      "texto": "A",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "texto": "los",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "texto": "treinta,",
+      "inicio": 23.36,
+      "fin": 23.84
+    },
+    {
+      "texto": "sale",
+      "inicio": 23.92,
+      "fin": 24.08
+    },
+    {
+      "texto": "de",
+      "inicio": 24.16,
+      "fin": 24.2
+    },
+    {
+      "texto": "la",
+      "inicio": 24.24,
+      "fin": 24.28
+    },
+    {
+      "texto": "atmósfera",
+      "inicio": 24.32,
+      "fin": 24.8
+    },
+    {
+      "texto": "y",
+      "inicio": 24.96,
+      "fin": 25.04
+    },
+    {
+      "texto": "llega",
+      "inicio": 25.08,
+      "fin": 25.32
+    },
+    {
+      "texto": "al",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "texto": "espacio.",
+      "inicio": 25.52,
+      "fin": 26.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 26.427,
+      "fin": 26.453
+    },
+    {
+      "texto": "a",
+      "inicio": 26.48,
+      "fin": 26.533
+    },
+    {
+      "texto": "los",
+      "inicio": 26.587,
+      "fin": 26.64
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 26.72,
+      "fin": 27
+    },
+    {
+      "texto": "y",
+      "inicio": 27.04,
+      "fin": 27.08
+    },
+    {
+      "texto": "dos,",
+      "inicio": 27.12,
+      "fin": 27.6
+    },
+    {
+      "texto": "deja",
+      "inicio": 27.68,
+      "fin": 27.92
+    },
+    {
+      "texto": "atrás",
+      "inicio": 28.04,
+      "fin": 28.24
+    },
+    {
+      "texto": "la",
+      "inicio": 28.28,
+      "fin": 28.32
+    },
+    {
+      "texto": "Luna:",
+      "inicio": 28.4,
+      "fin": 29.04
+    },
+    {
+      "texto": "cuatrocientos",
+      "inicio": 29.12,
+      "fin": 29.84
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 30,
+      "fin": 30.4
+    },
+    {
+      "texto": "mil",
+      "inicio": 30.48,
+      "fin": 30.56
+    },
+    {
+      "texto": "kilómetros.",
+      "inicio": 30.72,
+      "fin": 31.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 31.8,
+      "fin": 31.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 31.88,
+      "fin": 31.92
+    },
+    {
+      "texto": "más",
+      "inicio": 32,
+      "fin": 32.08
+    },
+    {
+      "texto": "loco:",
+      "inicio": 32.16,
+      "fin": 32.8
+    },
+    {
+      "texto": "el",
+      "inicio": 32.88,
+      "fin": 32.96
+    },
+    {
+      "texto": "último",
+      "inicio": 33,
+      "fin": 33.28
+    },
+    {
+      "texto": "doblez,",
+      "inicio": 33.36,
+      "fin": 33.92
+    },
+    {
+      "texto": "él",
+      "inicio": 34,
+      "fin": 34.08
+    },
+    {
+      "texto": "solo,",
+      "inicio": 34.16,
+      "fin": 34.56
+    },
+    {
+      "texto": "hace",
+      "inicio": 34.6,
+      "fin": 34.8
+    },
+    {
+      "texto": "más",
+      "inicio": 34.96,
+      "fin": 35.12
+    },
+    {
+      "texto": "de",
+      "inicio": 35.16,
+      "fin": 35.2
+    },
+    {
+      "texto": "la",
+      "inicio": 35.24,
+      "fin": 35.28
+    },
+    {
+      "texto": "mitad",
+      "inicio": 35.36,
+      "fin": 35.6
+    },
+    {
+      "texto": "del",
+      "inicio": 35.64,
+      "fin": 35.68
+    },
+    {
+      "texto": "camino.",
+      "inicio": 35.76,
+      "fin": 36.56
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.64,
+      "fin": 36.8
+    },
+    {
+      "texto": "que",
+      "inicio": 36.88,
+      "fin": 36.96
+    },
+    {
+      "texto": "no",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "es",
+      "inicio": 37.28,
+      "fin": 37.36
+    },
+    {
+      "texto": "el",
+      "inicio": 37.44,
+      "fin": 37.52
+    },
+    {
+      "texto": "papel:",
+      "inicio": 37.56,
+      "fin": 38.24
+    },
+    {
+      "texto": "es",
+      "inicio": 38.32,
+      "fin": 38.4
+    },
+    {
+      "texto": "duplicar.",
+      "inicio": 38.48,
+      "fin": 39.6
+    },
+    {
+      "texto": "Eso",
+      "inicio": 39.64,
+      "fin": 39.76
+    },
+    {
+      "texto": "sí,",
+      "inicio": 39.84,
+      "fin": 40.16
+    },
+    {
+      "texto": "el",
+      "inicio": 40.24,
+      "fin": 40.32
+    },
+    {
+      "texto": "récord",
+      "inicio": 40.4,
+      "fin": 40.72
+    },
+    {
+      "texto": "está",
+      "inicio": 40.84,
+      "fin": 41
+    },
+    {
+      "texto": "en",
+      "inicio": 41.04,
+      "fin": 41.2
+    },
+    {
+      "texto": "doce",
+      "inicio": 41.28,
+      "fin": 41.44
+    },
+    {
+      "texto": "dobleces,",
+      "inicio": 41.48,
+      "fin": 42.24
+    },
+    {
+      "texto": "y",
+      "inicio": 42.32,
+      "fin": 42.36
+    },
+    {
+      "texto": "hizo",
+      "inicio": 42.4,
+      "fin": 42.56
+    },
+    {
+      "texto": "falta",
+      "inicio": 42.64,
+      "fin": 42.8
+    },
+    {
+      "texto": "un",
+      "inicio": 42.88,
+      "fin": 42.96
+    },
+    {
+      "texto": "papel",
+      "inicio": 43.067,
+      "fin": 43.28
+    },
+    {
+      "texto": "de",
+      "inicio": 43.36,
+      "fin": 43.44
+    },
+    {
+      "texto": "más",
+      "inicio": 43.48,
+      "fin": 43.6
+    },
+    {
+      "texto": "de",
+      "inicio": 43.64,
+      "fin": 43.68
+    },
+    {
+      "texto": "un",
+      "inicio": 43.76,
+      "fin": 43.84
+    },
+    {
+      "texto": "kilómetro.",
+      "inicio": 43.92,
+      "fin": 44.96
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 45.08,
+      "fin": 45.52
+    },
+    {
+      "texto": "a",
+      "inicio": 45.547,
+      "fin": 45.573
+    },
+    {
+      "texto": "ese",
+      "inicio": 45.6,
+      "fin": 45.76
+    },
+    {
+      "texto": "amigo",
+      "inicio": 45.84,
+      "fin": 46.08
+    },
+    {
+      "texto": "que",
+      "inicio": 46.12,
+      "fin": 46.16
+    },
+    {
+      "texto": "dice",
+      "inicio": 46.24,
+      "fin": 46.48
+    },
+    {
+      "texto": "que",
+      "inicio": 46.52,
+      "fin": 46.56
+    },
+    {
+      "texto": "un",
+      "inicio": 46.64,
+      "fin": 46.68
+    },
+    {
+      "texto": "papel",
+      "inicio": 46.72,
+      "fin": 47.12
+    },
+    {
+      "texto": "no",
+      "inicio": 47.16,
+      "fin": 47.2
+    },
+    {
+      "texto": "se",
+      "inicio": 47.28,
+      "fin": 47.44
+    },
+    {
+      "texto": "puede",
+      "inicio": 47.52,
+      "fin": 47.68
+    },
+    {
+      "texto": "doblar",
+      "inicio": 47.76,
+      "fin": 48.08
+    },
+    {
+      "texto": "más",
+      "inicio": 48.12,
+      "fin": 48.24
+    },
+    {
+      "texto": "de",
+      "inicio": 48.32,
+      "fin": 48.4
+    },
+    {
+      "texto": "siete",
+      "inicio": 48.48,
+      "fin": 48.64
+    },
+    {
+      "texto": "veces.",
+      "inicio": 48.76,
+      "fin": 49.36
+    }
+  ]
+}

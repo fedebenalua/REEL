@@ -1,0 +1,17 @@
+{
+  "titulo": "La historia del mando",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "El mando de la tele tiene más de setenta años, y casi nadie sabe cómo funciona.", "clave": "funciona", "hook": true },
+    { "texto": "El primero, de 1950, iba con un cable, y la gente tropezaba con él.", "dicho": "El primero, de mil novecientos cincuenta, iba con un cable, y la gente tropezaba con él.", "clave": "cable" },
+    { "texto": "En 1955 llegó uno sin cable: una linterna que apuntabas a la tele… y el sol también te cambiaba de canal.", "dicho": "En mil novecientos cincuenta y cinco llegó uno sin cable: una linterna que apuntabas a la tele… y el sol también te cambiaba de canal.", "clave": "linterna" },
+    { "texto": "Al año siguiente, uno con martillitos que golpeaban barras de metal: un sonido que tú no oías y la tele sí.", "clave": "martillitos" },
+    { "texto": "Y el de hoy usa luz, pero una que tus ojos no ven.", "clave": "luz" },
+    { "texto": "Al pulsar, la goma toca el cobre y se cierra el circuito.", "clave": "circuito" },
+    { "texto": "Un chip convierte ese botón en un número, distinto para cada botón.", "clave": "número" },
+    { "texto": "Y la lucecita de la punta lo manda parpadeando: 38.000 veces por segundo.", "dicho": "Y la lucecita de la punta lo manda parpadeando: treinta y ocho mil veces por segundo.", "clave": "parpadeando" },
+    { "texto": "La tele lo lee y obedece. Más de setenta años de inventos para no levantarte del sofá.", "clave": "sofá" },
+    { "texto": "Envíaselo a ese amigo que nunca suelta el mando.", "clave": "amigo" }
+  ]
+}

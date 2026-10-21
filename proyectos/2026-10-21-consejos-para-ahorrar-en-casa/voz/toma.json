@@ -1,0 +1,589 @@
+{
+  "firma": "f1c4dee4f0a6",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "texto": "secar",
+      "inicio": 0.64,
+      "fin": 0.96
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "ropa",
+      "inicio": 1.2,
+      "fin": 1.36
+    },
+    {
+      "texto": "encima",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "texto": "del",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "texto": "radiador",
+      "inicio": 2.04,
+      "fin": 2.4
+    },
+    {
+      "texto": "te",
+      "inicio": 2.56,
+      "fin": 2.64
+    },
+    {
+      "texto": "hace",
+      "inicio": 2.693,
+      "fin": 2.8
+    },
+    {
+      "texto": "pagar",
+      "inicio": 2.88,
+      "fin": 3.12
+    },
+    {
+      "texto": "más",
+      "inicio": 3.28,
+      "fin": 3.44
+    },
+    {
+      "texto": "calefacción?",
+      "inicio": 3.56,
+      "fin": 4.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 4.64,
+      "fin": 4.72
+    },
+    {
+      "texto": "no",
+      "inicio": 4.8,
+      "fin": 4.88
+    },
+    {
+      "texto": "es",
+      "inicio": 4.92,
+      "fin": 4.96
+    },
+    {
+      "texto": "el",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "texto": "único",
+      "inicio": 5.16,
+      "fin": 5.36
+    },
+    {
+      "texto": "gesto",
+      "inicio": 5.48,
+      "fin": 5.68
+    },
+    {
+      "texto": "de",
+      "inicio": 5.72,
+      "fin": 5.76
+    },
+    {
+      "texto": "casa",
+      "inicio": 5.84,
+      "fin": 6.08
+    },
+    {
+      "texto": "que",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "texto": "tira",
+      "inicio": 6.28,
+      "fin": 6.48
+    },
+    {
+      "texto": "el",
+      "inicio": 6.507,
+      "fin": 6.533
+    },
+    {
+      "texto": "dinero",
+      "inicio": 6.56,
+      "fin": 6.88
+    },
+    {
+      "texto": "sin",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "que",
+      "inicio": 7.08,
+      "fin": 7.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 7.2,
+      "fin": 7.24
+    },
+    {
+      "texto": "notes.",
+      "inicio": 7.28,
+      "fin": 8.24
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 8.32,
+      "fin": 8.96
+    },
+    {
+      "texto": "deja",
+      "inicio": 9.04,
+      "fin": 9.28
+    },
+    {
+      "texto": "el",
+      "inicio": 9.32,
+      "fin": 9.36
+    },
+    {
+      "texto": "radiador",
+      "inicio": 9.44,
+      "fin": 9.84
+    },
+    {
+      "texto": "libre.",
+      "inicio": 9.92,
+      "fin": 10.64
+    },
+    {
+      "texto": "Si",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "texto": "tapas,",
+      "inicio": 11,
+      "fin": 11.44
+    },
+    {
+      "texto": "el",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "texto": "aire",
+      "inicio": 11.6,
+      "fin": 11.76
+    },
+    {
+      "texto": "caliente",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "texto": "no",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "texto": "circula",
+      "inicio": 12.4,
+      "fin": 12.88
+    },
+    {
+      "texto": "y",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "texto": "la",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "texto": "caldera",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 13.6,
+      "fin": 14
+    },
+    {
+      "texto": "de",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "texto": "más.",
+      "inicio": 14.12,
+      "fin": 14.88
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 14.96,
+      "fin": 15.6
+    },
+    {
+      "texto": "por",
+      "inicio": 15.68,
+      "fin": 15.76
+    },
+    {
+      "texto": "la",
+      "inicio": 15.84,
+      "fin": 15.88
+    },
+    {
+      "texto": "noche,",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "cierra",
+      "inicio": 16.44,
+      "fin": 16.72
+    },
+    {
+      "texto": "persianas",
+      "inicio": 16.84,
+      "fin": 17.28
+    },
+    {
+      "texto": "y",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "texto": "cortinas.",
+      "inicio": 17.44,
+      "fin": 18.24
+    },
+    {
+      "texto": "El",
+      "inicio": 18.28,
+      "fin": 18.32
+    },
+    {
+      "texto": "calor",
+      "inicio": 18.4,
+      "fin": 18.64
+    },
+    {
+      "texto": "se",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "escapa",
+      "inicio": 18.88,
+      "fin": 19.12
+    },
+    {
+      "texto": "por",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "texto": "los",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "texto": "cristales.",
+      "inicio": 19.48,
+      "fin": 20.48
+    },
+    {
+      "texto": "Tres:",
+      "inicio": 20.52,
+      "fin": 21.2
+    },
+    {
+      "texto": "ventila",
+      "inicio": 21.32,
+      "fin": 21.68
+    },
+    {
+      "texto": "solo",
+      "inicio": 21.76,
+      "fin": 22
+    },
+    {
+      "texto": "unos",
+      "inicio": 22.12,
+      "fin": 22.24
+    },
+    {
+      "texto": "minutos,",
+      "inicio": 22.32,
+      "fin": 23.04
+    },
+    {
+      "texto": "cierra",
+      "inicio": 23.12,
+      "fin": 23.44
+    },
+    {
+      "texto": "y",
+      "inicio": 23.68,
+      "fin": 23.72
+    },
+    {
+      "texto": "entonces",
+      "inicio": 23.76,
+      "fin": 24.32
+    },
+    {
+      "texto": "enciende",
+      "inicio": 24.44,
+      "fin": 24.72
+    },
+    {
+      "texto": "la",
+      "inicio": 24.76,
+      "fin": 24.8
+    },
+    {
+      "texto": "calefacción.",
+      "inicio": 24.92,
+      "fin": 25.76
+    },
+    {
+      "texto": "Nunca",
+      "inicio": 25.84,
+      "fin": 26.16
+    },
+    {
+      "texto": "a",
+      "inicio": 26.2,
+      "fin": 26.24
+    },
+    {
+      "texto": "la",
+      "inicio": 26.32,
+      "fin": 26.36
+    },
+    {
+      "texto": "vez.",
+      "inicio": 26.4,
+      "fin": 27.04
+    },
+    {
+      "texto": "Con",
+      "inicio": 27.12,
+      "fin": 27.2
+    },
+    {
+      "texto": "ropa",
+      "inicio": 27.32,
+      "fin": 27.44
+    },
+    {
+      "texto": "adecuada,",
+      "inicio": 27.52,
+      "fin": 28.16
+    },
+    {
+      "texto": "veintiún",
+      "inicio": 28.2,
+      "fin": 28.64
+    },
+    {
+      "texto": "grados",
+      "inicio": 28.72,
+      "fin": 29.04
+    },
+    {
+      "texto": "bastan.",
+      "inicio": 29.16,
+      "fin": 29.84
+    },
+    {
+      "texto": "Cada",
+      "inicio": 29.893,
+      "fin": 30
+    },
+    {
+      "texto": "grado",
+      "inicio": 30.08,
+      "fin": 30.24
+    },
+    {
+      "texto": "de",
+      "inicio": 30.32,
+      "fin": 30.4
+    },
+    {
+      "texto": "más",
+      "inicio": 30.48,
+      "fin": 30.64
+    },
+    {
+      "texto": "gasta",
+      "inicio": 30.72,
+      "fin": 31.04
+    },
+    {
+      "texto": "un",
+      "inicio": 31.16,
+      "fin": 31.28
+    },
+    {
+      "texto": "siete",
+      "inicio": 31.36,
+      "fin": 31.52
+    },
+    {
+      "texto": "por",
+      "inicio": 31.68,
+      "fin": 31.84
+    },
+    {
+      "texto": "ciento",
+      "inicio": 31.92,
+      "fin": 32.08
+    },
+    {
+      "texto": "más.",
+      "inicio": 32.16,
+      "fin": 32.8
+    },
+    {
+      "texto": "No",
+      "inicio": 32.84,
+      "fin": 32.88
+    },
+    {
+      "texto": "es",
+      "inicio": 32.96,
+      "fin": 33.04
+    },
+    {
+      "texto": "pasar",
+      "inicio": 33.12,
+      "fin": 33.28
+    },
+    {
+      "texto": "frío:",
+      "inicio": 33.36,
+      "fin": 33.92
+    },
+    {
+      "texto": "es",
+      "inicio": 34,
+      "fin": 34.08
+    },
+    {
+      "texto": "dejar",
+      "inicio": 34.16,
+      "fin": 34.48
+    },
+    {
+      "texto": "de",
+      "inicio": 34.52,
+      "fin": 34.56
+    },
+    {
+      "texto": "calentar",
+      "inicio": 34.64,
+      "fin": 34.96
+    },
+    {
+      "texto": "la",
+      "inicio": 35.04,
+      "fin": 35.12
+    },
+    {
+      "texto": "calle.",
+      "inicio": 35.227,
+      "fin": 35.84
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 35.96,
+      "fin": 36.4
+    },
+    {
+      "texto": "a",
+      "inicio": 36.44,
+      "fin": 36.48
+    },
+    {
+      "texto": "ese",
+      "inicio": 36.56,
+      "fin": 36.64
+    },
+    {
+      "texto": "amigo",
+      "inicio": 36.72,
+      "fin": 36.96
+    },
+    {
+      "texto": "que",
+      "inicio": 37,
+      "fin": 37.04
+    },
+    {
+      "texto": "seca",
+      "inicio": 37.12,
+      "fin": 37.28
+    },
+    {
+      "texto": "los",
+      "inicio": 37.36,
+      "fin": 37.44
+    },
+    {
+      "texto": "calcetines",
+      "inicio": 37.52,
+      "fin": 38
+    },
+    {
+      "texto": "en",
+      "inicio": 38.08,
+      "fin": 38.16
+    },
+    {
+      "texto": "el",
+      "inicio": 38.2,
+      "fin": 38.24
+    },
+    {
+      "texto": "radiador.",
+      "inicio": 38.36,
+      "fin": 39.04
+    }
+  ]
+}

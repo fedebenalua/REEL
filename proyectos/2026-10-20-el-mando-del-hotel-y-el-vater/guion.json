@@ -1,0 +1,17 @@
+{
+  "titulo": "El mando y el váter",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "El mando de la tele de un hotel puede tener tantas bacterias como el váter.", "clave": "váter", "hook": true },
+    { "texto": "Unos investigadores lo midieron en habitaciones de hotel, cosa por cosa.", "clave": "midieron" },
+    { "texto": "Y el mando y el interruptor de la lámpara salieron de lo más sucio, al nivel del baño.", "clave": "sucio" },
+    { "texto": "Lo más limpio, el cabecero de la cama y la manilla de la puerta del baño.", "clave": "limpio" },
+    { "texto": "No quiere decir que te vayas a poner malo, pero el mando lo toca todo el que pasa por esa habitación.", "clave": "toca" },
+    { "texto": "Y el de tu casa va de mano en mano: del sofá a la cocina, y vuelta.", "clave": "mano" },
+    { "texto": "Por eso yo en casa ya casi no lo toco: uso el móvil de mando.", "clave": "móvil" },
+    { "texto": "Con una app, el móvil le habla a la tele por el wifi, y ese solo lo tocas tú.", "clave": "tú" },
+    { "texto": "Te dejo la que uso en el link de la bio.", "clave": "bio" },
+    { "texto": "Y envíaselo a ese amigo que come palomitas con el mando en la mano.", "clave": "palomitas" }
+  ]
+}

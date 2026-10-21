@@ -1,0 +1,18 @@
+{
+  "titulo": "El primer mando de la tele era una linterna",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el primer mando de la tele era una linterna?", "clave": "linterna", "hook": true },
+    { "texto": "En 1955 apuntabas la luz a una esquina de la tele, y cambiaba de canal.", "dicho": "En mil novecientos cincuenta y cinco apuntabas la luz a una esquina de la tele, y cambiaba de canal.", "clave": "esquina", "hook": true },
+    { "texto": "Pero si le daba el sol, la tele cambiaba de canal sola.", "clave": "sol" },
+    { "texto": "Así que al año siguiente lo cambiaron por sonido: unos martillitos golpeaban varillas de aluminio.", "clave": "martillitos" },
+    { "texto": "Sonaba tan agudo que tú no lo oías, pero un perro sí.", "clave": "perro" },
+    { "texto": "Hasta que en los años ochenta llegó la luz infrarroja: la que usa tu mando hoy.", "clave": "infrarroja" },
+    { "texto": "Pulsas un botón, un chip lo convierte en un número, y la luz de la punta lo manda parpadeando, como un morse.", "clave": "parpadeando" },
+    { "texto": "Un ojito en la tele lo recibe, lo traduce y hace lo que le pides.", "clave": "ojito" },
+    { "texto": "Por eso el sol ya no te cambia de canal: la tele solo hace caso a ese ritmo.", "clave": "ritmo" },
+    { "texto": "Y a día de hoy también puedes usar la tele con tu móvil: el link de la app está en la bio.", "clave": "móvil" },
+    { "texto": "Envíaselo a ese amigo que siempre pierde el mando.", "clave": "pierde" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "El plátano radiactivo",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que los plátanos son radiactivos?", "clave": "radiactivos", "hook": true },
+    { "texto": "Dentro de este, ahora mismo, unos quince átomos se rompen cada segundo y sueltan radiación.", "clave": "quince", "hook": true },
+    { "texto": "La culpa es del potasio: de cada ocho mil átomos de potasio, más o menos uno es radiactivo.", "clave": "potasio" },
+    { "texto": "Pero es tan poquito que una sola radiografía de pecho equivale a comerte mil plátanos.", "clave": "mil" },
+    { "texto": "Para hacerte daño, harían falta decenas de millones.", "clave": "millones" },
+    { "texto": "Y ni así: tu cuerpo echa el potasio que le sobra.", "clave": "echa" },
+    { "texto": "Lo más curioso: tú también eres radiactivo.", "clave": "tú" },
+    { "texto": "Dentro de ti se rompen unos cinco mil átomos de potasio cada segundo: como trescientos plátanos juntos.", "clave": "trescientos" },
+    { "texto": "Así que tranquilo con el plátano: en tu sofá, el más radiactivo eres tú.", "clave": "tú" },
+    { "texto": "Envíaselo a ese amigo que se come tres plátanos al día.", "clave": "tres" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "El mando no funciona",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Son las once de la noche, empieza tu serie… y el mando no funciona.", "clave": "funciona", "hook": true },
+    { "texto": "Antes de abrirlo, haz esto: apúntalo a la cámara del móvil y pulsa un botón.", "clave": "cámara" },
+    { "texto": "Si ves una lucecita morada, el mando está bien. Si no ves nada, son las pilas.", "clave": "pilas" },
+    { "texto": "¿Y si no te quedan pilas en casa? Tranquilo, que el móvil tiene otro truco.", "clave": "truco" },
+    { "texto": "Si tu tele está conectada al wifi, el móvil puede hablar con ella directamente.", "clave": "wifi" },
+    { "texto": "Con una app de mando, la pantalla del móvil se convierte en los botones de la tele.", "clave": "botones" },
+    { "texto": "Enciendes, subes el volumen, cambias de canal… y vuelves a tu serie.", "clave": "serie" },
+    { "texto": "Y además, el móvil no se pierde entre los cojines del sofá, ni gasta pilas.", "clave": "cojines" },
+    { "texto": "Yo uso una que te dejo en el link de la bio, por si te pasa esta noche.", "clave": "bio" },
+    { "texto": "Y envíaselo a ese amigo que siempre acaba sin mando.", "clave": "amigo" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué el café no te quita el sueño",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el café no te quita el sueño, solo lo esconde?", "clave": "esconde", "hook": true },
+    { "texto": "Y por eso, a veces, te arruina la noche sin que lo notes.", "clave": "noche", "hook": true },
+    { "texto": "Mientras estás despierto, tu cerebro va acumulando adenosina.", "clave": "adenosina" },
+    { "texto": "Cuanta más hay, más sueño tienes.", "clave": "sueño" },
+    { "texto": "Pues el café no la quita: tapa los huecos donde encaja, y tú no notas nada.", "clave": "tapa" },
+    { "texto": "Pero la adenosina sigue subiendo, esperando a que se vaya la cafeína.", "clave": "subiendo" },
+    { "texto": "Y se va despacio: tarda entre tres y cinco horas en perder la mitad.", "clave": "mitad" },
+    { "texto": "No te da energía: solo te tapa el cansancio.", "clave": "energía" },
+    { "texto": "Un estudio vio que una dosis alta seis horas antes de acostarte te quita más de una hora de sueño, y ni lo notas.", "clave": "hora" },
+    { "texto": "Así que el último café, seis horas antes de dormir.", "clave": "seis" },
+    { "texto": "Envíaselo a ese amigo que se toma un café después de cenar.", "clave": "Envíaselo" }
+  ]
+}

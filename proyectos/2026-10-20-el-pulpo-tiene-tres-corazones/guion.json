@@ -1,0 +1,53 @@
+{
+  "titulo": "El pulpo tiene tres corazones",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Sabías que el pulpo tiene tres corazones y la sangre azul?",
+      "clave": "corazones",
+      "hook": true
+    },
+    {
+      "texto": "Y uno de ellos se para cada vez que nada.",
+      "clave": "para",
+      "hook": true
+    },
+    {
+      "texto": "Dos corazones empujan la sangre por las branquias, para que coja oxígeno.",
+      "clave": "branquias"
+    },
+    {
+      "texto": "Y el tercero la reparte por el cuerpo, hasta la punta de sus ocho brazos.",
+      "clave": "brazos"
+    },
+    {
+      "texto": "Nuestra sangre es roja por el hierro; la suya lleva cobre, como los cables de casa.",
+      "clave": "cobre"
+    },
+    {
+      "texto": "Cuando ese cobre coge oxígeno, se vuelve azul.",
+      "clave": "azul"
+    },
+    {
+      "texto": "Pero lleva mucho menos oxígeno, así que hay que empujarla más fuerte: por eso, tres corazones.",
+      "clave": "tres"
+    },
+    {
+      "texto": "Y cuando nada a chorro, apretando el cuerpo, ese tercer corazón se para.",
+      "clave": "para"
+    },
+    {
+      "texto": "Nadar así le agota en pocos metros: por eso casi siempre va andando.",
+      "clave": "andando"
+    },
+    {
+      "texto": "Así que el pulpo no anda porque sea lento: anda para que no se le pare el corazón.",
+      "clave": "corazón"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que pide pulpo a la gallega sin saber que tiene tres corazones.",
+      "clave": "gallega"
+    }
+  ]
+}

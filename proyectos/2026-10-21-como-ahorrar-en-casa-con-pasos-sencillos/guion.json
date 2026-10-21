@@ -1,0 +1,15 @@
+{
+  "titulo": "Cuatro pasos para gastar menos en casa",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que tu lavadora no gasta la luz en lavar, sino en calentar el agua?", "clave": "calentar", "hook": true },
+    { "texto": "Y no es lo único que pagas sin darte cuenta. Cuatro pasos para gastar menos en casa.", "clave": "cuatro", "hook": true },
+    { "texto": "Uno: lava en frío. De cada diez euros de luz de tu lavadora, ocho se van en calentar el agua.", "clave": "frío" },
+    { "texto": "Dos: baja un grado la calefacción. Cada grado de más es un siete por ciento más de gasto.", "clave": "grado" },
+    { "texto": "Tres: enchufa la tele y todo lo de alrededor a un ladrón con interruptor, y apágalo por la noche. Más de cuarenta euros al año.", "clave": "ladrón" },
+    { "texto": "Cuatro: usa la olla a presión. Mantener el agua hirviendo le cuesta casi seis veces menos que a una olla abierta.", "clave": "presión" },
+    { "texto": "No hace falta pasar frío ni cambiar de casa: solo dejar de pagar lo que no usas.", "clave": "usas" },
+    { "texto": "Envíaselo a ese amigo que pone la lavadora a noventa grados.", "clave": "noventa" }
+  ]
+}

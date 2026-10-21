@@ -1,0 +1,41 @@
+{
+  "titulo": "Tres gestos de casa que bajan la factura de la calefacción",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Sabías que secar la ropa encima del radiador te hace pagar más calefacción?",
+      "clave": "radiador",
+      "hook": true
+    },
+    {
+      "texto": "Y no es el único gesto de casa que tira el dinero sin que lo notes.",
+      "clave": "gesto",
+      "hook": true
+    },
+    {
+      "texto": "Uno: deja el radiador libre. Si lo tapas, el aire caliente no circula y la caldera trabaja de más.",
+      "clave": "libre"
+    },
+    {
+      "texto": "Dos: por la noche, cierra persianas y cortinas. El calor se escapa por los cristales.",
+      "clave": "persianas"
+    },
+    {
+      "texto": "Tres: ventila solo unos minutos, cierra y entonces enciende la calefacción. Nunca a la vez.",
+      "clave": "ventila"
+    },
+    {
+      "texto": "Con ropa adecuada, veintiún grados bastan. Cada grado de más gasta un siete por ciento más.",
+      "clave": "veintiún"
+    },
+    {
+      "texto": "No es pasar frío: es dejar de calentar la calle.",
+      "clave": "calle"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que seca los calcetines en el radiador.",
+      "clave": "calcetines"
+    }
+  ]
+}

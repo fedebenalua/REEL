@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué no puedes hacerte cosquillas",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué no puedes hacerte cosquillas a ti mismo?", "clave": "cosquillas", "hook": true },
+    { "texto": "Si te las hace otro, te mueres de risa. Si te las haces tú, nada.", "clave": "nada", "hook": true },
+    { "texto": "Es porque tu cerebro sabe lo que vas a sentir antes de sentirlo.", "clave": "antes" },
+    { "texto": "Cada vez que mueves la mano, el cerebelo, aquí detrás, calcula lo que vas a notar.", "clave": "cerebelo" },
+    { "texto": "Y cuando llega justo lo que esperaba, le baja el volumen.", "clave": "volumen" },
+    { "texto": "Pero los dedos de otro no los puede predecir, y te llegan a todo volumen.", "clave": "predecir" },
+    { "texto": "En Londres lo probaron con un robot: tú mueves una palanca, y él te pasa una espuma por la mano.", "clave": "robot" },
+    { "texto": "Si va a la vez, casi nada. Si va dos décimas tarde, lo que dura un parpadeo, sí hace cosquillas.", "clave": "décimas" },
+    { "texto": "Así distingues lo tuyo de lo de fuera: no te asustas al rozarte, pero sí si te sube una araña.", "clave": "araña" },
+    { "texto": "No es que no tengas cosquillas: es que tu cerebro ya se sabe el chiste.", "clave": "chiste" },
+    { "texto": "Envíaselo a ese amigo que se retuerce en cuanto le tocas los pies.", "clave": "pies" }
+  ]
+}

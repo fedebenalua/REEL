@@ -1,0 +1,769 @@
+{
+  "firma": "2bd07ad5c739",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "la",
+      "inicio": 0.32,
+      "fin": 0.36
+    },
+    {
+      "texto": "pantalla",
+      "inicio": 0.4,
+      "fin": 0.72
+    },
+    {
+      "texto": "de",
+      "inicio": 0.8,
+      "fin": 0.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.96,
+      "fin": 1.04
+    },
+    {
+      "texto": "móvil",
+      "inicio": 1.12,
+      "fin": 1.36
+    },
+    {
+      "texto": "detecta",
+      "inicio": 1.56,
+      "fin": 1.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "texto": "dedo,",
+      "inicio": 2.12,
+      "fin": 2.56
+    },
+    {
+      "texto": "pero",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "no",
+      "inicio": 2.88,
+      "fin": 2.96
+    },
+    {
+      "texto": "un",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "texto": "bolígrafo?",
+      "inicio": 3.2,
+      "fin": 4.08
+    },
+    {
+      "texto": "Y,",
+      "inicio": 4.12,
+      "fin": 4.2
+    },
+    {
+      "texto": "en",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "cambio,",
+      "inicio": 4.36,
+      "fin": 4.96
+    },
+    {
+      "texto": "sí",
+      "inicio": 5,
+      "fin": 5.12
+    },
+    {
+      "texto": "detecta",
+      "inicio": 5.32,
+      "fin": 5.56
+    },
+    {
+      "texto": "una",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "texto": "salchicha.",
+      "inicio": 5.76,
+      "fin": 7.12
+    },
+    {
+      "texto": "Debajo",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "texto": "del",
+      "inicio": 7.44,
+      "fin": 7.52
+    },
+    {
+      "texto": "cristal",
+      "inicio": 7.6,
+      "fin": 8.08
+    },
+    {
+      "texto": "hay",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "texto": "una",
+      "inicio": 8.4,
+      "fin": 8.48
+    },
+    {
+      "texto": "rejilla",
+      "inicio": 8.56,
+      "fin": 8.88
+    },
+    {
+      "texto": "de",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "texto": "cables",
+      "inicio": 9.04,
+      "fin": 9.36
+    },
+    {
+      "texto": "finísimos,",
+      "inicio": 9.52,
+      "fin": 10.48
+    },
+    {
+      "texto": "cruzados",
+      "inicio": 10.52,
+      "fin": 10.96
+    },
+    {
+      "texto": "como",
+      "inicio": 11.08,
+      "fin": 11.2
+    },
+    {
+      "texto": "una",
+      "inicio": 11.28,
+      "fin": 11.36
+    },
+    {
+      "texto": "cuadrícula.",
+      "inicio": 11.44,
+      "fin": 12.56
+    },
+    {
+      "texto": "Por",
+      "inicio": 12.6,
+      "fin": 12.64
+    },
+    {
+      "texto": "ellos",
+      "inicio": 12.72,
+      "fin": 13.04
+    },
+    {
+      "texto": "pasa",
+      "inicio": 13.12,
+      "fin": 13.28
+    },
+    {
+      "texto": "electricidad,",
+      "inicio": 13.48,
+      "fin": 14.24
+    },
+    {
+      "texto": "y",
+      "inicio": 14.28,
+      "fin": 14.32
+    },
+    {
+      "texto": "en",
+      "inicio": 14.4,
+      "fin": 14.48
+    },
+    {
+      "texto": "cada",
+      "inicio": 14.533,
+      "fin": 14.64
+    },
+    {
+      "texto": "cruce",
+      "inicio": 14.72,
+      "fin": 15.04
+    },
+    {
+      "texto": "se",
+      "inicio": 15.12,
+      "fin": 15.28
+    },
+    {
+      "texto": "forma",
+      "inicio": 15.4,
+      "fin": 15.52
+    },
+    {
+      "texto": "un",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "texto": "pequeño",
+      "inicio": 15.76,
+      "fin": 16.16
+    },
+    {
+      "texto": "campo",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "texto": "eléctrico.",
+      "inicio": 16.56,
+      "fin": 17.6
+    },
+    {
+      "texto": "Tu",
+      "inicio": 17.64,
+      "fin": 17.68
+    },
+    {
+      "texto": "dedo",
+      "inicio": 17.76,
+      "fin": 18.08
+    },
+    {
+      "texto": "es",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "texto": "conductor,",
+      "inicio": 18.32,
+      "fin": 18.96
+    },
+    {
+      "texto": "porque",
+      "inicio": 19.04,
+      "fin": 19.2
+    },
+    {
+      "texto": "está",
+      "inicio": 19.28,
+      "fin": 19.4
+    },
+    {
+      "texto": "lleno",
+      "inicio": 19.44,
+      "fin": 19.68
+    },
+    {
+      "texto": "de",
+      "inicio": 19.72,
+      "fin": 19.76
+    },
+    {
+      "texto": "agua",
+      "inicio": 19.84,
+      "fin": 20
+    },
+    {
+      "texto": "con",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "texto": "sales,",
+      "inicio": 20.24,
+      "fin": 20.88
+    },
+    {
+      "texto": "y",
+      "inicio": 20.92,
+      "fin": 20.96
+    },
+    {
+      "texto": "se",
+      "inicio": 21.04,
+      "fin": 21.12
+    },
+    {
+      "texto": "lleva",
+      "inicio": 21.16,
+      "fin": 21.36
+    },
+    {
+      "texto": "parte",
+      "inicio": 21.52,
+      "fin": 21.84
+    },
+    {
+      "texto": "de",
+      "inicio": 21.88,
+      "fin": 21.92
+    },
+    {
+      "texto": "ese",
+      "inicio": 22,
+      "fin": 22.16
+    },
+    {
+      "texto": "campo.",
+      "inicio": 22.24,
+      "fin": 23.12
+    },
+    {
+      "texto": "El",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "texto": "móvil",
+      "inicio": 23.36,
+      "fin": 23.68
+    },
+    {
+      "texto": "nota",
+      "inicio": 23.8,
+      "fin": 23.92
+    },
+    {
+      "texto": "ese",
+      "inicio": 24.04,
+      "fin": 24.16
+    },
+    {
+      "texto": "cambio",
+      "inicio": 24.24,
+      "fin": 24.4
+    },
+    {
+      "texto": "en",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "texto": "un",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "texto": "cruce,",
+      "inicio": 24.72,
+      "fin": 25.2
+    },
+    {
+      "texto": "y",
+      "inicio": 25.24,
+      "fin": 25.28
+    },
+    {
+      "texto": "así",
+      "inicio": 25.4,
+      "fin": 25.6
+    },
+    {
+      "texto": "sabe",
+      "inicio": 25.76,
+      "fin": 25.92
+    },
+    {
+      "texto": "justo",
+      "inicio": 26.08,
+      "fin": 26.48
+    },
+    {
+      "texto": "dónde",
+      "inicio": 26.64,
+      "fin": 26.88
+    },
+    {
+      "texto": "estás",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "texto": "tocando.",
+      "inicio": 27.28,
+      "fin": 28.32
+    },
+    {
+      "texto": "Un",
+      "inicio": 28.36,
+      "fin": 28.4
+    },
+    {
+      "texto": "bolígrafo",
+      "inicio": 28.48,
+      "fin": 29.04
+    },
+    {
+      "texto": "es",
+      "inicio": 29.08,
+      "fin": 29.12
+    },
+    {
+      "texto": "de",
+      "inicio": 29.2,
+      "fin": 29.28
+    },
+    {
+      "texto": "plástico:",
+      "inicio": 29.32,
+      "fin": 30
+    },
+    {
+      "texto": "no",
+      "inicio": 30.08,
+      "fin": 30.16
+    },
+    {
+      "texto": "conduce,",
+      "inicio": 30.24,
+      "fin": 30.8
+    },
+    {
+      "texto": "y",
+      "inicio": 30.84,
+      "fin": 30.88
+    },
+    {
+      "texto": "el",
+      "inicio": 30.96,
+      "fin": 31
+    },
+    {
+      "texto": "campo",
+      "inicio": 31.04,
+      "fin": 31.36
+    },
+    {
+      "texto": "pasa",
+      "inicio": 31.44,
+      "fin": 31.76
+    },
+    {
+      "texto": "como",
+      "inicio": 31.84,
+      "fin": 32
+    },
+    {
+      "texto": "si",
+      "inicio": 32.08,
+      "fin": 32.12
+    },
+    {
+      "texto": "no",
+      "inicio": 32.16,
+      "fin": 32.24
+    },
+    {
+      "texto": "estuviera.",
+      "inicio": 32.32,
+      "fin": 33.28
+    },
+    {
+      "texto": "Por",
+      "inicio": 33.36,
+      "fin": 33.44
+    },
+    {
+      "texto": "eso",
+      "inicio": 33.56,
+      "fin": 33.68
+    },
+    {
+      "texto": "no",
+      "inicio": 33.76,
+      "fin": 33.84
+    },
+    {
+      "texto": "funciona",
+      "inicio": 33.92,
+      "fin": 34.24
+    },
+    {
+      "texto": "con",
+      "inicio": 34.32,
+      "fin": 34.4
+    },
+    {
+      "texto": "guantes,",
+      "inicio": 34.48,
+      "fin": 35.12
+    },
+    {
+      "texto": "pero",
+      "inicio": 35.16,
+      "fin": 35.28
+    },
+    {
+      "texto": "sí",
+      "inicio": 35.44,
+      "fin": 35.52
+    },
+    {
+      "texto": "con",
+      "inicio": 35.68,
+      "fin": 35.76
+    },
+    {
+      "texto": "una",
+      "inicio": 35.84,
+      "fin": 35.92
+    },
+    {
+      "texto": "salchicha,",
+      "inicio": 36,
+      "fin": 36.56
+    },
+    {
+      "texto": "que",
+      "inicio": 36.64,
+      "fin": 36.72
+    },
+    {
+      "texto": "también",
+      "inicio": 36.773,
+      "fin": 37.12
+    },
+    {
+      "texto": "va",
+      "inicio": 37.2,
+      "fin": 37.28
+    },
+    {
+      "texto": "llena",
+      "inicio": 37.32,
+      "fin": 37.52
+    },
+    {
+      "texto": "de",
+      "inicio": 37.56,
+      "fin": 37.6
+    },
+    {
+      "texto": "agua",
+      "inicio": 37.68,
+      "fin": 37.84
+    },
+    {
+      "texto": "con",
+      "inicio": 37.92,
+      "fin": 38
+    },
+    {
+      "texto": "sales.",
+      "inicio": 38.2,
+      "fin": 38.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 38.92,
+      "fin": 38.96
+    },
+    {
+      "texto": "por",
+      "inicio": 39.04,
+      "fin": 39.12
+    },
+    {
+      "texto": "eso",
+      "inicio": 39.24,
+      "fin": 39.36
+    },
+    {
+      "texto": "los",
+      "inicio": 39.44,
+      "fin": 39.6
+    },
+    {
+      "texto": "lápices",
+      "inicio": 39.653,
+      "fin": 40
+    },
+    {
+      "texto": "para",
+      "inicio": 40.08,
+      "fin": 40.16
+    },
+    {
+      "texto": "pantallas",
+      "inicio": 40.24,
+      "fin": 40.8
+    },
+    {
+      "texto": "llevan",
+      "inicio": 40.84,
+      "fin": 41.04
+    },
+    {
+      "texto": "la",
+      "inicio": 41.12,
+      "fin": 41.2
+    },
+    {
+      "texto": "punta",
+      "inicio": 41.28,
+      "fin": 41.52
+    },
+    {
+      "texto": "de",
+      "inicio": 41.6,
+      "fin": 41.68
+    },
+    {
+      "texto": "goma",
+      "inicio": 41.72,
+      "fin": 41.92
+    },
+    {
+      "texto": "conductora.",
+      "inicio": 42,
+      "fin": 43.04
+    },
+    {
+      "texto": "Tu",
+      "inicio": 43.12,
+      "fin": 43.2
+    },
+    {
+      "texto": "móvil",
+      "inicio": 43.28,
+      "fin": 43.68
+    },
+    {
+      "texto": "no",
+      "inicio": 43.76,
+      "fin": 43.84
+    },
+    {
+      "texto": "nota",
+      "inicio": 43.92,
+      "fin": 44.16
+    },
+    {
+      "texto": "que",
+      "inicio": 44.2,
+      "fin": 44.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 44.32,
+      "fin": 44.4
+    },
+    {
+      "texto": "tocas:",
+      "inicio": 44.52,
+      "fin": 45.12
+    },
+    {
+      "texto": "nota",
+      "inicio": 45.28,
+      "fin": 45.44
+    },
+    {
+      "texto": "que",
+      "inicio": 45.6,
+      "fin": 45.76
+    },
+    {
+      "texto": "eres",
+      "inicio": 45.88,
+      "fin": 46
+    },
+    {
+      "texto": "un",
+      "inicio": 46.08,
+      "fin": 46.16
+    },
+    {
+      "texto": "conductor.",
+      "inicio": 46.24,
+      "fin": 47.44
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 47.52,
+      "fin": 48
+    },
+    {
+      "texto": "a",
+      "inicio": 48.04,
+      "fin": 48.08
+    },
+    {
+      "texto": "ese",
+      "inicio": 48.16,
+      "fin": 48.24
+    },
+    {
+      "texto": "amigo",
+      "inicio": 48.32,
+      "fin": 48.56
+    },
+    {
+      "texto": "que",
+      "inicio": 48.64,
+      "fin": 48.72
+    },
+    {
+      "texto": "intenta",
+      "inicio": 48.8,
+      "fin": 49.04
+    },
+    {
+      "texto": "usar",
+      "inicio": 49.12,
+      "fin": 49.28
+    },
+    {
+      "texto": "el",
+      "inicio": 49.36,
+      "fin": 49.44
+    },
+    {
+      "texto": "móvil",
+      "inicio": 49.52,
+      "fin": 49.68
+    },
+    {
+      "texto": "con",
+      "inicio": 49.76,
+      "fin": 49.84
+    },
+    {
+      "texto": "guantes.",
+      "inicio": 49.92,
+      "fin": 50.64
+    }
+  ]
+}

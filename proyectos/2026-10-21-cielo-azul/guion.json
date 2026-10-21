@@ -1,0 +1,19 @@
+{
+  "titulo": "Por qué el cielo es azul",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué el cielo es azul?", "clave": "azul", "hook": true },
+    { "texto": "La luz del Sol es blanca y el aire no tiene color.", "clave": "blanca", "hook": true },
+    { "texto": "Entonces, ¿de dónde sale ese azul?", "clave": "sale", "hook": true },
+    { "texto": "La luz blanca es una mezcla de todos los colores, como en un arcoíris.", "clave": "mezcla" },
+    { "texto": "El aire está hecho de moléculas diminutas, y la luz va chocando con ellas.", "clave": "chocando" },
+    { "texto": "El rojo casi pasa de largo, pero el azul rebota en todas direcciones.", "clave": "rebota" },
+    { "texto": "Por eso, mires donde mires, te llega luz azul desde todo el cielo.", "clave": "azul" },
+    { "texto": "¿Y el violeta? Rebota todavía más, pero el Sol da menos y tus ojos lo ven peor.", "clave": "violeta" },
+    { "texto": "Y al atardecer, la luz tiene que cruzar muchísimo más aire para llegar a ti.", "clave": "atardecer" },
+    { "texto": "Por el camino, el azul se va rebotando hacia otro lado, y solo te llegan el naranja y el rojo.", "clave": "rojo" },
+    { "texto": "Así que el cielo no tiene color propio: es lo que el aire le hace a la luz del Sol.", "clave": "aire" },
+    { "texto": "Envíaselo a ese amigo que cree que el cielo es azul porque refleja el mar.", "clave": "mar" }
+  ]
+}

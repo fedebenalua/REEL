@@ -1,0 +1,17 @@
+{
+  "titulo": "El mando que ganó un Emmy",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el mando de la tele ganó un Emmy, como si fuera una serie?", "clave": "Emmy", "hook": true },
+    { "texto": "Antes, para cambiar de canal tenías que levantarte, ir hasta la tele y girar una rueda.", "clave": "rueda" },
+    { "texto": "En 1950 salió el primer mando, pero iba atado a la tele con un cable que cruzaba el salón.", "dicho": "En mil novecientos cincuenta salió el primer mando, pero iba atado a la tele con un cable que cruzaba el salón.", "clave": "cable" },
+    { "texto": "Y la gente tropezaba con él.", "clave": "tropezaba" },
+    { "texto": "Así que le quitaron el cable, y en 1997 sus inventores se llevaron un Emmy.", "dicho": "Así que le quitaron el cable, y en mil novecientos noventa y siete sus inventores se llevaron un Emmy.", "clave": "inventores" },
+    { "texto": "Hoy es tan normal que solo te acuerdas de él cuando desaparece.", "clave": "desaparece" },
+    { "texto": "Por eso el último invento es que el mando sea tu móvil.", "clave": "móvil" },
+    { "texto": "Con una app, el móvil le habla a la tele por el wifi de casa: enciendes, subes el volumen, cambias de canal.", "clave": "wifi" },
+    { "texto": "Yo uso una que te dejo en el link de la bio.", "clave": "bio" },
+    { "texto": "Y envíaselo a ese amigo que siempre esconde el mando.", "clave": "esconde" }
+  ]
+}

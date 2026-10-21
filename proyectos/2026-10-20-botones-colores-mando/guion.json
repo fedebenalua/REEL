@@ -1,0 +1,21 @@
+{
+  "titulo": "para qué sirven los botones de colores del mando de la tele",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Para qué sirven los botones de colores del mando de la tele?", "clave": "colores", "hook": true },
+    { "texto": "Rojo, verde, amarillo y azul: seguro que no los has tocado nunca.", "clave": "nunca", "hook": true },
+    { "texto": "Son la llave de una pantalla que llegó a tu tele antes que internet.", "clave": "internet", "hook": true },
+    { "texto": "Se llamaba teletexto: páginas de texto escondidas dentro de la señal de la tele.", "clave": "teletexto" },
+    { "texto": "Tecleabas tres números, y esperabas a que la página pasara volando por el aire.", "clave": "esperabas" },
+    { "texto": "Para no esperar, cada página traía abajo cuatro enlaces, cada uno de un color.", "clave": "enlaces" },
+    { "texto": "Pulsabas el botón de ese color, y la página salía al instante.", "clave": "instante" },
+    { "texto": "En España llegó en mil novecientos ochenta y ocho, y todavía sigue funcionando.", "clave": "ochenta" },
+    { "texto": "Hoy los botones siguen ahí, y el rojo, por ejemplo, abre contenidos extra del canal.", "clave": "rojo" },
+    { "texto": "Así que no son un adorno: son las llaves del internet de antes.", "clave": "llaves" },
+    { "texto": "Y si el mando se pierde o se queda sin pilas, hoy puedes usar la tele con tu móvil.", "clave": "móvil" },
+    { "texto": "Con una app, tu móvil se convierte en un mando: tiene el volumen, los canales y las flechas.", "clave": "app" },
+    { "texto": "Si quieres probarlo, el link de la app está en la bio.", "clave": "bio" },
+    { "texto": "Envíaselo a ese amigo que nunca ha pulsado el botón rojo.", "clave": "rojo" }
+  ]
+}

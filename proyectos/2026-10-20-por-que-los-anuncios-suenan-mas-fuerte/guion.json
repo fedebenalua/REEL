@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué los anuncios suenan más fuerte",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué cuando llegan los anuncios, la tele suena más fuerte?", "clave": "anuncios", "hook": true },
+    { "texto": "La ley dice que un anuncio no puede sonar más alto que la media del programa de antes.", "clave": "ley" },
+    { "texto": "Y casi nunca se pasa del techo: el truco está en cómo se reparte el sonido.", "clave": "techo" },
+    { "texto": "Una película tiene susurros y explosiones; un anuncio va apretado, todo el rato pegado al techo.", "clave": "apretado" },
+    { "texto": "Lo flojo se sube hasta pegarse a lo fuerte, y a tu oído le llega como un grito.", "clave": "grito" },
+    { "texto": "Hay tantas quejas que en 2025 la CNMC abrió una consulta para medirlo mejor.", "dicho": "Hay tantas quejas que en dos mil veinticinco la ce ene eme ce abrió una consulta para medirlo mejor.", "clave": "quejas" },
+    { "texto": "Mientras tanto, el mando siempre está lejos justo cuando empiezan.", "clave": "lejos" },
+    { "texto": "Yo bajo el volumen desde el móvil, con una app de mando que va por el wifi.", "clave": "móvil" },
+    { "texto": "Te dejo la que uso en el link de la bio.", "clave": "bio" },
+    { "texto": "Y envíaselo a ese amigo que da un bote en cada anuncio.", "clave": "bote" }
+  ]
+}

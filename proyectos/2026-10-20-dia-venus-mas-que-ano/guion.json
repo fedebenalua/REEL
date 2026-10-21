@@ -1,0 +1,18 @@
+{
+  "titulo": "Un día en Venus dura más que su año",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que en Venus un día dura más que un año?", "clave": "día", "hook": true },
+    { "texto": "Y que allí el Sol sale por el oeste.", "clave": "oeste", "hook": true },
+    { "texto": "Venus da la vuelta al Sol en solo doscientos veinticinco días.", "clave": "vuelta" },
+    { "texto": "Pero para girar una sola vez sobre sí mismo necesita doscientos cuarenta y tres.", "clave": "cuarenta" },
+    { "texto": "O sea, que cuando acaba su año, aún no ha acabado su primer día.", "clave": "año" },
+    { "texto": "Y gira al revés que la Tierra y que casi todos los planetas.", "clave": "revés" },
+    { "texto": "Por eso, entre un amanecer y el siguiente pasan ciento diecisiete días.", "clave": "amanecer" },
+    { "texto": "Y en un solo año de Venus, el Sol sale casi dos veces.", "clave": "dos" },
+    { "texto": "Y hace cuatrocientos sesenta y cuatro grados: más calor que en Mercurio, que está más cerca del Sol.", "clave": "grados" },
+    { "texto": "Un solo día en Venus son cinco mil ochocientas treinta y dos horas.", "clave": "horas" },
+    { "texto": "Envíaselo a ese amigo que siempre dice que le faltan horas al día.", "clave": "horas" }
+  ]
+}

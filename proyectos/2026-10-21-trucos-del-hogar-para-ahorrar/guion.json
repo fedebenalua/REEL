@@ -1,0 +1,46 @@
+{
+  "titulo": "Trucos del hogar para ahorrar",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Sabías que cinco trucos de casa te bajan la factura sin que pases frío?",
+      "clave": "factura",
+      "hook": true
+    },
+    {
+      "texto": "Y están en cosas que usas todos los días.",
+      "clave": "días",
+      "hook": true
+    },
+    {
+      "texto": "El primero, las bombillas: cambia las viejas por LED y ahorras más de un ochenta por ciento.",
+      "clave": "LED",
+      "dicho": "El primero, las bombillas: cambia las viejas por led y ahorras más de un ochenta por ciento."
+    },
+    {
+      "texto": "El segundo, el termostato: baja un grado y la calefacción gasta un siete por ciento menos.",
+      "clave": "grado"
+    },
+    {
+      "texto": "El tercero, la ducha: gasta unas cuatro veces menos agua y energía que un baño.",
+      "clave": "ducha"
+    },
+    {
+      "texto": "El cuarto, la lavadora: lava a treinta grados, que calentar el agua es lo que más gasta.",
+      "clave": "treinta"
+    },
+    {
+      "texto": "El quinto, la nevera: no dejes la puerta abierta mucho rato, que se te va un siete por ciento de lo que gasta.",
+      "clave": "puerta"
+    },
+    {
+      "texto": "No es pasar frío: es dejar de tirar la energía que no usas.",
+      "clave": "tirar"
+    },
+    {
+      "texto": "Envíaselo a ese amigo al que le asusta la factura de la luz.",
+      "clave": "Envíaselo"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "firma": "e441d813f631",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "texto": "el",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "texto": "tiene",
+      "inicio": 1.04,
+      "fin": 1.28
+    },
+    {
+      "texto": "tres",
+      "inicio": 1.36,
+      "fin": 1.6
+    },
+    {
+      "texto": "corazones",
+      "inicio": 1.68,
+      "fin": 2.32
+    },
+    {
+      "texto": "y",
+      "inicio": 2.4,
+      "fin": 2.48
+    },
+    {
+      "texto": "la",
+      "inicio": 2.52,
+      "fin": 2.56
+    },
+    {
+      "texto": "sangre",
+      "inicio": 2.64,
+      "fin": 2.92
+    },
+    {
+      "texto": "azul?",
+      "inicio": 2.96,
+      "fin": 3.84
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.88,
+      "fin": 3.92
+    },
+    {
+      "texto": "uno",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "de",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "ellos",
+      "inicio": 4.28,
+      "fin": 4.56
+    },
+    {
+      "texto": "se",
+      "inicio": 4.68,
+      "fin": 4.8
+    },
+    {
+      "texto": "para",
+      "inicio": 4.92,
+      "fin": 5.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.12,
+      "fin": 5.36
+    },
+    {
+      "texto": "vez",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "texto": "que",
+      "inicio": 5.6,
+      "fin": 5.68
+    },
+    {
+      "texto": "nada.",
+      "inicio": 5.72,
+      "fin": 6.32
+    },
+    {
+      "texto": "Dos",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "texto": "corazones",
+      "inicio": 6.88,
+      "fin": 7.36
+    },
+    {
+      "texto": "empujan",
+      "inicio": 7.48,
+      "fin": 7.76
+    },
+    {
+      "texto": "la",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "texto": "sangre",
+      "inicio": 7.96,
+      "fin": 8.24
+    },
+    {
+      "texto": "por",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "texto": "las",
+      "inicio": 8.48,
+      "fin": 8.56
+    },
+    {
+      "texto": "branquias,",
+      "inicio": 8.6,
+      "fin": 9.12
+    },
+    {
+      "texto": "para",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "que",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "texto": "coja",
+      "inicio": 9.52,
+      "fin": 9.68
+    },
+    {
+      "texto": "oxígeno.",
+      "inicio": 9.76,
+      "fin": 10.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "texto": "el",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "texto": "tercero",
+      "inicio": 10.88,
+      "fin": 11.28
+    },
+    {
+      "texto": "la",
+      "inicio": 11.36,
+      "fin": 11.44
+    },
+    {
+      "texto": "reparte",
+      "inicio": 11.52,
+      "fin": 11.92
+    },
+    {
+      "texto": "por",
+      "inicio": 12,
+      "fin": 12.08
+    },
+    {
+      "texto": "el",
+      "inicio": 12.12,
+      "fin": 12.16
+    },
+    {
+      "texto": "cuerpo,",
+      "inicio": 12.24,
+      "fin": 12.72
+    },
+    {
+      "texto": "hasta",
+      "inicio": 12.76,
+      "fin": 12.96
+    },
+    {
+      "texto": "la",
+      "inicio": 13,
+      "fin": 13.04
+    },
+    {
+      "texto": "punta",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "texto": "de",
+      "inicio": 13.56,
+      "fin": 13.6
+    },
+    {
+      "texto": "sus",
+      "inicio": 13.68,
+      "fin": 13.84
+    },
+    {
+      "texto": "ocho",
+      "inicio": 13.88,
+      "fin": 14
+    },
+    {
+      "texto": "brazos.",
+      "inicio": 14.08,
+      "fin": 15.12
+    },
+    {
+      "texto": "Nuestra",
+      "inicio": 15.16,
+      "fin": 15.44
+    },
+    {
+      "texto": "sangre",
+      "inicio": 15.48,
+      "fin": 15.76
+    },
+    {
+      "texto": "es",
+      "inicio": 15.84,
+      "fin": 16
+    },
+    {
+      "texto": "roja",
+      "inicio": 16.08,
+      "fin": 16.32
+    },
+    {
+      "texto": "por",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "texto": "el",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "texto": "hierro;",
+      "inicio": 16.6,
+      "fin": 17.28
+    },
+    {
+      "texto": "la",
+      "inicio": 17.36,
+      "fin": 17.44
+    },
+    {
+      "texto": "suya",
+      "inicio": 17.52,
+      "fin": 17.84
+    },
+    {
+      "texto": "lleva",
+      "inicio": 17.88,
+      "fin": 18.08
+    },
+    {
+      "texto": "cobre,",
+      "inicio": 18.16,
+      "fin": 18.64
+    },
+    {
+      "texto": "como",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "los",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "texto": "cables",
+      "inicio": 19,
+      "fin": 19.28
+    },
+    {
+      "texto": "de",
+      "inicio": 19.32,
+      "fin": 19.36
+    },
+    {
+      "texto": "casa.",
+      "inicio": 19.44,
+      "fin": 20.24
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 20.28,
+      "fin": 20.48
+    },
+    {
+      "texto": "ese",
+      "inicio": 20.6,
+      "fin": 20.72
+    },
+    {
+      "texto": "cobre",
+      "inicio": 20.76,
+      "fin": 21.04
+    },
+    {
+      "texto": "coge",
+      "inicio": 21.08,
+      "fin": 21.28
+    },
+    {
+      "texto": "oxígeno,",
+      "inicio": 21.4,
+      "fin": 22
+    },
+    {
+      "texto": "se",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 22.24,
+      "fin": 22.48
+    },
+    {
+      "texto": "azul.",
+      "inicio": 22.56,
+      "fin": 23.28
+    },
+    {
+      "texto": "Pero",
+      "inicio": 23.333,
+      "fin": 23.44
+    },
+    {
+      "texto": "lleva",
+      "inicio": 23.493,
+      "fin": 23.76
+    },
+    {
+      "texto": "mucho",
+      "inicio": 23.8,
+      "fin": 24
+    },
+    {
+      "texto": "menos",
+      "inicio": 24.08,
+      "fin": 24.24
+    },
+    {
+      "texto": "oxígeno,",
+      "inicio": 24.32,
+      "fin": 25.04
+    },
+    {
+      "texto": "así",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "que",
+      "inicio": 25.32,
+      "fin": 25.36
+    },
+    {
+      "texto": "hay",
+      "inicio": 25.44,
+      "fin": 25.52
+    },
+    {
+      "texto": "que",
+      "inicio": 25.56,
+      "fin": 25.6
+    },
+    {
+      "texto": "empujarla",
+      "inicio": 25.68,
+      "fin": 26.24
+    },
+    {
+      "texto": "más",
+      "inicio": 26.28,
+      "fin": 26.4
+    },
+    {
+      "texto": "fuerte:",
+      "inicio": 26.48,
+      "fin": 27.12
+    },
+    {
+      "texto": "por",
+      "inicio": 27.2,
+      "fin": 27.28
+    },
+    {
+      "texto": "eso,",
+      "inicio": 27.4,
+      "fin": 27.76
+    },
+    {
+      "texto": "tres",
+      "inicio": 27.88,
+      "fin": 28
+    },
+    {
+      "texto": "corazones.",
+      "inicio": 28.08,
+      "fin": 29.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.16,
+      "fin": 29.2
+    },
+    {
+      "texto": "cuando",
+      "inicio": 29.24,
+      "fin": 29.44
+    },
+    {
+      "texto": "nada",
+      "inicio": 29.52,
+      "fin": 29.68
+    },
+    {
+      "texto": "a",
+      "inicio": 29.72,
+      "fin": 29.76
+    },
+    {
+      "texto": "chorro,",
+      "inicio": 29.84,
+      "fin": 30.24
+    },
+    {
+      "texto": "apretando",
+      "inicio": 30.32,
+      "fin": 30.72
+    },
+    {
+      "texto": "el",
+      "inicio": 30.8,
+      "fin": 30.88
+    },
+    {
+      "texto": "cuerpo,",
+      "inicio": 30.96,
+      "fin": 31.52
+    },
+    {
+      "texto": "ese",
+      "inicio": 31.64,
+      "fin": 31.76
+    },
+    {
+      "texto": "tercer",
+      "inicio": 31.84,
+      "fin": 32.08
+    },
+    {
+      "texto": "corazón",
+      "inicio": 32.16,
+      "fin": 32.56
+    },
+    {
+      "texto": "se",
+      "inicio": 32.64,
+      "fin": 32.8
+    },
+    {
+      "texto": "para.",
+      "inicio": 32.92,
+      "fin": 33.6
+    },
+    {
+      "texto": "Nadar",
+      "inicio": 33.64,
+      "fin": 33.84
+    },
+    {
+      "texto": "así",
+      "inicio": 33.92,
+      "fin": 34.16
+    },
+    {
+      "texto": "le",
+      "inicio": 34.24,
+      "fin": 34.32
+    },
+    {
+      "texto": "agota",
+      "inicio": 34.36,
+      "fin": 34.64
+    },
+    {
+      "texto": "en",
+      "inicio": 34.72,
+      "fin": 34.8
+    },
+    {
+      "texto": "pocos",
+      "inicio": 34.88,
+      "fin": 35.04
+    },
+    {
+      "texto": "metros:",
+      "inicio": 35.12,
+      "fin": 35.76
+    },
+    {
+      "texto": "por",
+      "inicio": 35.8,
+      "fin": 35.84
+    },
+    {
+      "texto": "eso",
+      "inicio": 35.92,
+      "fin": 36.16
+    },
+    {
+      "texto": "casi",
+      "inicio": 36.2,
+      "fin": 36.4
+    },
+    {
+      "texto": "siempre",
+      "inicio": 36.48,
+      "fin": 36.8
+    },
+    {
+      "texto": "va",
+      "inicio": 36.84,
+      "fin": 36.88
+    },
+    {
+      "texto": "andando.",
+      "inicio": 36.96,
+      "fin": 37.92
+    },
+    {
+      "texto": "Así",
+      "inicio": 38,
+      "fin": 38.12
+    },
+    {
+      "texto": "que",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "texto": "el",
+      "inicio": 38.28,
+      "fin": 38.32
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 38.4,
+      "fin": 38.72
+    },
+    {
+      "texto": "no",
+      "inicio": 38.8,
+      "fin": 38.96
+    },
+    {
+      "texto": "anda",
+      "inicio": 39.08,
+      "fin": 39.2
+    },
+    {
+      "texto": "porque",
+      "inicio": 39.28,
+      "fin": 39.52
+    },
+    {
+      "texto": "sea",
+      "inicio": 39.64,
+      "fin": 39.76
+    },
+    {
+      "texto": "lento:",
+      "inicio": 39.867,
+      "fin": 40.48
+    },
+    {
+      "texto": "anda",
+      "inicio": 40.64,
+      "fin": 40.8
+    },
+    {
+      "texto": "para",
+      "inicio": 40.88,
+      "fin": 41.04
+    },
+    {
+      "texto": "que",
+      "inicio": 41.12,
+      "fin": 41.2
+    },
+    {
+      "texto": "no",
+      "inicio": 41.28,
+      "fin": 41.36
+    },
+    {
+      "texto": "se",
+      "inicio": 41.44,
+      "fin": 41.52
+    },
+    {
+      "texto": "le",
+      "inicio": 41.6,
+      "fin": 41.68
+    },
+    {
+      "texto": "pare",
+      "inicio": 41.76,
+      "fin": 41.84
+    },
+    {
+      "texto": "el",
+      "inicio": 41.92,
+      "fin": 42
+    },
+    {
+      "texto": "corazón.",
+      "inicio": 42.08,
+      "fin": 43.12
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 43.24,
+      "fin": 43.68
+    },
+    {
+      "texto": "a",
+      "inicio": 43.72,
+      "fin": 43.76
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "texto": "amigo",
+      "inicio": 44,
+      "fin": 44.16
+    },
+    {
+      "texto": "que",
+      "inicio": 44.24,
+      "fin": 44.32
+    },
+    {
+      "texto": "pide",
+      "inicio": 44.4,
+      "fin": 44.56
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 44.64,
+      "fin": 44.88
+    },
+    {
+      "texto": "a",
+      "inicio": 44.92,
+      "fin": 44.96
+    },
+    {
+      "texto": "la",
+      "inicio": 45,
+      "fin": 45.04
+    },
+    {
+      "texto": "gallega",
+      "inicio": 45.12,
+      "fin": 45.44
+    },
+    {
+      "texto": "sin",
+      "inicio": 45.56,
+      "fin": 45.68
+    },
+    {
+      "texto": "saber",
+      "inicio": 45.72,
+      "fin": 45.92
+    },
+    {
+      "texto": "que",
+      "inicio": 46,
+      "fin": 46.08
+    },
+    {
+      "texto": "tiene",
+      "inicio": 46.12,
+      "fin": 46.32
+    },
+    {
+      "texto": "tres",
+      "inicio": 46.4,
+      "fin": 46.56
+    },
+    {
+      "texto": "corazones.",
+      "inicio": 46.64,
+      "fin": 47.52
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "Cocinar con tapa",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que cocinar sin tapa te sube la factura de la luz y del gas?", "clave": "factura", "hook": true },
+    { "texto": "Aunque subas el fuego al máximo, el agua nunca pasa de cien grados.", "clave": "cien", "hook": true },
+    { "texto": "Todo lo que le echas de más se escapa convertido en vapor.", "clave": "vapor" },
+    { "texto": "Y cada gota que se va así se lleva más de cinco veces el calor que costó calentarla.", "clave": "cinco" },
+    { "texto": "Ahora ponle la tapa.", "clave": "tapa" },
+    { "texto": "El vapor choca contra ella, vuelve a ser agua y cae dentro, con todo su calor.", "clave": "dentro" },
+    { "texto": "Así que, en cuanto hierva, bajas el fuego y sigue hirviendo igual.", "clave": "bajas" },
+    { "texto": "Resultado: hasta un 25 % menos de gas o luz cada vez que cocinas.", "clave": "25", "dicho": "Resultado: hasta un veinticinco por ciento menos de gas o luz cada vez que cocinas." },
+    { "texto": "Así que el secreto no es más fuego: es una tapa.", "clave": "tapa" },
+    { "texto": "Sígueme para más consejos como este.", "clave": "Sígueme" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "titulo": "Tu tele nunca está apagada del todo",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que tu tele nunca está apagada del todo?", "clave": "nunca", "hook": true },
+    { "texto": "Aunque la apagues con el mando, hay algo dentro que sigue despierto.", "clave": "despierto", "hook": true },
+    { "texto": "Su ojito: ese que no para de mirar por si le mandas una señal.", "clave": "ojito", "hook": true },
+    { "texto": "Cuando la apagas, el resto de la tele se duerme: la pantalla, los altavoces, casi todos los circuitos.", "clave": "duerme" },
+    { "texto": "Pero el ojito sigue recibiendo electricidad del enchufe, día y noche.", "clave": "enchufe" },
+    { "texto": "Pulsas el botón, le llega la luz de tu mando, y el ojito va despertando al resto, pieza a pieza.", "clave": "despertando" },
+    { "texto": "Eso gasta muy poco: menos de un vatio, y en Europa la ley no deja pasar de medio vatio.", "clave": "vatio" },
+    { "texto": "Pero no es solo la tele: el microondas, el router, los cargadores, todos esperando con su lucecita.", "clave": "lucecita" },
+    { "texto": "Entre todos, es como tener una bombilla de sesenta vatios encendida día y noche en cada casa.", "clave": "bombilla" },
+    { "texto": "Así que el mando no solo cambia de canal: también es el motivo por el que tu tele no se apaga del todo.", "clave": "motivo" },
+    { "texto": "Y a día de hoy también puedes usar la tele con tu móvil.", "clave": "móvil" },
+    { "texto": "Con una app, tu móvil se convierte en un mando: tiene el volumen, los canales y las flechas, igual que el de siempre.", "clave": "app" },
+    { "texto": "Y ya no tienes que cambiar las pilas ni buscarlo entre los cojines, porque el móvil siempre lo llevas encima.", "clave": "pilas" },
+    { "texto": "Si quieres probarlo, el link de la app está en la bio.", "clave": "bio" },
+    { "texto": "Envíaselo a ese amigo que siempre se deja la tele encendida.", "clave": "encendida" }
+  ]
+}

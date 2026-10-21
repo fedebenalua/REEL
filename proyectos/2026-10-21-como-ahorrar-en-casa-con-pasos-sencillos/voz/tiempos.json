@@ -1,0 +1,1072 @@
+{
+  "firma": "e694d21dfeb2",
+  "duracion": 46.56,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que tu lavadora no gasta la luz en lavar, sino en calentar el agua?",
+      "clave": "calentar",
+      "inicio": 0,
+      "fin": 4.48
+    },
+    {
+      "n": 2,
+      "texto": "Y no es lo único que pagas sin darte cuenta. Cuatro pasos para gastar menos en casa.",
+      "clave": "cuatro",
+      "inicio": 4.56,
+      "fin": 9.84
+    },
+    {
+      "n": 3,
+      "texto": "Uno: lava en frío. De cada diez euros de luz de tu lavadora, ocho se van en calentar el agua.",
+      "clave": "frío",
+      "inicio": 9.96,
+      "fin": 16.24
+    },
+    {
+      "n": 4,
+      "texto": "Dos: baja un grado la calefacción. Cada grado de más es un siete por ciento más de gasto.",
+      "clave": "grado",
+      "inicio": 16.4,
+      "fin": 22.56
+    },
+    {
+      "n": 5,
+      "texto": "Tres: enchufa la tele y todo lo de alrededor a un ladrón con interruptor, y apágalo por la noche. Más de cuarenta euros al año.",
+      "clave": "ladrón",
+      "inicio": 22.667,
+      "fin": 30.8
+    },
+    {
+      "n": 6,
+      "texto": "Cuatro: usa la olla a presión. Mantener el agua hirviendo le cuesta casi seis veces menos que a una olla abierta.",
+      "clave": "presión",
+      "inicio": 30.84,
+      "fin": 37.76
+    },
+    {
+      "n": 7,
+      "texto": "No hace falta pasar frío ni cambiar de casa: solo dejar de pagar lo que no usas.",
+      "clave": "usas",
+      "inicio": 37.8,
+      "fin": 42.56
+    },
+    {
+      "n": 8,
+      "texto": "Envíaselo a ese amigo que pone la lavadora a noventa grados.",
+      "clave": "noventa",
+      "inicio": 42.64,
+      "fin": 45.76
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.56,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lavadora",
+      "inicio": 0.72,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 1.28,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 1.44,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.8,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 1.92,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 2.12,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lavar,",
+      "inicio": 2.2,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sino",
+      "inicio": 2.76,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 3.04,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "calentar",
+      "inicio": 3.2,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 3.68,
+      "fin": 3.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "agua?",
+      "inicio": 3.88,
+      "fin": 4.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 4.56,
+      "fin": 4.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 4.72,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 4.84,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 4.96,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "único",
+      "inicio": 5.12,
+      "fin": 5.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 5.44,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 5.6,
+      "fin": 5.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 5.84,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "darte",
+      "inicio": 5.96,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 6.24,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Cuatro",
+      "inicio": 7.16,
+      "fin": 7.44,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "pasos",
+      "inicio": 7.52,
+      "fin": 7.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 7.92,
+      "fin": 8.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gastar",
+      "inicio": 8.16,
+      "fin": 8.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 8.56,
+      "fin": 8.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 8.88,
+      "fin": 8.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "casa.",
+      "inicio": 9.04,
+      "fin": 9.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Uno:",
+      "inicio": 9.96,
+      "fin": 10.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lava",
+      "inicio": 10.56,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 10.88,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "frío.",
+      "inicio": 11.04,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "De",
+      "inicio": 11.92,
+      "fin": 12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 12.053,
+      "fin": 12.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 12.24,
+      "fin": 12.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 12.52,
+      "fin": 12.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.84,
+      "fin": 12.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 12.96,
+      "fin": 13.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.12,
+      "fin": 13.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 13.2,
+      "fin": 13.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lavadora,",
+      "inicio": 13.36,
+      "fin": 14,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 14.08,
+      "fin": 14.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 14.48,
+      "fin": 14.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "van",
+      "inicio": 14.64,
+      "fin": 14.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.8,
+      "fin": 14.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "calentar",
+      "inicio": 14.92,
+      "fin": 15.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 15.32,
+      "fin": 15.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "agua.",
+      "inicio": 15.44,
+      "fin": 16.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Dos:",
+      "inicio": 16.4,
+      "fin": 17.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 17.08,
+      "fin": 17.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 17.4,
+      "fin": 17.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grado",
+      "inicio": 17.52,
+      "fin": 17.76,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 17.8,
+      "fin": 17.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "calefacción.",
+      "inicio": 17.92,
+      "fin": 18.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Cada",
+      "inicio": 18.96,
+      "fin": 19.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grado",
+      "inicio": 19.28,
+      "fin": 19.44,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 19.52,
+      "fin": 19.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 19.64,
+      "fin": 19.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 20,
+      "fin": 20.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 20.16,
+      "fin": 20.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 20.4,
+      "fin": 20.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 20.72,
+      "fin": 20.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 20.92,
+      "fin": 21.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 21.36,
+      "fin": 21.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 21.56,
+      "fin": 21.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gasto.",
+      "inicio": 21.68,
+      "fin": 22.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Tres:",
+      "inicio": 22.667,
+      "fin": 23.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "enchufa",
+      "inicio": 23.48,
+      "fin": 23.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 23.8,
+      "fin": 23.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tele",
+      "inicio": 23.92,
+      "fin": 24.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 24.2,
+      "fin": 24.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 24.4,
+      "fin": 24.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 24.68,
+      "fin": 24.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.76,
+      "fin": 24.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "alrededor",
+      "inicio": 24.88,
+      "fin": 25.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 25.6,
+      "fin": 25.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ladrón",
+      "inicio": 25.76,
+      "fin": 26,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "con",
+      "inicio": 26.08,
+      "fin": 26.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "interruptor,",
+      "inicio": 26.4,
+      "fin": 27.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 27.08,
+      "fin": 27.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "apágalo",
+      "inicio": 27.2,
+      "fin": 27.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 27.68,
+      "fin": 27.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 27.8,
+      "fin": 27.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "noche.",
+      "inicio": 27.88,
+      "fin": 28.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Más",
+      "inicio": 28.6,
+      "fin": 28.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 28.8,
+      "fin": 28.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 29,
+      "fin": 29.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "euros",
+      "inicio": 29.6,
+      "fin": 29.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 29.92,
+      "fin": 30,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "año.",
+      "inicio": 30.08,
+      "fin": 30.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Cuatro:",
+      "inicio": 30.84,
+      "fin": 31.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "usa",
+      "inicio": 31.72,
+      "fin": 31.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 31.92,
+      "fin": 32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "olla",
+      "inicio": 32.12,
+      "fin": 32.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 32.28,
+      "fin": 32.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "presión.",
+      "inicio": 32.56,
+      "fin": 33.2,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Mantener",
+      "inicio": 33.28,
+      "fin": 33.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 33.68,
+      "fin": 33.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "agua",
+      "inicio": 33.84,
+      "fin": 33.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hirviendo",
+      "inicio": 34,
+      "fin": 34.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 34.44,
+      "fin": 34.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 34.56,
+      "fin": 34.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 34.88,
+      "fin": 35.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 35.28,
+      "fin": 35.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 35.6,
+      "fin": 35.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 36,
+      "fin": 36.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36.32,
+      "fin": 36.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 36.427,
+      "fin": 36.453,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 36.48,
+      "fin": 36.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "olla",
+      "inicio": 36.76,
+      "fin": 36.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "abierta.",
+      "inicio": 36.92,
+      "fin": 37.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 37.8,
+      "fin": 37.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 37.893,
+      "fin": 38,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "falta",
+      "inicio": 38.08,
+      "fin": 38.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pasar",
+      "inicio": 38.32,
+      "fin": 38.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "frío",
+      "inicio": 38.64,
+      "fin": 38.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 39,
+      "fin": 39.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cambiar",
+      "inicio": 39.12,
+      "fin": 39.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 39.48,
+      "fin": 39.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "casa:",
+      "inicio": 39.6,
+      "fin": 40.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 40.28,
+      "fin": 40.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dejar",
+      "inicio": 40.56,
+      "fin": 40.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 40.96,
+      "fin": 41.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pagar",
+      "inicio": 41.12,
+      "fin": 41.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.4,
+      "fin": 41.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 41.52,
+      "fin": 41.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 41.64,
+      "fin": 41.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "usas.",
+      "inicio": 41.76,
+      "fin": 42.56,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 42.64,
+      "fin": 43.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 43.147,
+      "fin": 43.173,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.2,
+      "fin": 43.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.44,
+      "fin": 43.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.76,
+      "fin": 43.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 43.92,
+      "fin": 44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 44.08,
+      "fin": 44.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lavadora",
+      "inicio": 44.24,
+      "fin": 44.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 44.6,
+      "fin": 44.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "noventa",
+      "inicio": 44.72,
+      "fin": 45.04,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "grados.",
+      "inicio": 45.12,
+      "fin": 45.76,
+      "frase": 8,
+      "clave": false
+    }
+  ]
+}

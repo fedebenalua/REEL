@@ -1,0 +1,50 @@
+{
+  "titulo": "El morse de luz del mando",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Cómo sabe la tele qué botón pulsas, si entre los dos no hay ningún cable?",
+      "clave": "cable",
+      "hook": true
+    },
+    {
+      "texto": "Porque el mando le habla con una luz que tus ojos no pueden ver.",
+      "clave": "luz",
+      "hook": true
+    },
+    {
+      "texto": "Al pulsar un botón, la goma baja y toca dos caminos de cobre: se cierra el circuito.",
+      "clave": "circuito"
+    },
+    {
+      "texto": "Un chip lo nota y convierte ese botón en un número que no tiene ningún otro.",
+      "clave": "número"
+    },
+    {
+      "texto": "Y la lucecita de la punta lo manda parpadeando: 38.000 veces por segundo.",
+      "clave": "parpadeando",
+      "dicho": "Y la lucecita de la punta lo manda parpadeando: treinta y ocho mil veces por segundo."
+    },
+    {
+      "texto": "Con pausas cortas y largas: ceros y unos, como un morse de luz.",
+      "clave": "morse"
+    },
+    {
+      "texto": "Esa luz es infrarroja: tus ojos no la ven, pero la cámara del móvil sí.",
+      "clave": "infrarroja"
+    },
+    {
+      "texto": "En la tele, un ojito la recibe, lee el número y hace lo que dice: sube el volumen.",
+      "clave": "volumen"
+    },
+    {
+      "texto": "Así que cada vez que cambias de canal, le estás mandando un mensaje en morse.",
+      "clave": "mensaje"
+    },
+    {
+      "texto": "Y con tu móvil también puedes manejar la tele: descarga la app que te dejo en la bio.",
+      "clave": "app"
+    }
+  ]
+}

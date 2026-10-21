@@ -1,0 +1,639 @@
+{
+  "firma": "b4af1b04c267",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "texto": "el",
+      "inicio": 0.64,
+      "fin": 0.72
+    },
+    {
+      "texto": "primer",
+      "inicio": 0.88,
+      "fin": 1.04
+    },
+    {
+      "texto": "móvil",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "texto": "pesaba",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "texto": "más",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "texto": "de",
+      "inicio": 2.16,
+      "fin": 2.24
+    },
+    {
+      "texto": "un",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "kilo?",
+      "inicio": 2.4,
+      "fin": 3.2
+    },
+    {
+      "texto": "Medía",
+      "inicio": 3.28,
+      "fin": 3.52
+    },
+    {
+      "texto": "veinticinco",
+      "inicio": 3.56,
+      "fin": 4.16
+    },
+    {
+      "texto": "centímetros,",
+      "inicio": 4.24,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "texto": "por",
+      "inicio": 5.32,
+      "fin": 5.36
+    },
+    {
+      "texto": "eso",
+      "inicio": 5.44,
+      "fin": 5.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 5.72,
+      "fin": 5.76
+    },
+    {
+      "texto": "llamaban",
+      "inicio": 5.84,
+      "fin": 6.24
+    },
+    {
+      "texto": "el",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "texto": "ladrillo.",
+      "inicio": 6.56,
+      "fin": 7.52
+    },
+    {
+      "texto": "Tardaba",
+      "inicio": 7.6,
+      "fin": 8
+    },
+    {
+      "texto": "diez",
+      "inicio": 8.12,
+      "fin": 8.32
+    },
+    {
+      "texto": "horas",
+      "inicio": 8.4,
+      "fin": 8.64
+    },
+    {
+      "texto": "en",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "cargarse,",
+      "inicio": 8.8,
+      "fin": 9.44
+    },
+    {
+      "texto": "para",
+      "inicio": 9.52,
+      "fin": 9.6
+    },
+    {
+      "texto": "solo",
+      "inicio": 9.68,
+      "fin": 9.84
+    },
+    {
+      "texto": "media",
+      "inicio": 10,
+      "fin": 10.32
+    },
+    {
+      "texto": "hora",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "texto": "de",
+      "inicio": 10.56,
+      "fin": 10.64
+    },
+    {
+      "texto": "llamada.",
+      "inicio": 10.68,
+      "fin": 11.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.48,
+      "fin": 11.52
+    },
+    {
+      "texto": "costaba",
+      "inicio": 11.6,
+      "fin": 12
+    },
+    {
+      "texto": "casi",
+      "inicio": 12.08,
+      "fin": 12.24
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 12.4,
+      "fin": 12.64
+    },
+    {
+      "texto": "mil",
+      "inicio": 12.8,
+      "fin": 12.96
+    },
+    {
+      "texto": "dólares:",
+      "inicio": 13.04,
+      "fin": 13.92
+    },
+    {
+      "texto": "siete",
+      "inicio": 13.96,
+      "fin": 14.24
+    },
+    {
+      "texto": "meses",
+      "inicio": 14.32,
+      "fin": 14.56
+    },
+    {
+      "texto": "de",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "sueldo",
+      "inicio": 14.72,
+      "fin": 15.04
+    },
+    {
+      "texto": "mínimo",
+      "inicio": 15.08,
+      "fin": 15.36
+    },
+    {
+      "texto": "en",
+      "inicio": 15.4,
+      "fin": 15.44
+    },
+    {
+      "texto": "Estados",
+      "inicio": 15.56,
+      "fin": 15.84
+    },
+    {
+      "texto": "Unidos.",
+      "inicio": 15.92,
+      "fin": 16.88
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 16.92,
+      "fin": 17.2
+    },
+    {
+      "texto": "ese",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "ladrillo",
+      "inicio": 17.52,
+      "fin": 17.84
+    },
+    {
+      "texto": "cabe",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "en",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "texto": "el",
+      "inicio": 18.28,
+      "fin": 18.32
+    },
+    {
+      "texto": "bolsillo",
+      "inicio": 18.36,
+      "fin": 18.72
+    },
+    {
+      "texto": "del",
+      "inicio": 18.8,
+      "fin": 18.88
+    },
+    {
+      "texto": "pantalón.",
+      "inicio": 18.96,
+      "fin": 19.76
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.787,
+      "fin": 19.813
+    },
+    {
+      "texto": "en",
+      "inicio": 19.84,
+      "fin": 19.92
+    },
+    {
+      "texto": "vez",
+      "inicio": 20,
+      "fin": 20.08
+    },
+    {
+      "texto": "de",
+      "inicio": 20.12,
+      "fin": 20.16
+    },
+    {
+      "texto": "una",
+      "inicio": 20.24,
+      "fin": 20.4
+    },
+    {
+      "texto": "cosa,",
+      "inicio": 20.56,
+      "fin": 20.88
+    },
+    {
+      "texto": "hace",
+      "inicio": 20.92,
+      "fin": 21.12
+    },
+    {
+      "texto": "cuatro:",
+      "inicio": 21.2,
+      "fin": 22
+    },
+    {
+      "texto": "cámara,",
+      "inicio": 22.133,
+      "fin": 22.48
+    },
+    {
+      "texto": "linterna,",
+      "inicio": 22.56,
+      "fin": 23.28
+    },
+    {
+      "texto": "despertador",
+      "inicio": 23.36,
+      "fin": 24
+    },
+    {
+      "texto": "y",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "texto": "mapa.",
+      "inicio": 24.32,
+      "fin": 25.04
+    },
+    {
+      "texto": "Y",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "ahora",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "también",
+      "inicio": 25.52,
+      "fin": 25.84
+    },
+    {
+      "texto": "hace",
+      "inicio": 25.893,
+      "fin": 26
+    },
+    {
+      "texto": "de",
+      "inicio": 26.08,
+      "fin": 26.16
+    },
+    {
+      "texto": "mando",
+      "inicio": 26.28,
+      "fin": 26.4
+    },
+    {
+      "texto": "de",
+      "inicio": 26.44,
+      "fin": 26.48
+    },
+    {
+      "texto": "la",
+      "inicio": 26.52,
+      "fin": 26.56
+    },
+    {
+      "texto": "tele.",
+      "inicio": 26.64,
+      "fin": 27.36
+    },
+    {
+      "texto": "Con",
+      "inicio": 27.4,
+      "fin": 27.44
+    },
+    {
+      "texto": "una",
+      "inicio": 27.52,
+      "fin": 27.68
+    },
+    {
+      "texto": "app,",
+      "inicio": 27.8,
+      "fin": 28.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 28.12,
+      "fin": 28.16
+    },
+    {
+      "texto": "móvil",
+      "inicio": 28.24,
+      "fin": 28.48
+    },
+    {
+      "texto": "tiene",
+      "inicio": 28.52,
+      "fin": 28.72
+    },
+    {
+      "texto": "el",
+      "inicio": 28.76,
+      "fin": 28.8
+    },
+    {
+      "texto": "volumen,",
+      "inicio": 28.84,
+      "fin": 29.44
+    },
+    {
+      "texto": "los",
+      "inicio": 29.52,
+      "fin": 29.6
+    },
+    {
+      "texto": "canales",
+      "inicio": 29.68,
+      "fin": 30.16
+    },
+    {
+      "texto": "y",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "texto": "las",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "texto": "flechas.",
+      "inicio": 30.56,
+      "fin": 31.28
+    },
+    {
+      "texto": "Y",
+      "inicio": 31.32,
+      "fin": 31.36
+    },
+    {
+      "texto": "ya",
+      "inicio": 31.44,
+      "fin": 31.52
+    },
+    {
+      "texto": "no",
+      "inicio": 31.56,
+      "fin": 31.6
+    },
+    {
+      "texto": "tienes",
+      "inicio": 31.68,
+      "fin": 31.84
+    },
+    {
+      "texto": "que",
+      "inicio": 31.92,
+      "fin": 32
+    },
+    {
+      "texto": "buscar",
+      "inicio": 32.12,
+      "fin": 32.24
+    },
+    {
+      "texto": "el",
+      "inicio": 32.32,
+      "fin": 32.4
+    },
+    {
+      "texto": "mando",
+      "inicio": 32.52,
+      "fin": 32.64
+    },
+    {
+      "texto": "entre",
+      "inicio": 32.72,
+      "fin": 32.8
+    },
+    {
+      "texto": "los",
+      "inicio": 32.88,
+      "fin": 32.96
+    },
+    {
+      "texto": "cojines.",
+      "inicio": 33.04,
+      "fin": 34
+    },
+    {
+      "texto": "Si",
+      "inicio": 34.04,
+      "fin": 34.08
+    },
+    {
+      "texto": "quieres",
+      "inicio": 34.16,
+      "fin": 34.4
+    },
+    {
+      "texto": "probarlo,",
+      "inicio": 34.44,
+      "fin": 34.96
+    },
+    {
+      "texto": "el",
+      "inicio": 35.04,
+      "fin": 35.12
+    },
+    {
+      "texto": "link",
+      "inicio": 35.2,
+      "fin": 35.36
+    },
+    {
+      "texto": "de",
+      "inicio": 35.4,
+      "fin": 35.44
+    },
+    {
+      "texto": "la",
+      "inicio": 35.52,
+      "fin": 35.56
+    },
+    {
+      "texto": "app",
+      "inicio": 35.6,
+      "fin": 35.76
+    },
+    {
+      "texto": "está",
+      "inicio": 35.84,
+      "fin": 36
+    },
+    {
+      "texto": "en",
+      "inicio": 36.04,
+      "fin": 36.08
+    },
+    {
+      "texto": "la",
+      "inicio": 36.16,
+      "fin": 36.24
+    },
+    {
+      "texto": "bio.",
+      "inicio": 36.36,
+      "fin": 36.88
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 37,
+      "fin": 37.44
+    },
+    {
+      "texto": "a",
+      "inicio": 37.48,
+      "fin": 37.52
+    },
+    {
+      "texto": "ese",
+      "inicio": 37.64,
+      "fin": 37.76
+    },
+    {
+      "texto": "amigo",
+      "inicio": 37.84,
+      "fin": 38.08
+    },
+    {
+      "texto": "que",
+      "inicio": 38.16,
+      "fin": 38.24
+    },
+    {
+      "texto": "aún",
+      "inicio": 38.28,
+      "fin": 38.48
+    },
+    {
+      "texto": "guarda",
+      "inicio": 38.6,
+      "fin": 38.76
+    },
+    {
+      "texto": "su",
+      "inicio": 38.8,
+      "fin": 38.96
+    },
+    {
+      "texto": "primer",
+      "inicio": 39.12,
+      "fin": 39.28
+    },
+    {
+      "texto": "móvil",
+      "inicio": 39.36,
+      "fin": 39.52
+    },
+    {
+      "texto": "en",
+      "inicio": 39.6,
+      "fin": 39.68
+    },
+    {
+      "texto": "un",
+      "inicio": 39.72,
+      "fin": 39.76
+    },
+    {
+      "texto": "cajón.",
+      "inicio": 39.84,
+      "fin": 40.4
+    }
+  ]
+}

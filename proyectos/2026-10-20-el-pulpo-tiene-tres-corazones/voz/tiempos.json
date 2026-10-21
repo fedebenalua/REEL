@@ -1,0 +1,1121 @@
+{
+  "firma": "e441d813f631",
+  "duracion": 48.32,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que el pulpo tiene tres corazones y la sangre azul?",
+      "clave": "corazones",
+      "inicio": 0,
+      "fin": 3.84
+    },
+    {
+      "n": 2,
+      "texto": "Y uno de ellos se para cada vez que nada.",
+      "clave": "para",
+      "inicio": 3.88,
+      "fin": 6.32
+    },
+    {
+      "n": 3,
+      "texto": "Dos corazones empujan la sangre por las branquias, para que coja oxígeno.",
+      "clave": "branquias",
+      "inicio": 6.64,
+      "fin": 10.64
+    },
+    {
+      "n": 4,
+      "texto": "Y el tercero la reparte por el cuerpo, hasta la punta de sus ocho brazos.",
+      "clave": "brazos",
+      "inicio": 10.68,
+      "fin": 15.12
+    },
+    {
+      "n": 5,
+      "texto": "Nuestra sangre es roja por el hierro; la suya lleva cobre, como los cables de casa.",
+      "clave": "cobre",
+      "inicio": 15.16,
+      "fin": 20.24
+    },
+    {
+      "n": 6,
+      "texto": "Cuando ese cobre coge oxígeno, se vuelve azul.",
+      "clave": "azul",
+      "inicio": 20.28,
+      "fin": 23.28
+    },
+    {
+      "n": 7,
+      "texto": "Pero lleva mucho menos oxígeno, así que hay que empujarla más fuerte: por eso, tres corazones.",
+      "clave": "tres",
+      "inicio": 23.333,
+      "fin": 29.12
+    },
+    {
+      "n": 8,
+      "texto": "Y cuando nada a chorro, apretando el cuerpo, ese tercer corazón se para.",
+      "clave": "para",
+      "inicio": 29.16,
+      "fin": 33.6
+    },
+    {
+      "n": 9,
+      "texto": "Nadar así le agota en pocos metros: por eso casi siempre va andando.",
+      "clave": "andando",
+      "inicio": 33.64,
+      "fin": 37.92
+    },
+    {
+      "n": 10,
+      "texto": "Así que el pulpo no anda porque sea lento: anda para que no se le pare el corazón.",
+      "clave": "corazón",
+      "inicio": 38,
+      "fin": 43.12
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que pide pulpo a la gallega sin saber que tiene tres corazones.",
+      "clave": "gallega",
+      "inicio": 43.24,
+      "fin": 47.52
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 0.52,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 0.72,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 1.04,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 1.36,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "corazones",
+      "inicio": 1.68,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 2.4,
+      "fin": 2.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.52,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sangre",
+      "inicio": 2.64,
+      "fin": 2.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "azul?",
+      "inicio": 2.96,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.88,
+      "fin": 3.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 4,
+      "fin": 4.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.16,
+      "fin": 4.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ellos",
+      "inicio": 4.28,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 4.68,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 4.92,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "cada",
+      "inicio": 5.12,
+      "fin": 5.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 5.44,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 5.6,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 5.72,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Dos",
+      "inicio": 6.64,
+      "fin": 6.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "corazones",
+      "inicio": 6.88,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "empujan",
+      "inicio": 7.48,
+      "fin": 7.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 7.84,
+      "fin": 7.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sangre",
+      "inicio": 7.96,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 8.32,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 8.48,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "branquias,",
+      "inicio": 8.6,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "para",
+      "inicio": 9.2,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 9.36,
+      "fin": 9.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "coja",
+      "inicio": 9.52,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "oxígeno.",
+      "inicio": 9.76,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.68,
+      "fin": 10.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 10.76,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tercero",
+      "inicio": 10.88,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 11.36,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "reparte",
+      "inicio": 11.52,
+      "fin": 11.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 12,
+      "fin": 12.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 12.12,
+      "fin": 12.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo,",
+      "inicio": 12.24,
+      "fin": 12.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 12.76,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13,
+      "fin": 13.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "punta",
+      "inicio": 13.2,
+      "fin": 13.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.56,
+      "fin": 13.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 13.68,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 13.88,
+      "fin": 14,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "brazos.",
+      "inicio": 14.08,
+      "fin": 15.12,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Nuestra",
+      "inicio": 15.16,
+      "fin": 15.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "sangre",
+      "inicio": 15.48,
+      "fin": 15.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 15.84,
+      "fin": 16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "roja",
+      "inicio": 16.08,
+      "fin": 16.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 16.36,
+      "fin": 16.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 16.48,
+      "fin": 16.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hierro;",
+      "inicio": 16.6,
+      "fin": 17.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.36,
+      "fin": 17.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "suya",
+      "inicio": 17.52,
+      "fin": 17.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "lleva",
+      "inicio": 17.88,
+      "fin": 18.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cobre,",
+      "inicio": 18.16,
+      "fin": 18.64,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "como",
+      "inicio": 18.72,
+      "fin": 18.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 18.88,
+      "fin": 18.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cables",
+      "inicio": 19,
+      "fin": 19.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.32,
+      "fin": 19.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "casa.",
+      "inicio": 19.44,
+      "fin": 20.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 20.28,
+      "fin": 20.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 20.6,
+      "fin": 20.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cobre",
+      "inicio": 20.76,
+      "fin": 21.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "coge",
+      "inicio": 21.08,
+      "fin": 21.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "oxígeno,",
+      "inicio": 21.4,
+      "fin": 22,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 22.08,
+      "fin": 22.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 22.24,
+      "fin": 22.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "azul.",
+      "inicio": 22.56,
+      "fin": 23.28,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 23.333,
+      "fin": 23.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lleva",
+      "inicio": 23.493,
+      "fin": 23.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 23.8,
+      "fin": 24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 24.08,
+      "fin": 24.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "oxígeno,",
+      "inicio": 24.32,
+      "fin": 25.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "así",
+      "inicio": 25.12,
+      "fin": 25.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 25.32,
+      "fin": 25.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 25.56,
+      "fin": 25.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "empujarla",
+      "inicio": 25.68,
+      "fin": 26.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 26.28,
+      "fin": 26.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "fuerte:",
+      "inicio": 26.48,
+      "fin": 27.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 27.2,
+      "fin": 27.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "eso,",
+      "inicio": 27.4,
+      "fin": 27.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 27.88,
+      "fin": 28,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "corazones.",
+      "inicio": 28.08,
+      "fin": 29.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.16,
+      "fin": 29.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 29.24,
+      "fin": 29.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nada",
+      "inicio": 29.52,
+      "fin": 29.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 29.72,
+      "fin": 29.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "chorro,",
+      "inicio": 29.84,
+      "fin": 30.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "apretando",
+      "inicio": 30.32,
+      "fin": 30.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 30.8,
+      "fin": 30.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo,",
+      "inicio": 30.96,
+      "fin": 31.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 31.64,
+      "fin": 31.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tercer",
+      "inicio": 31.84,
+      "fin": 32.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "corazón",
+      "inicio": 32.16,
+      "fin": 32.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 32.64,
+      "fin": 32.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "para.",
+      "inicio": 32.92,
+      "fin": 33.6,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Nadar",
+      "inicio": 33.64,
+      "fin": 33.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "así",
+      "inicio": 33.92,
+      "fin": 34.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 34.24,
+      "fin": 34.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "agota",
+      "inicio": 34.36,
+      "fin": 34.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 34.72,
+      "fin": 34.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pocos",
+      "inicio": 34.88,
+      "fin": 35.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "metros:",
+      "inicio": 35.12,
+      "fin": 35.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 35.8,
+      "fin": 35.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 35.92,
+      "fin": 36.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 36.2,
+      "fin": 36.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 36.48,
+      "fin": 36.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 36.84,
+      "fin": 36.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "andando.",
+      "inicio": 36.96,
+      "fin": 37.92,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 38,
+      "fin": 38.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 38.16,
+      "fin": 38.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 38.28,
+      "fin": 38.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 38.4,
+      "fin": 38.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 38.8,
+      "fin": 38.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "anda",
+      "inicio": 39.08,
+      "fin": 39.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 39.28,
+      "fin": 39.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sea",
+      "inicio": 39.64,
+      "fin": 39.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "lento:",
+      "inicio": 39.867,
+      "fin": 40.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "anda",
+      "inicio": 40.64,
+      "fin": 40.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 40.88,
+      "fin": 41.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 41.12,
+      "fin": 41.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 41.28,
+      "fin": 41.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 41.44,
+      "fin": 41.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 41.6,
+      "fin": 41.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pare",
+      "inicio": 41.76,
+      "fin": 41.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 41.92,
+      "fin": 42,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "corazón.",
+      "inicio": 42.08,
+      "fin": 43.12,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 43.24,
+      "fin": 43.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 43.72,
+      "fin": 43.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.84,
+      "fin": 43.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 44,
+      "fin": 44.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 44.24,
+      "fin": 44.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "pide",
+      "inicio": 44.4,
+      "fin": 44.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "pulpo",
+      "inicio": 44.64,
+      "fin": 44.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 44.92,
+      "fin": 44.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 45,
+      "fin": 45.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "gallega",
+      "inicio": 45.12,
+      "fin": 45.44,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "sin",
+      "inicio": 45.56,
+      "fin": 45.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "saber",
+      "inicio": 45.72,
+      "fin": 45.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 46,
+      "fin": 46.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 46.12,
+      "fin": 46.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 46.4,
+      "fin": 46.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "corazones.",
+      "inicio": 46.64,
+      "fin": 47.52,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

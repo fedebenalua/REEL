@@ -1,0 +1,1037 @@
+{
+  "firma": "8c5e62af3177",
+  "duracion": 44.48,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que el café no te quita el sueño, solo lo esconde?",
+      "clave": "esconde",
+      "inicio": 0,
+      "fin": 3.68
+    },
+    {
+      "n": 2,
+      "texto": "Y por eso, a veces, te arruina la noche sin que lo notes.",
+      "clave": "noche",
+      "inicio": 3.76,
+      "fin": 7.16
+    },
+    {
+      "n": 3,
+      "texto": "Mientras estás despierto, tu cerebro va acumulando adenosina.",
+      "clave": "adenosina",
+      "inicio": 7.52,
+      "fin": 11.12
+    },
+    {
+      "n": 4,
+      "texto": "Cuanta más hay, más sueño tienes.",
+      "clave": "sueño",
+      "inicio": 11.16,
+      "fin": 13.52
+    },
+    {
+      "n": 5,
+      "texto": "Pues el café no la quita: tapa los huecos donde encaja, y tú no notas nada.",
+      "clave": "tapa",
+      "inicio": 13.56,
+      "fin": 18.56
+    },
+    {
+      "n": 6,
+      "texto": "Pero la adenosina sigue subiendo, esperando a que se vaya la cafeína.",
+      "clave": "subiendo",
+      "inicio": 18.613,
+      "fin": 22.56
+    },
+    {
+      "n": 7,
+      "texto": "Y se va despacio: tarda entre tres y cinco horas en perder la mitad.",
+      "clave": "mitad",
+      "inicio": 22.6,
+      "fin": 27.12
+    },
+    {
+      "n": 8,
+      "texto": "No te da energía: solo te tapa el cansancio.",
+      "clave": "energía",
+      "inicio": 27.2,
+      "fin": 30.4
+    },
+    {
+      "n": 9,
+      "texto": "Un estudio vio que una dosis alta seis horas antes de acostarte te quita más de una hora de sueño, y ni lo notas.",
+      "clave": "hora",
+      "inicio": 30.44,
+      "fin": 37.36
+    },
+    {
+      "n": 10,
+      "texto": "Así que el último café, seis horas antes de dormir.",
+      "clave": "seis",
+      "inicio": 37.44,
+      "fin": 40.8
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que se toma un café después de cenar.",
+      "clave": "Envíaselo",
+      "inicio": 40.88,
+      "fin": 43.68
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 0.56,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "café",
+      "inicio": 0.72,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 1.12,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 1.28,
+      "fin": 1.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "quita",
+      "inicio": 1.36,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.64,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sueño,",
+      "inicio": 1.76,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 2.44,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.72,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "esconde?",
+      "inicio": 2.88,
+      "fin": 3.68,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.76,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 3.88,
+      "fin": 3.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "eso,",
+      "inicio": 4,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 4.44,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "veces,",
+      "inicio": 4.56,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 5.08,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "arruina",
+      "inicio": 5.2,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 5.56,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "noche",
+      "inicio": 5.68,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "sin",
+      "inicio": 6,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 6.16,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 6.28,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "notes.",
+      "inicio": 6.4,
+      "fin": 7.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Mientras",
+      "inicio": 7.52,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "estás",
+      "inicio": 7.92,
+      "fin": 8.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "despierto,",
+      "inicio": 8.2,
+      "fin": 8.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 8.88,
+      "fin": 8.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 9.04,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "acumulando",
+      "inicio": 9.6,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "adenosina.",
+      "inicio": 10.16,
+      "fin": 11.12,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Cuanta",
+      "inicio": 11.16,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 11.48,
+      "fin": 11.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "hay,",
+      "inicio": 11.68,
+      "fin": 12.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 12.16,
+      "fin": 12.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sueño",
+      "inicio": 12.36,
+      "fin": 12.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "tienes.",
+      "inicio": 12.68,
+      "fin": 13.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Pues",
+      "inicio": 13.56,
+      "fin": 13.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 13.72,
+      "fin": 13.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "café",
+      "inicio": 13.84,
+      "fin": 14.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 14.24,
+      "fin": 14.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.4,
+      "fin": 14.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "quita:",
+      "inicio": 14.52,
+      "fin": 15.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 15.28,
+      "fin": 15.44,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "los",
+      "inicio": 15.52,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "huecos",
+      "inicio": 15.68,
+      "fin": 15.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "donde",
+      "inicio": 16,
+      "fin": 16.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "encaja,",
+      "inicio": 16.24,
+      "fin": 16.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 16.84,
+      "fin": 16.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tú",
+      "inicio": 16.96,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 17.36,
+      "fin": 17.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "notas",
+      "inicio": 17.52,
+      "fin": 17.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 17.84,
+      "fin": 18.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 18.613,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.8,
+      "fin": 18.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "adenosina",
+      "inicio": 18.88,
+      "fin": 19.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 19.52,
+      "fin": 19.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "subiendo,",
+      "inicio": 19.84,
+      "fin": 20.4,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "esperando",
+      "inicio": 20.56,
+      "fin": 20.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.92,
+      "fin": 20.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 21,
+      "fin": 21.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 21.12,
+      "fin": 21.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "vaya",
+      "inicio": 21.28,
+      "fin": 21.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 21.52,
+      "fin": 21.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cafeína.",
+      "inicio": 21.64,
+      "fin": 22.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 22.6,
+      "fin": 22.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 22.68,
+      "fin": 22.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 22.8,
+      "fin": 22.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "despacio:",
+      "inicio": 23,
+      "fin": 23.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tarda",
+      "inicio": 23.84,
+      "fin": 24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 24.16,
+      "fin": 24.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 24.4,
+      "fin": 24.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 24.8,
+      "fin": 24.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cinco",
+      "inicio": 24.96,
+      "fin": 25.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "horas",
+      "inicio": 25.36,
+      "fin": 25.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 25.68,
+      "fin": 25.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "perder",
+      "inicio": 25.84,
+      "fin": 26,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 26.08,
+      "fin": 26.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mitad.",
+      "inicio": 26.24,
+      "fin": 27.12,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "No",
+      "inicio": 27.2,
+      "fin": 27.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 27.36,
+      "fin": 27.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "da",
+      "inicio": 27.48,
+      "fin": 27.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "energía:",
+      "inicio": 27.6,
+      "fin": 28.4,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "solo",
+      "inicio": 28.48,
+      "fin": 28.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 28.72,
+      "fin": 28.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 28.88,
+      "fin": 29.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 29.16,
+      "fin": 29.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cansancio.",
+      "inicio": 29.28,
+      "fin": 30.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Un",
+      "inicio": 30.44,
+      "fin": 30.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "estudio",
+      "inicio": 30.56,
+      "fin": 30.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "vio",
+      "inicio": 31.08,
+      "fin": 31.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 31.28,
+      "fin": 31.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 31.44,
+      "fin": 31.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dosis",
+      "inicio": 31.6,
+      "fin": 31.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "alta",
+      "inicio": 32.08,
+      "fin": 32.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 32.32,
+      "fin": 32.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "horas",
+      "inicio": 32.64,
+      "fin": 32.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 33,
+      "fin": 33.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.16,
+      "fin": 33.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "acostarte",
+      "inicio": 33.28,
+      "fin": 33.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 34.08,
+      "fin": 34.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "quita",
+      "inicio": 34.24,
+      "fin": 34.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 34.56,
+      "fin": 34.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 34.8,
+      "fin": 34.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 34.96,
+      "fin": 35.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hora",
+      "inicio": 35.12,
+      "fin": 35.28,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 35.36,
+      "fin": 35.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sueño,",
+      "inicio": 35.52,
+      "fin": 36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 36.04,
+      "fin": 36.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 36.16,
+      "fin": 36.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 36.32,
+      "fin": 36.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "notas.",
+      "inicio": 36.48,
+      "fin": 37.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 37.44,
+      "fin": 37.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 37.68,
+      "fin": 37.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 37.92,
+      "fin": 38,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "último",
+      "inicio": 38.04,
+      "fin": 38.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "café,",
+      "inicio": 38.4,
+      "fin": 38.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 39.04,
+      "fin": 39.28,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "horas",
+      "inicio": 39.36,
+      "fin": 39.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 39.72,
+      "fin": 39.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 39.92,
+      "fin": 39.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "dormir.",
+      "inicio": 40,
+      "fin": 40.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 40.88,
+      "fin": 41.36,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "a",
+      "inicio": 41.4,
+      "fin": 41.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 41.52,
+      "fin": 41.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 41.68,
+      "fin": 41.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 41.96,
+      "fin": 42,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 42.08,
+      "fin": 42.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "toma",
+      "inicio": 42.2,
+      "fin": 42.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 42.44,
+      "fin": 42.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "café",
+      "inicio": 42.56,
+      "fin": 42.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "después",
+      "inicio": 42.8,
+      "fin": 43.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.12,
+      "fin": 43.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "cenar.",
+      "inicio": 43.28,
+      "fin": 43.68,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

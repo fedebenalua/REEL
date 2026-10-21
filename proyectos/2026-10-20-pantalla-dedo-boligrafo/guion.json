@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué la pantalla del móvil detecta tu dedo y no un bolígrafo",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué la pantalla de tu móvil detecta tu dedo, pero no un bolígrafo?", "clave": "dedo", "hook": true },
+    { "texto": "Y, en cambio, sí detecta una salchicha.", "clave": "salchicha", "hook": true },
+    { "texto": "Debajo del cristal hay una rejilla de cables finísimos, cruzados como una cuadrícula.", "clave": "rejilla" },
+    { "texto": "Por ellos pasa electricidad, y en cada cruce se forma un pequeño campo eléctrico.", "clave": "campo" },
+    { "texto": "Tu dedo es conductor, porque está lleno de agua con sales, y se lleva parte de ese campo.", "clave": "conductor" },
+    { "texto": "El móvil nota ese cambio en un cruce, y así sabe justo dónde estás tocando.", "clave": "cruce" },
+    { "texto": "Un bolígrafo es de plástico: no conduce, y el campo pasa como si no estuviera.", "clave": "plástico" },
+    { "texto": "Por eso no funciona con guantes, pero sí con una salchicha, que también va llena de agua con sales.", "clave": "guantes" },
+    { "texto": "Y por eso los lápices para pantallas llevan la punta de goma conductora.", "clave": "goma" },
+    { "texto": "Tu móvil no nota que lo tocas: nota que eres un conductor.", "clave": "conductor" },
+    { "texto": "Envíaselo a ese amigo que intenta usar el móvil con guantes.", "clave": "guantes" }
+  ]
+}

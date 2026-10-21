@@ -1,0 +1,18 @@
+{
+  "titulo": "Un truco sencillo para ahorrar dinero en casa: bajar un grado la calefacción",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Quieres ahorrar dinero en casa con un solo gesto?", "clave": "gesto", "hook": true },
+    { "texto": "Baja un grado el termostato de la calefacción.", "clave": "grado", "hook": true },
+    { "texto": "Uno solo: de veintidós a veintiuno.", "clave": "veintiuno" },
+    { "texto": "Parece poco, pero cada grado de más gasta un siete por ciento más.", "clave": "siete" },
+    { "texto": "Es como si, de cada catorce euros de calefacción, te ahorraras uno.", "clave": "catorce" },
+    { "texto": "Y eso pasa todo el invierno, cada día y cada noche.", "clave": "invierno" },
+    { "texto": "En una casa media de España, son unos treinta euros al año por cada grado.", "clave": "treinta" },
+    { "texto": "Y no lo notas: con un jersey fino, tienes el mismo calor que con ese grado.", "clave": "jersey" },
+    { "texto": "Y para dormir, basta con entre quince y diecisiete grados.", "clave": "dormir" },
+    { "texto": "Así de fácil: un grado menos, un siete por ciento menos de calefacción.", "clave": "fácil" },
+    { "texto": "Envíaselo a ese amigo que tiene la casa a veintiséis grados en pleno invierno.", "clave": "veintiséis" }
+  ]
+}

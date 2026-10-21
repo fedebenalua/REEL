@@ -1,0 +1,974 @@
+{
+  "firma": "73791104c8ad",
+  "duracion": 42.24,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Quieres ahorrar dinero en casa con un solo gesto?",
+      "clave": "gesto",
+      "inicio": 0,
+      "fin": 2.88
+    },
+    {
+      "n": 2,
+      "texto": "Baja un grado el termostato de la calefacción.",
+      "clave": "grado",
+      "inicio": 2.96,
+      "fin": 5.6
+    },
+    {
+      "n": 3,
+      "texto": "Uno solo: de veintidós a veintiuno.",
+      "clave": "veintiuno",
+      "inicio": 5.72,
+      "fin": 8.48
+    },
+    {
+      "n": 4,
+      "texto": "Parece poco, pero cada grado de más gasta un siete por ciento más.",
+      "clave": "siete",
+      "inicio": 8.52,
+      "fin": 12.8
+    },
+    {
+      "n": 5,
+      "texto": "Es como si, de cada catorce euros de calefacción, te ahorraras uno.",
+      "clave": "catorce",
+      "inicio": 12.88,
+      "fin": 17.04
+    },
+    {
+      "n": 6,
+      "texto": "Y eso pasa todo el invierno, cada día y cada noche.",
+      "clave": "invierno",
+      "inicio": 17.08,
+      "fin": 20.64
+    },
+    {
+      "n": 7,
+      "texto": "En una casa media de España, son unos treinta euros al año por cada grado.",
+      "clave": "treinta",
+      "inicio": 20.72,
+      "fin": 24.96
+    },
+    {
+      "n": 8,
+      "texto": "Y no lo notas: con un jersey fino, tienes el mismo calor que con ese grado.",
+      "clave": "jersey",
+      "inicio": 25,
+      "fin": 29.12
+    },
+    {
+      "n": 9,
+      "texto": "Y para dormir, basta con entre quince y diecisiete grados.",
+      "clave": "dormir",
+      "inicio": 29.16,
+      "fin": 32.8
+    },
+    {
+      "n": 10,
+      "texto": "Así de fácil: un grado menos, un siete por ciento menos de calefacción.",
+      "clave": "fácil",
+      "inicio": 32.88,
+      "fin": 37.44
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que tiene la casa a veintiséis grados en pleno invierno.",
+      "clave": "veintiséis",
+      "inicio": 37.52,
+      "fin": 41.44
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Quieres",
+      "inicio": 0,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 0.36,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "dinero",
+      "inicio": 0.72,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 1.04,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "casa",
+      "inicio": 1.2,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 1.44,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 1.68,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 1.84,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gesto?",
+      "inicio": 2.08,
+      "fin": 2.88,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Baja",
+      "inicio": 2.96,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 3.36,
+      "fin": 3.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "grado",
+      "inicio": 3.52,
+      "fin": 3.68,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 3.76,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "termostato",
+      "inicio": 3.92,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.44,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 4.52,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "calefacción.",
+      "inicio": 4.64,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Uno",
+      "inicio": 5.72,
+      "fin": 5.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "solo:",
+      "inicio": 5.88,
+      "fin": 6.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 6.52,
+      "fin": 6.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "veintidós",
+      "inicio": 6.64,
+      "fin": 7.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 7.36,
+      "fin": 7.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "veintiuno.",
+      "inicio": 7.48,
+      "fin": 8.48,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Parece",
+      "inicio": 8.52,
+      "fin": 8.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "poco,",
+      "inicio": 8.88,
+      "fin": 9.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 9.44,
+      "fin": 9.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.68,
+      "fin": 9.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grado",
+      "inicio": 10,
+      "fin": 10.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 10.24,
+      "fin": 10.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 10.36,
+      "fin": 10.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 10.64,
+      "fin": 10.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 11.08,
+      "fin": 11.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 11.24,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "por",
+      "inicio": 11.6,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 11.84,
+      "fin": 12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 12.08,
+      "fin": 12.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Es",
+      "inicio": 12.88,
+      "fin": 12.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 13.04,
+      "fin": 13.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "si,",
+      "inicio": 13.2,
+      "fin": 13.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.6,
+      "fin": 13.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.72,
+      "fin": 13.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "catorce",
+      "inicio": 13.96,
+      "fin": 14.4,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "euros",
+      "inicio": 14.48,
+      "fin": 14.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.76,
+      "fin": 14.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "calefacción,",
+      "inicio": 14.88,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 15.64,
+      "fin": 15.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ahorraras",
+      "inicio": 15.72,
+      "fin": 16.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "uno.",
+      "inicio": 16.44,
+      "fin": 17.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.08,
+      "fin": 17.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 17.24,
+      "fin": 17.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pasa",
+      "inicio": 17.467,
+      "fin": 17.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 17.76,
+      "fin": 17.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 18,
+      "fin": 18.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "invierno,",
+      "inicio": 18.16,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "cada",
+      "inicio": 18.8,
+      "fin": 18.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "día",
+      "inicio": 19.04,
+      "fin": 19.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 19.44,
+      "fin": 19.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.6,
+      "fin": 19.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "noche.",
+      "inicio": 19.84,
+      "fin": 20.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 20.72,
+      "fin": 20.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 20.84,
+      "fin": 20.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "casa",
+      "inicio": 20.96,
+      "fin": 21.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "media",
+      "inicio": 21.28,
+      "fin": 21.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 21.56,
+      "fin": 21.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "España,",
+      "inicio": 21.72,
+      "fin": 22.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 22.24,
+      "fin": 22.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 22.48,
+      "fin": 22.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "treinta",
+      "inicio": 22.72,
+      "fin": 23.04,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "euros",
+      "inicio": 23.12,
+      "fin": 23.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 23.44,
+      "fin": 23.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "año",
+      "inicio": 23.56,
+      "fin": 23.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 23.88,
+      "fin": 24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 24.08,
+      "fin": 24.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "grado.",
+      "inicio": 24.32,
+      "fin": 24.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 25,
+      "fin": 25.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 25.12,
+      "fin": 25.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.24,
+      "fin": 25.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "notas:",
+      "inicio": 25.36,
+      "fin": 25.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 25.96,
+      "fin": 26,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 26.08,
+      "fin": 26.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "jersey",
+      "inicio": 26.24,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "fino,",
+      "inicio": 26.56,
+      "fin": 26.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 26.96,
+      "fin": 27.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.2,
+      "fin": 27.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 27.36,
+      "fin": 27.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "calor",
+      "inicio": 27.72,
+      "fin": 27.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 27.92,
+      "fin": 28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 28.08,
+      "fin": 28.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 28.24,
+      "fin": 28.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "grado.",
+      "inicio": 28.4,
+      "fin": 29.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.16,
+      "fin": 29.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 29.28,
+      "fin": 29.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dormir,",
+      "inicio": 29.44,
+      "fin": 29.92,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "basta",
+      "inicio": 29.96,
+      "fin": 30.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 30.32,
+      "fin": 30.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "entre",
+      "inicio": 30.52,
+      "fin": 30.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "quince",
+      "inicio": 30.8,
+      "fin": 31.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 31.28,
+      "fin": 31.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "diecisiete",
+      "inicio": 31.44,
+      "fin": 31.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "grados.",
+      "inicio": 32,
+      "fin": 32.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 32.88,
+      "fin": 33,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.04,
+      "fin": 33.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "fácil:",
+      "inicio": 33.2,
+      "fin": 33.84,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "un",
+      "inicio": 33.92,
+      "fin": 34,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "grado",
+      "inicio": 34.08,
+      "fin": 34.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "menos,",
+      "inicio": 34.32,
+      "fin": 34.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 35,
+      "fin": 35.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 35.2,
+      "fin": 35.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 35.52,
+      "fin": 35.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 35.76,
+      "fin": 35.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 36,
+      "fin": 36.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 36.28,
+      "fin": 36.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "calefacción.",
+      "inicio": 36.44,
+      "fin": 37.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 37.52,
+      "fin": 38,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 38.04,
+      "fin": 38.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 38.16,
+      "fin": 38.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 38.32,
+      "fin": 38.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 38.56,
+      "fin": 38.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 38.72,
+      "fin": 38.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 38.92,
+      "fin": 38.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "casa",
+      "inicio": 39.04,
+      "fin": 39.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 39.28,
+      "fin": 39.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "veintiséis",
+      "inicio": 39.36,
+      "fin": 39.92,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "grados",
+      "inicio": 40,
+      "fin": 40.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 40.4,
+      "fin": 40.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "pleno",
+      "inicio": 40.52,
+      "fin": 40.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "invierno.",
+      "inicio": 40.72,
+      "fin": 41.44,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "La luz del mando que solo ve el móvil",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que tu mando de la tele lanza una luz que solo ve la cámara de tu móvil?", "clave": "cámara", "hook": true },
+    { "texto": "Apúntalo a la cámara, pulsa un botón… y ahí está.", "clave": "ahí", "hook": true },
+    { "texto": "Es luz infrarroja: un color que está más allá del rojo, y tus ojos no lo pueden ver.", "clave": "rojo" },
+    { "texto": "Pero la cámara del móvil sí lo capta, y te lo enseña en un color que sí ves.", "clave": "capta" },
+    { "texto": "Cada botón es un número, y la lucecita lo manda parpadeando: 38.000 veces por segundo.", "dicho": "Cada botón es un número, y la lucecita lo manda parpadeando: treinta y ocho mil veces por segundo.", "clave": "parpadeando" },
+    { "texto": "En tu salón hay mucha más luz: la lámpara, la ventana, el sol.", "clave": "luz" },
+    { "texto": "Pero la tele solo hace caso a la luz que parpadea a ese ritmo, y el resto lo ignora.", "clave": "ritmo" },
+    { "texto": "Por eso encender la lámpara no te cambia de canal.", "clave": "lámpara" },
+    { "texto": "Y si un día el mando no va, apúntalo a la cámara: si no ves la luz, son las pilas.", "clave": "pilas" },
+    { "texto": "Y con tu móvil también puedes manejar la tele: descarga la app que te dejo en la bio.", "clave": "app" }
+  ]
+}

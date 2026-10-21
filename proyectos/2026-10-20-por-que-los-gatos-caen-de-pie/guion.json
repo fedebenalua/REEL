@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué los gatos caen de pie",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué los gatos siempre caen de pie, aunque los sueltes boca arriba?", "clave": "pie", "hook": true },
+    { "texto": "Se dan la vuelta en el aire, sin nada en lo que apoyarse.", "clave": "apoyarse", "hook": true },
+    { "texto": "Primero, su oído funciona como un nivel de burbuja: le dice dónde está el suelo.", "clave": "suelo" },
+    { "texto": "Entonces encoge las patas de delante y gira solo la mitad delantera.", "clave": "delantera" },
+    { "texto": "Luego encoge las de atrás, y gira la otra mitad.", "clave": "atrás" },
+    { "texto": "Puede hacerlo porque su columna se retuerce como un trapo, y su clavícula va suelta.", "clave": "trapo" },
+    { "texto": "Y no lo aprenden: con cinco semanas, cualquier gatito ya lo hace.", "clave": "cinco" },
+    { "texto": "Pero caer de pie no es caer bien: desde un balcón, muchos se rompen la barbilla o las patas.", "clave": "barbilla" },
+    { "texto": "Así que no es magia: es un nivel en el oído y un cuerpo que gira por mitades.", "clave": "mitades" },
+    { "texto": "Envíaselo a ese amigo que deja la ventana abierta con el gato en casa.", "clave": "ventana" }
+  ]
+}

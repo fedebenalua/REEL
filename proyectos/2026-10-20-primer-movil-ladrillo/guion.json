@@ -1,0 +1,18 @@
+{
+  "titulo": "el primer móvil pesaba más de un kilo y hoy es hasta el mando de la tele",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el primer móvil pesaba más de un kilo?", "clave": "kilo", "hook": true },
+    { "texto": "Medía veinticinco centímetros, y por eso lo llamaban el ladrillo.", "clave": "ladrillo", "hook": true },
+    { "texto": "Tardaba diez horas en cargarse, para solo media hora de llamada.", "clave": "diez" },
+    { "texto": "Y costaba casi cuatro mil dólares: siete meses de sueldo mínimo en Estados Unidos.", "clave": "dólares" },
+    { "texto": "Hoy ese ladrillo cabe en el bolsillo del pantalón.", "clave": "bolsillo" },
+    { "texto": "Y en vez de una cosa, hace cuatro: cámara, linterna, despertador y mapa.", "clave": "cuatro" },
+    { "texto": "Y ahora también hace de mando de la tele.", "clave": "mando" },
+    { "texto": "Con una app, tu móvil tiene el volumen, los canales y las flechas.", "clave": "app" },
+    { "texto": "Y ya no tienes que buscar el mando entre los cojines.", "clave": "cojines" },
+    { "texto": "Si quieres probarlo, el link de la app está en la bio.", "clave": "bio" },
+    { "texto": "Envíaselo a ese amigo que aún guarda su primer móvil en un cajón.", "clave": "cajón" }
+  ]
+}

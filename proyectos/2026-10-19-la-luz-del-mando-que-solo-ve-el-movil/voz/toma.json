@@ -1,0 +1,824 @@
+{
+  "firma": "c996b4b90287",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "mando",
+      "inicio": 0.76,
+      "fin": 0.88
+    },
+    {
+      "texto": "de",
+      "inicio": 0.96,
+      "fin": 1
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "tele",
+      "inicio": 1.2,
+      "fin": 1.44
+    },
+    {
+      "texto": "lanza",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "texto": "una",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "texto": "luz",
+      "inicio": 2.08,
+      "fin": 2.24
+    },
+    {
+      "texto": "que",
+      "inicio": 2.32,
+      "fin": 2.56
+    },
+    {
+      "texto": "solo",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "ve",
+      "inicio": 2.88,
+      "fin": 2.96
+    },
+    {
+      "texto": "la",
+      "inicio": 3,
+      "fin": 3.04
+    },
+    {
+      "texto": "cámara",
+      "inicio": 3.12,
+      "fin": 3.44
+    },
+    {
+      "texto": "de",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "texto": "tu",
+      "inicio": 3.6,
+      "fin": 3.68
+    },
+    {
+      "texto": "móvil?",
+      "inicio": 3.76,
+      "fin": 4.48
+    },
+    {
+      "texto": "Apúntalo",
+      "inicio": 4.56,
+      "fin": 4.96
+    },
+    {
+      "texto": "a",
+      "inicio": 4.987,
+      "fin": 5.013
+    },
+    {
+      "texto": "la",
+      "inicio": 5.04,
+      "fin": 5.08
+    },
+    {
+      "texto": "cámara,",
+      "inicio": 5.12,
+      "fin": 5.68
+    },
+    {
+      "texto": "pulsa",
+      "inicio": 5.733,
+      "fin": 5.92
+    },
+    {
+      "texto": "un",
+      "inicio": 6,
+      "fin": 6.04
+    },
+    {
+      "texto": "botón…",
+      "inicio": 6.08,
+      "fin": 6.8
+    },
+    {
+      "texto": "y",
+      "inicio": 6.84,
+      "fin": 6.88
+    },
+    {
+      "texto": "ahí",
+      "inicio": 6.96,
+      "fin": 7.08
+    },
+    {
+      "texto": "está.",
+      "inicio": 7.12,
+      "fin": 7.44
+    },
+    {
+      "texto": "Es",
+      "inicio": 7.92,
+      "fin": 8.08
+    },
+    {
+      "texto": "luz",
+      "inicio": 8.24,
+      "fin": 8.4
+    },
+    {
+      "texto": "infrarroja:",
+      "inicio": 8.48,
+      "fin": 9.52
+    },
+    {
+      "texto": "un",
+      "inicio": 9.6,
+      "fin": 9.68
+    },
+    {
+      "texto": "color",
+      "inicio": 9.8,
+      "fin": 9.92
+    },
+    {
+      "texto": "que",
+      "inicio": 9.96,
+      "fin": 10
+    },
+    {
+      "texto": "está",
+      "inicio": 10.08,
+      "fin": 10.24
+    },
+    {
+      "texto": "más",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "texto": "allá",
+      "inicio": 10.64,
+      "fin": 10.8
+    },
+    {
+      "texto": "del",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "texto": "rojo,",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "texto": "y",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "texto": "tus",
+      "inicio": 11.64,
+      "fin": 11.76
+    },
+    {
+      "texto": "ojos",
+      "inicio": 11.84,
+      "fin": 12.16
+    },
+    {
+      "texto": "no",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "pueden",
+      "inicio": 12.52,
+      "fin": 12.72
+    },
+    {
+      "texto": "ver.",
+      "inicio": 12.8,
+      "fin": 13.44
+    },
+    {
+      "texto": "Pero",
+      "inicio": 13.493,
+      "fin": 13.6
+    },
+    {
+      "texto": "la",
+      "inicio": 13.64,
+      "fin": 13.68
+    },
+    {
+      "texto": "cámara",
+      "inicio": 13.76,
+      "fin": 14
+    },
+    {
+      "texto": "del",
+      "inicio": 14.08,
+      "fin": 14.16
+    },
+    {
+      "texto": "móvil",
+      "inicio": 14.24,
+      "fin": 14.56
+    },
+    {
+      "texto": "sí",
+      "inicio": 14.6,
+      "fin": 14.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.8,
+      "fin": 14.88
+    },
+    {
+      "texto": "capta,",
+      "inicio": 14.96,
+      "fin": 15.36
+    },
+    {
+      "texto": "y",
+      "inicio": 15.4,
+      "fin": 15.44
+    },
+    {
+      "texto": "te",
+      "inicio": 15.52,
+      "fin": 15.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 15.6,
+      "fin": 15.64
+    },
+    {
+      "texto": "enseña",
+      "inicio": 15.68,
+      "fin": 16.08
+    },
+    {
+      "texto": "en",
+      "inicio": 16.12,
+      "fin": 16.16
+    },
+    {
+      "texto": "un",
+      "inicio": 16.24,
+      "fin": 16.32
+    },
+    {
+      "texto": "color",
+      "inicio": 16.44,
+      "fin": 16.56
+    },
+    {
+      "texto": "que",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "texto": "sí",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "texto": "ves.",
+      "inicio": 17.04,
+      "fin": 17.84
+    },
+    {
+      "texto": "Cada",
+      "inicio": 17.92,
+      "fin": 18.08
+    },
+    {
+      "texto": "botón",
+      "inicio": 18.16,
+      "fin": 18.48
+    },
+    {
+      "texto": "es",
+      "inicio": 18.56,
+      "fin": 18.64
+    },
+    {
+      "texto": "un",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "número,",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "texto": "y",
+      "inicio": 19.4,
+      "fin": 19.44
+    },
+    {
+      "texto": "la",
+      "inicio": 19.52,
+      "fin": 19.56
+    },
+    {
+      "texto": "lucecita",
+      "inicio": 19.6,
+      "fin": 20.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.16,
+      "fin": 20.24
+    },
+    {
+      "texto": "manda",
+      "inicio": 20.36,
+      "fin": 20.48
+    },
+    {
+      "texto": "parpadeando:",
+      "inicio": 20.56,
+      "fin": 21.44
+    },
+    {
+      "texto": "treinta",
+      "inicio": 21.52,
+      "fin": 21.84
+    },
+    {
+      "texto": "y",
+      "inicio": 21.92,
+      "fin": 21.96
+    },
+    {
+      "texto": "ocho",
+      "inicio": 22,
+      "fin": 22.16
+    },
+    {
+      "texto": "mil",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "texto": "veces",
+      "inicio": 22.56,
+      "fin": 22.88
+    },
+    {
+      "texto": "por",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 23.12,
+      "fin": 24.24
+    },
+    {
+      "texto": "En",
+      "inicio": 24.28,
+      "fin": 24.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "texto": "salón",
+      "inicio": 24.56,
+      "fin": 24.8
+    },
+    {
+      "texto": "hay",
+      "inicio": 24.88,
+      "fin": 25.12
+    },
+    {
+      "texto": "mucha",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "más",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "texto": "luz:",
+      "inicio": 25.68,
+      "fin": 26.16
+    },
+    {
+      "texto": "la",
+      "inicio": 26.24,
+      "fin": 26.32
+    },
+    {
+      "texto": "lámpara,",
+      "inicio": 26.4,
+      "fin": 26.96
+    },
+    {
+      "texto": "la",
+      "inicio": 27,
+      "fin": 27.04
+    },
+    {
+      "texto": "ventana,",
+      "inicio": 27.12,
+      "fin": 27.84
+    },
+    {
+      "texto": "el",
+      "inicio": 27.88,
+      "fin": 27.92
+    },
+    {
+      "texto": "sol.",
+      "inicio": 28.08,
+      "fin": 28.8
+    },
+    {
+      "texto": "Pero",
+      "inicio": 28.853,
+      "fin": 28.96
+    },
+    {
+      "texto": "la",
+      "inicio": 29,
+      "fin": 29.04
+    },
+    {
+      "texto": "tele",
+      "inicio": 29.12,
+      "fin": 29.36
+    },
+    {
+      "texto": "solo",
+      "inicio": 29.44,
+      "fin": 29.6
+    },
+    {
+      "texto": "hace",
+      "inicio": 29.64,
+      "fin": 29.84
+    },
+    {
+      "texto": "caso",
+      "inicio": 29.96,
+      "fin": 30.107
+    },
+    {
+      "texto": "a",
+      "inicio": 30.133,
+      "fin": 30.16
+    },
+    {
+      "texto": "la",
+      "inicio": 30.2,
+      "fin": 30.24
+    },
+    {
+      "texto": "luz",
+      "inicio": 30.32,
+      "fin": 30.48
+    },
+    {
+      "texto": "que",
+      "inicio": 30.56,
+      "fin": 30.64
+    },
+    {
+      "texto": "parpadea",
+      "inicio": 30.72,
+      "fin": 31.2
+    },
+    {
+      "texto": "a",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "texto": "ese",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "texto": "ritmo,",
+      "inicio": 31.68,
+      "fin": 32.16
+    },
+    {
+      "texto": "y",
+      "inicio": 32.2,
+      "fin": 32.24
+    },
+    {
+      "texto": "el",
+      "inicio": 32.32,
+      "fin": 32.36
+    },
+    {
+      "texto": "resto",
+      "inicio": 32.4,
+      "fin": 32.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 32.88,
+      "fin": 32.96
+    },
+    {
+      "texto": "ignora.",
+      "inicio": 33.04,
+      "fin": 33.84
+    },
+    {
+      "texto": "Por",
+      "inicio": 33.88,
+      "fin": 33.92
+    },
+    {
+      "texto": "eso",
+      "inicio": 34,
+      "fin": 34.16
+    },
+    {
+      "texto": "encender",
+      "inicio": 34.24,
+      "fin": 34.56
+    },
+    {
+      "texto": "la",
+      "inicio": 34.6,
+      "fin": 34.64
+    },
+    {
+      "texto": "lámpara",
+      "inicio": 34.72,
+      "fin": 35.04
+    },
+    {
+      "texto": "no",
+      "inicio": 35.12,
+      "fin": 35.2
+    },
+    {
+      "texto": "te",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "texto": "cambia",
+      "inicio": 35.52,
+      "fin": 35.68
+    },
+    {
+      "texto": "de",
+      "inicio": 35.76,
+      "fin": 35.84
+    },
+    {
+      "texto": "canal.",
+      "inicio": 35.92,
+      "fin": 36.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 36.76,
+      "fin": 36.8
+    },
+    {
+      "texto": "si",
+      "inicio": 36.84,
+      "fin": 36.88
+    },
+    {
+      "texto": "un",
+      "inicio": 36.96,
+      "fin": 37.04
+    },
+    {
+      "texto": "día",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "el",
+      "inicio": 37.24,
+      "fin": 37.28
+    },
+    {
+      "texto": "mando",
+      "inicio": 37.4,
+      "fin": 37.52
+    },
+    {
+      "texto": "no",
+      "inicio": 37.56,
+      "fin": 37.6
+    },
+    {
+      "texto": "va,",
+      "inicio": 37.68,
+      "fin": 38.08
+    },
+    {
+      "texto": "apúntalo",
+      "inicio": 38.16,
+      "fin": 38.56
+    },
+    {
+      "texto": "a",
+      "inicio": 38.6,
+      "fin": 38.64
+    },
+    {
+      "texto": "la",
+      "inicio": 38.68,
+      "fin": 38.72
+    },
+    {
+      "texto": "cámara:",
+      "inicio": 38.8,
+      "fin": 39.36
+    },
+    {
+      "texto": "si",
+      "inicio": 39.4,
+      "fin": 39.44
+    },
+    {
+      "texto": "no",
+      "inicio": 39.52,
+      "fin": 39.6
+    },
+    {
+      "texto": "ves",
+      "inicio": 39.68,
+      "fin": 39.76
+    },
+    {
+      "texto": "la",
+      "inicio": 39.8,
+      "fin": 39.84
+    },
+    {
+      "texto": "luz,",
+      "inicio": 39.88,
+      "fin": 40.32
+    },
+    {
+      "texto": "son",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "texto": "las",
+      "inicio": 40.56,
+      "fin": 40.64
+    },
+    {
+      "texto": "pilas.",
+      "inicio": 40.72,
+      "fin": 41.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 41.56,
+      "fin": 41.6
+    },
+    {
+      "texto": "con",
+      "inicio": 41.68,
+      "fin": 41.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 41.8,
+      "fin": 41.84
+    },
+    {
+      "texto": "móvil",
+      "inicio": 41.92,
+      "fin": 42.24
+    },
+    {
+      "texto": "también",
+      "inicio": 42.32,
+      "fin": 42.64
+    },
+    {
+      "texto": "puedes",
+      "inicio": 42.68,
+      "fin": 42.96
+    },
+    {
+      "texto": "manejar",
+      "inicio": 43,
+      "fin": 43.28
+    },
+    {
+      "texto": "la",
+      "inicio": 43.36,
+      "fin": 43.44
+    },
+    {
+      "texto": "tele:",
+      "inicio": 43.56,
+      "fin": 44
+    },
+    {
+      "texto": "descarga",
+      "inicio": 44.12,
+      "fin": 44.4
+    },
+    {
+      "texto": "la",
+      "inicio": 44.44,
+      "fin": 44.48
+    },
+    {
+      "texto": "app",
+      "inicio": 44.56,
+      "fin": 44.72
+    },
+    {
+      "texto": "que",
+      "inicio": 44.76,
+      "fin": 44.8
+    },
+    {
+      "texto": "te",
+      "inicio": 44.88,
+      "fin": 44.92
+    },
+    {
+      "texto": "dejo",
+      "inicio": 44.96,
+      "fin": 45.12
+    },
+    {
+      "texto": "en",
+      "inicio": 45.16,
+      "fin": 45.2
+    },
+    {
+      "texto": "la",
+      "inicio": 45.24,
+      "fin": 45.28
+    },
+    {
+      "texto": "bio.",
+      "inicio": 45.36,
+      "fin": 45.84
+    }
+  ]
+}

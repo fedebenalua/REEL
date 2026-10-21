@@ -1,0 +1,714 @@
+{
+  "firma": "ffc40bff5abb",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "cada",
+      "inicio": 0.64,
+      "fin": 0.8
+    },
+    {
+      "texto": "mes",
+      "inicio": 0.88,
+      "fin": 1.12
+    },
+    {
+      "texto": "se",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "te",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "texto": "escapan",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "texto": "hasta",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "texto": "cien",
+      "inicio": 2.16,
+      "fin": 2.32
+    },
+    {
+      "texto": "euros",
+      "inicio": 2.4,
+      "fin": 2.72
+    },
+    {
+      "texto": "por",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "texto": "cinco",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "texto": "agujeros",
+      "inicio": 3.36,
+      "fin": 3.84
+    },
+    {
+      "texto": "que",
+      "inicio": 3.92,
+      "fin": 4
+    },
+    {
+      "texto": "ni",
+      "inicio": 4.08,
+      "fin": 4.16
+    },
+    {
+      "texto": "ves?",
+      "inicio": 4.32,
+      "fin": 4.72
+    },
+    {
+      "texto": "¿Dónde",
+      "inicio": 4.96,
+      "fin": 5.12
+    },
+    {
+      "texto": "están?",
+      "inicio": 5.2,
+      "fin": 5.88
+    },
+    {
+      "texto": "El",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "texto": "primero,",
+      "inicio": 6.36,
+      "fin": 6.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "fibra",
+      "inicio": 7.12,
+      "fin": 7.52
+    },
+    {
+      "texto": "y",
+      "inicio": 7.56,
+      "fin": 7.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "móvil:",
+      "inicio": 7.84,
+      "fin": 8.4
+    },
+    {
+      "texto": "cambia",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "texto": "de",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "tarifa",
+      "inicio": 8.8,
+      "fin": 9.12
+    },
+    {
+      "texto": "y",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 9.36,
+      "fin": 9.68
+    },
+    {
+      "texto": "hasta",
+      "inicio": 9.76,
+      "fin": 9.92
+    },
+    {
+      "texto": "veintinueve",
+      "inicio": 9.96,
+      "fin": 10.56
+    },
+    {
+      "texto": "euros",
+      "inicio": 10.64,
+      "fin": 10.96
+    },
+    {
+      "texto": "al",
+      "inicio": 11,
+      "fin": 11.04
+    },
+    {
+      "texto": "mes.",
+      "inicio": 11.12,
+      "fin": 11.84
+    },
+    {
+      "texto": "El",
+      "inicio": 11.88,
+      "fin": 11.92
+    },
+    {
+      "texto": "segundo,",
+      "inicio": 12,
+      "fin": 12.64
+    },
+    {
+      "texto": "las",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "texto": "suscripciones:",
+      "inicio": 12.92,
+      "fin": 13.84
+    },
+    {
+      "texto": "cancela",
+      "inicio": 14,
+      "fin": 14.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "texto": "de",
+      "inicio": 14.56,
+      "fin": 14.64
+    },
+    {
+      "texto": "diez",
+      "inicio": 14.72,
+      "fin": 14.84
+    },
+    {
+      "texto": "euros",
+      "inicio": 14.88,
+      "fin": 15.2
+    },
+    {
+      "texto": "que",
+      "inicio": 15.28,
+      "fin": 15.36
+    },
+    {
+      "texto": "ni",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "texto": "abres",
+      "inicio": 15.6,
+      "fin": 15.92
+    },
+    {
+      "texto": "y",
+      "inicio": 16,
+      "fin": 16.08
+    },
+    {
+      "texto": "son",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "veinte",
+      "inicio": 16.56,
+      "fin": 16.8
+    },
+    {
+      "texto": "al",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "texto": "mes.",
+      "inicio": 17.08,
+      "fin": 17.68
+    },
+    {
+      "texto": "El",
+      "inicio": 17.72,
+      "fin": 17.76
+    },
+    {
+      "texto": "tercero,",
+      "inicio": 17.84,
+      "fin": 18.48
+    },
+    {
+      "texto": "la",
+      "inicio": 18.56,
+      "fin": 18.64
+    },
+    {
+      "texto": "comida",
+      "inicio": 18.72,
+      "fin": 19.04
+    },
+    {
+      "texto": "que",
+      "inicio": 19.08,
+      "fin": 19.12
+    },
+    {
+      "texto": "tiras:",
+      "inicio": 19.2,
+      "fin": 19.76
+    },
+    {
+      "texto": "planifica",
+      "inicio": 19.84,
+      "fin": 20.16
+    },
+    {
+      "texto": "la",
+      "inicio": 20.24,
+      "fin": 20.28
+    },
+    {
+      "texto": "compra",
+      "inicio": 20.32,
+      "fin": 20.64
+    },
+    {
+      "texto": "y",
+      "inicio": 20.72,
+      "fin": 20.8
+    },
+    {
+      "texto": "ahorras",
+      "inicio": 20.88,
+      "fin": 21.2
+    },
+    {
+      "texto": "unos",
+      "inicio": 21.32,
+      "fin": 21.44
+    },
+    {
+      "texto": "veintiún",
+      "inicio": 21.52,
+      "fin": 22
+    },
+    {
+      "texto": "euros",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "texto": "al",
+      "inicio": 22.4,
+      "fin": 22.48
+    },
+    {
+      "texto": "mes",
+      "inicio": 22.56,
+      "fin": 22.64
+    },
+    {
+      "texto": "por",
+      "inicio": 22.72,
+      "fin": 22.88
+    },
+    {
+      "texto": "persona.",
+      "inicio": 22.96,
+      "fin": 23.84
+    },
+    {
+      "texto": "El",
+      "inicio": 23.88,
+      "fin": 23.92
+    },
+    {
+      "texto": "cuarto,",
+      "inicio": 24,
+      "fin": 24.56
+    },
+    {
+      "texto": "tu",
+      "inicio": 24.64,
+      "fin": 24.72
+    },
+    {
+      "texto": "banco:",
+      "inicio": 24.8,
+      "fin": 25.36
+    },
+    {
+      "texto": "algunos",
+      "inicio": 25.44,
+      "fin": 25.84
+    },
+    {
+      "texto": "cobran",
+      "inicio": 25.92,
+      "fin": 26.16
+    },
+    {
+      "texto": "hasta",
+      "inicio": 26.2,
+      "fin": 26.48
+    },
+    {
+      "texto": "veinte",
+      "inicio": 26.56,
+      "fin": 26.88
+    },
+    {
+      "texto": "euros",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "texto": "al",
+      "inicio": 27.24,
+      "fin": 27.28
+    },
+    {
+      "texto": "mes",
+      "inicio": 27.36,
+      "fin": 27.52
+    },
+    {
+      "texto": "por",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "texto": "la",
+      "inicio": 27.72,
+      "fin": 27.76
+    },
+    {
+      "texto": "cuenta,",
+      "inicio": 27.84,
+      "fin": 28.32
+    },
+    {
+      "texto": "y",
+      "inicio": 28.36,
+      "fin": 28.4
+    },
+    {
+      "texto": "hay",
+      "inicio": 28.48,
+      "fin": 28.64
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 28.72,
+      "fin": 28.96
+    },
+    {
+      "texto": "gratis.",
+      "inicio": 29.04,
+      "fin": 29.64
+    },
+    {
+      "texto": "El",
+      "inicio": 29.84,
+      "fin": 30
+    },
+    {
+      "texto": "quinto,",
+      "inicio": 30.08,
+      "fin": 30.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 30.72,
+      "fin": 30.8
+    },
+    {
+      "texto": "luz:",
+      "inicio": 30.84,
+      "fin": 31.36
+    },
+    {
+      "texto": "uno",
+      "inicio": 31.44,
+      "fin": 31.52
+    },
+    {
+      "texto": "de",
+      "inicio": 31.6,
+      "fin": 31.68
+    },
+    {
+      "texto": "cada",
+      "inicio": 31.733,
+      "fin": 31.84
+    },
+    {
+      "texto": "tres",
+      "inicio": 31.92,
+      "fin": 32.08
+    },
+    {
+      "texto": "hogares",
+      "inicio": 32.16,
+      "fin": 32.48
+    },
+    {
+      "texto": "paga",
+      "inicio": 32.56,
+      "fin": 32.72
+    },
+    {
+      "texto": "por",
+      "inicio": 32.8,
+      "fin": 32.96
+    },
+    {
+      "texto": "más",
+      "inicio": 33.04,
+      "fin": 33.2
+    },
+    {
+      "texto": "potencia",
+      "inicio": 33.28,
+      "fin": 33.68
+    },
+    {
+      "texto": "de",
+      "inicio": 33.76,
+      "fin": 33.8
+    },
+    {
+      "texto": "la",
+      "inicio": 33.84,
+      "fin": 33.88
+    },
+    {
+      "texto": "que",
+      "inicio": 33.92,
+      "fin": 34
+    },
+    {
+      "texto": "usa,",
+      "inicio": 34.08,
+      "fin": 34.48
+    },
+    {
+      "texto": "unos",
+      "inicio": 34.64,
+      "fin": 34.8
+    },
+    {
+      "texto": "siete",
+      "inicio": 34.84,
+      "fin": 35.04
+    },
+    {
+      "texto": "euros",
+      "inicio": 35.12,
+      "fin": 35.44
+    },
+    {
+      "texto": "al",
+      "inicio": 35.48,
+      "fin": 35.52
+    },
+    {
+      "texto": "mes.",
+      "inicio": 35.6,
+      "fin": 36.16
+    },
+    {
+      "texto": "Súmalos:",
+      "inicio": 36.2,
+      "fin": 36.88
+    },
+    {
+      "texto": "casi",
+      "inicio": 36.96,
+      "fin": 37.12
+    },
+    {
+      "texto": "cien",
+      "inicio": 37.28,
+      "fin": 37.44
+    },
+    {
+      "texto": "euros",
+      "inicio": 37.52,
+      "fin": 37.76
+    },
+    {
+      "texto": "al",
+      "inicio": 37.84,
+      "fin": 37.92
+    },
+    {
+      "texto": "mes",
+      "inicio": 38,
+      "fin": 38.16
+    },
+    {
+      "texto": "que",
+      "inicio": 38.24,
+      "fin": 38.32
+    },
+    {
+      "texto": "ahora",
+      "inicio": 38.4,
+      "fin": 38.56
+    },
+    {
+      "texto": "se",
+      "inicio": 38.64,
+      "fin": 38.72
+    },
+    {
+      "texto": "te",
+      "inicio": 38.76,
+      "fin": 38.8
+    },
+    {
+      "texto": "escapan.",
+      "inicio": 38.88,
+      "fin": 39.68
+    },
+    {
+      "texto": "No",
+      "inicio": 39.76,
+      "fin": 39.84
+    },
+    {
+      "texto": "es",
+      "inicio": 39.88,
+      "fin": 39.92
+    },
+    {
+      "texto": "ganar",
+      "inicio": 40,
+      "fin": 40.16
+    },
+    {
+      "texto": "más:",
+      "inicio": 40.24,
+      "fin": 40.8
+    },
+    {
+      "texto": "es",
+      "inicio": 40.88,
+      "fin": 40.96
+    },
+    {
+      "texto": "dejar",
+      "inicio": 41.04,
+      "fin": 41.36
+    },
+    {
+      "texto": "de",
+      "inicio": 41.44,
+      "fin": 41.52
+    },
+    {
+      "texto": "perder.",
+      "inicio": 41.6,
+      "fin": 42.24
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 42.32,
+      "fin": 42.8
+    },
+    {
+      "texto": "a",
+      "inicio": 42.827,
+      "fin": 42.853
+    },
+    {
+      "texto": "ese",
+      "inicio": 42.88,
+      "fin": 43.04
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.12,
+      "fin": 43.28
+    },
+    {
+      "texto": "que",
+      "inicio": 43.36,
+      "fin": 43.52
+    },
+    {
+      "texto": "nunca",
+      "inicio": 43.6,
+      "fin": 43.92
+    },
+    {
+      "texto": "llega",
+      "inicio": 44,
+      "fin": 44.24
+    },
+    {
+      "texto": "a",
+      "inicio": 44.28,
+      "fin": 44.32
+    },
+    {
+      "texto": "fin",
+      "inicio": 44.4,
+      "fin": 44.48
+    },
+    {
+      "texto": "de",
+      "inicio": 44.56,
+      "fin": 44.6
+    },
+    {
+      "texto": "mes.",
+      "inicio": 44.64,
+      "fin": 45.12
+    }
+  ]
+}

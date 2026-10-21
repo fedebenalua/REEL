@@ -1,0 +1,19 @@
+{
+  "titulo": "Un folio hasta la Luna",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Si doblas un folio por la mitad 42 veces, llega a la Luna.", "dicho": "Si doblas un folio por la mitad cuarenta y dos veces, llega a la Luna.", "clave": "Luna", "hook": true },
+    { "texto": "¿Cómo llega tan lejos algo tan fino?", "clave": "fino", "hook": true },
+    { "texto": "Un folio mide una décima de milímetro.", "clave": "décima" },
+    { "texto": "Pero cada vez que lo doblas, su grosor se duplica: dos capas, cuatro, ocho.", "clave": "duplica" },
+    { "texto": "A los 17 dobleces, ya es más alto que un edificio de cuatro pisos.", "dicho": "A los diecisiete dobleces, ya es más alto que un edificio de cuatro pisos.", "clave": "edificio" },
+    { "texto": "A los 23, más que el rascacielos más alto del mundo.", "dicho": "A los veintitrés, más que el rascacielos más alto del mundo.", "clave": "rascacielos" },
+    { "texto": "A los 30, sale de la atmósfera y llega al espacio.", "dicho": "A los treinta, sale de la atmósfera y llega al espacio.", "clave": "espacio" },
+    { "texto": "Y a los 42, deja atrás la Luna: 440.000 kilómetros.", "dicho": "Y a los cuarenta y dos, deja atrás la Luna: cuatrocientos cuarenta mil kilómetros.", "clave": "440.000" },
+    { "texto": "Y lo más loco: el último doblez, él solo, hace más de la mitad del camino.", "clave": "mitad" },
+    { "texto": "Así que no es el papel: es duplicar.", "clave": "duplicar" },
+    { "texto": "Eso sí, el récord está en 12 dobleces, y hizo falta un papel de más de un kilómetro.", "dicho": "Eso sí, el récord está en doce dobleces, y hizo falta un papel de más de un kilómetro.", "clave": "12" },
+    { "texto": "Envíaselo a ese amigo que dice que un papel no se puede doblar más de siete veces.", "clave": "siete" }
+  ]
+}

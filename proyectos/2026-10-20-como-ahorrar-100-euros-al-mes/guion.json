@@ -1,0 +1,17 @@
+{
+  "titulo": "Cómo ahorrar 100 € al mes",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que cada mes se te escapan hasta cien euros por cinco agujeros que ni ves?", "clave": "agujeros", "hook": true },
+    { "texto": "¿Dónde están?", "clave": "dónde", "hook": true },
+    { "texto": "El primero, tu fibra y tu móvil: cambia de tarifa y ahorras hasta veintinueve euros al mes.", "clave": "fibra" },
+    { "texto": "El segundo, las suscripciones: cancela dos de diez euros que ni abres y son veinte al mes.", "clave": "suscripciones" },
+    { "texto": "El tercero, la comida que tiras: planifica la compra y ahorras unos veintiún euros al mes por persona.", "clave": "comida" },
+    { "texto": "El cuarto, tu banco: algunos cobran hasta veinte euros al mes por la cuenta, y hay cuentas gratis.", "clave": "banco" },
+    { "texto": "El quinto, tu luz: uno de cada tres hogares paga por más potencia de la que usa, unos siete euros al mes.", "clave": "luz" },
+    { "texto": "Súmalos: casi cien euros al mes que ahora se te escapan.", "clave": "cien" },
+    { "texto": "No es ganar más: es dejar de perder.", "clave": "perder" },
+    { "texto": "Envíaselo a ese amigo que nunca llega a fin de mes.", "clave": "Envíaselo" }
+  ]
+}

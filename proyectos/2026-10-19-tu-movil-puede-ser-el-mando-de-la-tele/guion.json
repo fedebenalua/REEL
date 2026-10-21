@@ -1,0 +1,16 @@
+{
+  "titulo": "Tu móvil es el mando",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que tu móvil puede ser el mando de la tele?", "clave": "mando", "hook": true },
+    { "texto": "Sin pilas, y sin buscarlo por todo el salón.", "clave": "salón", "hook": true },
+    { "texto": "El mando le habla a la tele con una luz que tus ojos no ven.", "clave": "luz" },
+    { "texto": "Pero muchas teles ya están conectadas al wifi de tu casa.", "clave": "wifi" },
+    { "texto": "Y tu móvil también, así que pueden hablar entre ellos, sin luz y sin pilas.", "clave": "hablar" },
+    { "texto": "Con una app, el móvil le manda las órdenes: enciende, sube el volumen, cambia de canal.", "clave": "órdenes" },
+    { "texto": "Y el móvil siempre lo llevas encima: ese no se pierde.", "clave": "encima" },
+    { "texto": "Descarga la app que tienes en el link de la bio, y pruébalo ahora mismo.", "clave": "app" },
+    { "texto": "Y envíaselo a ese amigo que siempre pierde el mando.", "clave": "amigo" }
+  ]
+}

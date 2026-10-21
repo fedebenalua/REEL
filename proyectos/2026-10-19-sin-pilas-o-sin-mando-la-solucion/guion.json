@@ -1,0 +1,16 @@
+{
+  "titulo": "Sin pilas o sin mando",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Si te quedas sin pilas o siempre pierdes el mando de la tele, tengo la solución.", "clave": "solución", "hook": true },
+    { "texto": "Pero primero, mira cómo funciona tu mando.", "clave": "funciona", "hook": true },
+    { "texto": "Al pulsar un botón, la goma baja y toca dos caminos de cobre: se cierra el circuito.", "clave": "circuito" },
+    { "texto": "Un chip convierte ese botón en un número, distinto para cada botón.", "clave": "número" },
+    { "texto": "Y la lucecita de la punta lo manda parpadeando, en un morse de luz que tus ojos no ven.", "clave": "morse" },
+    { "texto": "En la tele, un ojito la recibe, lee el número y hace lo que dice: sube el volumen.", "clave": "volumen" },
+    { "texto": "Pero sin pilas, la lucecita no se enciende, y el mando ya no sirve para nada.", "clave": "pilas" },
+    { "texto": "La solución: tu móvil también puede hablar con la tele.", "clave": "móvil" },
+    { "texto": "Descarga la app que tienes en el link de la bio, y tu móvil será tu mando.", "clave": "app" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titulo": "La historia del mando de la tele, de una linterna a tu móvil",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el primer mando de la tele sin cable era una linterna?", "clave": "linterna", "hook": true },
+    { "texto": "En 1955 apuntabas la luz a una esquina de la tele, y cambiaba de canal.", "dicho": "En mil novecientos cincuenta y cinco apuntabas la luz a una esquina de la tele, y cambiaba de canal.", "clave": "esquina", "hook": true },
+    { "texto": "Pero la idea es mucho más vieja: en 1898, Nikola Tesla manejó un barquito sin tocarlo.", "dicho": "Pero la idea es mucho más vieja: en mil ochocientos noventa y ocho, Nikola Tesla manejó un barquito sin tocarlo.", "clave": "barquito" },
+    { "texto": "Con ondas de radio, y algunos pensaban que lo movía con la mente.", "clave": "mente" },
+    { "texto": "El primero para la tele llegó en 1950, y iba con un cable hasta tu sillón.", "dicho": "El primero para la tele llegó en mil novecientos cincuenta, y iba con un cable hasta tu sillón.", "clave": "cable" },
+    { "texto": "Como cruzaba el salón, la gente se tropezaba.", "clave": "tropezaba" },
+    { "texto": "Así que cinco años después llegó la linterna: un mando sin cables.", "clave": "cables" },
+    { "texto": "Pero si le daba el sol, la tele cambiaba de canal sola.", "clave": "sol" },
+    { "texto": "Así que al año siguiente lo cambiaron por sonido: unos martillitos golpeaban varillas de aluminio.", "clave": "martillitos" },
+    { "texto": "Sonaba tan agudo que tú no lo oías, pero un perro sí.", "clave": "perro" },
+    { "texto": "Lo único que se oía era un clic, y por eso lo llamaban «el clicker».", "clave": "clic" },
+    { "texto": "Pero si sonaban unas llaves, la tele también cambiaba de canal.", "clave": "llaves" },
+    { "texto": "Hasta que en los años ochenta llegó la luz infrarroja: la que usa tu mando hoy.", "clave": "infrarroja" },
+    { "texto": "Pulsas un botón, un chip lo convierte en un número, y la luz de la punta lo manda parpadeando, como un morse.", "clave": "parpadeando" },
+    { "texto": "Un ojito en la tele lo recibe, lo traduce y hace lo que le pides.", "clave": "ojito" },
+    { "texto": "Por eso el sol ya no te cambia de canal: la tele solo hace caso a ese ritmo.", "clave": "ritmo" },
+    { "texto": "En 1987, el cofundador de Apple, Steve Wozniak, creó un mando programable para controlar todos tus aparatos.", "dicho": "En mil novecientos ochenta y siete, el cofundador de Apple, Steve Wozniak, creó un mando programable para controlar todos tus aparatos.", "clave": "aparatos" },
+    { "texto": "Y a día de hoy también puedes usar la tele con tu móvil: el link de la app está en la bio.", "clave": "móvil" },
+    { "texto": "Envíaselo a ese amigo que siempre pierde el mando.", "clave": "pierde" }
+  ]
+}

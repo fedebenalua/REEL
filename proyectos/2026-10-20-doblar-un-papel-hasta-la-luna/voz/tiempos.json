@@ -1,0 +1,1114 @@
+{
+  "firma": "42871eed8c47",
+  "duracion": 50.16,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Si doblas un folio por la mitad 42 veces, llega a la Luna.",
+      "clave": "Luna",
+      "inicio": 0,
+      "fin": 4.16
+    },
+    {
+      "n": 2,
+      "texto": "¿Cómo llega tan lejos algo tan fino?",
+      "clave": "fino",
+      "inicio": 4.4,
+      "fin": 6.8
+    },
+    {
+      "n": 3,
+      "texto": "Un folio mide una décima de milímetro.",
+      "clave": "décima",
+      "inicio": 6.88,
+      "fin": 9.52
+    },
+    {
+      "n": 4,
+      "texto": "Pero cada vez que lo doblas, su grosor se duplica: dos capas, cuatro, ocho.",
+      "clave": "duplica",
+      "inicio": 9.573,
+      "fin": 14.48
+    },
+    {
+      "n": 5,
+      "texto": "A los 17 dobleces, ya es más alto que un edificio de cuatro pisos.",
+      "clave": "edificio",
+      "inicio": 14.96,
+      "fin": 19.2
+    },
+    {
+      "n": 6,
+      "texto": "A los 23, más que el rascacielos más alto del mundo.",
+      "clave": "rascacielos",
+      "inicio": 19.28,
+      "fin": 23.04
+    },
+    {
+      "n": 7,
+      "texto": "A los 30, sale de la atmósfera y llega al espacio.",
+      "clave": "espacio",
+      "inicio": 23.08,
+      "fin": 26.4
+    },
+    {
+      "n": 8,
+      "texto": "Y a los 42, deja atrás la Luna: 440.000 kilómetros.",
+      "clave": "440.000",
+      "inicio": 26.427,
+      "fin": 31.76
+    },
+    {
+      "n": 9,
+      "texto": "Y lo más loco: el último doblez, él solo, hace más de la mitad del camino.",
+      "clave": "mitad",
+      "inicio": 31.8,
+      "fin": 36.56
+    },
+    {
+      "n": 10,
+      "texto": "Así que no es el papel: es duplicar.",
+      "clave": "duplicar",
+      "inicio": 36.64,
+      "fin": 39.6
+    },
+    {
+      "n": 11,
+      "texto": "Eso sí, el récord está en 12 dobleces, y hizo falta un papel de más de un kilómetro.",
+      "clave": "12",
+      "inicio": 39.64,
+      "fin": 44.96
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a ese amigo que dice que un papel no se puede doblar más de siete veces.",
+      "clave": "siete",
+      "inicio": 45.08,
+      "fin": 49.36
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Si",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "doblas",
+      "inicio": 0.24,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 0.56,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "folio",
+      "inicio": 0.72,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 1.04,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.16,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 1.28,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "42",
+      "inicio": 1.68,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "veces,",
+      "inicio": 2.4,
+      "fin": 3.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 3.12,
+      "fin": 3.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 3.4,
+      "fin": 3.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 3.52,
+      "fin": 3.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Luna.",
+      "inicio": 3.6,
+      "fin": 4.16,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "¿Cómo",
+      "inicio": 4.4,
+      "fin": 4.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 4.72,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 4.96,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lejos",
+      "inicio": 5.2,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 5.64,
+      "fin": 5.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 5.84,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fino?",
+      "inicio": 6.08,
+      "fin": 6.8,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Un",
+      "inicio": 6.88,
+      "fin": 6.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "folio",
+      "inicio": 7.04,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mide",
+      "inicio": 7.4,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 7.68,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "décima",
+      "inicio": 7.92,
+      "fin": 8.32,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 8.4,
+      "fin": 8.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "milímetro.",
+      "inicio": 8.48,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 9.573,
+      "fin": 9.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.72,
+      "fin": 9.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 10,
+      "fin": 10.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 10.12,
+      "fin": 10.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.24,
+      "fin": 10.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "doblas,",
+      "inicio": 10.4,
+      "fin": 10.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 10.92,
+      "fin": 10.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grosor",
+      "inicio": 11,
+      "fin": 11.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 11.44,
+      "fin": 11.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "duplica:",
+      "inicio": 11.56,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "dos",
+      "inicio": 12.48,
+      "fin": 12.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "capas,",
+      "inicio": 12.64,
+      "fin": 13.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 13.32,
+      "fin": 14,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ocho.",
+      "inicio": 14.08,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 14.96,
+      "fin": 15,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 15.04,
+      "fin": 15.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "17",
+      "inicio": 15.2,
+      "fin": 15.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dobleces,",
+      "inicio": 15.76,
+      "fin": 16.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 16.48,
+      "fin": 16.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 16.6,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 16.72,
+      "fin": 16.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "alto",
+      "inicio": 17,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 17.16,
+      "fin": 17.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 17.28,
+      "fin": 17.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "edificio",
+      "inicio": 17.4,
+      "fin": 17.84,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 17.92,
+      "fin": 18,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 18.08,
+      "fin": 18.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "pisos.",
+      "inicio": 18.4,
+      "fin": 19.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 19.28,
+      "fin": 19.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 19.36,
+      "fin": 19.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "23,",
+      "inicio": 19.52,
+      "fin": 20.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 20.44,
+      "fin": 20.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 20.64,
+      "fin": 20.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 20.72,
+      "fin": 20.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "rascacielos",
+      "inicio": 20.84,
+      "fin": 21.44,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "más",
+      "inicio": 21.6,
+      "fin": 21.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "alto",
+      "inicio": 21.88,
+      "fin": 22,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 22.08,
+      "fin": 22.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mundo.",
+      "inicio": 22.24,
+      "fin": 23.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 23.08,
+      "fin": 23.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 23.2,
+      "fin": 23.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "30,",
+      "inicio": 23.36,
+      "fin": 23.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 23.92,
+      "fin": 24.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.16,
+      "fin": 24.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 24.24,
+      "fin": 24.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "atmósfera",
+      "inicio": 24.32,
+      "fin": 24.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 24.96,
+      "fin": 25.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 25.08,
+      "fin": 25.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 25.36,
+      "fin": 25.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "espacio.",
+      "inicio": 25.52,
+      "fin": 26.4,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 26.427,
+      "fin": 26.453,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 26.48,
+      "fin": 26.533,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 26.587,
+      "fin": 26.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "42,",
+      "inicio": 26.72,
+      "fin": 27.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "deja",
+      "inicio": 27.68,
+      "fin": 27.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "atrás",
+      "inicio": 28.04,
+      "fin": 28.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 28.28,
+      "fin": 28.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Luna:",
+      "inicio": 28.4,
+      "fin": 29.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "440.000",
+      "inicio": 29.12,
+      "fin": 30.56,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "kilómetros.",
+      "inicio": 30.72,
+      "fin": 31.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 31.8,
+      "fin": 31.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 31.88,
+      "fin": 31.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 32,
+      "fin": 32.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "loco:",
+      "inicio": 32.16,
+      "fin": 32.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 32.88,
+      "fin": 32.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "último",
+      "inicio": 33,
+      "fin": 33.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "doblez,",
+      "inicio": 33.36,
+      "fin": 33.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "él",
+      "inicio": 34,
+      "fin": 34.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "solo,",
+      "inicio": 34.16,
+      "fin": 34.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 34.6,
+      "fin": 34.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 34.96,
+      "fin": 35.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 35.16,
+      "fin": 35.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 35.24,
+      "fin": 35.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 35.36,
+      "fin": 35.6,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "del",
+      "inicio": 35.64,
+      "fin": 35.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "camino.",
+      "inicio": 35.76,
+      "fin": 36.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.64,
+      "fin": 36.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36.88,
+      "fin": 36.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 37.12,
+      "fin": 37.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 37.28,
+      "fin": 37.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 37.44,
+      "fin": 37.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "papel:",
+      "inicio": 37.56,
+      "fin": 38.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 38.32,
+      "fin": 38.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "duplicar.",
+      "inicio": 38.48,
+      "fin": 39.6,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Eso",
+      "inicio": 39.64,
+      "fin": 39.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "sí,",
+      "inicio": 39.84,
+      "fin": 40.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 40.24,
+      "fin": 40.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "récord",
+      "inicio": 40.4,
+      "fin": 40.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 40.84,
+      "fin": 41,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 41.04,
+      "fin": 41.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "12",
+      "inicio": 41.28,
+      "fin": 41.44,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "dobleces,",
+      "inicio": 41.48,
+      "fin": 42.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 42.32,
+      "fin": 42.36,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "hizo",
+      "inicio": 42.4,
+      "fin": 42.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "falta",
+      "inicio": 42.64,
+      "fin": 42.8,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 42.88,
+      "fin": 42.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "papel",
+      "inicio": 43.067,
+      "fin": 43.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.36,
+      "fin": 43.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 43.48,
+      "fin": 43.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.64,
+      "fin": 43.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 43.76,
+      "fin": 43.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "kilómetro.",
+      "inicio": 43.92,
+      "fin": 44.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 45.08,
+      "fin": 45.52,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 45.547,
+      "fin": 45.573,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 45.6,
+      "fin": 45.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 45.84,
+      "fin": 46.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 46.12,
+      "fin": 46.16,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "dice",
+      "inicio": 46.24,
+      "fin": 46.48,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 46.52,
+      "fin": 46.56,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 46.64,
+      "fin": 46.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "papel",
+      "inicio": 46.72,
+      "fin": 47.12,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 47.16,
+      "fin": 47.2,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 47.28,
+      "fin": 47.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 47.52,
+      "fin": 47.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "doblar",
+      "inicio": 47.76,
+      "fin": 48.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 48.12,
+      "fin": 48.24,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 48.32,
+      "fin": 48.4,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 48.48,
+      "fin": 48.64,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "veces.",
+      "inicio": 48.76,
+      "fin": 49.36,
+      "frase": 12,
+      "clave": false
+    }
+  ]
+}
