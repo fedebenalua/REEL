@@ -1,0 +1,18 @@
+{
+  "titulo": "The remote and the TV next door",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote was almost going to change the channel next door.", "clave": "door", "hook": true },
+    { "texto": "Radio goes through the wall, so one press would flip both TVs.", "clave": "wall", "hook": true },
+    { "texto": "So they built a click the wall could stop.", "clave": "click" },
+    { "texto": "A tiny hammer hit a metal rod, about as long as your thumb.", "clave": "thumb" },
+    { "texto": "Four notes, too high to hear: next channel, last channel, mute, and off.", "clave": "notes" },
+    { "texto": "No batteries. If they died, you'd think the TV was broken.", "clave": "batteries" },
+    { "texto": "Nine million TVs listened to that click for twenty five years.", "clave": "million" },
+    { "texto": "Then the click became a light you can't see, and you have to point it.", "clave": "light" },
+    { "texto": "Your phone is radio again, but only for the TV in your house.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who keeps losing the remote.", "clave": "friend" }
+  ]
+}
