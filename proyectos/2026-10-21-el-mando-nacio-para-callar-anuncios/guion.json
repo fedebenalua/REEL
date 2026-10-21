@@ -1,0 +1,19 @@
+{
+  "titulo": "Your TV remote was invented to shut the ads up",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote was invented to shut the ads up.", "clave": "ads", "hook": true },
+    { "texto": "The man who ran Zenith hated commercials so much, he thought television would die.", "clave": "die", "hook": true },
+    { "texto": "He wanted a button that could mute them from the couch.", "clave": "mute", "hook": true },
+    { "texto": "The first one was a cable across the floor, and people tripped on it.", "clave": "tripped" },
+    { "texto": "It changed the channel. The ad kept talking.", "clave": "talking" },
+    { "texto": "So the next one was a flashlight. Aim it at the corner, and the sound dies.", "clave": "flashlight" },
+    { "texto": "Sunshine hit the screen, and the channels spun on their own.", "clave": "spun" },
+    { "texto": "It did not kill the ads. It taught you to leave them.", "clave": "leave" },
+    { "texto": "Before the remote, you were stuck, because getting up was too much.", "clave": "stuck" },
+    { "texto": "One click, and you were gone, so the ads learned to grab you.", "clave": "grab" },
+    { "texto": "That button is in your phone now. The app is in the link in my bio.", "clave": "phone" },
+    { "texto": "Send this to that friend who still yells at the ads.", "clave": "yells" }
+  ]
+}
