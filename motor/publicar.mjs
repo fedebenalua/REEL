@@ -29,6 +29,7 @@ const PUBLICADOS = join(RAIZ, PERFIL ? `publicados-${PERFIL}.json` : "publicados
 const CONFIG = join(RAIZ, "zernio.json");
 
 function clave() {
+  if (process.env.ZERNIO_API_KEY) return process.env.ZERNIO_API_KEY; // en la nube, la clave llega por el entorno
   const f = join(RAIZ, ".env.local");
   const m = existsSync(f) && readFileSync(f, "utf8").match(/^ZERNIO_API_KEY=(\S+)/m);
   if (!m) fallo("Falta la clave de Zernio. Ejecuta: node motor/clave.mjs --zernio");
