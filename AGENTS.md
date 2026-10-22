@@ -36,6 +36,10 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
   `node motor/publicar.mjs <vídeo> --perfil perros`: un vídeo cada 6 horas, con su propia lista
   (`publicados-perros.json`). Los demás vídeos no usan ese perfil, y los de perros no se publican en las cuentas del
   mando.
+- Los vídeos de curiosidades virales (Instagram @vetclinic1990 y YouTube @andreaafiliacion, ver `curiosidades.md`) se
+  publican solo ahí, con `node motor/publicar.mjs <vídeo> --perfil curiosidades`: un vídeo cada 6 horas, con su propia
+  lista (`publicados-curiosidades.json`). No usan el perfil del mando ni el de perros, y los de esos perfiles no se
+  publican en estas cuentas.
 - Si dice «a partir de ahora publica directamente», guárdalo en `preferencias.md` con sus palabras y deja de preguntar.
 
 ## La carpeta
