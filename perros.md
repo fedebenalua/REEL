@@ -13,6 +13,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 ## Ya hechos
 
 - Por qué tu perro tira de la correa (`proyectos/2026-10-22-perro-tira-correa`).
+- Por qué mueve la cola más hacia un lado (`proyectos/2026-10-22-perro-mueve-la-cola`).
 
 ## Ideas pendientes
 
@@ -22,7 +23,6 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué inclinan la cabeza cuando les hablas.
 - Por qué ladran a la nada de noche.
 - Por qué se lamen la nariz y por qué la tienen húmeda.
-- Por qué mueven la cola hacia un lado u otro.
 - Por qué bostezan cuando tú bostezas.
 - Por qué entierran los huesos.
 - Por qué patalean al rascarles la barriga.

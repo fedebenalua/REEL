@@ -1,0 +1,2 @@
+Tu perro no mueve la cola igual a los dos lados.
+Si llega más lejos a su derecha, quiere acercarse. A su izquierda, apartarse.

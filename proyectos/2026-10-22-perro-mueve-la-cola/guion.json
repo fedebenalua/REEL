@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué tu perro mueve la cola más hacia un lado",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro mueve la cola más hacia un lado que hacia el otro?", "clave": "lado", "hook": true },
+    { "texto": "En treinta perros grabados, el meneo no llegaba igual de lejos a los dos lados.", "clave": "treinta", "hook": true },
+    { "texto": "Si te ve a ti, llega más lejos hacia su derecha.", "clave": "derecha" },
+    { "texto": "Esa derecha la empuja la mitad izquierda de su cerebro, la del acercarse.", "clave": "izquierda" },
+    { "texto": "Igual que tu mano derecha, que obedece a esa misma mitad.", "clave": "mano" },
+    { "texto": "Si aparece un perro que no conoce y le impone, llega más lejos hacia su izquierda.", "clave": "impone" },
+    { "texto": "Esa izquierda la empuja la otra mitad, la del apartarse.", "clave": "apartarse" },
+    { "texto": "Y otro perro lo nota: si el meneo va más a la izquierda, se le acelera el corazón.", "clave": "corazón" },
+    { "texto": "A simple vista casi no se aprecia: lo midieron en vídeo.", "clave": "vídeo" },
+    { "texto": "Así que la cola no dice solo que está contento: dice si se acerca o se aparta.", "clave": "aparta" },
+    { "texto": "Envíaselo a ese amigo al que su perro le mueve la cola y ya cree que está todo bien.", "clave": "bien" }
+  ]
+}
