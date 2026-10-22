@@ -19,6 +19,8 @@ Un vídeo cada 6 horas, en Instagram Reels (@vetclinic1990) y YouTube Shorts (@a
 
 (La lista de lo publicado está en `publicados-curiosidades.json`.)
 
+- Un rayo es cinco veces más caliente que el Sol (2026-10-22).
+
 ## Ideas pendientes
 
 (Antes de elegir, mira `proyectos/`: ya hay vídeos del plátano, el pulpo, el papel doblado, el primer móvil, los gatos,
