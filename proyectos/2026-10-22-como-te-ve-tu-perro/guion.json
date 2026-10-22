@@ -1,0 +1,16 @@
+{
+  "titulo": "Cómo te ve tu perro",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo te ve tu perro cuando te mira?", "clave": "perro", "hook": true },
+    { "texto": "Para él eres una mancha: lo que tú distingues a veinte metros, él tiene que verlo a cinco.", "clave": "mancha", "hook": true },
+    { "texto": "Pero si te mueves, te ve al instante: hay perros que ven algo moverse a más de ochocientos metros.", "clave": "mueves" },
+    { "texto": "No ve en blanco y negro: ve azules y amarillos, pero el rojo y el verde los confunde.", "clave": "amarillos" },
+    { "texto": "De noche, en cambio, te ve mejor que tú a él: tiene un espejo detrás del ojo que aprovecha la luz dos veces.", "clave": "espejo" },
+    { "texto": "Pero sobre todo te huele: en un escáner, tu olor le enciende la zona de los premios del cerebro, más que el de un desconocido.", "clave": "olor" },
+    { "texto": "Y en el test de apego que se hace a los bebés, te busca igual que un niño a sus padres.", "clave": "apego" },
+    { "texto": "Así que no le hace falta verte bien: te reconoce con la nariz.", "clave": "nariz" },
+    { "texto": "Envíaselo a ese amigo que cree que su perro solo le quiere por la comida.", "clave": "comida" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titulo": "Cómo te ve tu gato",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo te ve tu gato cuando te mira?", "clave": "gato", "hook": true },
+    { "texto": "Para empezar, borroso: ve unas seis veces menos detalle que tú.", "clave": "borroso", "hook": true },
+    { "texto": "El azul lo ve bien, pero el rojo y el verde los confunde.", "clave": "rojo" },
+    { "texto": "Pero apaga la luz, y gana él: le basta con seis veces menos luz que a ti.", "clave": "luz" },
+    { "texto": "Detrás del ojo tiene un espejo: por eso le brillan en la oscuridad.", "clave": "espejo" },
+    { "texto": "Y aunque te vea borroso, sabe que eres tú: distingue tu voz de la de un desconocido.", "clave": "voz" },
+    { "texto": "Te saluda como a otro gato: con la cola levantada, frotándose contra ti.", "clave": "cola" },
+    { "texto": "Y dos de cada tres gatos te usan de refugio, igual que un bebé con sus padres.", "clave": "refugio" },
+    { "texto": "Así que te ve borroso y sin rojos, pero sabe perfectamente quién eres.", "clave": "quién" },
+    { "texto": "Envíaselo a ese amigo que dice que a su gato le da igual.", "clave": "igual" }
+  ]
+}

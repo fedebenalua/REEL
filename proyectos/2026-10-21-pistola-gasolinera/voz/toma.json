@@ -1,0 +1,774 @@
+{
+  "firma": "fabf115d042e",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "sabe",
+      "inicio": 0.32,
+      "fin": 0.48
+    },
+    {
+      "texto": "la",
+      "inicio": 0.56,
+      "fin": 0.6
+    },
+    {
+      "texto": "pistola",
+      "inicio": 0.64,
+      "fin": 1.04
+    },
+    {
+      "texto": "de",
+      "inicio": 1.08,
+      "fin": 1.12
+    },
+    {
+      "texto": "la",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "gasolinera",
+      "inicio": 1.28,
+      "fin": 1.76
+    },
+    {
+      "texto": "que",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 2,
+      "fin": 2.08
+    },
+    {
+      "texto": "depósito",
+      "inicio": 2.16,
+      "fin": 2.56
+    },
+    {
+      "texto": "está",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "lleno,",
+      "inicio": 2.84,
+      "fin": 3.28
+    },
+    {
+      "texto": "si",
+      "inicio": 3.36,
+      "fin": 3.44
+    },
+    {
+      "texto": "no",
+      "inicio": 3.52,
+      "fin": 3.6
+    },
+    {
+      "texto": "tiene",
+      "inicio": 3.68,
+      "fin": 3.84
+    },
+    {
+      "texto": "ni",
+      "inicio": 3.88,
+      "fin": 3.92
+    },
+    {
+      "texto": "un",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "cable?",
+      "inicio": 4.187,
+      "fin": 4.96
+    },
+    {
+      "texto": "Y",
+      "inicio": 5,
+      "fin": 5.04
+    },
+    {
+      "texto": "si",
+      "inicio": 5.12,
+      "fin": 5.16
+    },
+    {
+      "texto": "sigues",
+      "inicio": 5.2,
+      "fin": 5.44
+    },
+    {
+      "texto": "apretando",
+      "inicio": 5.52,
+      "fin": 6
+    },
+    {
+      "texto": "cuando",
+      "inicio": 6.04,
+      "fin": 6.24
+    },
+    {
+      "texto": "salta,",
+      "inicio": 6.32,
+      "fin": 6.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "paga",
+      "inicio": 7.2,
+      "fin": 7.36
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.44,
+      "fin": 7.52
+    },
+    {
+      "texto": "coche.",
+      "inicio": 7.56,
+      "fin": 8.48
+    },
+    {
+      "texto": "Una",
+      "inicio": 8.56,
+      "fin": 8.72
+    },
+    {
+      "texto": "bomba",
+      "inicio": 8.76,
+      "fin": 8.96
+    },
+    {
+      "texto": "bajo",
+      "inicio": 9.04,
+      "fin": 9.2
+    },
+    {
+      "texto": "el",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "texto": "suelo",
+      "inicio": 9.44,
+      "fin": 9.76
+    },
+    {
+      "texto": "empuja",
+      "inicio": 9.88,
+      "fin": 10.16
+    },
+    {
+      "texto": "la",
+      "inicio": 10.24,
+      "fin": 10.28
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 10.32,
+      "fin": 10.8
+    },
+    {
+      "texto": "por",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "la",
+      "inicio": 10.96,
+      "fin": 11
+    },
+    {
+      "texto": "manguera",
+      "inicio": 11.04,
+      "fin": 11.44
+    },
+    {
+      "texto": "hasta",
+      "inicio": 11.48,
+      "fin": 11.68
+    },
+    {
+      "texto": "la",
+      "inicio": 11.76,
+      "fin": 11.8
+    },
+    {
+      "texto": "pistola.",
+      "inicio": 11.84,
+      "fin": 12.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "texto": "la",
+      "inicio": 12.92,
+      "fin": 12.96
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 13.04,
+      "fin": 13.44
+    },
+    {
+      "texto": "pasa",
+      "inicio": 13.52,
+      "fin": 13.84
+    },
+    {
+      "texto": "tan",
+      "inicio": 13.96,
+      "fin": 14.08
+    },
+    {
+      "texto": "deprisa",
+      "inicio": 14.16,
+      "fin": 14.56
+    },
+    {
+      "texto": "que",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "texto": "chupa",
+      "inicio": 14.88,
+      "fin": 15.12
+    },
+    {
+      "texto": "aire",
+      "inicio": 15.2,
+      "fin": 15.44
+    },
+    {
+      "texto": "por",
+      "inicio": 15.48,
+      "fin": 15.52
+    },
+    {
+      "texto": "un",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "texto": "agujerito",
+      "inicio": 15.72,
+      "fin": 16.16
+    },
+    {
+      "texto": "de",
+      "inicio": 16.24,
+      "fin": 16.28
+    },
+    {
+      "texto": "la",
+      "inicio": 16.32,
+      "fin": 16.36
+    },
+    {
+      "texto": "punta.",
+      "inicio": 16.4,
+      "fin": 17.36
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 17.4,
+      "fin": 17.52
+    },
+    {
+      "texto": "la",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 17.76,
+      "fin": 18.08
+    },
+    {
+      "texto": "sube",
+      "inicio": 18.16,
+      "fin": 18.48
+    },
+    {
+      "texto": "y",
+      "inicio": 18.52,
+      "fin": 18.56
+    },
+    {
+      "texto": "tapa",
+      "inicio": 18.64,
+      "fin": 18.88
+    },
+    {
+      "texto": "ese",
+      "inicio": 18.96,
+      "fin": 19.04
+    },
+    {
+      "texto": "agujerito,",
+      "inicio": 19.08,
+      "fin": 19.84
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "texto": "no",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "texto": "entra",
+      "inicio": 20.24,
+      "fin": 20.4
+    },
+    {
+      "texto": "aire.",
+      "inicio": 20.48,
+      "fin": 21.28
+    },
+    {
+      "texto": "El",
+      "inicio": 21.32,
+      "fin": 21.36
+    },
+    {
+      "texto": "vacío",
+      "inicio": 21.48,
+      "fin": 21.84
+    },
+    {
+      "texto": "tira",
+      "inicio": 21.88,
+      "fin": 22.08
+    },
+    {
+      "texto": "de",
+      "inicio": 22.16,
+      "fin": 22.24
+    },
+    {
+      "texto": "una",
+      "inicio": 22.32,
+      "fin": 22.4
+    },
+    {
+      "texto": "membrana,",
+      "inicio": 22.52,
+      "fin": 23.12
+    },
+    {
+      "texto": "suelta",
+      "inicio": 23.16,
+      "fin": 23.44
+    },
+    {
+      "texto": "un",
+      "inicio": 23.52,
+      "fin": 23.6
+    },
+    {
+      "texto": "muelle",
+      "inicio": 23.64,
+      "fin": 23.92
+    },
+    {
+      "texto": "y",
+      "inicio": 24.16,
+      "fin": 24.2
+    },
+    {
+      "texto": "la",
+      "inicio": 24.24,
+      "fin": 24.32
+    },
+    {
+      "texto": "pistola",
+      "inicio": 24.36,
+      "fin": 24.72
+    },
+    {
+      "texto": "se",
+      "inicio": 24.8,
+      "fin": 24.96
+    },
+    {
+      "texto": "cierra",
+      "inicio": 25.04,
+      "fin": 25.28
+    },
+    {
+      "texto": "de",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "texto": "golpe.",
+      "inicio": 25.493,
+      "fin": 26.4
+    },
+    {
+      "texto": "Si",
+      "inicio": 26.44,
+      "fin": 26.48
+    },
+    {
+      "texto": "sigues",
+      "inicio": 26.56,
+      "fin": 26.8
+    },
+    {
+      "texto": "apretando,",
+      "inicio": 26.88,
+      "fin": 27.52
+    },
+    {
+      "texto": "llenas",
+      "inicio": 27.6,
+      "fin": 27.92
+    },
+    {
+      "texto": "el",
+      "inicio": 27.96,
+      "fin": 28
+    },
+    {
+      "texto": "hueco",
+      "inicio": 28.08,
+      "fin": 28.32
+    },
+    {
+      "texto": "que",
+      "inicio": 28.36,
+      "fin": 28.4
+    },
+    {
+      "texto": "el",
+      "inicio": 28.44,
+      "fin": 28.48
+    },
+    {
+      "texto": "depósito",
+      "inicio": 28.56,
+      "fin": 28.96
+    },
+    {
+      "texto": "guarda",
+      "inicio": 29.04,
+      "fin": 29.36
+    },
+    {
+      "texto": "para",
+      "inicio": 29.44,
+      "fin": 29.52
+    },
+    {
+      "texto": "los",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "texto": "vapores.",
+      "inicio": 29.76,
+      "fin": 30.72
+    },
+    {
+      "texto": "Y",
+      "inicio": 30.747,
+      "fin": 30.773
+    },
+    {
+      "texto": "la",
+      "inicio": 30.8,
+      "fin": 30.88
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 30.96,
+      "fin": 31.36
+    },
+    {
+      "texto": "se",
+      "inicio": 31.44,
+      "fin": 31.52
+    },
+    {
+      "texto": "mete",
+      "inicio": 31.6,
+      "fin": 31.76
+    },
+    {
+      "texto": "en",
+      "inicio": 31.8,
+      "fin": 31.84
+    },
+    {
+      "texto": "el",
+      "inicio": 31.88,
+      "fin": 31.92
+    },
+    {
+      "texto": "filtro",
+      "inicio": 32,
+      "fin": 32.32
+    },
+    {
+      "texto": "de",
+      "inicio": 32.36,
+      "fin": 32.4
+    },
+    {
+      "texto": "carbón",
+      "inicio": 32.48,
+      "fin": 32.72
+    },
+    {
+      "texto": "del",
+      "inicio": 32.8,
+      "fin": 32.88
+    },
+    {
+      "texto": "coche,",
+      "inicio": 32.96,
+      "fin": 33.36
+    },
+    {
+      "texto": "que",
+      "inicio": 33.4,
+      "fin": 33.44
+    },
+    {
+      "texto": "solo",
+      "inicio": 33.6,
+      "fin": 33.76
+    },
+    {
+      "texto": "aguanta",
+      "inicio": 33.84,
+      "fin": 34.24
+    },
+    {
+      "texto": "vapor.",
+      "inicio": 34.347,
+      "fin": 35.12
+    },
+    {
+      "texto": "Se",
+      "inicio": 35.16,
+      "fin": 35.2
+    },
+    {
+      "texto": "empapa,",
+      "inicio": 35.28,
+      "fin": 36
+    },
+    {
+      "texto": "se",
+      "inicio": 36.04,
+      "fin": 36.08
+    },
+    {
+      "texto": "estropea,",
+      "inicio": 36.24,
+      "fin": 37.04
+    },
+    {
+      "texto": "y",
+      "inicio": 37.08,
+      "fin": 37.12
+    },
+    {
+      "texto": "cambiarlo",
+      "inicio": 37.16,
+      "fin": 37.68
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 37.787,
+      "fin": 38
+    },
+    {
+      "texto": "cientos",
+      "inicio": 38.16,
+      "fin": 38.56
+    },
+    {
+      "texto": "de",
+      "inicio": 38.64,
+      "fin": 38.72
+    },
+    {
+      "texto": "euros.",
+      "inicio": 38.76,
+      "fin": 39.6
+    },
+    {
+      "texto": "Así",
+      "inicio": 39.68,
+      "fin": 39.84
+    },
+    {
+      "texto": "que",
+      "inicio": 39.92,
+      "fin": 40
+    },
+    {
+      "texto": "no",
+      "inicio": 40.16,
+      "fin": 40.32
+    },
+    {
+      "texto": "hay",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "texto": "ningún",
+      "inicio": 40.56,
+      "fin": 40.8
+    },
+    {
+      "texto": "cable:",
+      "inicio": 40.88,
+      "fin": 41.52
+    },
+    {
+      "texto": "la",
+      "inicio": 41.6,
+      "fin": 41.68
+    },
+    {
+      "texto": "propia",
+      "inicio": 41.76,
+      "fin": 42.08
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 42.16,
+      "fin": 42.56
+    },
+    {
+      "texto": "cierra",
+      "inicio": 42.72,
+      "fin": 42.96
+    },
+    {
+      "texto": "la",
+      "inicio": 43.04,
+      "fin": 43.12
+    },
+    {
+      "texto": "pistola.",
+      "inicio": 43.16,
+      "fin": 44
+    },
+    {
+      "texto": "En",
+      "inicio": 44.04,
+      "fin": 44.08
+    },
+    {
+      "texto": "el",
+      "inicio": 44.16,
+      "fin": 44.24
+    },
+    {
+      "texto": "primer",
+      "inicio": 44.36,
+      "fin": 44.48
+    },
+    {
+      "texto": "clac,",
+      "inicio": 44.56,
+      "fin": 45.12
+    },
+    {
+      "texto": "para.",
+      "inicio": 45.24,
+      "fin": 46
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.08,
+      "fin": 46.56
+    },
+    {
+      "texto": "a",
+      "inicio": 46.6,
+      "fin": 46.64
+    },
+    {
+      "texto": "ese",
+      "inicio": 46.72,
+      "fin": 46.8
+    },
+    {
+      "texto": "amigo",
+      "inicio": 46.88,
+      "fin": 47.12
+    },
+    {
+      "texto": "que",
+      "inicio": 47.16,
+      "fin": 47.2
+    },
+    {
+      "texto": "siempre",
+      "inicio": 47.36,
+      "fin": 47.68
+    },
+    {
+      "texto": "redondea",
+      "inicio": 47.76,
+      "fin": 48.2
+    },
+    {
+      "texto": "hasta",
+      "inicio": 48.24,
+      "fin": 48.4
+    },
+    {
+      "texto": "los",
+      "inicio": 48.48,
+      "fin": 48.56
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 48.6,
+      "fin": 48.96
+    },
+    {
+      "texto": "euros.",
+      "inicio": 49.12,
+      "fin": 49.68
+    }
+  ]
+}

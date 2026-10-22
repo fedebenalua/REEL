@@ -1,0 +1,1149 @@
+{
+  "firma": "fabf115d042e",
+  "duracion": 50.48,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Cómo sabe la pistola de la gasolinera que tu depósito está lleno, si no tiene ni un cable?",
+      "clave": "cable",
+      "inicio": 0,
+      "fin": 4.96
+    },
+    {
+      "n": 2,
+      "texto": "Y si sigues apretando cuando salta, lo paga tu coche.",
+      "clave": "coche",
+      "inicio": 5,
+      "fin": 8.48
+    },
+    {
+      "n": 3,
+      "texto": "Una bomba bajo el suelo empuja la gasolina por la manguera hasta la pistola.",
+      "clave": "bomba",
+      "inicio": 8.56,
+      "fin": 12.8
+    },
+    {
+      "n": 4,
+      "texto": "Y la gasolina pasa tan deprisa que chupa aire por un agujerito de la punta.",
+      "clave": "agujerito",
+      "inicio": 12.84,
+      "fin": 17.36
+    },
+    {
+      "n": 5,
+      "texto": "Cuando la gasolina sube y tapa ese agujerito, ya no entra aire.",
+      "clave": "tapa",
+      "inicio": 17.4,
+      "fin": 21.28
+    },
+    {
+      "n": 6,
+      "texto": "El vacío tira de una membrana, suelta un muelle y la pistola se cierra de golpe.",
+      "clave": "golpe",
+      "inicio": 21.32,
+      "fin": 26.4
+    },
+    {
+      "n": 7,
+      "texto": "Si sigues apretando, llenas el hueco que el depósito guarda para los vapores.",
+      "clave": "vapores",
+      "inicio": 26.44,
+      "fin": 30.72
+    },
+    {
+      "n": 8,
+      "texto": "Y la gasolina se mete en el filtro de carbón del coche, que solo aguanta vapor.",
+      "clave": "carbón",
+      "inicio": 30.747,
+      "fin": 35.12
+    },
+    {
+      "n": 9,
+      "texto": "Se empapa, se estropea, y cambiarlo cuesta cientos de euros.",
+      "clave": "cientos",
+      "inicio": 35.16,
+      "fin": 39.6
+    },
+    {
+      "n": 10,
+      "texto": "Así que no hay ningún cable: la propia gasolina cierra la pistola. En el primer clac, para.",
+      "clave": "clac",
+      "inicio": 39.68,
+      "fin": 46
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que siempre redondea hasta los cincuenta euros.",
+      "clave": "cincuenta",
+      "inicio": 46.08,
+      "fin": 49.68
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sabe",
+      "inicio": 0.32,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 0.56,
+      "fin": 0.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "pistola",
+      "inicio": 0.64,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.08,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.16,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gasolinera",
+      "inicio": 1.28,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 1.84,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 2,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "depósito",
+      "inicio": 2.16,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 2.64,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lleno,",
+      "inicio": 2.84,
+      "fin": 3.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 3.36,
+      "fin": 3.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 3.52,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 3.68,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 3.88,
+      "fin": 3.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 4,
+      "fin": 4.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cable?",
+      "inicio": 4.187,
+      "fin": 4.96,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 5,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 5.12,
+      "fin": 5.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sigues",
+      "inicio": 5.2,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "apretando",
+      "inicio": 5.52,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 6.04,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "salta,",
+      "inicio": 6.32,
+      "fin": 6.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 7.04,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "paga",
+      "inicio": 7.2,
+      "fin": 7.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 7.44,
+      "fin": 7.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "coche.",
+      "inicio": 7.56,
+      "fin": 8.48,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 8.56,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "bomba",
+      "inicio": 8.76,
+      "fin": 8.96,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "bajo",
+      "inicio": 9.04,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "suelo",
+      "inicio": 9.44,
+      "fin": 9.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "empuja",
+      "inicio": 9.88,
+      "fin": 10.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 10.24,
+      "fin": 10.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 10.32,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 10.84,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 10.96,
+      "fin": 11,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "manguera",
+      "inicio": 11.04,
+      "fin": 11.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 11.48,
+      "fin": 11.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 11.76,
+      "fin": 11.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pistola.",
+      "inicio": 11.84,
+      "fin": 12.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.84,
+      "fin": 12.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 12.92,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 13.04,
+      "fin": 13.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pasa",
+      "inicio": 13.52,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tan",
+      "inicio": 13.96,
+      "fin": 14.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "deprisa",
+      "inicio": 14.16,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 14.72,
+      "fin": 14.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "chupa",
+      "inicio": 14.88,
+      "fin": 15.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 15.2,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 15.48,
+      "fin": 15.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 15.6,
+      "fin": 15.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "agujerito",
+      "inicio": 15.72,
+      "fin": 16.16,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 16.24,
+      "fin": 16.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 16.32,
+      "fin": 16.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "punta.",
+      "inicio": 16.4,
+      "fin": 17.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 17.4,
+      "fin": 17.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.6,
+      "fin": 17.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 17.76,
+      "fin": 18.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "sube",
+      "inicio": 18.16,
+      "fin": 18.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 18.52,
+      "fin": 18.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 18.64,
+      "fin": 18.88,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "ese",
+      "inicio": 18.96,
+      "fin": 19.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "agujerito,",
+      "inicio": 19.08,
+      "fin": 19.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.92,
+      "fin": 20,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 20.08,
+      "fin": 20.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "entra",
+      "inicio": 20.24,
+      "fin": 20.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "aire.",
+      "inicio": 20.48,
+      "fin": 21.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 21.32,
+      "fin": 21.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "vacío",
+      "inicio": 21.48,
+      "fin": 21.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tira",
+      "inicio": 21.88,
+      "fin": 22.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.16,
+      "fin": 22.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 22.32,
+      "fin": 22.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "membrana,",
+      "inicio": 22.52,
+      "fin": 23.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 23.16,
+      "fin": 23.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 23.52,
+      "fin": 23.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "muelle",
+      "inicio": 23.64,
+      "fin": 23.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 24.16,
+      "fin": 24.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 24.24,
+      "fin": 24.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pistola",
+      "inicio": 24.36,
+      "fin": 24.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 24.8,
+      "fin": 24.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cierra",
+      "inicio": 25.04,
+      "fin": 25.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.36,
+      "fin": 25.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "golpe.",
+      "inicio": 25.493,
+      "fin": 26.4,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 26.44,
+      "fin": 26.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sigues",
+      "inicio": 26.56,
+      "fin": 26.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "apretando,",
+      "inicio": 26.88,
+      "fin": 27.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "llenas",
+      "inicio": 27.6,
+      "fin": 27.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.96,
+      "fin": 28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hueco",
+      "inicio": 28.08,
+      "fin": 28.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 28.36,
+      "fin": 28.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 28.44,
+      "fin": 28.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "depósito",
+      "inicio": 28.56,
+      "fin": 28.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "guarda",
+      "inicio": 29.04,
+      "fin": 29.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 29.44,
+      "fin": 29.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 29.6,
+      "fin": 29.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "vapores.",
+      "inicio": 29.76,
+      "fin": 30.72,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 30.747,
+      "fin": 30.773,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 30.8,
+      "fin": 30.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 30.96,
+      "fin": 31.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 31.44,
+      "fin": 31.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mete",
+      "inicio": 31.6,
+      "fin": 31.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 31.8,
+      "fin": 31.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 31.88,
+      "fin": 31.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "filtro",
+      "inicio": 32,
+      "fin": 32.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 32.36,
+      "fin": 32.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "carbón",
+      "inicio": 32.48,
+      "fin": 32.72,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "del",
+      "inicio": 32.8,
+      "fin": 32.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "coche,",
+      "inicio": 32.96,
+      "fin": 33.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 33.4,
+      "fin": 33.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 33.6,
+      "fin": 33.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "aguanta",
+      "inicio": 33.84,
+      "fin": 34.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "vapor.",
+      "inicio": 34.347,
+      "fin": 35.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Se",
+      "inicio": 35.16,
+      "fin": 35.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "empapa,",
+      "inicio": 35.28,
+      "fin": 36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 36.04,
+      "fin": 36.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "estropea,",
+      "inicio": 36.24,
+      "fin": 37.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 37.08,
+      "fin": 37.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cambiarlo",
+      "inicio": 37.16,
+      "fin": 37.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 37.787,
+      "fin": 38,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cientos",
+      "inicio": 38.16,
+      "fin": 38.56,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 38.64,
+      "fin": 38.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "euros.",
+      "inicio": 38.76,
+      "fin": 39.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 39.68,
+      "fin": 39.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.92,
+      "fin": 40,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 40.16,
+      "fin": 40.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 40.4,
+      "fin": 40.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ningún",
+      "inicio": 40.56,
+      "fin": 40.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cable:",
+      "inicio": 40.88,
+      "fin": 41.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 41.6,
+      "fin": 41.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "propia",
+      "inicio": 41.76,
+      "fin": 42.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 42.16,
+      "fin": 42.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cierra",
+      "inicio": 42.72,
+      "fin": 42.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.04,
+      "fin": 43.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pistola.",
+      "inicio": 43.16,
+      "fin": 44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 44.04,
+      "fin": 44.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 44.16,
+      "fin": 44.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "primer",
+      "inicio": 44.36,
+      "fin": 44.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "clac,",
+      "inicio": 44.56,
+      "fin": 45.12,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "para.",
+      "inicio": 45.24,
+      "fin": 46,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.08,
+      "fin": 46.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 46.6,
+      "fin": 46.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 46.72,
+      "fin": 46.8,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 46.88,
+      "fin": 47.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 47.16,
+      "fin": 47.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 47.36,
+      "fin": 47.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "redondea",
+      "inicio": 47.76,
+      "fin": 48.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 48.24,
+      "fin": 48.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 48.48,
+      "fin": 48.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 48.6,
+      "fin": 48.96,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "euros.",
+      "inicio": 49.12,
+      "fin": 49.68,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

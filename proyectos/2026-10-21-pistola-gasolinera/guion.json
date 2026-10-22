@@ -1,0 +1,53 @@
+{
+  "titulo": "El clac de la pistola de la gasolinera",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Cómo sabe la pistola de la gasolinera que tu depósito está lleno, si no tiene ni un cable?",
+      "clave": "cable",
+      "hook": true
+    },
+    {
+      "texto": "Y si sigues apretando cuando salta, lo paga tu coche.",
+      "clave": "coche",
+      "hook": true
+    },
+    {
+      "texto": "Una bomba bajo el suelo empuja la gasolina por la manguera hasta la pistola.",
+      "clave": "bomba"
+    },
+    {
+      "texto": "Y la gasolina pasa tan deprisa que chupa aire por un agujerito de la punta.",
+      "clave": "agujerito"
+    },
+    {
+      "texto": "Cuando la gasolina sube y tapa ese agujerito, ya no entra aire.",
+      "clave": "tapa"
+    },
+    {
+      "texto": "El vacío tira de una membrana, suelta un muelle y la pistola se cierra de golpe.",
+      "clave": "golpe"
+    },
+    {
+      "texto": "Si sigues apretando, llenas el hueco que el depósito guarda para los vapores.",
+      "clave": "vapores"
+    },
+    {
+      "texto": "Y la gasolina se mete en el filtro de carbón del coche, que solo aguanta vapor.",
+      "clave": "carbón"
+    },
+    {
+      "texto": "Se empapa, se estropea, y cambiarlo cuesta cientos de euros.",
+      "clave": "cientos"
+    },
+    {
+      "texto": "Así que no hay ningún cable: la propia gasolina cierra la pistola. En el primer clac, para.",
+      "clave": "clac"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que siempre redondea hasta los cincuenta euros.",
+      "clave": "cincuenta"
+    }
+  ]
+}

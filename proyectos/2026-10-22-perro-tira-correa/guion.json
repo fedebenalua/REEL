@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué tu perro tira de la correa",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro tira tanto de la correa?", "clave": "tira", "hook": true },
+    { "texto": "No es que no te obedezca: es que tú vas demasiado lento.", "clave": "lento", "hook": true },
+    { "texto": "Tú caminas a unos 5 kilómetros por hora. Su paso natural es un trote, de 6 a 10.", "dicho": "Tú caminas a unos cinco kilómetros por hora. Su paso natural es un trote, de seis a diez.", "clave": "trote" },
+    { "texto": "Así que la correa siempre está tensa: él tira porque tú no llegas.", "clave": "tensa" },
+    { "texto": "Y cada vez que tira y tú das un paso, aprende que tirar funciona.", "clave": "funciona" },
+    { "texto": "Para él es como una máquina de chicles: tira de la palanca, y sale lo que quiere.", "clave": "palanca" },
+    { "texto": "Y lo que quiere es oler: para muchos perros, el paseo es casi el único rato para leer la calle con la nariz.", "clave": "nariz" },
+    { "texto": "Para que pare, párate tú. Cuando la correa se tensa, quédate quieto como un árbol.", "clave": "árbol" },
+    { "texto": "Cuando se afloja, sigues andando.", "clave": "afloja" },
+    { "texto": "Así cambias la palanca: ahora solo funciona con la correa floja.", "clave": "floja" },
+    { "texto": "Envíaselo a ese amigo al que su perro lo saca a pasear a él.", "clave": "pasear" }
+  ]
+}
