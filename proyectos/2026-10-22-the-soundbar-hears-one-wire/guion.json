@@ -1,0 +1,18 @@
+{
+  "titulo": "Your TV remote never points at the soundbar",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote can turn the soundbar up, and you never pointed at it.", "clave": "pointed", "hook": true },
+    { "texto": "That light stops at the TV. The soundbar never sees it.", "clave": "stops", "hook": true },
+    { "texto": "The order walks down the HDMI cable, on one single wire.", "clave": "wire" },
+    { "texto": "The TV says louder, and it shuts its own speakers.", "clave": "speakers" },
+    { "texto": "One press can put every box on that wire to sleep.", "clave": "sleep" },
+    { "texto": "Samsung calls that wire Anynet+.", "dicho": "Samsung calls that wire Anynet plus.", "clave": "Anynet" },
+    { "texto": "Sony calls it Bravia Sync, and LG calls it SimpLink.", "clave": "SimpLink" },
+    { "texto": "Same wire. So one remote can run the whole pile.", "clave": "one" },
+    { "texto": "Now your phone can be that remote.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still keeps three remotes on the couch.", "clave": "friend" }
+  ]
+}
