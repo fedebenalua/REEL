@@ -1,0 +1,20 @@
+{
+  "titulo": "The wire inside the cable",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote turns the soundbar up, and it never points at it.", "clave": "soundbar", "hook": true },
+    { "texto": "That little light hits the TV, and it stops.", "clave": "stops", "hook": true },
+    { "texto": "So who tells the bar?", "clave": "who", "hook": true },
+    { "texto": "The order runs down one wire, inside the cable.", "clave": "wire" },
+    { "texto": "You press volume. The TV whispers. The bar gets loud.", "clave": "loud" },
+    { "texto": "Swap that cable for an optical one, and the same press does nothing.", "clave": "nothing" },
+    { "texto": "That one carries sound as a red light. It has no wire for orders.", "clave": "orders" },
+    { "texto": "The first remote was a wire across the floor, and people tripped on it.", "clave": "tripped" },
+    { "texto": "So they cut the wire. Then only the TV could hear you.", "clave": "cut" },
+    { "texto": "The wire came back, hidden inside the picture cable.", "clave": "back" },
+    { "texto": "Now your phone is the remote.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still aims at the soundbar.", "clave": "friend" }
+  ]
+}

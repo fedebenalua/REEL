@@ -1,0 +1,679 @@
+{
+  "firma": "4558be24dc5f",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Your",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "TV",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "remote",
+      "inicio": 0.72,
+      "fin": 1.12
+    },
+    {
+      "texto": "turns",
+      "inicio": 1.24,
+      "fin": 1.44
+    },
+    {
+      "texto": "the",
+      "inicio": 1.48,
+      "fin": 1.52
+    },
+    {
+      "texto": "soundbar",
+      "inicio": 1.6,
+      "fin": 2.08
+    },
+    {
+      "texto": "up,",
+      "inicio": 2.16,
+      "fin": 2.48
+    },
+    {
+      "texto": "and",
+      "inicio": 2.52,
+      "fin": 2.56
+    },
+    {
+      "texto": "it",
+      "inicio": 2.64,
+      "fin": 2.72
+    },
+    {
+      "texto": "never",
+      "inicio": 2.88,
+      "fin": 3.12
+    },
+    {
+      "texto": "points",
+      "inicio": 3.28,
+      "fin": 3.44
+    },
+    {
+      "texto": "at",
+      "inicio": 3.52,
+      "fin": 3.6
+    },
+    {
+      "texto": "it.",
+      "inicio": 3.68,
+      "fin": 4.16
+    },
+    {
+      "texto": "That",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "little",
+      "inicio": 4.4,
+      "fin": 4.56
+    },
+    {
+      "texto": "light",
+      "inicio": 4.64,
+      "fin": 4.88
+    },
+    {
+      "texto": "hits",
+      "inicio": 5,
+      "fin": 5.12
+    },
+    {
+      "texto": "the",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "texto": "TV,",
+      "inicio": 5.36,
+      "fin": 5.84
+    },
+    {
+      "texto": "and",
+      "inicio": 5.88,
+      "fin": 5.92
+    },
+    {
+      "texto": "it",
+      "inicio": 5.96,
+      "fin": 6
+    },
+    {
+      "texto": "stops.",
+      "inicio": 6.16,
+      "fin": 7.04
+    },
+    {
+      "texto": "So",
+      "inicio": 7.12,
+      "fin": 7.2
+    },
+    {
+      "texto": "who",
+      "inicio": 7.44,
+      "fin": 7.6
+    },
+    {
+      "texto": "tells",
+      "inicio": 7.64,
+      "fin": 7.84
+    },
+    {
+      "texto": "the",
+      "inicio": 7.92,
+      "fin": 8
+    },
+    {
+      "texto": "bar?",
+      "inicio": 8.16,
+      "fin": 8.88
+    },
+    {
+      "texto": "The",
+      "inicio": 8.96,
+      "fin": 9.04
+    },
+    {
+      "texto": "order",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "texto": "runs",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "texto": "down",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "texto": "one",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "texto": "wire,",
+      "inicio": 10.24,
+      "fin": 10.8
+    },
+    {
+      "texto": "inside",
+      "inicio": 11,
+      "fin": 11.2
+    },
+    {
+      "texto": "the",
+      "inicio": 11.24,
+      "fin": 11.28
+    },
+    {
+      "texto": "cable.",
+      "inicio": 11.36,
+      "fin": 12.16
+    },
+    {
+      "texto": "You",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "texto": "press",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "volume.",
+      "inicio": 12.56,
+      "fin": 13.36
+    },
+    {
+      "texto": "The",
+      "inicio": 13.44,
+      "fin": 13.52
+    },
+    {
+      "texto": "TV",
+      "inicio": 13.6,
+      "fin": 13.92
+    },
+    {
+      "texto": "whispers.",
+      "inicio": 13.96,
+      "fin": 14.8
+    },
+    {
+      "texto": "The",
+      "inicio": 14.84,
+      "fin": 14.88
+    },
+    {
+      "texto": "bar",
+      "inicio": 14.96,
+      "fin": 15.28
+    },
+    {
+      "texto": "gets",
+      "inicio": 15.36,
+      "fin": 15.6
+    },
+    {
+      "texto": "loud.",
+      "inicio": 15.68,
+      "fin": 16.56
+    },
+    {
+      "texto": "Swap",
+      "inicio": 16.64,
+      "fin": 16.88
+    },
+    {
+      "texto": "that",
+      "inicio": 16.96,
+      "fin": 17.04
+    },
+    {
+      "texto": "cable",
+      "inicio": 17.147,
+      "fin": 17.36
+    },
+    {
+      "texto": "for",
+      "inicio": 17.4,
+      "fin": 17.44
+    },
+    {
+      "texto": "an",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "texto": "optical",
+      "inicio": 17.68,
+      "fin": 18.08
+    },
+    {
+      "texto": "one,",
+      "inicio": 18.16,
+      "fin": 18.427
+    },
+    {
+      "texto": "and",
+      "inicio": 18.453,
+      "fin": 18.48
+    },
+    {
+      "texto": "the",
+      "inicio": 18.56,
+      "fin": 18.64
+    },
+    {
+      "texto": "same",
+      "inicio": 18.72,
+      "fin": 18.96
+    },
+    {
+      "texto": "press",
+      "inicio": 19.16,
+      "fin": 19.36
+    },
+    {
+      "texto": "does",
+      "inicio": 19.48,
+      "fin": 19.6
+    },
+    {
+      "texto": "nothing.",
+      "inicio": 19.8,
+      "fin": 20.48
+    },
+    {
+      "texto": "That",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "texto": "one",
+      "inicio": 20.84,
+      "fin": 20.96
+    },
+    {
+      "texto": "carries",
+      "inicio": 21.04,
+      "fin": 21.36
+    },
+    {
+      "texto": "sound",
+      "inicio": 21.52,
+      "fin": 21.68
+    },
+    {
+      "texto": "as",
+      "inicio": 21.72,
+      "fin": 21.76
+    },
+    {
+      "texto": "a",
+      "inicio": 21.84,
+      "fin": 21.92
+    },
+    {
+      "texto": "red",
+      "inicio": 22,
+      "fin": 22.08
+    },
+    {
+      "texto": "light.",
+      "inicio": 22.16,
+      "fin": 22.827
+    },
+    {
+      "texto": "It",
+      "inicio": 22.853,
+      "fin": 22.88
+    },
+    {
+      "texto": "has",
+      "inicio": 22.96,
+      "fin": 23.12
+    },
+    {
+      "texto": "no",
+      "inicio": 23.24,
+      "fin": 23.36
+    },
+    {
+      "texto": "wire",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "for",
+      "inicio": 23.76,
+      "fin": 23.84
+    },
+    {
+      "texto": "orders.",
+      "inicio": 23.92,
+      "fin": 24.8
+    },
+    {
+      "texto": "The",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "texto": "first",
+      "inicio": 25.08,
+      "fin": 25.2
+    },
+    {
+      "texto": "remote",
+      "inicio": 25.36,
+      "fin": 25.52
+    },
+    {
+      "texto": "was",
+      "inicio": 25.6,
+      "fin": 25.68
+    },
+    {
+      "texto": "a",
+      "inicio": 25.84,
+      "fin": 25.947
+    },
+    {
+      "texto": "wire",
+      "inicio": 26.053,
+      "fin": 26.16
+    },
+    {
+      "texto": "across",
+      "inicio": 26.24,
+      "fin": 26.48
+    },
+    {
+      "texto": "the",
+      "inicio": 26.56,
+      "fin": 26.64
+    },
+    {
+      "texto": "floor,",
+      "inicio": 26.84,
+      "fin": 27.093
+    },
+    {
+      "texto": "and",
+      "inicio": 27.147,
+      "fin": 27.2
+    },
+    {
+      "texto": "people",
+      "inicio": 27.36,
+      "fin": 27.52
+    },
+    {
+      "texto": "tripped",
+      "inicio": 27.56,
+      "fin": 27.76
+    },
+    {
+      "texto": "on",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "texto": "it.",
+      "inicio": 28.16,
+      "fin": 28.48
+    },
+    {
+      "texto": "So",
+      "inicio": 28.56,
+      "fin": 28.64
+    },
+    {
+      "texto": "they",
+      "inicio": 28.72,
+      "fin": 28.8
+    },
+    {
+      "texto": "cut",
+      "inicio": 28.88,
+      "fin": 28.96
+    },
+    {
+      "texto": "the",
+      "inicio": 29.04,
+      "fin": 29.12
+    },
+    {
+      "texto": "wire.",
+      "inicio": 29.48,
+      "fin": 29.92
+    },
+    {
+      "texto": "Then",
+      "inicio": 30.08,
+      "fin": 30.24
+    },
+    {
+      "texto": "only",
+      "inicio": 30.32,
+      "fin": 30.48
+    },
+    {
+      "texto": "the",
+      "inicio": 30.56,
+      "fin": 30.64
+    },
+    {
+      "texto": "TV",
+      "inicio": 30.72,
+      "fin": 31.12
+    },
+    {
+      "texto": "could",
+      "inicio": 31.2,
+      "fin": 31.28
+    },
+    {
+      "texto": "hear",
+      "inicio": 31.4,
+      "fin": 31.52
+    },
+    {
+      "texto": "you.",
+      "inicio": 31.84,
+      "fin": 32.213
+    },
+    {
+      "texto": "The",
+      "inicio": 32.267,
+      "fin": 32.32
+    },
+    {
+      "texto": "wire",
+      "inicio": 32.44,
+      "fin": 32.56
+    },
+    {
+      "texto": "came",
+      "inicio": 32.64,
+      "fin": 32.8
+    },
+    {
+      "texto": "back,",
+      "inicio": 32.88,
+      "fin": 33.32
+    },
+    {
+      "texto": "hidden",
+      "inicio": 33.36,
+      "fin": 33.6
+    },
+    {
+      "texto": "inside",
+      "inicio": 33.8,
+      "fin": 34
+    },
+    {
+      "texto": "the",
+      "inicio": 34.04,
+      "fin": 34.08
+    },
+    {
+      "texto": "picture",
+      "inicio": 34.16,
+      "fin": 34.4
+    },
+    {
+      "texto": "cable.",
+      "inicio": 34.48,
+      "fin": 35.28
+    },
+    {
+      "texto": "Now",
+      "inicio": 35.44,
+      "fin": 35.6
+    },
+    {
+      "texto": "your",
+      "inicio": 35.68,
+      "fin": 35.84
+    },
+    {
+      "texto": "phone",
+      "inicio": 35.92,
+      "fin": 36.16
+    },
+    {
+      "texto": "is",
+      "inicio": 36.24,
+      "fin": 36.32
+    },
+    {
+      "texto": "the",
+      "inicio": 36.36,
+      "fin": 36.4
+    },
+    {
+      "texto": "remote.",
+      "inicio": 36.8,
+      "fin": 37.253
+    },
+    {
+      "texto": "The",
+      "inicio": 37.307,
+      "fin": 37.36
+    },
+    {
+      "texto": "app",
+      "inicio": 37.44,
+      "fin": 37.6
+    },
+    {
+      "texto": "is",
+      "inicio": 37.68,
+      "fin": 37.76
+    },
+    {
+      "texto": "in",
+      "inicio": 37.8,
+      "fin": 37.84
+    },
+    {
+      "texto": "the",
+      "inicio": 37.88,
+      "fin": 37.92
+    },
+    {
+      "texto": "link",
+      "inicio": 38,
+      "fin": 38.16
+    },
+    {
+      "texto": "in",
+      "inicio": 38.24,
+      "fin": 38.32
+    },
+    {
+      "texto": "bio.",
+      "inicio": 38.72,
+      "fin": 39.16
+    },
+    {
+      "texto": "Send",
+      "inicio": 39.2,
+      "fin": 39.28
+    },
+    {
+      "texto": "it",
+      "inicio": 39.36,
+      "fin": 39.44
+    },
+    {
+      "texto": "to",
+      "inicio": 39.48,
+      "fin": 39.52
+    },
+    {
+      "texto": "that",
+      "inicio": 39.64,
+      "fin": 39.76
+    },
+    {
+      "texto": "friend",
+      "inicio": 39.88,
+      "fin": 40
+    },
+    {
+      "texto": "who",
+      "inicio": 40.08,
+      "fin": 40.24
+    },
+    {
+      "texto": "still",
+      "inicio": 40.32,
+      "fin": 40.56
+    },
+    {
+      "texto": "aims",
+      "inicio": 40.64,
+      "fin": 40.8
+    },
+    {
+      "texto": "at",
+      "inicio": 40.88,
+      "fin": 40.96
+    },
+    {
+      "texto": "the",
+      "inicio": 41,
+      "fin": 41.04
+    },
+    {
+      "texto": "soundbar.",
+      "inicio": 41.12,
+      "fin": 41.84
+    }
+  ]
+}

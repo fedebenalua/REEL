@@ -1,0 +1,1030 @@
+{
+  "firma": "4558be24dc5f",
+  "duracion": 42.64,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Your TV remote turns the soundbar up, and it never points at it.",
+      "clave": "soundbar",
+      "inicio": 0,
+      "fin": 4.16
+    },
+    {
+      "n": 2,
+      "texto": "That little light hits the TV, and it stops.",
+      "clave": "stops",
+      "inicio": 4.24,
+      "fin": 7.04
+    },
+    {
+      "n": 3,
+      "texto": "So who tells the bar?",
+      "clave": "who",
+      "inicio": 7.12,
+      "fin": 8.88
+    },
+    {
+      "n": 4,
+      "texto": "The order runs down one wire, inside the cable.",
+      "clave": "wire",
+      "inicio": 8.96,
+      "fin": 12.16
+    },
+    {
+      "n": 5,
+      "texto": "You press volume. The TV whispers. The bar gets loud.",
+      "clave": "loud",
+      "inicio": 12.24,
+      "fin": 16.56
+    },
+    {
+      "n": 6,
+      "texto": "Swap that cable for an optical one, and the same press does nothing.",
+      "clave": "nothing",
+      "inicio": 16.64,
+      "fin": 20.48
+    },
+    {
+      "n": 7,
+      "texto": "That one carries sound as a red light. It has no wire for orders.",
+      "clave": "orders",
+      "inicio": 20.56,
+      "fin": 24.8
+    },
+    {
+      "n": 8,
+      "texto": "The first remote was a wire across the floor, and people tripped on it.",
+      "clave": "tripped",
+      "inicio": 24.88,
+      "fin": 28.48
+    },
+    {
+      "n": 9,
+      "texto": "So they cut the wire. Then only the TV could hear you.",
+      "clave": "cut",
+      "inicio": 28.56,
+      "fin": 32.213
+    },
+    {
+      "n": 10,
+      "texto": "The wire came back, hidden inside the picture cable.",
+      "clave": "back",
+      "inicio": 32.267,
+      "fin": 35.28
+    },
+    {
+      "n": 11,
+      "texto": "Now your phone is the remote.",
+      "clave": "phone",
+      "inicio": 35.44,
+      "fin": 37.253
+    },
+    {
+      "n": 12,
+      "texto": "The app is in the link in bio.",
+      "clave": "app",
+      "inicio": 37.307,
+      "fin": 39.16
+    },
+    {
+      "n": 13,
+      "texto": "Send it to that friend who still aims at the soundbar.",
+      "clave": "friend",
+      "inicio": 39.2,
+      "fin": 41.84
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Your",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "TV",
+      "inicio": 0.32,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "remote",
+      "inicio": 0.72,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "turns",
+      "inicio": 1.24,
+      "fin": 1.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 1.48,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "soundbar",
+      "inicio": 1.6,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "up,",
+      "inicio": 2.16,
+      "fin": 2.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 2.52,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 2.64,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "never",
+      "inicio": 2.88,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "points",
+      "inicio": 3.28,
+      "fin": 3.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "at",
+      "inicio": 3.52,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "it.",
+      "inicio": 3.68,
+      "fin": 4.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "That",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "little",
+      "inicio": 4.4,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "light",
+      "inicio": 4.64,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hits",
+      "inicio": 5,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 5.2,
+      "fin": 5.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "TV,",
+      "inicio": 5.36,
+      "fin": 5.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 5.88,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 5.96,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "stops.",
+      "inicio": 6.16,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "So",
+      "inicio": 7.12,
+      "fin": 7.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "who",
+      "inicio": 7.44,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "tells",
+      "inicio": 7.64,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 7.92,
+      "fin": 8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "bar?",
+      "inicio": 8.16,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 8.96,
+      "fin": 9.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "order",
+      "inicio": 9.2,
+      "fin": 9.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "runs",
+      "inicio": 9.44,
+      "fin": 9.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "down",
+      "inicio": 9.84,
+      "fin": 10,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "one",
+      "inicio": 10.08,
+      "fin": 10.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "wire,",
+      "inicio": 10.24,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "inside",
+      "inicio": 11,
+      "fin": 11.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 11.24,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cable.",
+      "inicio": 11.36,
+      "fin": 12.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "You",
+      "inicio": 12.24,
+      "fin": 12.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "press",
+      "inicio": 12.4,
+      "fin": 12.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "volume.",
+      "inicio": 12.56,
+      "fin": 13.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 13.44,
+      "fin": 13.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "TV",
+      "inicio": 13.6,
+      "fin": 13.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "whispers.",
+      "inicio": 13.96,
+      "fin": 14.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 14.84,
+      "fin": 14.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "bar",
+      "inicio": 14.96,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "gets",
+      "inicio": 15.36,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "loud.",
+      "inicio": 15.68,
+      "fin": 16.56,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Swap",
+      "inicio": 16.64,
+      "fin": 16.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 16.96,
+      "fin": 17.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cable",
+      "inicio": 17.147,
+      "fin": 17.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "for",
+      "inicio": 17.4,
+      "fin": 17.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "an",
+      "inicio": 17.52,
+      "fin": 17.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "optical",
+      "inicio": 17.68,
+      "fin": 18.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "one,",
+      "inicio": 18.16,
+      "fin": 18.427,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 18.453,
+      "fin": 18.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 18.56,
+      "fin": 18.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "same",
+      "inicio": 18.72,
+      "fin": 18.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "press",
+      "inicio": 19.16,
+      "fin": 19.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "does",
+      "inicio": 19.48,
+      "fin": 19.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nothing.",
+      "inicio": 19.8,
+      "fin": 20.48,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "That",
+      "inicio": 20.56,
+      "fin": 20.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "one",
+      "inicio": 20.84,
+      "fin": 20.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "carries",
+      "inicio": 21.04,
+      "fin": 21.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sound",
+      "inicio": 21.52,
+      "fin": 21.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "as",
+      "inicio": 21.72,
+      "fin": 21.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 21.84,
+      "fin": 21.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "red",
+      "inicio": 22,
+      "fin": 22.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "light.",
+      "inicio": 22.16,
+      "fin": 22.827,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "It",
+      "inicio": 22.853,
+      "fin": 22.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "has",
+      "inicio": 22.96,
+      "fin": 23.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 23.24,
+      "fin": 23.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "wire",
+      "inicio": 23.52,
+      "fin": 23.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "for",
+      "inicio": 23.76,
+      "fin": 23.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "orders.",
+      "inicio": 23.92,
+      "fin": 24.8,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "The",
+      "inicio": 24.88,
+      "fin": 24.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "first",
+      "inicio": 25.08,
+      "fin": 25.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "remote",
+      "inicio": 25.36,
+      "fin": 25.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "was",
+      "inicio": 25.6,
+      "fin": 25.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.84,
+      "fin": 25.947,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "wire",
+      "inicio": 26.053,
+      "fin": 26.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "across",
+      "inicio": 26.24,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 26.56,
+      "fin": 26.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "floor,",
+      "inicio": 26.84,
+      "fin": 27.093,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 27.147,
+      "fin": 27.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "people",
+      "inicio": 27.36,
+      "fin": 27.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tripped",
+      "inicio": 27.56,
+      "fin": 27.76,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "on",
+      "inicio": 27.84,
+      "fin": 27.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "it.",
+      "inicio": 28.16,
+      "fin": 28.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "So",
+      "inicio": 28.56,
+      "fin": 28.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "they",
+      "inicio": 28.72,
+      "fin": 28.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cut",
+      "inicio": 28.88,
+      "fin": 28.96,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "the",
+      "inicio": 29.04,
+      "fin": 29.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "wire.",
+      "inicio": 29.48,
+      "fin": 29.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Then",
+      "inicio": 30.08,
+      "fin": 30.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "only",
+      "inicio": 30.32,
+      "fin": 30.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 30.56,
+      "fin": 30.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "TV",
+      "inicio": 30.72,
+      "fin": 31.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "could",
+      "inicio": 31.2,
+      "fin": 31.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hear",
+      "inicio": 31.4,
+      "fin": 31.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "you.",
+      "inicio": 31.84,
+      "fin": 32.213,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 32.267,
+      "fin": 32.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "wire",
+      "inicio": 32.44,
+      "fin": 32.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "came",
+      "inicio": 32.64,
+      "fin": 32.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "back,",
+      "inicio": 32.88,
+      "fin": 33.32,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "hidden",
+      "inicio": 33.36,
+      "fin": 33.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "inside",
+      "inicio": 33.8,
+      "fin": 34,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 34.04,
+      "fin": 34.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "picture",
+      "inicio": 34.16,
+      "fin": 34.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cable.",
+      "inicio": 34.48,
+      "fin": 35.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Now",
+      "inicio": 35.44,
+      "fin": 35.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "your",
+      "inicio": 35.68,
+      "fin": 35.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "phone",
+      "inicio": 35.92,
+      "fin": 36.16,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "is",
+      "inicio": 36.24,
+      "fin": 36.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 36.36,
+      "fin": 36.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "remote.",
+      "inicio": 36.8,
+      "fin": 37.253,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 37.307,
+      "fin": 37.36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "app",
+      "inicio": 37.44,
+      "fin": 37.6,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "is",
+      "inicio": 37.68,
+      "fin": 37.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 37.8,
+      "fin": 37.84,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 37.88,
+      "fin": 37.92,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "link",
+      "inicio": 38,
+      "fin": 38.16,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 38.24,
+      "fin": 38.32,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "bio.",
+      "inicio": 38.72,
+      "fin": 39.16,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "Send",
+      "inicio": 39.2,
+      "fin": 39.28,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 39.36,
+      "fin": 39.44,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 39.48,
+      "fin": 39.52,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 39.64,
+      "fin": 39.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "friend",
+      "inicio": 39.88,
+      "fin": 40,
+      "frase": 13,
+      "clave": true
+    },
+    {
+      "texto": "who",
+      "inicio": 40.08,
+      "fin": 40.24,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "still",
+      "inicio": 40.32,
+      "fin": 40.56,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "aims",
+      "inicio": 40.64,
+      "fin": 40.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "at",
+      "inicio": 40.88,
+      "fin": 40.96,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 41,
+      "fin": 41.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "soundbar.",
+      "inicio": 41.12,
+      "fin": 41.84,
+      "frase": 13,
+      "clave": false
+    }
+  ]
+}
