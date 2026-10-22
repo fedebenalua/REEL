@@ -1,0 +1,19 @@
+{
+  "titulo": "The remote that made the TV a third more expensive",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote once made the TV a third more expensive.", "clave": "expensive", "hook": true },
+    { "texto": "The remote was just a hammer hitting a metal rod.", "clave": "hammer", "hook": true },
+    { "texto": "The costly part was six glass tubes inside the TV.", "clave": "tubes", "hook": true },
+    { "texto": "That sound is too high for you to hear, so the tubes were the ear.", "clave": "hear" },
+    { "texto": "Those six tubes added about a third to the price.", "clave": "third" },
+    { "texto": "Later those tubes shrank down to a tiny chip.", "clave": "chip" },
+    { "texto": "And that sound became a light you can't see.", "clave": "light" },
+    { "texto": "That light needs batteries.", "clave": "batteries" },
+    { "texto": "The old hammer never did.", "clave": "never" },
+    { "texto": "Now your phone is the remote.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who keeps buying batteries.", "clave": "friend" }
+  ]
+}
