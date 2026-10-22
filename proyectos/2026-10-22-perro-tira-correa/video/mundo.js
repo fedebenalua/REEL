@@ -195,7 +195,6 @@ function camino_(g, c, t, hora, P) {
   // las franjas del césped cortado, de delante, y su grano
   g.save(); g.beginPath(); g.rect(0, yb, 1080, 1920 - yb); g.clip();
   const zz = zf(c, 1.5), PA = 140, b0 = Math.floor((c.cx - 540 / zz) / PA) - 1, b1 = Math.ceil((c.cx + 540 / zz) / PA) + 1;
-  for (let i = b0; i <= b1; i++) { if (i % 2) continue; const x0 = 540 + (i * PA - c.cx) * zz, x1 = 540 + ((i + 1) * PA - c.cx) * zz; g.fillStyle = "rgba(255,255,255,0.09)"; g.fillRect(x0, yb, x1 - x0, 1920 - yb); }
   g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.22; tesela(g, k.manchas, -c.cx * zz * 0.5, yb, 900, 1920 - yb); g.globalAlpha = 0.18; tesela(g, k.red, -c.cx * zz, yb, 900, 1920 - yb);
   g.restore();
   sinVista(g);
@@ -281,7 +280,7 @@ const PELO = { luz: "#fbd998", medio: "#e0a652", sombra: "#a96a2c", hondo: "#6d4
 // fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
 // cola: cuánto la menea; devuelve dónde queda el collar (para la correa), en el mundo.
 export function perro(g, o) {
-  const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4;
+  const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4, nb = o.cuelloBaja || 0;
   const stride = 50 * marcha, lift = 11 * marcha, duty = 0.5, bob = -1.5 * marcha * Math.cos(fase * TAU * 2);
   const cuerpoY = bob;
   const pitchPivot = [0, -40];
@@ -330,7 +329,7 @@ export function perro(g, o) {
     g.beginPath();
     g.moveTo(10, -61); g.bezierCurveTo(0, -63, -14, -61, -26, -61); g.bezierCurveTo(-35, -60, -41, -53, -40, -45);
     g.bezierCurveTo(-39, -38, -35, -34, -29, -33); g.bezierCurveTo(-18, -32, -8, -24, 6, -23); g.bezierCurveTo(19, -22, 29, -30, 32, -41);
-    g.bezierCurveTo(33, -50, 38, -58, 45, -66); g.lineTo(38, -76); g.bezierCurveTo(28, -73, 19, -67, 10, -61); g.closePath();
+    g.bezierCurveTo(33, -50, 38 + 6 * nb, -58 + 8 * nb, 45 + 16 * nb, -66 + 26 * nb); g.lineTo(38 + 16 * nb, -76 + 30 * nb); g.bezierCurveTo(28 + 8 * nb, -73 + 14 * nb, 19 + 4 * nb, -67 + 4 * nb, 10, -61); g.closePath();
   };
   cuerpo();
   const bg = g.createLinearGradient(0, -66, 0, -25);
@@ -353,13 +352,13 @@ export function perro(g, o) {
   trasera(fase + 0.5, false); delantera(fase, false);
   // el collar azul, con su anilla
   g.save(); g.lineCap = "round";
-  g.strokeStyle = "#1d4fd8"; g.lineWidth = 5.4; g.beginPath(); g.moveTo(32, -71); g.lineTo(41, -59); g.stroke();
-  g.strokeStyle = "#5b8dff"; g.lineWidth = 1.5; g.beginPath(); g.moveTo(31.2, -71.6); g.lineTo(40.2, -59.6); g.stroke();
-  g.strokeStyle = "#e6e9ee"; g.lineWidth = 1.6; g.beginPath(); g.arc(41.2, -57.5, 2.4, 0, TAU); g.stroke();
+  g.strokeStyle = "#1d4fd8"; g.lineWidth = 5.4; g.beginPath(); g.moveTo(32 + 12 * nb, -71 + 24 * nb); g.lineTo(41 + 14 * nb, -59 + 26 * nb); g.stroke();
+  g.strokeStyle = "#5b8dff"; g.lineWidth = 1.5; g.beginPath(); g.moveTo(31.2 + 12 * nb, -71.6 + 24 * nb); g.lineTo(40.2 + 14 * nb, -59.6 + 26 * nb); g.stroke();
+  g.strokeStyle = "#e6e9ee"; g.lineWidth = 1.6; g.beginPath(); g.arc(41.2 + 14 * nb, -57.5 + 26 * nb, 2.4, 0, TAU); g.stroke();
   g.restore();
-  const collar = mundoPunto(41.2, -57.5);
+  const collar = mundoPunto(41.2 + 14 * nb, -57.5 + 26 * nb);
   // la cabeza: gira sobre el cuello
-  g.save(); g.translate(38, -70); g.rotate(cab.ang || 0); g.scale(0.8, 0.8);
+  g.save(); g.translate(38 + 16 * nb, -70 + 30 * nb); g.rotate(cab.ang || 0); g.scale(0.8, 0.8);
   const cabeza = () => {
     g.beginPath();
     g.moveTo(6, -18); g.bezierCurveTo(14, -25, 24, -23, 28, -14); g.bezierCurveTo(34, -11, 40, -8, 45, -5);
@@ -387,6 +386,7 @@ export function perro(g, o) {
   const ng = g.createRadialGradient(44, -5, 0.5, 45, -3, 5.5); ng.addColorStop(0, "#5a5a63"); ng.addColorStop(0.35, "#17171b"); ng.addColorStop(1, "#050507");
   g.fillStyle = ng; g.beginPath(); g.ellipse(45, -2.6, 4.2, 3.7, 0.25, 0, TAU); g.fill();
   g.fillStyle = "rgba(255,255,255,0.75)"; g.beginPath(); g.ellipse(43.8, -4.3, 1.6, 0.9, -0.3, 0, TAU); g.fill();
+  { const ab = cab.olfato || 0; g.strokeStyle = "#000"; g.lineWidth = 1.5 + 1.4 * ab; g.lineCap = "round"; g.beginPath(); g.moveTo(46.2, -2.3); g.quadraticCurveTo(45, 0.4 + ab, 43.2, 0.2 + 1.2 * ab); g.stroke(); }
   // el ojo
   const feliz = cab.ojo || 0;
   if (feliz > 0.5) { g.strokeStyle = "#2a1408"; g.lineWidth = 1.8; g.beginPath(); g.arc(21, -7, 3.6, Math.PI * 1.1, Math.PI * 1.9); g.stroke(); }
@@ -404,9 +404,11 @@ export function perro(g, o) {
   const og = g.createLinearGradient(-8, 0, 12, 26); og.addColorStop(0, PELO.sombra); og.addColorStop(1, PELO.hondo); g.fillStyle = og; g.fill();
   g.strokeStyle = "rgba(255,220,160,0.4)"; g.lineWidth = 1.2; g.beginPath(); g.moveTo(-1, 3); g.bezierCurveTo(8, 3, 12, 12, 8, 22); g.stroke();
   g.restore();
+  // dónde quedó la punta de la nariz, en el mundo
+  const hp = [38 + 16 * nb, -70 + 30 * nb], ca = Math.cos(cab.ang || 0), sa = Math.sin(cab.ang || 0), nl = [46.2 * 0.8, -1.5 * 0.8], nariz = mundoPunto(hp[0] + nl[0] * ca - nl[1] * sa, hp[1] + nl[0] * sa + nl[1] * ca);
   g.restore();
   g.restore();
-  return { collar };
+  return { collar, nariz };
 }
 
 // ---------------------------------------------------------------- la persona
@@ -560,7 +562,7 @@ export function simula({ SEP, x0d, x0h, vd, vh, anclado = [], paddle = [], T = 2
     d += fv(vd, t) * dt; h += fv(vh, t) * dt;
     if (d - h > SEP) { if (en(anclado, t)) d = h + SEP; else h = d - SEP; }
     const vdA = (d - d0) / dt, vhA = (h - h0) / dt;
-    pd += (Math.max(0, vdA) / 100 + (en(paddle, t) ? 2.2 : 0)) * dt; ph += (Math.max(0, vhA) / 153) * dt;
+    pd += (vdA / 100 + (en(paddle, t) ? 2.2 : 0)) * dt; ph += (Math.max(0, vhA) / 153) * dt;
     if (Math.floor(pd) > Math.floor(PD[i]) || Math.floor(pd - 0.5) > Math.floor(PD[i] - 0.5)) { if (vdA > 120) polvoLista.push({ t0: t, x: d + 46 }, { t0: t, x: d - 5, k: 0.8 }); }
   }
   const m = (t) => {

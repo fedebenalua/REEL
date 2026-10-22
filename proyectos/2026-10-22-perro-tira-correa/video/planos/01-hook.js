@@ -31,13 +31,13 @@ const sim = simula({
 const Ta = f2.t("obedezca") - 0.1, Tb = f2.t("lento") - 0.5;
 const zl = k.claves([[0, Math.log(6.2)], [Ta, Math.log(6.2)], [Tb, Math.log(3.1)], [Ttensa - 0.4, Math.log(3.1)], [Ttensa + 0.8, Math.log(3.4)], [v.frase(4).fin, Math.log(3.4)], [Ttira - 0.4, Math.log(3.25)]]);
 const wm = k.claves([[0, 0], [Ta, 0], [Tb, 1]]);
-const camara = (t) => {
-  const m = sim(t), Z = Math.exp(zl(t)), mid = (m.xd + m.xh) / 2 + 12;
-  return cam(Z, mez(m.xd + 22, mid, wm(t)), -370 / Z);
+const camara = (t, ov) => {
+  const m = sim(t), Z = ov ? ov.Z : Math.exp(zl(t)), mid = (m.xd + m.xh) / 2 + 12;
+  return cam(Z, mez(m.xd + 22, mid, ov ? ov.w : wm(t)), -370 / Z);
 };
 
-export function dibuja(g, t) {
-  const c = camara(t), m = sim(t);
+export function dibuja(g, t, ov) {
+  const c = camara(t, ov), m = sim(t);
   parque(g, c, t, 0);
   ponVista(g, c);
   const dist = m.xd - m.xh, tens = su(tr(dist, 125, SEP - 1));

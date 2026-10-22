@@ -10,6 +10,7 @@ publicar.mjs: publica en Zernio (TikTok, Instagram Reels, YouTube Shorts) el ví
 
   node motor/publicar.mjs cuentas                 lista las cuentas conectadas en Zernio
   node motor/publicar.mjs <vídeo> [--prueba]      programa el vídeo (nombre de salida/<vídeo>, o la carpeta)
+  node motor/publicar.mjs <vídeo> --perfil perros  lo programa en las cuentas y el ritmo de zernio.json → perfiles.perros
   node motor/publicar.mjs configurar              guarda en zernio.json las cuentas del perfil «reels-explicativos»
   node motor/publicar.mjs estado                  muestra lo programado y lo publicado
 
@@ -22,7 +23,9 @@ Lo programado se apunta en publicados.json.
 `);
 
 const API = "https://zernio.com/api/v1";
-const PUBLICADOS = join(RAIZ, "publicados.json");
+// --perfil <nombre>: otras cuentas y otro ritmo (zernio.json → perfiles), con su propia lista publicados-<nombre>.json.
+const PERFIL = (() => { const i = process.argv.indexOf("--perfil"); return i > 0 && process.argv[i + 1] && !process.argv[i + 1].startsWith("--") ? process.argv[i + 1] : null; })();
+const PUBLICADOS = join(RAIZ, PERFIL ? `publicados-${PERFIL}.json` : "publicados.json");
 const CONFIG = join(RAIZ, "zernio.json");
 
 function clave() {
@@ -92,7 +95,13 @@ const caption = readFileSync(capFile, "utf8").trim();
 if (!/#\p{L}/u.test(caption)) fallo("El caption.txt no tiene hashtags. Añádelos al final y vuelve a lanzar.");
 
 // ---- las cuentas
-const cfg = leer(CONFIG, null);
+const cfgBase = leer(CONFIG, null);
+let cfg = cfgBase;
+if (PERFIL) {
+  const pf = cfgBase?.perfiles?.[PERFIL];
+  if (!pf?.cuentas) fallo(`No hay perfil «${PERFIL}» en zernio.json.`);
+  cfg = { zona: cfgBase.zona, horas: pf.horas ?? cfgBase.horas, cuentas: pf.cuentas };
+}
 if (!cfg?.cuentas || !Object.keys(cfg.cuentas).length) fallo("Falta zernio.json con las cuentas. Mira: node motor/publicar.mjs cuentas");
 const horas = cfg.horas ?? 12, zona = cfg.zona ?? "Europe/Madrid";
 

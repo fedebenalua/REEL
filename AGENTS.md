@@ -32,6 +32,10 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
 - Si el creador pide programar la publicación, pregunta solo la fecha y la hora, y usa la programación de Zernio.
 - Tras publicar, dile en una línea dónde ha salido (red y enlace). Si falla, dile qué ha pasado y no reintentes en
   bucle ni publiques dos veces.
+- Los vídeos de perros (cuenta de Instagram @porestotuperro, ver `perros.md`) se publican solo ahí, con
+  `node motor/publicar.mjs <vídeo> --perfil perros`: un vídeo cada 6 horas, con su propia lista
+  (`publicados-perros.json`). Los demás vídeos no usan ese perfil, y los de perros no se publican en las cuentas del
+  mando.
 - Si dice «a partir de ahora publica directamente», guárdalo en `preferencias.md` con sus palabras y deja de preguntar.
 
 ## La carpeta
