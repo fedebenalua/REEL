@@ -13,11 +13,31 @@
         "instagram": "6ada78d89710db77fe2692f8"
       }
     },
+    "inteligencia": {
+      "horas": 4,
+      "cuentas": {
+        "instagram": "6adb2cd2f4447a73c1e189ce"
+      }
+    },
     "curiosidades": {
       "horas": 6,
       "cuentas": {
         "instagram": "6a7dc30e77555aae0167cfcf",
         "youtube": "6a74d969d0fe733d1ac94064"
+      }
+    },
+    "plantas": {
+      "horas": 4,
+      "cuentas": {
+        "instagram": "6adb40bd5f5c563a2fa6c9c8"
+      }
+    },
+    "casa": {
+      "horas": 6,
+      "cuentas": {
+        "tiktok": "6adb5021efe08c5ed0d14a19",
+        "instagram": "6adb4d9b94df191931ec80a0",
+        "youtube": "6adb4d3bf664b7becd1e0adc"
       }
     }
   }

@@ -40,6 +40,18 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
   publican solo ahí, con `node motor/publicar.mjs <vídeo> --perfil curiosidades`: un vídeo cada 6 horas, con su propia
   lista (`publicados-curiosidades.json`). No usan el perfil del mando ni el de perros, y los de esos perfiles no se
   publican en estas cuentas.
+- Los vídeos de la cuenta de Instagram @quetaninteligente (en Zernio figura como @inteligenciaiqtest) se publican solo
+ ahí, con `node motor/publicar.mjs <vídeo> --perfil inteligencia`: un vídeo cada 4 horas, con su propia lista
+ (`publicados-inteligencia.json`). No usan los otros perfiles, y los de los otros perfiles no se publican en esta cuenta.
+- Los vídeos de la cuenta de Instagram @plantverdantai (plantas, **en inglés**, ver `plantas.md`) se publican solo ahí,
+ con `node motor/publicar.mjs <vídeo> --perfil plantas`: un vídeo cada 4 horas, con su propia lista
+ (`publicados-plantas.json`). Siguen la lista de 100 títulos de `plantas.md` en orden y después temas propios. No usan
+ los otros perfiles, y los de los otros perfiles no se publican en esta cuenta.
+- Los vídeos de problemas de casa y cómo arreglarlos (Instagram @homediagnosis, TikTok @home.diagnosis.ai y YouTube
+  @homediagnosisai, **en inglés**, ver `casa.md`) se publican solo ahí, con
+  `node motor/publicar.mjs <vídeo> --perfil casa`: un vídeo cada 6 horas, con su propia lista
+  (`publicados-casa.json`). Cada 5 vídeos, el cierre manda al «link in bio» (la herramienta paso a paso). No usan los
+  otros perfiles, y los de los otros perfiles no se publican en estas cuentas.
 - Si dice «a partir de ahora publica directamente», guárdalo en `preferencias.md` con sus palabras y deja de preguntar.
 
 ## La carpeta

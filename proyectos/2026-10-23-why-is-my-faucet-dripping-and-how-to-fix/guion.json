@@ -1,0 +1,19 @@
+{
+  "titulo": "Why is my faucet dripping (and how to fix it)",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why is your faucet dripping, and how do you fix it in five minutes?", "clave": "dripping", "hook": true },
+    { "texto": "One drip a second wastes over three thousand gallons a year.", "clave": "gallons", "hook": true },
+    { "texto": "That's a hundred and eighty showers, lost to one tiny rubber washer.", "clave": "washer", "hook": true },
+    { "texto": "Inside, that washer squeezes against a seat to hold the water back.", "clave": "squeezes" },
+    { "texto": "After years of squeezing, it goes hard and flat, and water sneaks past.", "clave": "flat" },
+    { "texto": "So here's the fix. First, shut off the water under the sink, then open the faucet to drain it.", "clave": "shut" },
+    { "texto": "Plug the drain so nothing gets lost, pop off the cap, and unscrew the handle.", "clave": "plug" },
+    { "texto": "Then loosen the big nut with a wrench, and pull out the stem.", "clave": "nut" },
+    { "texto": "Unscrew the old washer, and put on a new one of the same size.", "clave": "same" },
+    { "texto": "Put it all back, turn the water on slowly, and the drip is gone.", "clave": "gone" },
+    { "texto": "A washer that costs about a dollar just saved you three thousand gallons a year.", "clave": "dollar" },
+    { "texto": "Send this to that friend whose faucet won't stop dripping.", "clave": "dripping" }
+  ]
+}
