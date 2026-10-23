@@ -1,0 +1,18 @@
+{
+  "titulo": "How to unclog a drain without chemicals",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "How do you unclog a sink full of water, without chemicals?", "clave": "chemicals", "hook": true },
+    { "texto": "Drain cleaner usually just burns a little hole, and the clog stays.", "clave": "hole", "hook": true },
+    { "texto": "That wad of hair and soap is stuck in the curved pipe under the sink.", "clave": "curved" },
+    { "texto": "If you already poured cleaner in, stop. Don't open this pipe. Call a plumber.", "clave": "stop" },
+    { "texto": "If you haven't, gloves on. A few inches of water, a wet cloth on the overflow, and plunge.", "clave": "plunge" },
+    { "texto": "Still full? Set a bucket under the bend, and turn both nuts to the left.", "clave": "bucket" },
+    { "texto": "Pull the pipe off. The water and the hair drop into the bucket.", "clave": "hair" },
+    { "texto": "Seat the washers, twist the nuts on by hand, and snug them only if it drips.", "clave": "hand" },
+    { "texto": "A strainer over the drain catches the next wad of hair.", "clave": "strainer" },
+    { "texto": "If every sink in the house is slow, that's the main line. Call a plumber.", "clave": "slow" },
+    { "texto": "Send this to that friend whose sink won't drain.", "clave": "friend" }
+  ]
+}

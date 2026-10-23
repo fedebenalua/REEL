@@ -1,0 +1,1128 @@
+{
+  "firma": "bd26fcadb6eb",
+  "duracion": 47.44,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "How do you unclog a sink full of water, without chemicals?",
+      "clave": "chemicals",
+      "inicio": 0,
+      "fin": 3.76
+    },
+    {
+      "n": 2,
+      "texto": "Drain cleaner usually just burns a little hole, and the clog stays.",
+      "clave": "hole",
+      "inicio": 3.84,
+      "fin": 7.76
+    },
+    {
+      "n": 3,
+      "texto": "That wad of hair and soap is stuck in the curved pipe under the sink.",
+      "clave": "curved",
+      "inicio": 7.88,
+      "fin": 11.92
+    },
+    {
+      "n": 4,
+      "texto": "If you already poured cleaner in, stop. Don't open this pipe. Call a plumber.",
+      "clave": "stop",
+      "inicio": 12,
+      "fin": 16.96
+    },
+    {
+      "n": 5,
+      "texto": "If you haven't, gloves on. A few inches of water, a wet cloth on the overflow, and plunge.",
+      "clave": "plunge",
+      "inicio": 17.04,
+      "fin": 23.04
+    },
+    {
+      "n": 6,
+      "texto": "Still full? Set a bucket under the bend, and turn both nuts to the left.",
+      "clave": "bucket",
+      "inicio": 23.16,
+      "fin": 27.68
+    },
+    {
+      "n": 7,
+      "texto": "Pull the pipe off. The water and the hair drop into the bucket.",
+      "clave": "hair",
+      "inicio": 27.76,
+      "fin": 31.52
+    },
+    {
+      "n": 8,
+      "texto": "Seat the washers, twist the nuts on by hand, and snug them only if it drips.",
+      "clave": "hand",
+      "inicio": 31.6,
+      "fin": 36.4
+    },
+    {
+      "n": 9,
+      "texto": "A strainer over the drain catches the next wad of hair.",
+      "clave": "strainer",
+      "inicio": 36.48,
+      "fin": 39.6
+    },
+    {
+      "n": 10,
+      "texto": "If every sink in the house is slow, that's the main line. Call a plumber.",
+      "clave": "slow",
+      "inicio": 39.72,
+      "fin": 44.24
+    },
+    {
+      "n": 11,
+      "texto": "Send this to that friend whose sink won't drain.",
+      "clave": "friend",
+      "inicio": 44.36,
+      "fin": 46.64
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "How",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "do",
+      "inicio": 0.24,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "you",
+      "inicio": 0.4,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "unclog",
+      "inicio": 0.64,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 1,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sink",
+      "inicio": 1.12,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "full",
+      "inicio": 1.44,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "of",
+      "inicio": 1.64,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "water,",
+      "inicio": 1.84,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "without",
+      "inicio": 2.56,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "chemicals?",
+      "inicio": 2.96,
+      "fin": 3.76,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Drain",
+      "inicio": 3.84,
+      "fin": 4.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cleaner",
+      "inicio": 4.16,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "usually",
+      "inicio": 4.56,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "just",
+      "inicio": 4.96,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "burns",
+      "inicio": 5.12,
+      "fin": 5.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 5.44,
+      "fin": 5.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "little",
+      "inicio": 5.52,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hole,",
+      "inicio": 5.76,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "and",
+      "inicio": 6.28,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 6.4,
+      "fin": 6.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "clog",
+      "inicio": 6.48,
+      "fin": 6.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "stays.",
+      "inicio": 6.8,
+      "fin": 7.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "That",
+      "inicio": 7.88,
+      "fin": 8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "wad",
+      "inicio": 8.08,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "of",
+      "inicio": 8.28,
+      "fin": 8.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hair",
+      "inicio": 8.4,
+      "fin": 8.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 8.68,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "soap",
+      "inicio": 8.88,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "stuck",
+      "inicio": 9.44,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 9.76,
+      "fin": 9.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 9.84,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "curved",
+      "inicio": 10,
+      "fin": 10.32,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "pipe",
+      "inicio": 10.4,
+      "fin": 10.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "under",
+      "inicio": 10.84,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 11.04,
+      "fin": 11.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sink.",
+      "inicio": 11.28,
+      "fin": 11.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 12,
+      "fin": 12.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "you",
+      "inicio": 12.12,
+      "fin": 12.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "already",
+      "inicio": 12.24,
+      "fin": 12.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "poured",
+      "inicio": 12.64,
+      "fin": 12.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cleaner",
+      "inicio": 12.92,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "in,",
+      "inicio": 13.32,
+      "fin": 13.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "stop.",
+      "inicio": 13.68,
+      "fin": 14.4,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Don't",
+      "inicio": 14.48,
+      "fin": 14.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "open",
+      "inicio": 14.8,
+      "fin": 15.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "this",
+      "inicio": 15.12,
+      "fin": 15.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pipe.",
+      "inicio": 15.44,
+      "fin": 15.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Call",
+      "inicio": 15.92,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 16.08,
+      "fin": 16.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 16.2,
+      "fin": 16.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 17.04,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "you",
+      "inicio": 17.16,
+      "fin": 17.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "haven't,",
+      "inicio": 17.28,
+      "fin": 17.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "gloves",
+      "inicio": 17.96,
+      "fin": 18.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "on.",
+      "inicio": 18.32,
+      "fin": 18.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 18.96,
+      "fin": 19.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "few",
+      "inicio": 19.12,
+      "fin": 19.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "inches",
+      "inicio": 19.24,
+      "fin": 19.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "of",
+      "inicio": 19.52,
+      "fin": 19.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "water,",
+      "inicio": 19.8,
+      "fin": 20.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.32,
+      "fin": 20.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "wet",
+      "inicio": 20.44,
+      "fin": 20.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cloth",
+      "inicio": 20.64,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 20.88,
+      "fin": 20.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 21,
+      "fin": 21.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "overflow,",
+      "inicio": 21.12,
+      "fin": 21.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 21.88,
+      "fin": 22,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "plunge.",
+      "inicio": 22.08,
+      "fin": 23.04,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Still",
+      "inicio": 23.16,
+      "fin": 23.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "full?",
+      "inicio": 23.36,
+      "fin": 24.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Set",
+      "inicio": 24.16,
+      "fin": 24.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 24.4,
+      "fin": 24.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "bucket",
+      "inicio": 24.64,
+      "fin": 24.8,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "under",
+      "inicio": 24.88,
+      "fin": 25.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 25.12,
+      "fin": 25.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "bend,",
+      "inicio": 25.307,
+      "fin": 25.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 25.8,
+      "fin": 25.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "turn",
+      "inicio": 26.08,
+      "fin": 26.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "both",
+      "inicio": 26.36,
+      "fin": 26.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nuts",
+      "inicio": 26.56,
+      "fin": 26.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 26.84,
+      "fin": 26.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 26.96,
+      "fin": 27.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "left.",
+      "inicio": 27.2,
+      "fin": 27.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Pull",
+      "inicio": 27.76,
+      "fin": 27.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 27.92,
+      "fin": 28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pipe",
+      "inicio": 28.12,
+      "fin": 28.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "off.",
+      "inicio": 28.4,
+      "fin": 28.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 29.04,
+      "fin": 29.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "water",
+      "inicio": 29.28,
+      "fin": 29.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 29.48,
+      "fin": 29.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 29.6,
+      "fin": 29.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hair",
+      "inicio": 29.68,
+      "fin": 30,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "drop",
+      "inicio": 30.12,
+      "fin": 30.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "into",
+      "inicio": 30.36,
+      "fin": 30.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 30.507,
+      "fin": 30.533,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "bucket.",
+      "inicio": 30.56,
+      "fin": 31.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Seat",
+      "inicio": 31.6,
+      "fin": 31.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 31.8,
+      "fin": 31.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "washers,",
+      "inicio": 31.92,
+      "fin": 32.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "twist",
+      "inicio": 32.64,
+      "fin": 32.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 32.92,
+      "fin": 32.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nuts",
+      "inicio": 33.08,
+      "fin": 33.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 33.28,
+      "fin": 33.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "by",
+      "inicio": 33.44,
+      "fin": 33.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hand,",
+      "inicio": 33.6,
+      "fin": 34.08,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "and",
+      "inicio": 34.16,
+      "fin": 34.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "snug",
+      "inicio": 34.32,
+      "fin": 34.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "them",
+      "inicio": 34.76,
+      "fin": 34.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "only",
+      "inicio": 34.96,
+      "fin": 35.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "if",
+      "inicio": 35.32,
+      "fin": 35.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 35.44,
+      "fin": 35.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "drips.",
+      "inicio": 35.6,
+      "fin": 36.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 36.48,
+      "fin": 36.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "strainer",
+      "inicio": 36.64,
+      "fin": 36.96,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "over",
+      "inicio": 37.04,
+      "fin": 37.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 37.24,
+      "fin": 37.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "drain",
+      "inicio": 37.36,
+      "fin": 37.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "catches",
+      "inicio": 37.68,
+      "fin": 38.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 38.12,
+      "fin": 38.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "next",
+      "inicio": 38.24,
+      "fin": 38.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "wad",
+      "inicio": 38.52,
+      "fin": 38.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "of",
+      "inicio": 38.68,
+      "fin": 38.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hair.",
+      "inicio": 38.8,
+      "fin": 39.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 39.72,
+      "fin": 39.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "every",
+      "inicio": 39.92,
+      "fin": 40.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sink",
+      "inicio": 40.24,
+      "fin": 40.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 40.48,
+      "fin": 40.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 40.56,
+      "fin": 40.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "house",
+      "inicio": 40.64,
+      "fin": 40.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 40.96,
+      "fin": 41.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "slow,",
+      "inicio": 41.2,
+      "fin": 41.68,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "that's",
+      "inicio": 41.76,
+      "fin": 42,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 42.04,
+      "fin": 42.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "main",
+      "inicio": 42.16,
+      "fin": 42.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "line.",
+      "inicio": 42.4,
+      "fin": 42.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Call",
+      "inicio": 43.04,
+      "fin": 43.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 43.28,
+      "fin": 43.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 43.36,
+      "fin": 44.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Send",
+      "inicio": 44.36,
+      "fin": 44.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "this",
+      "inicio": 44.56,
+      "fin": 44.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 44.68,
+      "fin": 44.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 44.8,
+      "fin": 44.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "friend",
+      "inicio": 45.04,
+      "fin": 45.28,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "whose",
+      "inicio": 45.4,
+      "fin": 45.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "sink",
+      "inicio": 45.64,
+      "fin": 45.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "won't",
+      "inicio": 45.84,
+      "fin": 46,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "drain.",
+      "inicio": 46.08,
+      "fin": 46.64,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}
