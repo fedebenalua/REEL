@@ -1,0 +1,814 @@
+{
+  "firma": "016e205549c3",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "sabe",
+      "inicio": 0.32,
+      "fin": 0.56
+    },
+    {
+      "texto": "un",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "ascensor",
+      "inicio": 0.72,
+      "fin": 1.2
+    },
+    {
+      "texto": "exactamente",
+      "inicio": 1.36,
+      "fin": 2.16
+    },
+    {
+      "texto": "en",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "texto": "qué",
+      "inicio": 2.4,
+      "fin": 2.48
+    },
+    {
+      "texto": "piso",
+      "inicio": 2.56,
+      "fin": 2.8
+    },
+    {
+      "texto": "está?",
+      "inicio": 2.92,
+      "fin": 3.2
+    },
+    {
+      "texto": "No",
+      "inicio": 3.68,
+      "fin": 3.76
+    },
+    {
+      "texto": "tiene",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "texto": "ojos:",
+      "inicio": 4.08,
+      "fin": 4.88
+    },
+    {
+      "texto": "no",
+      "inicio": 4.96,
+      "fin": 5.04
+    },
+    {
+      "texto": "ve",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "texto": "los",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "texto": "pisos",
+      "inicio": 5.44,
+      "fin": 5.68
+    },
+    {
+      "texto": "pasar,",
+      "inicio": 5.76,
+      "fin": 6.4
+    },
+    {
+      "texto": "los",
+      "inicio": 6.52,
+      "fin": 6.64
+    },
+    {
+      "texto": "cuenta.",
+      "inicio": 6.72,
+      "fin": 7.4
+    },
+    {
+      "texto": "En",
+      "inicio": 7.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "muchos",
+      "inicio": 7.84,
+      "fin": 8.08
+    },
+    {
+      "texto": "ascensores",
+      "inicio": 8.16,
+      "fin": 8.8
+    },
+    {
+      "texto": "hay",
+      "inicio": 8.88,
+      "fin": 8.96
+    },
+    {
+      "texto": "una",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "texto": "rueda",
+      "inicio": 9.2,
+      "fin": 9.44
+    },
+    {
+      "texto": "pegada",
+      "inicio": 9.52,
+      "fin": 9.76
+    },
+    {
+      "texto": "al",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "texto": "raíl",
+      "inicio": 10,
+      "fin": 10.32
+    },
+    {
+      "texto": "que",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "texto": "gira",
+      "inicio": 10.56,
+      "fin": 10.8
+    },
+    {
+      "texto": "al",
+      "inicio": 10.84,
+      "fin": 10.88
+    },
+    {
+      "texto": "subir,",
+      "inicio": 10.96,
+      "fin": 11.68
+    },
+    {
+      "texto": "y",
+      "inicio": 11.72,
+      "fin": 11.76
+    },
+    {
+      "texto": "manda",
+      "inicio": 11.84,
+      "fin": 12.08
+    },
+    {
+      "texto": "un",
+      "inicio": 12.16,
+      "fin": 12.24
+    },
+    {
+      "texto": "pulso",
+      "inicio": 12.32,
+      "fin": 12.64
+    },
+    {
+      "texto": "por",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 12.96,
+      "fin": 13.12
+    },
+    {
+      "texto": "trocito",
+      "inicio": 13.2,
+      "fin": 13.52
+    },
+    {
+      "texto": "que",
+      "inicio": 13.6,
+      "fin": 13.68
+    },
+    {
+      "texto": "avanza.",
+      "inicio": 13.72,
+      "fin": 14.16
+    },
+    {
+      "texto": "El",
+      "inicio": 14.64,
+      "fin": 14.72
+    },
+    {
+      "texto": "ascensor",
+      "inicio": 14.8,
+      "fin": 15.28
+    },
+    {
+      "texto": "los",
+      "inicio": 15.36,
+      "fin": 15.44
+    },
+    {
+      "texto": "va",
+      "inicio": 15.52,
+      "fin": 15.56
+    },
+    {
+      "texto": "sumando,",
+      "inicio": 15.6,
+      "fin": 16.32
+    },
+    {
+      "texto": "y",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "texto": "así",
+      "inicio": 16.48,
+      "fin": 16.64
+    },
+    {
+      "texto": "sabe",
+      "inicio": 16.72,
+      "fin": 16.96
+    },
+    {
+      "texto": "cuánto",
+      "inicio": 17.04,
+      "fin": 17.36
+    },
+    {
+      "texto": "ha",
+      "inicio": 17.4,
+      "fin": 17.44
+    },
+    {
+      "texto": "subido.",
+      "inicio": 17.52,
+      "fin": 18.12
+    },
+    {
+      "texto": "Pero",
+      "inicio": 18.4,
+      "fin": 18.56
+    },
+    {
+      "texto": "contar",
+      "inicio": 18.68,
+      "fin": 18.96
+    },
+    {
+      "texto": "no",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "texto": "vale",
+      "inicio": 19.2,
+      "fin": 19.44
+    },
+    {
+      "texto": "si",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "texto": "no",
+      "inicio": 19.68,
+      "fin": 19.76
+    },
+    {
+      "texto": "sabe",
+      "inicio": 19.84,
+      "fin": 20
+    },
+    {
+      "texto": "dónde",
+      "inicio": 20.08,
+      "fin": 20.32
+    },
+    {
+      "texto": "está",
+      "inicio": 20.4,
+      "fin": 20.56
+    },
+    {
+      "texto": "cada",
+      "inicio": 20.6,
+      "fin": 20.8
+    },
+    {
+      "texto": "piso.",
+      "inicio": 20.88,
+      "fin": 21.6
+    },
+    {
+      "texto": "Por",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "texto": "eso,",
+      "inicio": 21.88,
+      "fin": 22.16
+    },
+    {
+      "texto": "cuando",
+      "inicio": 22.2,
+      "fin": 22.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.44,
+      "fin": 22.48
+    },
+    {
+      "texto": "instalan,",
+      "inicio": 22.56,
+      "fin": 23.2
+    },
+    {
+      "texto": "hace",
+      "inicio": 23.24,
+      "fin": 23.44
+    },
+    {
+      "texto": "un",
+      "inicio": 23.48,
+      "fin": 23.52
+    },
+    {
+      "texto": "viaje",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "texto": "de",
+      "inicio": 23.96,
+      "fin": 24
+    },
+    {
+      "texto": "aprendizaje:",
+      "inicio": 24.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "sube",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "entero",
+      "inicio": 25.6,
+      "fin": 26
+    },
+    {
+      "texto": "y",
+      "inicio": 26.04,
+      "fin": 26.08
+    },
+    {
+      "texto": "apunta",
+      "inicio": 26.16,
+      "fin": 26.48
+    },
+    {
+      "texto": "cuántos",
+      "inicio": 26.64,
+      "fin": 27.04
+    },
+    {
+      "texto": "pulsos",
+      "inicio": 27.12,
+      "fin": 27.44
+    },
+    {
+      "texto": "hay",
+      "inicio": 27.52,
+      "fin": 27.6
+    },
+    {
+      "texto": "hasta",
+      "inicio": 27.68,
+      "fin": 27.92
+    },
+    {
+      "texto": "cada",
+      "inicio": 27.96,
+      "fin": 28.16
+    },
+    {
+      "texto": "piso.",
+      "inicio": 28.24,
+      "fin": 29.04
+    },
+    {
+      "texto": "Después,",
+      "inicio": 29.12,
+      "fin": 29.76
+    },
+    {
+      "texto": "cuando",
+      "inicio": 29.84,
+      "fin": 30
+    },
+    {
+      "texto": "el",
+      "inicio": 30.04,
+      "fin": 30.08
+    },
+    {
+      "texto": "contador",
+      "inicio": 30.16,
+      "fin": 30.56
+    },
+    {
+      "texto": "llega",
+      "inicio": 30.6,
+      "fin": 30.853
+    },
+    {
+      "texto": "al",
+      "inicio": 30.907,
+      "fin": 30.96
+    },
+    {
+      "texto": "número",
+      "inicio": 31.067,
+      "fin": 31.28
+    },
+    {
+      "texto": "que",
+      "inicio": 31.32,
+      "fin": 31.36
+    },
+    {
+      "texto": "apuntó",
+      "inicio": 31.44,
+      "fin": 31.84
+    },
+    {
+      "texto": "para",
+      "inicio": 31.92,
+      "fin": 32
+    },
+    {
+      "texto": "el",
+      "inicio": 32.027,
+      "fin": 32.053
+    },
+    {
+      "texto": "piso",
+      "inicio": 32.08,
+      "fin": 32.32
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 32.4,
+      "fin": 32.96
+    },
+    {
+      "texto": "sabe",
+      "inicio": 33.04,
+      "fin": 33.28
+    },
+    {
+      "texto": "que",
+      "inicio": 33.36,
+      "fin": 33.44
+    },
+    {
+      "texto": "ha",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "llegado.",
+      "inicio": 33.6,
+      "fin": 34.4
+    },
+    {
+      "texto": "Pero",
+      "inicio": 34.44,
+      "fin": 34.56
+    },
+    {
+      "texto": "contar",
+      "inicio": 34.64,
+      "fin": 35.04
+    },
+    {
+      "texto": "puede",
+      "inicio": 35.08,
+      "fin": 35.28
+    },
+    {
+      "texto": "descuadrarse,",
+      "inicio": 35.4,
+      "fin": 36.24
+    },
+    {
+      "texto": "así",
+      "inicio": 36.36,
+      "fin": 36.52
+    },
+    {
+      "texto": "que",
+      "inicio": 36.56,
+      "fin": 36.64
+    },
+    {
+      "texto": "en",
+      "inicio": 36.72,
+      "fin": 36.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 36.88,
+      "fin": 37.04
+    },
+    {
+      "texto": "piso",
+      "inicio": 37.12,
+      "fin": 37.52
+    },
+    {
+      "texto": "hay",
+      "inicio": 37.6,
+      "fin": 37.68
+    },
+    {
+      "texto": "un",
+      "inicio": 37.76,
+      "fin": 37.84
+    },
+    {
+      "texto": "imán.",
+      "inicio": 37.92,
+      "fin": 38.64
+    },
+    {
+      "texto": "Tres",
+      "inicio": 38.693,
+      "fin": 38.8
+    },
+    {
+      "texto": "sensores",
+      "inicio": 38.92,
+      "fin": 39.28
+    },
+    {
+      "texto": "del",
+      "inicio": 39.36,
+      "fin": 39.44
+    },
+    {
+      "texto": "ascensor",
+      "inicio": 39.52,
+      "fin": 39.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 40,
+      "fin": 40.08
+    },
+    {
+      "texto": "notan",
+      "inicio": 40.16,
+      "fin": 40.4
+    },
+    {
+      "texto": "al",
+      "inicio": 40.44,
+      "fin": 40.48
+    },
+    {
+      "texto": "pasar,",
+      "inicio": 40.56,
+      "fin": 41.147
+    },
+    {
+      "texto": "y",
+      "inicio": 41.173,
+      "fin": 41.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.28,
+      "fin": 41.36
+    },
+    {
+      "texto": "frenan",
+      "inicio": 41.44,
+      "fin": 41.76
+    },
+    {
+      "texto": "hasta",
+      "inicio": 41.8,
+      "fin": 42
+    },
+    {
+      "texto": "dejarlo",
+      "inicio": 42.08,
+      "fin": 42.4
+    },
+    {
+      "texto": "a",
+      "inicio": 42.48,
+      "fin": 42.56
+    },
+    {
+      "texto": "menos",
+      "inicio": 42.64,
+      "fin": 42.96
+    },
+    {
+      "texto": "de",
+      "inicio": 43,
+      "fin": 43.04
+    },
+    {
+      "texto": "un",
+      "inicio": 43.08,
+      "fin": 43.12
+    },
+    {
+      "texto": "milímetro",
+      "inicio": 43.2,
+      "fin": 43.68
+    },
+    {
+      "texto": "del",
+      "inicio": 43.72,
+      "fin": 43.76
+    },
+    {
+      "texto": "suelo.",
+      "inicio": 43.84,
+      "fin": 44.64
+    },
+    {
+      "texto": "Así",
+      "inicio": 44.72,
+      "fin": 44.88
+    },
+    {
+      "texto": "que",
+      "inicio": 44.96,
+      "fin": 45.12
+    },
+    {
+      "texto": "no",
+      "inicio": 45.2,
+      "fin": 45.28
+    },
+    {
+      "texto": "ve",
+      "inicio": 45.36,
+      "fin": 45.44
+    },
+    {
+      "texto": "el",
+      "inicio": 45.52,
+      "fin": 45.6
+    },
+    {
+      "texto": "piso:",
+      "inicio": 45.707,
+      "fin": 46.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 46.24,
+      "fin": 46.4
+    },
+    {
+      "texto": "cuenta,",
+      "inicio": 46.533,
+      "fin": 47.12
+    },
+    {
+      "texto": "y",
+      "inicio": 47.16,
+      "fin": 47.2
+    },
+    {
+      "texto": "el",
+      "inicio": 47.24,
+      "fin": 47.28
+    },
+    {
+      "texto": "imán",
+      "inicio": 47.36,
+      "fin": 47.68
+    },
+    {
+      "texto": "le",
+      "inicio": 47.76,
+      "fin": 47.84
+    },
+    {
+      "texto": "confirma",
+      "inicio": 47.92,
+      "fin": 48.32
+    },
+    {
+      "texto": "que",
+      "inicio": 48.36,
+      "fin": 48.4
+    },
+    {
+      "texto": "ha",
+      "inicio": 48.48,
+      "fin": 48.533
+    },
+    {
+      "texto": "acertado.",
+      "inicio": 48.587,
+      "fin": 49.52
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 49.6,
+      "fin": 50.08
+    },
+    {
+      "texto": "a",
+      "inicio": 50.12,
+      "fin": 50.16
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.24,
+      "fin": 50.32
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.4,
+      "fin": 50.64
+    },
+    {
+      "texto": "que",
+      "inicio": 50.68,
+      "fin": 50.72
+    },
+    {
+      "texto": "se",
+      "inicio": 50.8,
+      "fin": 50.88
+    },
+    {
+      "texto": "queda",
+      "inicio": 50.96,
+      "fin": 51.12
+    },
+    {
+      "texto": "mirando",
+      "inicio": 51.2,
+      "fin": 51.44
+    },
+    {
+      "texto": "los",
+      "inicio": 51.52,
+      "fin": 51.6
+    },
+    {
+      "texto": "números",
+      "inicio": 51.68,
+      "fin": 52
+    },
+    {
+      "texto": "del",
+      "inicio": 52.04,
+      "fin": 52.08
+    },
+    {
+      "texto": "ascensor.",
+      "inicio": 52.16,
+      "fin": 52.88
+    }
+  ]
+}

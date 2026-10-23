@@ -1,0 +1,20 @@
+{
+  "titulo": "Por qué los aviones no vuelan en línea recta",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué los aviones no vuelan en línea recta?", "clave": "recta", "hook": true },
+    { "texto": "Madrid y Nueva York están a la misma altura, pero el avión sube en una curva enorme.", "clave": "curva", "hook": true },
+    { "texto": "¿Se ha perdido el piloto?", "clave": "perdido", "hook": true },
+    { "texto": "Para nada: esa curva es la línea recta.", "clave": "nada" },
+    { "texto": "Es que la Tierra es una bola, y tu mapa es plano.", "clave": "bola" },
+    { "texto": "En una bola, el camino más corto es un arco.", "clave": "arco" },
+    { "texto": "Tensa un hilo de Madrid a Nueva York sobre un globo, y sube igual que el avión.", "clave": "hilo" },
+    { "texto": "Y la recta del mapa es la que da el rodeo: ciento setenta kilómetros más.", "clave": "rodeo" },
+    { "texto": "Pero hay más: a diez kilómetros de altura corre un río de viento.", "clave": "viento" },
+    { "texto": "Hacia el este, los aviones se suben a él para que los empuje, y a la vuelta lo esquivan.", "clave": "empuje" },
+    { "texto": "En 2020, uno cruzó de Nueva York a Londres en menos de cinco horas, con un viento de cola de más de cuatrocientos kilómetros por hora.", "clave": "cinco" },
+    { "texto": "Así que el piloto no se ha perdido: va por el camino más corto de una Tierra redonda, y el viento hace el resto.", "clave": "redonda" },
+    { "texto": "Envíaselo a ese amigo que mira el mapa del asiento y cree que el piloto se ha equivocado.", "clave": "asiento" }
+  ]
+}

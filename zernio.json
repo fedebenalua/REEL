@@ -20,7 +20,7 @@
       }
     },
     "curiosidades": {
-      "horas": 6,
+      "horas": 2,
       "cuentas": {
         "instagram": "6a7dc30e77555aae0167cfcf",
         "youtube": "6a74d969d0fe733d1ac94064"
@@ -38,6 +38,12 @@
         "tiktok": "6adb5021efe08c5ed0d14a19",
         "instagram": "6adb4d9b94df191931ec80a0",
         "youtube": "6adb4d3bf664b7becd1e0adc"
+      }
+    },
+    "ingles": {
+      "horas": 3,
+      "cuentas": {
+        "instagram": "6adb8cb8e0d007f3bf0530d3"
       }
     }
   }

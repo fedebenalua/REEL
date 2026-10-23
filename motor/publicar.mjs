@@ -17,6 +17,7 @@ publicar.mjs: publica en Zernio (TikTok, Instagram Reels, YouTube Shorts) el ví
 Opciones:
   --prueba     solo valida con Zernio, no publica nada
   --otra-vez   permite publicar un vídeo que ya se publicó
+  --ahora      lo publica ya, sin esperar al hueco del ritmo (el siguiente cuenta desde el último programado)
 
 Las cuentas a usar están en zernio.json; la clave, en .env.local (ZERNIO_API_KEY).
 Lo programado se apunta en publicados.json.
@@ -114,7 +115,7 @@ if (hechos.some((e) => e.video === nombre) && !op["otra-vez"]) fallo(`«${nombre
 const ahora = Date.now();
 const ultimo = Math.max(0, ...hechos.map((e) => Date.parse(e.programadoPara)));
 const cuando = Math.max(ahora + 2 * 60_000, ultimo ? ultimo + horas * 3600_000 : 0);
-const ya = cuando <= ahora + 3 * 60_000;
+const ya = op.ahora || cuando <= ahora + 3 * 60_000;
 const hora = (t) => new Date(t).toLocaleString("es-ES", { timeZone: zona, dateStyle: "short", timeStyle: "short" });
 
 // ---- texto por red
