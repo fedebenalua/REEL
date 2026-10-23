@@ -1,0 +1,22 @@
+{
+  "titulo": "La abeja y el cero",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Esta abeja acaba de ignorar el punto y se ha ido a la carta vacía.", "clave": "vacía", "hook": true },
+    { "texto": "No se ha equivocado. Le enseñaron a quedarse con la que tiene menos.", "clave": "menos", "hook": true },
+    { "texto": "Dos puntos, tres, cinco. Las cartas cambian de dibujo y ella sigue eligiendo la de menos.", "clave": "dibujo" },
+    { "texto": "Le dan una gota de azúcar, y vuelve a por otra.", "clave": "azúcar" },
+    { "texto": "Hasta que aparece una carta sin ningún dibujo, junto a una con un solo punto.", "clave": "ningún" },
+    { "texto": "Ahí no hay nada que contar. Y aun así se va a la vacía.", "clave": "nada" },
+    { "texto": "Unas seis de cada diez veces. Al azar, serían cinco.", "clave": "seis" },
+    { "texto": "Cuanto más grande es el otro número, más clara es la elección.", "clave": "clara" },
+    { "texto": "Esa carta no se la habían enseñado.", "clave": "enseñado" },
+    { "texto": "Tampoco la elige por ser nueva: eso ya lo miraron.", "clave": "nueva" },
+    { "texto": "Aun así la coloca por debajo del uno: el cero.", "clave": "cero" },
+    { "texto": "No el de las cuentas. El de saber que nada es menos que algo.", "clave": "cuentas" },
+    { "texto": "Con un cerebro más pequeño que una semilla de sésamo: cerca de un millón de neuronas.", "clave": "sésamo" },
+    { "texto": "En el tuyo hay unos ochenta y seis mil millones.", "clave": "millones" },
+    { "texto": "Envíaselo a ese amigo que cree que un bicho no piensa.", "clave": "piensa" }
+  ]
+}
