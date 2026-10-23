@@ -1,0 +1,19 @@
+{
+  "titulo": "The remote that could copy every other remote",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "This remote could copy every other remote in the house.", "clave": "copy", "hook": true },
+    { "texto": "It came from the man who designed the Apple II.", "dicho": "It came from the man who designed the Apple Two.", "clave": "Apple", "hook": true },
+    { "texto": "And almost nobody bought it.", "clave": "nobody", "hook": true },
+    { "texto": "You held your old one up to it, and it watched flashes your eyes can't see.", "clave": "flashes" },
+    { "texto": "One button could turn the TV on, start the tape, and find the channel.", "clave": "button" },
+    { "texto": "It could even do that while you were out.", "clave": "out" },
+    { "texto": "But you had to program it, and it was as long as a pencil.", "clave": "pencil" },
+    { "texto": "Cheaper remotes, from companies people already knew, sold instead.", "clave": "Cheaper" },
+    { "texto": "The next year, he put the company up for sale.", "clave": "sale" },
+    { "texto": "The idea didn't die. It moved into your phone.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still keeps a pile of remotes on the table.", "clave": "friend" }
+  ]
+}
