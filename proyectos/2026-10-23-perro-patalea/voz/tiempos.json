@@ -1,0 +1,967 @@
+{
+  "firma": "ed9c57e8a916",
+  "duracion": 37.44,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro patalea cuando le rascas la barriga?",
+      "clave": "barriga",
+      "inicio": 0,
+      "fin": 2.96
+    },
+    {
+      "n": 2,
+      "texto": "Parece que le hace tanta gracia que se le va la pata.",
+      "clave": "gracia",
+      "inicio": 3.04,
+      "fin": 6.16
+    },
+    {
+      "n": 3,
+      "texto": "No es el centro de la barriga: es el costado, donde llega su pata de atrás.",
+      "clave": "costado",
+      "inicio": 6.32,
+      "fin": 10.88
+    },
+    {
+      "n": 4,
+      "texto": "Ese toque baja a la médula, y ella dispara la pata de ese mismo lado.",
+      "clave": "médula",
+      "inicio": 10.92,
+      "fin": 15.04
+    },
+    {
+      "n": 5,
+      "texto": "Unas cuatro veces por segundo.",
+      "clave": "cuatro",
+      "inicio": 15.08,
+      "fin": 17.12
+    },
+    {
+      "n": 6,
+      "texto": "Si rascas más fuerte, la pata no va más deprisa: va más lejos.",
+      "clave": "lejos",
+      "inicio": 17.16,
+      "fin": 21.36
+    },
+    {
+      "n": 7,
+      "texto": "Como cuando te dan en la rodilla y la pierna salta sola.",
+      "clave": "rodilla",
+      "inicio": 21.44,
+      "fin": 24.32
+    },
+    {
+      "n": 8,
+      "texto": "No hace falta el cerebro: la médula sola lanza la pata.",
+      "clave": "cerebro",
+      "inicio": 24.36,
+      "fin": 28
+    },
+    {
+      "n": 9,
+      "texto": "Así que no se está riendo: la pata va a rascar el sitio que tocas tú.",
+      "clave": "rascar",
+      "inicio": 28.08,
+      "fin": 32.48
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo al que su perro le pega patadas en cuanto le toca la tripita.",
+      "clave": "patadas",
+      "inicio": 32.6,
+      "fin": 36.64
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.48,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "patalea",
+      "inicio": 0.76,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 1.28,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 1.56,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "rascas",
+      "inicio": 1.68,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.04,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "barriga?",
+      "inicio": 2.16,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Parece",
+      "inicio": 3.04,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.36,
+      "fin": 3.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 3.48,
+      "fin": 3.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 3.56,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tanta",
+      "inicio": 3.947,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gracia",
+      "inicio": 4.24,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 4.64,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 4.76,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 4.88,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 5,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 5.08,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pata.",
+      "inicio": 5.2,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 6.32,
+      "fin": 6.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 6.48,
+      "fin": 6.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 6.64,
+      "fin": 6.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "centro",
+      "inicio": 6.84,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 7.08,
+      "fin": 7.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 7.16,
+      "fin": 7.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "barriga:",
+      "inicio": 7.28,
+      "fin": 8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 8.04,
+      "fin": 8.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 8.16,
+      "fin": 8.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "costado,",
+      "inicio": 8.24,
+      "fin": 8.96,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "donde",
+      "inicio": 9.04,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 9.253,
+      "fin": 9.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 9.52,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pata",
+      "inicio": 9.68,
+      "fin": 9.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.88,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "atrás.",
+      "inicio": 10.04,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Ese",
+      "inicio": 10.92,
+      "fin": 11.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "toque",
+      "inicio": 11.2,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 11.52,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 11.8,
+      "fin": 11.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 11.88,
+      "fin": 11.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "médula,",
+      "inicio": 12,
+      "fin": 12.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 12.68,
+      "fin": 12.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ella",
+      "inicio": 12.84,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dispara",
+      "inicio": 13.08,
+      "fin": 13.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13.44,
+      "fin": 13.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pata",
+      "inicio": 13.52,
+      "fin": 13.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.8,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 13.96,
+      "fin": 14.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 14.16,
+      "fin": 14.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lado.",
+      "inicio": 14.36,
+      "fin": 15.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Unas",
+      "inicio": 15.08,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 15.36,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "veces",
+      "inicio": 15.68,
+      "fin": 15.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 16,
+      "fin": 16.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "segundo.",
+      "inicio": 16.16,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 17.16,
+      "fin": 17.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "rascas",
+      "inicio": 17.28,
+      "fin": 17.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 17.64,
+      "fin": 17.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "fuerte,",
+      "inicio": 17.84,
+      "fin": 18.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.32,
+      "fin": 18.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pata",
+      "inicio": 18.48,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 18.8,
+      "fin": 18.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 18.92,
+      "fin": 18.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 19.04,
+      "fin": 19.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "deprisa:",
+      "inicio": 19.2,
+      "fin": 19.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 20,
+      "fin": 20.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 20.16,
+      "fin": 20.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "lejos.",
+      "inicio": 20.48,
+      "fin": 21.36,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Como",
+      "inicio": 21.44,
+      "fin": 21.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 21.56,
+      "fin": 21.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 21.8,
+      "fin": 21.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dan",
+      "inicio": 21.92,
+      "fin": 22,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 22.08,
+      "fin": 22.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 22.16,
+      "fin": 22.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "rodilla",
+      "inicio": 22.24,
+      "fin": 22.64,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 22.68,
+      "fin": 22.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 22.76,
+      "fin": 22.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pierna",
+      "inicio": 22.88,
+      "fin": 23.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "salta",
+      "inicio": 23.28,
+      "fin": 23.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sola.",
+      "inicio": 23.56,
+      "fin": 24.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 24.36,
+      "fin": 24.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 24.44,
+      "fin": 24.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "falta",
+      "inicio": 24.72,
+      "fin": 24.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 24.92,
+      "fin": 24.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cerebro:",
+      "inicio": 25.04,
+      "fin": 25.68,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 25.72,
+      "fin": 25.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "médula",
+      "inicio": 25.84,
+      "fin": 26.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "sola",
+      "inicio": 26.28,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lanza",
+      "inicio": 26.64,
+      "fin": 26.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 27,
+      "fin": 27.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pata.",
+      "inicio": 27.12,
+      "fin": 28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 28.08,
+      "fin": 28.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 28.24,
+      "fin": 28.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 28.56,
+      "fin": 28.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 28.68,
+      "fin": 28.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 28.8,
+      "fin": 28.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "riendo:",
+      "inicio": 29.16,
+      "fin": 29.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 29.72,
+      "fin": 29.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pata",
+      "inicio": 29.84,
+      "fin": 30.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 30.2,
+      "fin": 30.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 30.28,
+      "fin": 30.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "rascar",
+      "inicio": 30.4,
+      "fin": 30.72,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 30.76,
+      "fin": 30.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sitio",
+      "inicio": 30.88,
+      "fin": 31.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 31.2,
+      "fin": 31.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tocas",
+      "inicio": 31.36,
+      "fin": 31.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tú.",
+      "inicio": 31.64,
+      "fin": 32.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 32.6,
+      "fin": 33.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 33.08,
+      "fin": 33.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 33.2,
+      "fin": 33.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 33.36,
+      "fin": 33.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 33.64,
+      "fin": 33.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 33.76,
+      "fin": 33.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 33.92,
+      "fin": 34,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 34.08,
+      "fin": 34.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 34.32,
+      "fin": 34.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pega",
+      "inicio": 34.44,
+      "fin": 34.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "patadas",
+      "inicio": 34.72,
+      "fin": 35.04,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 35.12,
+      "fin": 35.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 35.24,
+      "fin": 35.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 35.48,
+      "fin": 35.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "toca",
+      "inicio": 35.6,
+      "fin": 35.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 35.8,
+      "fin": 35.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "tripita.",
+      "inicio": 35.92,
+      "fin": 36.64,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

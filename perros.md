@@ -16,6 +16,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué mueve la cola más hacia un lado (`proyectos/2026-10-22-perro-mueve-la-cola`).
 - Por qué inclina la cabeza cuando le hablas (`proyectos/2026-10-23-perro-inclina-cabeza`).
 - Por qué come hierba (`proyectos/2026-10-23-perro-come-hierba`).
+- Por qué patalea al rascarle el costado (`proyectos/2026-10-23-perro-patalea`).
 
 ## Ideas pendientes
 
@@ -27,7 +28,6 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué se lamen la nariz y por qué la tienen húmeda.
 - Por qué bostezan cuando tú bostezas.
 - Por qué entierran los huesos.
-- Por qué patalean al rascarles la barriga.
 - Por qué corren a lo loco de repente (la «zoomies»).
 - Por qué te traen el juguete y no te lo dan.
 - Por qué suspiran al echarse.

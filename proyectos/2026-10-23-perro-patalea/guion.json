@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué tu perro patalea",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro patalea cuando le rascas la barriga?", "clave": "barriga", "hook": true },
+    { "texto": "Parece que le hace tanta gracia que se le va la pata.", "clave": "gracia", "hook": true },
+    { "texto": "No es el centro de la barriga: es el costado, donde llega su pata de atrás.", "clave": "costado" },
+    { "texto": "Ese toque baja a la médula, y ella dispara la pata de ese mismo lado.", "clave": "médula" },
+    { "texto": "Unas cuatro veces por segundo.", "clave": "cuatro" },
+    { "texto": "Si rascas más fuerte, la pata no va más deprisa: va más lejos.", "clave": "lejos" },
+    { "texto": "Como cuando te dan en la rodilla y la pierna salta sola.", "clave": "rodilla" },
+    { "texto": "No hace falta el cerebro: la médula sola lanza la pata.", "clave": "cerebro" },
+    { "texto": "Así que no se está riendo: la pata va a rascar el sitio que tocas tú.", "clave": "rascar" },
+    { "texto": "Envíaselo a ese amigo al que su perro le pega patadas en cuanto le toca la tripita.", "clave": "patadas" }
+  ]
+}
