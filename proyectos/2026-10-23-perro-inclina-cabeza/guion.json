@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué tu perro inclina la cabeza",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro inclina la cabeza cuando le hablas?", "clave": "cabeza", "hook": true },
+    { "texto": "En un estudio, no era por dónde estabas tú.", "clave": "estabas", "hook": true },
+    { "texto": "Le pedían un juguete, por su nombre.", "clave": "nombre" },
+    { "texto": "Los siete que se lo sabían la inclinaban cuatro de cada diez veces.", "clave": "siete" },
+    { "texto": "Los otros treinta y tres, tras tres meses oyendo lo mismo, solo dos de cada cien.", "clave": "cien" },
+    { "texto": "Y cada uno se iba siempre al mismo lado, meses después, como la mano con la que escribes.", "clave": "mano" },
+    { "texto": "Los autores creen que está atento: encaja la palabra con el juguete que recuerda.", "clave": "juguete" },
+    { "texto": "Ojo: solo miraron ese momento, y de las otras veces aún no se sabe.", "clave": "momento" },
+    { "texto": "Así que, en el estudio, no decía te quiero: decía que esa palabra le significaba algo.", "clave": "significaba" },
+    { "texto": "Envíaselo a ese amigo al que su perro le inclina la cabeza y ya se derrite.", "clave": "derrite" }
+  ]
+}

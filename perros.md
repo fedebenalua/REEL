@@ -14,6 +14,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 
 - Por qué tu perro tira de la correa (`proyectos/2026-10-22-perro-tira-correa`).
 - Por qué mueve la cola más hacia un lado (`proyectos/2026-10-22-perro-mueve-la-cola`).
+- Por qué inclina la cabeza cuando le hablas (`proyectos/2026-10-23-perro-inclina-cabeza`).
 
 ## Ideas pendientes
 
