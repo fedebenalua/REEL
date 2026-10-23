@@ -45,6 +45,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Por qué la miel no caduca nunca (2026-10-23).
 - Por qué los aviones no vuelan en línea recta (2026-10-23).
 - Lista del creador 1: ¿Cómo sabe un ascensor exactamente en qué piso está? (2026-10-23).
+- Lista del creador 2: ¿Por qué el microondas tiene una rejilla negra en la puerta y aun así puedes ver dentro? (2026-10-23).
 
 ## Ideas pendientes
 

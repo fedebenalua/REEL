@@ -1,0 +1,45 @@
+{
+  "titulo": "Por qué el microondas tiene rejilla",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué el microondas tiene una rejilla negra en la puerta y aun así puedes ver dentro?",
+      "clave": "rejilla",
+      "hook": true
+    },
+    {
+      "texto": "Ves el plato girando, como si esos agujeros no frenaran nada.",
+      "clave": "plato",
+      "hook": true
+    },
+    {
+      "texto": "Pero el cristal no las para. Las para el metal de la rejilla.",
+      "clave": "metal"
+    },
+    {
+      "texto": "Cada agujero mide alrededor de un milímetro y medio: la cabeza de un alfiler.",
+      "clave": "alfiler"
+    },
+    {
+      "texto": "La onda de dentro mide unos doce centímetros: más corta que tu móvil.",
+      "clave": "centímetros"
+    },
+    {
+      "texto": "Es más de ochenta veces más larga que el agujero, y el metal la rebota hacia dentro.",
+      "clave": "rebota"
+    },
+    {
+      "texto": "La luz es miles de veces más pequeña, y se cuela por el mismo agujero.",
+      "clave": "cuela"
+    },
+    {
+      "texto": "Por eso ves las palomitas, y las microondas se quedan dentro.",
+      "clave": "palomitas"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que pega la cara al cristal para ver si ya está.",
+      "clave": "cara"
+    }
+  ]
+}
