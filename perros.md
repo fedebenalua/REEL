@@ -10,6 +10,16 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Di solo lo que la ciencia sostiene. Si un efecto está discutido (por ejemplo, la brújula magnética al hacer caca),
   cuéntalo con ese matiz: «parece», «según un estudio», «no todos los estudios lo confirman».
 
+## Cómo se dibuja el perro (obligatorio)
+
+- Un solo perro para todos los vídeos: `perros/mundo.js` (el de `proyectos/2026-10-22-perro-tira-correa`). Impórtalo desde
+  el plano, no copies ni dibujes otro. Mira primero `perros/muestra-*.jpg` y los planos que cita la cabecera del archivo.
+- Antes de renderizar, mira con `ver.mjs` el perro en 3 momentos (quieto, en movimiento, en primer plano). Si el perro
+  se ve plano, torcido, con patas raras o con menos volumen que `perros/muestra-*.jpg`, arréglalo antes de seguir.
+- Si hace falta otra pose (sentado, tumbado, de frente), amplía `perros/mundo.js` con un parámetro nuevo y deja el
+  mismo estilo (volumen, luz, patas con `miembro()`). Los vídeos nuevos reutilizan esa mejora.
+- Nada de perros de frente con ojos enormes ni de cuerpos hechos con óvalos sueltos: es lo que peor se ve.
+
 ## Ya hechos
 
 - Por qué tu perro tira de la correa (`proyectos/2026-10-22-perro-tira-correa`).
