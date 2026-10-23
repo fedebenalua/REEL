@@ -1,0 +1,890 @@
+{
+  "firma": "4e17f6346201",
+  "duracion": 38.64,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Lo que ya te sale bien es lo que antes se te va.",
+      "clave": "va",
+      "inicio": 0,
+      "fin": 2.48
+    },
+    {
+      "n": 2,
+      "texto": "Cuarenta palabras. En cuanto una te sale, la apartas.",
+      "clave": "apartas",
+      "inicio": 2.96,
+      "fin": 6.68
+    },
+    {
+      "n": 3,
+      "texto": "¿Qué queda de eso una semana después?",
+      "clave": "semana",
+      "inicio": 6.88,
+      "fin": 9
+    },
+    {
+      "n": 4,
+      "texto": "Al acabar, casi todas les salían.",
+      "clave": "salían",
+      "inicio": 9.28,
+      "fin": 11.56
+    },
+    {
+      "n": 5,
+      "texto": "Y creían que recordarían la mitad.",
+      "clave": "mitad",
+      "inicio": 11.76,
+      "fin": 13.52
+    },
+    {
+      "n": 6,
+      "texto": "Uno siguió mirando las que ya se sabía.",
+      "clave": "mirando",
+      "inicio": 14.16,
+      "fin": 16.16
+    },
+    {
+      "n": 7,
+      "texto": "El otro las tapó y las sacó de la cabeza, también las que ya le salían.",
+      "clave": "sacó",
+      "inicio": 16.56,
+      "fin": 20.24
+    },
+    {
+      "n": 8,
+      "texto": "Practicaron casi lo mismo.",
+      "clave": "mismo",
+      "inicio": 20.72,
+      "fin": 22.16
+    },
+    {
+      "n": 9,
+      "texto": "Siete días después, quien dejó de probarse recuerda en torno a un tercio.",
+      "clave": "tercio",
+      "inicio": 22.72,
+      "fin": 26.8
+    },
+    {
+      "n": 10,
+      "texto": "Quien siguió sacándolas, cerca de ocho de cada diez.",
+      "clave": "diez",
+      "inicio": 27.04,
+      "fin": 29.76
+    },
+    {
+      "n": 11,
+      "texto": "No las graba mirarlas. Las graba volver a buscarlas.",
+      "clave": "buscarlas",
+      "inicio": 30.24,
+      "fin": 33.6
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a ese amigo que en cuanto le sale una, la da por sabida.",
+      "clave": "sabida",
+      "inicio": 34.16,
+      "fin": 37.84
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Lo",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 0.56,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "bien",
+      "inicio": 0.8,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 1.2,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 1.44,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 1.6,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 1.84,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 2.08,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 2.2,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "va.",
+      "inicio": 2.32,
+      "fin": 2.48,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Cuarenta",
+      "inicio": 2.96,
+      "fin": 3.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "palabras.",
+      "inicio": 3.44,
+      "fin": 4.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 4.4,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 4.6,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 4.96,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 5.12,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sale,",
+      "inicio": 5.28,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 5.76,
+      "fin": 5.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "apartas.",
+      "inicio": 5.92,
+      "fin": 6.68,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 6.88,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 7.16,
+      "fin": 7.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 7.32,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 7.44,
+      "fin": 7.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 7.76,
+      "fin": 7.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "semana",
+      "inicio": 8,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "después?",
+      "inicio": 8.32,
+      "fin": 9,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "acabar,",
+      "inicio": 9.44,
+      "fin": 10,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 10.04,
+      "fin": 10.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "todas",
+      "inicio": 10.4,
+      "fin": 10.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 10.8,
+      "fin": 10.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "salían.",
+      "inicio": 10.96,
+      "fin": 11.56,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 11.76,
+      "fin": 11.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "creían",
+      "inicio": 11.84,
+      "fin": 12.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 12.32,
+      "fin": 12.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "recordarían",
+      "inicio": 12.56,
+      "fin": 12.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13,
+      "fin": 13.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mitad.",
+      "inicio": 13.12,
+      "fin": 13.52,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Uno",
+      "inicio": 14.16,
+      "fin": 14.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "siguió",
+      "inicio": 14.48,
+      "fin": 14.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mirando",
+      "inicio": 14.8,
+      "fin": 15.04,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "las",
+      "inicio": 15.12,
+      "fin": 15.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 15.32,
+      "fin": 15.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 15.44,
+      "fin": 15.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 15.6,
+      "fin": 15.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sabía.",
+      "inicio": 15.76,
+      "fin": 16.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 16.56,
+      "fin": 16.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "otro",
+      "inicio": 16.72,
+      "fin": 16.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 17.04,
+      "fin": 17.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tapó",
+      "inicio": 17.24,
+      "fin": 17.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 17.56,
+      "fin": 17.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 17.68,
+      "fin": 17.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sacó",
+      "inicio": 17.8,
+      "fin": 18.04,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 18.08,
+      "fin": 18.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.16,
+      "fin": 18.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cabeza,",
+      "inicio": 18.24,
+      "fin": 18.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "también",
+      "inicio": 18.88,
+      "fin": 19.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 19.28,
+      "fin": 19.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.44,
+      "fin": 19.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 19.56,
+      "fin": 19.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 19.68,
+      "fin": 19.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "salían.",
+      "inicio": 19.84,
+      "fin": 20.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Practicaron",
+      "inicio": 20.72,
+      "fin": 21.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 21.36,
+      "fin": 21.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 21.64,
+      "fin": 21.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mismo.",
+      "inicio": 21.76,
+      "fin": 22.16,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Siete",
+      "inicio": 22.72,
+      "fin": 22.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "días",
+      "inicio": 23,
+      "fin": 23.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "después,",
+      "inicio": 23.32,
+      "fin": 23.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "quien",
+      "inicio": 23.88,
+      "fin": 24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dejó",
+      "inicio": 24.08,
+      "fin": 24.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.32,
+      "fin": 24.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "probarse",
+      "inicio": 24.48,
+      "fin": 24.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "recuerda",
+      "inicio": 25,
+      "fin": 25.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "torno",
+      "inicio": 25.6,
+      "fin": 25.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.84,
+      "fin": 25.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 26,
+      "fin": 26.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tercio.",
+      "inicio": 26.16,
+      "fin": 26.8,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Quien",
+      "inicio": 27.04,
+      "fin": 27.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "siguió",
+      "inicio": 27.28,
+      "fin": 27.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sacándolas,",
+      "inicio": 27.56,
+      "fin": 28.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cerca",
+      "inicio": 28.32,
+      "fin": 28.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 28.64,
+      "fin": 28.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 28.8,
+      "fin": 29.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 29.08,
+      "fin": 29.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 29.2,
+      "fin": 29.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "diez.",
+      "inicio": 29.44,
+      "fin": 29.76,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "No",
+      "inicio": 30.24,
+      "fin": 30.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 30.4,
+      "fin": 30.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "graba",
+      "inicio": 30.52,
+      "fin": 30.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "mirarlas.",
+      "inicio": 30.8,
+      "fin": 31.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Las",
+      "inicio": 31.6,
+      "fin": 31.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "graba",
+      "inicio": 31.84,
+      "fin": 32.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "volver",
+      "inicio": 32.32,
+      "fin": 32.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 32.747,
+      "fin": 32.773,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "buscarlas.",
+      "inicio": 32.8,
+      "fin": 33.6,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 34.16,
+      "fin": 34.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 34.76,
+      "fin": 34.8,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 34.88,
+      "fin": 34.96,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 35.04,
+      "fin": 35.28,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 35.36,
+      "fin": 35.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 35.52,
+      "fin": 35.6,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 35.64,
+      "fin": 35.84,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 35.92,
+      "fin": 36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 36.12,
+      "fin": 36.24,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "una,",
+      "inicio": 36.32,
+      "fin": 36.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 36.76,
+      "fin": 36.8,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "da",
+      "inicio": 36.88,
+      "fin": 36.96,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 37.04,
+      "fin": 37.12,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "sabida.",
+      "inicio": 37.2,
+      "fin": 37.84,
+      "frase": 12,
+      "clave": true
+    }
+  ]
+}
