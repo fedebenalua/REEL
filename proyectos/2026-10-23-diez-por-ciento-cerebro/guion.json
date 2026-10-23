@@ -1,0 +1,18 @@
+{
+  "titulo": "El diez por ciento del cerebro",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Dicen que solo usas el diez por ciento de tu cerebro.", "clave": "diez", "hook": true },
+    { "texto": "El noventa, apagado, esperando a que lo despiertes.", "clave": "apagado", "hook": true },
+    { "texto": "Si eso fuera verdad, podrías perder casi todo y seguir igual.", "clave": "perder", "hook": true },
+    { "texto": "Pero un golpe en una zona pequeña te puede quitar el habla, la mano o un nombre.", "clave": "habla" },
+    { "texto": "Si esa zona estuviera de sobra, el golpe no debería notarse.", "clave": "sobra" },
+    { "texto": "Tu cerebro pesa una parte de cada cincuenta de ti.", "clave": "cincuenta" },
+    { "texto": "Y se queda con una caloría de cada cinco, aunque solo mires al techo.", "clave": "cinco" },
+    { "texto": "No hay un noventa por ciento parado: cada parte trabaja, y se turnan.", "clave": "turnan" },
+    { "texto": "No hace falta encenderlas todas en el mismo segundo.", "clave": "segundo" },
+    { "texto": "Así que no te sobra cerebro. Ya lo estás usando.", "clave": "usando" },
+    { "texto": "Envíaselo a ese amigo que cree que le sobra cabeza.", "clave": "cabeza" }
+  ]
+}
