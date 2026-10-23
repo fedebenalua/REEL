@@ -1,0 +1,19 @@
+{
+  "titulo": "Lo que ya te sale se te va",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Lo que ya te sale bien es lo que antes se te va.", "clave": "va", "hook": true },
+    { "texto": "Cuarenta palabras. En cuanto una te sale, la apartas.", "clave": "apartas", "hook": true },
+    { "texto": "¿Qué queda de eso una semana después?", "clave": "semana", "hook": true },
+    { "texto": "Al acabar, casi todas les salían.", "clave": "salían" },
+    { "texto": "Y creían que recordarían la mitad.", "clave": "mitad" },
+    { "texto": "Uno siguió mirando las que ya se sabía.", "clave": "mirando" },
+    { "texto": "El otro las tapó y las sacó de la cabeza, también las que ya le salían.", "clave": "sacó" },
+    { "texto": "Practicaron casi lo mismo.", "clave": "mismo" },
+    { "texto": "Siete días después, quien dejó de probarse recuerda en torno a un tercio.", "clave": "tercio" },
+    { "texto": "Quien siguió sacándolas, cerca de ocho de cada diez.", "clave": "diez" },
+    { "texto": "No las graba mirarlas. Las graba volver a buscarlas.", "clave": "buscarlas" },
+    { "texto": "Envíaselo a ese amigo que en cuanto le sale una, la da por sabida.", "clave": "sabida" }
+  ]
+}
