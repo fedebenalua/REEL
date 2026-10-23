@@ -1,6 +1,6 @@
 // EL PERRO DE LA CASA (y el parque, la persona y la correa). Úsalo en TODOS los vídeos de perros; no dibujes otro perro.
 //
-//   import { aPantalla, cam, correa, parque, perro, persona, polvo, ponVista, simula, sinVista, velo, vineta, ambiente } from "../../../perros/mundo.js";
+//   import { aPantalla, cam, correa, parque, perro, persona, polvo, ponVista, simula, sinVista, velo, vineta, ambiente } from "../../../../perros/mundo.js";
 //
 // Cómo se usa (mira estos planos hechos, son la referencia):
 //   proyectos/2026-10-22-perro-tira-correa/video/planos/01-hook.js        perro y persona andando y tirando (simula, cámara que se abre)
@@ -8,9 +8,10 @@
 //   proyectos/2026-10-22-perro-tira-correa/video/planos/04-atardecer.js   el parque al atardecer (parque(g, c, t, 1), ambiente)
 // Fotos de cómo tiene que verse: perros/muestra-*.jpg
 //
-// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz }
+// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
+//   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
 // Si te falta una pose (sentado, tumbado, de frente), AMPLÍA este archivo con otro parámetro y el mismo estilo
 // (volumen, luz arriba a la izquierda, patas con miembro()); no hagas un perro nuevo en el plano.
 // Lo que comparten los planos: el parque (capas con parallax), el perro, la persona y la correa.
@@ -289,17 +290,32 @@ function ciclo(ph, duty, stride, lift) {
   return [stride * (-0.5 + e), -lift * Math.sin(Math.PI * u)];
 }
 
+// La trasera levantada, en coordenadas del perro (cadera en [-27, -45]). alta 0..1.
+export function posePataAlta(alta) {
+  const u = Math.max(0, Math.min(1, alta));
+  const cadera = [-27, -45];
+  const thighAng = 0.85 + u * 1.35;
+  const K = [cadera[0] + Math.sin(thighAng) * 24, cadera[1] + Math.cos(thighAng) * 24];
+  const shinAng = thighAng - (0.85 - u * 0.25);
+  const H = [K[0] + Math.sin(shinAng) * 20, K[1] + Math.cos(shinAng) * 20];
+  const pawAng = shinAng + 0.55;
+  const P = [H[0] + Math.sin(pawAng) * 9, H[1] + Math.cos(pawAng) * 9];
+  return { K, H, P, pawAng };
+}
+
 // ---------------------------------------------------------------- el perro
 const PELO = { luz: "#fbd998", medio: "#e0a652", sombra: "#a96a2c", hondo: "#6d4119", pata: "#f6dcab", lejos: "#a9702f" };
 // Un perro grande (tipo labrador), de lado, mirando a la derecha (dir = -1, a la izquierda). Pie en y = 0.
 // fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
-// cola: cuánto la menea; devuelve dónde queda el collar (para la correa), en el mundo.
+// cola: cuánto la menea. escala: tamaño (1 = el de siempre). pataAlta: 0 en el suelo, 1 la trasera de este lado casi vertical.
+// Devuelve collar, nariz, ingle y pata (la trasera de este lado), en el mundo.
 export function perro(g, o) {
   const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4, nb = o.cuelloBaja || 0;
+  const escala = o.escala ?? 1, alta = o.pataAlta || 0;
   const stride = 50 * marcha, lift = 11 * marcha, duty = 0.5, bob = -1.5 * marcha * Math.cos(fase * TAU * 2);
-  const cuerpoY = bob;
+  const cuerpoY = bob + 1.4 * alta;
   const pitchPivot = [0, -40];
-  g.save(); g.translate(x, y); g.scale(dir, 1);
+  g.save(); g.translate(x, y); g.scale(dir * escala, escala);
   // la sombra en el suelo
   g.save(); g.globalAlpha = 0.28; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(0, 2, 56, 7, 0, 0, TAU); g.fill(); g.restore();
   g.translate(pitchPivot[0], pitchPivot[1]); g.rotate(pitch); g.translate(-pitchPivot[0], -pitchPivot[1]);
@@ -307,7 +323,7 @@ export function perro(g, o) {
   const mundoPunto = (px, py) => { // de las coordenadas del perro al mundo (por si la correa)
     let ex = px - pitchPivot[0], ey = py + cuerpoY - pitchPivot[1];
     const cs = Math.cos(pitch), sn = Math.sin(pitch), rx = ex * cs - ey * sn + pitchPivot[0], ry = ex * sn + ey * cs + pitchPivot[1];
-    return [x + rx * dir, y + ry];
+    return [x + rx * dir * escala, y + ry * escala];
   };
 
   const cadera = [-27, -45], hombro = [17, -43];
@@ -315,13 +331,31 @@ export function perro(g, o) {
   // el pie va al suelo del mundo aunque el cuerpo suba y baje: le restamos el bob y el pitch a la altura
   const alSuelo = (p) => [p[0], p[1] - cuerpoY];
   const luzPata = (curva, w) => { g.save(); g.strokeStyle = "rgba(255,238,196,0.32)"; g.lineWidth = w; g.lineCap = "round"; g.beginPath(); curva.forEach((p, i) => (i ? g.lineTo(p[0] - w * 0.9, p[1] - w * 0.2) : g.moveTo(p[0] - w * 0.9, p[1] - w * 0.2))); g.stroke(); g.restore(); };
-  const trasera = (ph, lejos) => {
-    const pp = pie(ph, -30), P = alSuelo(pp), H = [P[0] - 4 - 2 * (pp[1] / -lift || 0), P[1] - 17];
-    const K = ik(cadera[0], cadera[1], H[0], H[1], 25, 25, -1);
+  let pataLocal = [-30, 0];
+  const trasera = (ph, lejos, alza = 0) => {
+    let P, K, H;
+    if (!lejos && alza > 0.02) {
+      // Muslo grueso hacia arriba y adelante, corvejón, y la pata contra el tronco. 1 = bien alta.
+      const pose = posePataAlta(alza);
+      K = pose.K; H = pose.H; P = pose.P;
+    } else {
+      const pp = pie(ph, -30); P = alSuelo(pp); H = [P[0] - 4 - 2 * (pp[1] / -(lift || 1) || 0), P[1] - 17];
+      K = ik(cadera[0], cadera[1], H[0], H[1], 25, 25, -1);
+    }
     g.fillStyle = lejos ? PELO.lejos : PELO.medio;
-    const curva = miembro(g, [[cadera[0] - 1, cadera[1] - 2], K, H, [P[0] + 0.5, P[1] - 3.5]], lejos ? [14, 9.5, 6.2, 5.2] : [24, 11, 6.5, 5.4]);
-    g.fillStyle = lejos ? "#c8935a" : PELO.pata; g.beginPath(); g.ellipse(P[0] + 3.5, P[1] - 2.6, 7, 3.9, 0, 0, TAU); g.fill();
-    if (!lejos) luzPata(curva.slice(8), 1.6);
+    const punta = !lejos && alza > 0.02 ? P : [P[0] + 0.5, P[1] - 3.5];
+    const curva = miembro(g, [[cadera[0] - 1, cadera[1] - 2], K, H, punta], lejos ? [14, 9.5, 6.2, 5.2] : [26, 14, 8, 6.2]);
+    g.fillStyle = lejos ? "#c8935a" : PELO.pata;
+    g.save(); g.translate(P[0], P[1]);
+    if (!lejos && alza > 0.02) g.rotate(posePataAlta(alza).pawAng);
+    g.beginPath(); g.ellipse(alza > 0.02 && !lejos ? 5 : 3.5, alza > 0.02 && !lejos ? 0 : -2.6, 7.2, 4.1, 0, 0, TAU); g.fill();
+    if (!lejos) {
+      g.fillStyle = "#5c3814";
+      const pads = alza > 0.02 ? [[7.4, -1.8], [7.6, 1.6], [5.2, -2.6], [5.2, 2.5]] : [[0.5, -3.2], [3.4, -2.2], [5.6, -0.4], [2.2, -0.6]];
+      for (const [dx, dy] of pads) { g.beginPath(); g.ellipse(dx, dy, 1.25, 1.55, 0.2, 0, TAU); g.fill(); }
+    }
+    g.restore();
+    if (!lejos) { luzPata(curva.slice(6), 2); pataLocal = P; }
   };
   const delantera = (ph, lejos) => {
     const pp = pie(ph, 21), P = alSuelo(pp), W = [P[0] - 0.5, P[1] - 10], E = ik(hombro[0], hombro[1], W[0], W[1], 22, 22, 1);
@@ -363,8 +397,8 @@ export function perro(g, o) {
   const pecho = g.createRadialGradient(24, -40, 2, 24, -40, 16); pecho.addColorStop(0, "rgba(255,236,190,0.5)"); pecho.addColorStop(1, "rgba(255,236,190,0)");
   g.fillStyle = pecho; g.fillRect(8, -58, 36, 34);
   g.restore();
-  // las patas de esta banda
-  trasera(fase + 0.5, false); delantera(fase, false);
+  // las patas de esta banda (la trasera de este lado puede ir alta, para marcar)
+  trasera(fase + 0.5, false, alta); delantera(fase, false);
   // el collar azul, con su anilla
   g.save(); g.lineCap = "round";
   g.strokeStyle = "#1d4fd8"; g.lineWidth = 5.4; g.beginPath(); g.moveTo(32 + 12 * nb, -71 + 24 * nb); g.lineTo(41 + 14 * nb, -59 + 26 * nb); g.stroke();
@@ -423,7 +457,7 @@ export function perro(g, o) {
   const hp = [38 + 16 * nb, -70 + 30 * nb], ca = Math.cos(cab.ang || 0), sa = Math.sin(cab.ang || 0), nl = [46.2 * 0.8, -1.5 * 0.8], nariz = mundoPunto(hp[0] + nl[0] * ca - nl[1] * sa, hp[1] + nl[0] * sa + nl[1] * ca);
   g.restore();
   g.restore();
-  return { collar, nariz };
+  return { collar, nariz, ingle: mundoPunto(4, -28), pata: mundoPunto(pataLocal[0], pataLocal[1]) };
 }
 
 // ---------------------------------------------------------------- la persona

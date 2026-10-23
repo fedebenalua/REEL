@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué tu perro levanta la pata",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro levanta la pata para hacer pis?", "clave": "pata", "hook": true },
+    { "texto": "El pis no cae al suelo: sube por el tronco.", "clave": "tronco", "hook": true },
+    { "texto": "Cuanto más abre la pata, más alta queda la marca.", "clave": "alta" },
+    { "texto": "Su tamaño pesa menos que lo alta que va esa pata.", "clave": "tamaño" },
+    { "texto": "Y los perros pequeños la suben más que los grandes.", "clave": "pequeños" },
+    { "texto": "La puerta de casa lo enseña: la raya queda por encima de tu altura.", "clave": "puerta" },
+    { "texto": "Según un estudio con machos adultos, así pueden parecer más grandes.", "clave": "grandes" },
+    { "texto": "Pero no lo comprobaron: igual solo tapan un pis que ya estaba más arriba.", "clave": "tapan" },
+    { "texto": "Así que la pata apunta, y en los chicos apunta más alto de lo que les toca.", "clave": "apunta" },
+    { "texto": "Envíaselo a ese amigo al que su perro chico le mea el árbol como si fuera enorme.", "clave": "árbol" }
+  ]
+}

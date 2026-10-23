@@ -27,6 +27,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué inclina la cabeza cuando le hablas (`proyectos/2026-10-23-perro-inclina-cabeza`).
 - Por qué come hierba (`proyectos/2026-10-23-perro-come-hierba`).
 - Por qué patalea al rascarle el costado (`proyectos/2026-10-23-perro-patalea`).
+- Por qué levanta la pata para hacer pis (`proyectos/2026-10-23-perro-levanta-la-pata`).
 
 ## Ideas pendientes
 
