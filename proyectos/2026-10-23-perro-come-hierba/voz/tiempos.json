@@ -1,0 +1,946 @@
+{
+  "firma": "5b93f25e4c5e",
+  "duracion": 40,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro come hierba?",
+      "clave": "hierba",
+      "inicio": 0,
+      "fin": 2.08
+    },
+    {
+      "n": 2,
+      "texto": "Casi todo el mundo cree que está malo y que quiere vomitar.",
+      "clave": "vomitar",
+      "inicio": 2.16,
+      "fin": 5.44
+    },
+    {
+      "n": 3,
+      "texto": "Miraron perros sanos con hierba a mano: casi ocho de cada diez la comían.",
+      "clave": "ocho",
+      "inicio": 5.52,
+      "fin": 10.4
+    },
+    {
+      "n": 4,
+      "texto": "Y de los que la comen, casi ocho de cada diez casi nunca vomitan.",
+      "clave": "nunca",
+      "inicio": 10.44,
+      "fin": 14.56
+    },
+    {
+      "n": 5,
+      "texto": "Cuanto más jóvenes, más la comen, y menos vomitan.",
+      "clave": "jóvenes",
+      "inicio": 14.6,
+      "fin": 17.92
+    },
+    {
+      "n": 6,
+      "texto": "Ni el pienso ni la comida de casa cambiaban las veces que la comía.",
+      "clave": "pienso",
+      "inicio": 17.96,
+      "fin": 21.6
+    },
+    {
+      "n": 7,
+      "texto": "Los lobos también comen hierba: les viene de antes de vivir en casa.",
+      "clave": "lobos",
+      "inicio": 21.68,
+      "fin": 25.52
+    },
+    {
+      "n": 8,
+      "texto": "Menos de uno de cada diez parece malo antes, y esos vomitan más.",
+      "clave": "diez",
+      "inicio": 25.6,
+      "fin": 29.84
+    },
+    {
+      "n": 9,
+      "texto": "Así que no se está purgando: es normal, y para qué, aún no se sabe.",
+      "clave": "normal",
+      "inicio": 29.92,
+      "fin": 34.88
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que, en cuanto prueba la hierba, ya llama al veterinario.",
+      "clave": "veterinario",
+      "inicio": 35,
+      "fin": 39.2
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.4,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.64,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "come",
+      "inicio": 1,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hierba?",
+      "inicio": 1.16,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Casi",
+      "inicio": 2.16,
+      "fin": 2.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 2.4,
+      "fin": 2.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 2.52,
+      "fin": 2.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mundo",
+      "inicio": 2.64,
+      "fin": 2.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cree",
+      "inicio": 2.88,
+      "fin": 3.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.2,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 3.36,
+      "fin": 3.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "malo",
+      "inicio": 3.6,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 3.92,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 4.08,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "quiere",
+      "inicio": 4.24,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "vomitar.",
+      "inicio": 4.453,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Miraron",
+      "inicio": 5.52,
+      "fin": 5.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "perros",
+      "inicio": 5.92,
+      "fin": 6.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sanos",
+      "inicio": 6.24,
+      "fin": 6.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 6.64,
+      "fin": 6.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hierba",
+      "inicio": 6.76,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 7.08,
+      "fin": 7.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mano:",
+      "inicio": 7.2,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 7.973,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 8.32,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 8.64,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 8.76,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 8.96,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 9.36,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "comían.",
+      "inicio": 9.6,
+      "fin": 10.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 10.44,
+      "fin": 10.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 10.52,
+      "fin": 10.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.64,
+      "fin": 10.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 10.76,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 10.88,
+      "fin": 10.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "comen,",
+      "inicio": 10.96,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 11.573,
+      "fin": 11.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 11.92,
+      "fin": 12.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.16,
+      "fin": 12.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 12.32,
+      "fin": 12.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 12.56,
+      "fin": 12.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 12.96,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "nunca",
+      "inicio": 13.28,
+      "fin": 13.52,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "vomitan.",
+      "inicio": 13.6,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Cuanto",
+      "inicio": 14.6,
+      "fin": 14.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 14.92,
+      "fin": 15.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "jóvenes,",
+      "inicio": 15.12,
+      "fin": 15.68,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "más",
+      "inicio": 15.72,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 15.92,
+      "fin": 16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "comen,",
+      "inicio": 16.08,
+      "fin": 16.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 16.6,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 16.72,
+      "fin": 16.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "vomitan.",
+      "inicio": 17.013,
+      "fin": 17.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Ni",
+      "inicio": 17.96,
+      "fin": 18,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 18.08,
+      "fin": 18.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pienso",
+      "inicio": 18.28,
+      "fin": 18.64,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "ni",
+      "inicio": 18.68,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.8,
+      "fin": 18.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "comida",
+      "inicio": 18.88,
+      "fin": 19.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.24,
+      "fin": 19.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "casa",
+      "inicio": 19.36,
+      "fin": 19.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cambiaban",
+      "inicio": 19.64,
+      "fin": 20.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 20.16,
+      "fin": 20.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 20.32,
+      "fin": 20.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 20.56,
+      "fin": 20.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 20.64,
+      "fin": 20.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "comía.",
+      "inicio": 20.8,
+      "fin": 21.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Los",
+      "inicio": 21.68,
+      "fin": 21.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lobos",
+      "inicio": 21.84,
+      "fin": 22.16,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "también",
+      "inicio": 22.213,
+      "fin": 22.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "comen",
+      "inicio": 22.56,
+      "fin": 22.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hierba:",
+      "inicio": 22.8,
+      "fin": 23.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 23.44,
+      "fin": 23.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "viene",
+      "inicio": 23.6,
+      "fin": 23.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 23.8,
+      "fin": 23.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 23.92,
+      "fin": 24.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.2,
+      "fin": 24.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "vivir",
+      "inicio": 24.28,
+      "fin": 24.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 24.56,
+      "fin": 24.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "casa.",
+      "inicio": 24.747,
+      "fin": 25.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Menos",
+      "inicio": 25.6,
+      "fin": 25.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.88,
+      "fin": 25.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 26,
+      "fin": 26.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 26.24,
+      "fin": 26.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 26.373,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 26.56,
+      "fin": 26.8,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "parece",
+      "inicio": 26.88,
+      "fin": 27.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "malo",
+      "inicio": 27.24,
+      "fin": 27.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "antes,",
+      "inicio": 27.64,
+      "fin": 28.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 28.12,
+      "fin": 28.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 28.28,
+      "fin": 28.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "vomitan",
+      "inicio": 28.72,
+      "fin": 29.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "más.",
+      "inicio": 29.16,
+      "fin": 29.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 29.92,
+      "fin": 30.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 30.08,
+      "fin": 30.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 30.48,
+      "fin": 30.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30.64,
+      "fin": 30.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 30.8,
+      "fin": 30.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "purgando:",
+      "inicio": 31,
+      "fin": 31.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 31.84,
+      "fin": 31.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "normal,",
+      "inicio": 32.12,
+      "fin": 32.64,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 32.72,
+      "fin": 32.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 32.88,
+      "fin": 32.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "qué,",
+      "inicio": 33.04,
+      "fin": 33.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "aún",
+      "inicio": 33.52,
+      "fin": 33.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 33.76,
+      "fin": 33.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 33.84,
+      "fin": 34,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sabe.",
+      "inicio": 34.08,
+      "fin": 34.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 35,
+      "fin": 35.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 35.48,
+      "fin": 35.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 35.6,
+      "fin": 35.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 35.76,
+      "fin": 36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que,",
+      "inicio": 36.08,
+      "fin": 36.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 36.48,
+      "fin": 36.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cuanto",
+      "inicio": 36.64,
+      "fin": 36.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "prueba",
+      "inicio": 36.96,
+      "fin": 37.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 37.24,
+      "fin": 37.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "hierba,",
+      "inicio": 37.36,
+      "fin": 37.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 37.92,
+      "fin": 38,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "llama",
+      "inicio": 38.04,
+      "fin": 38.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 38.28,
+      "fin": 38.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "veterinario.",
+      "inicio": 38.36,
+      "fin": 39.2,
+      "frase": 10,
+      "clave": true
+    }
+  ]
+}

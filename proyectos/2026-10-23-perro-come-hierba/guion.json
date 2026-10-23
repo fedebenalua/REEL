@@ -1,0 +1,17 @@
+{
+  "titulo": "Por qué tu perro come hierba",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro come hierba?", "clave": "hierba", "hook": true },
+    { "texto": "Casi todo el mundo cree que está malo y que quiere vomitar.", "clave": "vomitar", "hook": true },
+    { "texto": "Miraron perros sanos con hierba a mano: casi ocho de cada diez la comían.", "clave": "ocho", "hook": true },
+    { "texto": "Y de los que la comen, casi ocho de cada diez casi nunca vomitan.", "clave": "nunca" },
+    { "texto": "Cuanto más jóvenes, más la comen, y menos vomitan.", "clave": "jóvenes" },
+    { "texto": "Ni el pienso ni la comida de casa cambiaban las veces que la comía.", "clave": "pienso" },
+    { "texto": "Los lobos también comen hierba: les viene de antes de vivir en casa.", "clave": "lobos" },
+    { "texto": "Menos de uno de cada diez parece malo antes, y esos vomitan más.", "clave": "diez" },
+    { "texto": "Así que no se está purgando: es normal, y para qué, aún no se sabe.", "clave": "normal" },
+    { "texto": "Envíaselo a ese amigo que, en cuanto prueba la hierba, ya llama al veterinario.", "clave": "veterinario" }
+  ]
+}
