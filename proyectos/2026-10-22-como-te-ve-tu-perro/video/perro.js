@@ -151,9 +151,17 @@ const ESPALDA = (() => {
   c.setTransform(1, 0, 0, 1, OXE, OYE);
   const P = new Path2D();
   // el cuerpo: de los hombros a las caderas, que se abren abajo (sentado)
-  P.moveTo(-330, 260); P.bezierCurveTo(-520, 500, -560, 1100, -600, 1500); P.bezierCurveTo(-620, 1800, -420, 1960, 0, 1960);
-  P.bezierCurveTo(420, 1960, 620, 1800, 600, 1500); P.bezierCurveTo(560, 1100, 520, 500, 330, 260); P.closePath();
+  P.moveTo(-300, 300); P.bezierCurveTo(-420, 520, -400, 900, -470, 1200); P.bezierCurveTo(-600, 1450, -640, 1800, -480, 1930); P.quadraticCurveTo(0, 1990, 480, 1930);
+  P.bezierCurveTo(640, 1800, 600, 1450, 470, 1200); P.bezierCurveTo(400, 900, 420, 520, 300, 300); P.closePath();
   c.fillStyle = "#18181c"; c.fill(P);
+  { const az = azar(83); c.lineCap = "round";
+    for (let i = 0; i < 9000; i++) {
+      const x = (az() - 0.5) * 1300, y = 300 + az() * 1650;
+      if (!c.isPointInPath(P, x + OXE, y + OYE) || c.isPointInPath(P, x + OXE + Math.sign(x) * 30, y + OYE)) continue;
+      const L = 20 + az() * 40, luz = x < 0 ? 0.6 : 0.15;
+      c.strokeStyle = `rgba(${22 + 80 * luz * az() | 0},${22 + 86 * luz * az() | 0},${26 + 100 * luz * az() | 0},0.8)`; c.lineWidth = 2 + az() * 2;
+      c.beginPath(); c.moveTo(x, y); c.quadraticCurveTo(x + Math.sign(x) * L * 0.6, y + L * 0.3, x + Math.sign(x) * L, y + L * 0.8); c.stroke();
+    } }
   pelo(c, P, OXE, OYE, [-640, 240, 1280, 1740], 36000, 81, () => 0, (x, y) => [x / 900 * 0.4, 1], [18, 44], [-1, -0.4]);
   volumen(l, (c) => {
     c.setTransform(1, 0, 0, 1, OXE, OYE); c.globalCompositeOperation = "multiply";
@@ -174,12 +182,13 @@ const COLLAR = (() => {
   const P = new Path2D();
   P.moveTo(-380, 230); P.bezierCurveTo(-520, 260, -580, 420, -540, 560); P.bezierCurveTo(-440, 700, -200, 740, 0, 735);
   P.bezierCurveTo(200, 740, 440, 700, 540, 560); P.bezierCurveTo(580, 420, 520, 260, 380, 230); P.closePath();
-  c.fillStyle = "#e8e4dc"; c.fill(P);
-  pelo(c, P, 700, 0, [-600, 200, 1200, 560], 16000, 87, () => 1, (x, y) => [x / 700, 0.8], [24, 60], [-1, -0.3]);
+  c.save(); c.clip(P); const cgr = c.createLinearGradient(-540, 0, 540, 0); cgr.addColorStop(0, "#e8e4dc"); cgr.addColorStop(0.3, "#e8e4dc"); cgr.addColorStop(0.38, "#1a1a1e"); cgr.addColorStop(0.62, "#1a1a1e"); cgr.addColorStop(0.7, "#e8e4dc"); cgr.addColorStop(1, "#e8e4dc"); c.fillStyle = cgr; c.fillRect(-700, 0, 1400, 900); c.restore();
+  const blancoC = (x, y) => tramo(Math.abs(x), 170, 300) + tramo(y, 600, 700);
+  pelo(c, P, 700, 0, [-600, 200, 1200, 560], 16000, 87, blancoC, (x, y) => [x / 700, 0.8], [24, 60], [-1, -0.3]);
   // los mechones de fuera, que se salen del borde
   { const az = azar(89); c.lineCap = "round";
     for (let i = 0; i < 2400; i++) {
-      const a = Math.PI * (0.05 + az() * 0.9), rx = 520 + az() * 30, ry = 260;
+      const a = Math.PI * (az() < 0.5 ? 0.05 + az() * 0.3 : 0.65 + az() * 0.3), rx = 520 + az() * 30, ry = 260;
       const x0 = -Math.cos(a) * rx, y0 = 480 + Math.sin(a) * ry * 0.95, L = 30 + az() * 70, f = 0.78 + az() * 0.25;
       c.strokeStyle = `rgba(${246 * f | 0},${244 * f | 0},${238 * f | 0},${0.45 + az() * 0.4})`; c.lineWidth = 1.5 + az() * 2.5;
       c.beginPath(); c.moveTo(x0, y0); c.quadraticCurveTo(x0 * 1.04, y0 + L * 0.5, x0 * 1.06 + (az() - 0.5) * 20, y0 + L); c.stroke();
@@ -278,6 +287,7 @@ export function perroEspalda(g, t, x, y, esc, { orejas = 0, gira = 0, inclina = 
   g.drawImage(ESPALDA, -OXE, -OYE);
   g.restore();
   g.drawImage(COLLAR, -700, 0);
+  if (corre < 0.5) for (const sd of [-1, 1]) { g.save(); g.globalAlpha = 1 - 2 * corre; const fg = g.createRadialGradient(sd * 470, 1900, 10, sd * 470, 1910, 110); fg.addColorStop(0, "#f4f2ec"); fg.addColorStop(1, "#a8a4a0"); g.fillStyle = fg; g.beginPath(); g.ellipse(sd * 480, 1915, 100, 50, 0, 0, 6.2832); g.fill(); g.restore(); }
   // la cabeza
   g.save(); g.translate(gira * 60, 0); g.rotate(inclina);
   for (const s of [-1, 1]) {

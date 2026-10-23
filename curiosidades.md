@@ -20,7 +20,11 @@ Un vídeo cada 6 horas, en Instagram Reels (@vetclinic1990) y YouTube Shorts (@a
 (La lista de lo publicado está en `publicados-curiosidades.json`.)
 
 - Un rayo es cinco veces más caliente que el Sol (2026-10-22).
+<<<<<<< Updated upstream
 - Por qué los flamencos son rosas: no nacen así, el color se lo comen (2026-10-23).
+=======
+- Por qué la miel no caduca nunca (2026-10-23).
+>>>>>>> Stashed changes
 
 ## Ideas pendientes
 

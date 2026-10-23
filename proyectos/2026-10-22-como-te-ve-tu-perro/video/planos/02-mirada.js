@@ -10,7 +10,7 @@
 //   diminuto que corre, con su círculo; «ochocientos metros»: la línea de puntos hasta allí y «800 m».
 import * as k from "#kit";
 import { v } from "#voz";
-import { camara, campo, pon, tu } from "../campo.js";
+import { camara, campo, veloArriba, pon, tu } from "../campo.js";
 import { perroEspalda } from "../perro.js";
 
 export const desde = "para";
@@ -80,4 +80,5 @@ export function dibuja(g, t) {
     }
   }
   g.restore();
+  veloArriba(g);
 }

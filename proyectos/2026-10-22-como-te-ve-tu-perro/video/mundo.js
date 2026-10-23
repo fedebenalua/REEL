@@ -420,9 +420,10 @@ export function cara(g, t, x, y, esc, { orejas = [0, 0], inclina = 0, contento =
   // dentro de la cabeza: una luz cálida que se enciende (el olor que le gusta)
   if (brilloCabeza > 0.01) {
     g.save(); g.globalCompositeOperation = "lighter";
-    const bg = g.createRadialGradient(0, -260, 20, 0, -260, 420);
-    bg.addColorStop(0, `rgba(255,200,110,${0.7 * brilloCabeza})`); bg.addColorStop(0.5, `rgba(255,150,60,${0.3 * brilloCabeza})`); bg.addColorStop(1, "rgba(255,120,40,0)");
-    g.fillStyle = bg; g.beginPath(); g.arc(0, -260, 420, 0, 6.2832); g.fill();
+    const lat = 1 + 0.12 * Math.sin(t * 7);
+    const bg = g.createRadialGradient(0, -250, 20, 0, -250, 460 * lat);
+    bg.addColorStop(0, `rgba(255,190,90,${0.85 * brilloCabeza})`); bg.addColorStop(0.45, `rgba(255,130,40,${0.45 * brilloCabeza})`); bg.addColorStop(1, "rgba(255,100,20,0)");
+    g.fillStyle = bg; g.beginPath(); g.arc(0, -250, 460 * lat, 0, 6.2832); g.fill();
     g.restore();
   }
   boca(g, t, contento);
@@ -492,3 +493,26 @@ const FONDO_PARQUE = (() => {
   return l;
 })();
 export function fondoParque(g, al = 1) { g.save(); g.globalAlpha *= al; g.drawImage(FONDO_PARQUE, 0, 0); g.restore(); }
+
+// ---------------------------------------------------------------- el olor
+// Hilos de olor que van de (x0, y0) a (x1, y1) (la trufa), ondulando; color "r,g,b"; u: de 0 a 1, cuánto han avanzado;
+// al: intensidad. Muchas motas que fluyen a lo largo de tres curvas.
+export function olor(g, t, x0, y0, x1, y1, color, u, al = 1, ancho = 1) {
+  if (al <= 0.01 || u <= 0) return;
+  g.save(); g.globalCompositeOperation = "lighter";
+  const dx = x1 - x0, dy = y1 - y0, L = Math.hypot(dx, dy) || 1, nx = -dy / L, ny = dx / L;
+  for (let h = 0; h < 3; h++) {
+    const amp = (60 + h * 40) * ancho, fase = h * 2.1;
+    const punto = (s) => { const w = Math.sin(s * 7 + fase - t * 3) * amp * Math.sin(s * Math.PI); return [x0 + dx * s + nx * w, y0 + dy * s + ny * w]; };
+    // la cinta, suave
+    g.strokeStyle = `rgba(${color},${0.16 * al})`; g.lineWidth = 34 * ancho; g.lineCap = "round";
+    g.beginPath(); for (let i = 0; i <= 40; i++) { const s = (i / 40) * u, [x, y] = punto(s); i ? g.lineTo(x, y) : g.moveTo(x, y); } g.stroke();
+    g.strokeStyle = `rgba(${color},${0.35 * al})`; g.lineWidth = 8 * ancho; g.stroke();
+    // las motas que corren hacia la trufa
+    for (let i = 0; i < 14; i++) {
+      const s = ((i / 14 + t * 0.7 + h * 0.13) % 1) * u, [x, y] = punto(s);
+      k.brillo(g, x, y, 60 * ancho, color, 0.8 * al);
+    }
+  }
+  g.restore();
+}

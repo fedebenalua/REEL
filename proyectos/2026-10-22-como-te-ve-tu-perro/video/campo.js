@@ -99,7 +99,7 @@ const ARBOL = (() => {
   }
   return l;
 })();
-const ARBOLES_CAMPO = (() => { const az = azar(99), l = []; for (let i = 0; i < 26; i++) { const z = 40 + az() * 900; l.push([(az() - 0.5) * z * 1.3 + (az() < 0.5 ? -20 : 20), 0, z, 0.8 + az() * 0.5]); } return l; })();
+const ARBOLES_CAMPO = (() => { const az = azar(99), l = []; for (let i = 0; i < 70; i++) { const z = 30 + Math.pow(az(), 0.8) * 1100; let x = (az() - 0.5) * z * 1.1; if (Math.abs(x) < 12) x += x < 0 ? -14 : 14; l.push([x, 0, z, 0.7 + az() * 0.6]); } return l; })();
 
 // ---------------------------------------------------------------- tú
 // De pie, de frente: 1,75 m. Sprite de 0,5 px por mm (875 px), con los brazos aparte para moverlos.
@@ -193,4 +193,32 @@ export function campo(g, t, cam, { cosas = [], noche = 0, borroso = 0, nitido = 
     g.fillStyle = lg; g.fillRect(0, 0, 1080, 1920); g.restore();
   }
   return yh;
+}
+
+// ---------------------------------------------------------------- los colores, como los ve tu perro
+// Sobre lo ya dibujado en g: gris (de 0 a 1, todo en blanco y negro) y dicro (de 0 a 1, la vista de dos colores: el
+// rojo y el verde se juntan en un ocre, el azul y el amarillo se quedan; matriz de Machado, Oliveira y Fernandes, 2009,
+// para la ceguera al verde).
+const M = [0.367322, 0.860646, -0.227968, 0.280085, 0.672501, 0.047413, -0.01182, 0.04294, 0.968881];
+export function colores(g, gris = 0, dicro = 0) {
+  if (gris < 0.005 && dicro < 0.005) return;
+  const img = g.getImageData(0, 0, 1080, 1920), d = img.data;
+  for (let i = 0; i < d.length; i += 4) {
+    let r = d[i], gg = d[i + 1], b = d[i + 2];
+    if (dicro > 0) {
+      const r2 = M[0] * r + M[1] * gg + M[2] * b, g2 = M[3] * r + M[4] * gg + M[5] * b, b2 = M[6] * r + M[7] * gg + M[8] * b;
+      r += (r2 - r) * dicro; gg += (g2 - gg) * dicro; b += (b2 - b) * dicro;
+    }
+    if (gris > 0) { const y = 0.3 * r + 0.59 * gg + 0.11 * b; r += (y - r) * gris; gg += (y - gg) * gris; b += (y - b) * gris; }
+    d[i] = r; d[i + 1] = gg; d[i + 2] = b;
+  }
+  g.putImageData(img, 0, 0);
+}
+
+// Un velo oscuro suave en la franja del subtítulo, para que se lea sobre el cielo claro de la tarde.
+export function veloArriba(g, al = 1) {
+  if (al <= 0.01) return;
+  const vg = g.createLinearGradient(0, 180, 0, 620);
+  vg.addColorStop(0, "rgba(10,14,24,0)"); vg.addColorStop(0.4, `rgba(10,14,24,${0.42 * al})`); vg.addColorStop(0.6, `rgba(10,14,24,${0.42 * al})`); vg.addColorStop(1, "rgba(10,14,24,0)");
+  g.fillStyle = vg; g.fillRect(0, 180, 1080, 440);
 }
