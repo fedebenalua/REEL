@@ -1,0 +1,20 @@
+{
+  "titulo": "The movie on a channel that wasn't real",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "voz": { "id": "851ejYcv2BoNPjrkw93G", "modelo": "eleven_v4", "estabilidad": 0.35, "similitud": 0.7, "estilo": 0, "velocidad": 1 },
+  "frases": [
+    { "texto": "Your TV remote used to play the movie on a channel that wasn't real.", "clave": "real", "hook": true },
+    { "texto": "The tape never went into the TV.", "clave": "tape", "hook": true },
+    { "texto": "The TV only had a hole for the antenna.", "clave": "antenna", "hook": true },
+    { "texto": "So the VCR turned the movie into its own tiny station.", "dicho": "So the V C R turned the movie into its own tiny station.", "clave": "station" },
+    { "texto": "You set that station to channel three, or to channel four.", "clave": "three" },
+    { "texto": "Whichever one your city wasn't already using.", "clave": "city" },
+    { "texto": "One button on the remote chose the antenna, or that fake station.", "clave": "button" },
+    { "texto": "The movie was never a channel. The button just let the little station through.", "clave": "through" },
+    { "texto": "Today the picture rides its own cable.", "clave": "cable" },
+    { "texto": "The source button just picks which one.", "clave": "source" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still hunts for channel three.", "clave": "friend" }
+  ]
+}
