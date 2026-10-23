@@ -1,0 +1,53 @@
+{
+  "titulo": "¿Por qué las puertas del súper se abren solas?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué las puertas de los supermercados se abren justo cuando te acercas?",
+      "clave": "acercas",
+      "hook": true
+    },
+    {
+      "texto": "No te ven la cara. Si te quedas quieto, ni se enteran.",
+      "clave": "quieto",
+      "hook": true
+    },
+    {
+      "texto": "Encima de la puerta, una cajita lanza microondas todo el rato.",
+      "clave": "microondas"
+    },
+    {
+      "texto": "Parado, el rebote vuelve igual, y para ella no hay nadie.",
+      "clave": "igual"
+    },
+    {
+      "texto": "Si caminas hacia ella, el rebote vuelve más agudo.",
+      "clave": "agudo"
+    },
+    {
+      "texto": "Es el mismo efecto que la sirena de una ambulancia que se acerca.",
+      "clave": "sirena"
+    },
+    {
+      "texto": "Ese cambio arranca el motor, y las dos se apartan.",
+      "clave": "motor"
+    },
+    {
+      "texto": "Si pasas de largo, sin venir hacia ella, muchas ni se abren.",
+      "clave": "largo"
+    },
+    {
+      "texto": "En el umbral, una cortina de luz infrarroja sí te nota parado, y no se cierra encima.",
+      "clave": "infrarroja"
+    },
+    {
+      "texto": "Así que no te ha reconocido: ha notado que te mueves hacia ella.",
+      "clave": "mueves"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que se queda parado delante y espera.",
+      "clave": "espera"
+    }
+  ]
+}
