@@ -1,0 +1,644 @@
+{
+  "firma": "81e3e71aea49",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "sabe",
+      "inicio": 0.32,
+      "fin": 0.48
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "lavadora",
+      "inicio": 0.72,
+      "fin": 1.12
+    },
+    {
+      "texto": "cuánta",
+      "inicio": 1.2,
+      "fin": 1.52
+    },
+    {
+      "texto": "ropa",
+      "inicio": 1.6,
+      "fin": 1.76
+    },
+    {
+      "texto": "has",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "texto": "metido?",
+      "inicio": 2,
+      "fin": 2.72
+    },
+    {
+      "texto": "No",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "texto": "hay",
+      "inicio": 2.92,
+      "fin": 2.96
+    },
+    {
+      "texto": "una",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "texto": "báscula",
+      "inicio": 3.16,
+      "fin": 3.52
+    },
+    {
+      "texto": "debajo:",
+      "inicio": 3.6,
+      "fin": 4.24
+    },
+    {
+      "texto": "no",
+      "inicio": 4.28,
+      "fin": 4.32
+    },
+    {
+      "texto": "la",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "texto": "pesa.",
+      "inicio": 4.56,
+      "fin": 5.16
+    },
+    {
+      "texto": "En",
+      "inicio": 5.44,
+      "fin": 5.52
+    },
+    {
+      "texto": "muchas,",
+      "inicio": 5.6,
+      "fin": 6.16
+    },
+    {
+      "texto": "gira",
+      "inicio": 6.2,
+      "fin": 6.4
+    },
+    {
+      "texto": "el",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "texto": "tambor",
+      "inicio": 6.52,
+      "fin": 6.8
+    },
+    {
+      "texto": "unos",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "texto": "treinta",
+      "inicio": 7.2,
+      "fin": 7.44
+    },
+    {
+      "texto": "segundos",
+      "inicio": 7.52,
+      "fin": 7.92
+    },
+    {
+      "texto": "en",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "texto": "seco,",
+      "inicio": 8.16,
+      "fin": 8.56
+    },
+    {
+      "texto": "antes",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "texto": "de",
+      "inicio": 8.92,
+      "fin": 8.96
+    },
+    {
+      "texto": "echar",
+      "inicio": 9,
+      "fin": 9.2
+    },
+    {
+      "texto": "el",
+      "inicio": 9.28,
+      "fin": 9.36
+    },
+    {
+      "texto": "agua.",
+      "inicio": 9.48,
+      "fin": 10.16
+    },
+    {
+      "texto": "La",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "texto": "ropa,",
+      "inicio": 10.48,
+      "fin": 10.8
+    },
+    {
+      "texto": "quieta",
+      "inicio": 10.88,
+      "fin": 11.12
+    },
+    {
+      "texto": "en",
+      "inicio": 11.16,
+      "fin": 11.2
+    },
+    {
+      "texto": "el",
+      "inicio": 11.28,
+      "fin": 11.36
+    },
+    {
+      "texto": "fondo,",
+      "inicio": 11.4,
+      "fin": 11.84
+    },
+    {
+      "texto": "sube",
+      "inicio": 11.92,
+      "fin": 12.16
+    },
+    {
+      "texto": "hacia",
+      "inicio": 12.2,
+      "fin": 12.4
+    },
+    {
+      "texto": "un",
+      "inicio": 12.48,
+      "fin": 12.56
+    },
+    {
+      "texto": "lado.",
+      "inicio": 12.64,
+      "fin": 13.28
+    },
+    {
+      "texto": "El",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "texto": "motor",
+      "inicio": 13.44,
+      "fin": 13.76
+    },
+    {
+      "texto": "mide",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "texto": "la",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "texto": "corriente",
+      "inicio": 14.16,
+      "fin": 14.56
+    },
+    {
+      "texto": "que",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "hace",
+      "inicio": 14.72,
+      "fin": 14.88
+    },
+    {
+      "texto": "falta",
+      "inicio": 14.92,
+      "fin": 15.2
+    },
+    {
+      "texto": "para",
+      "inicio": 15.24,
+      "fin": 15.28
+    },
+    {
+      "texto": "subirla:",
+      "inicio": 15.36,
+      "fin": 16.16
+    },
+    {
+      "texto": "más",
+      "inicio": 16.2,
+      "fin": 16.32
+    },
+    {
+      "texto": "ropa,",
+      "inicio": 16.4,
+      "fin": 16.96
+    },
+    {
+      "texto": "más",
+      "inicio": 17,
+      "fin": 17.12
+    },
+    {
+      "texto": "corriente.",
+      "inicio": 17.2,
+      "fin": 18.08
+    },
+    {
+      "texto": "Es",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "texto": "como",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "texto": "el",
+      "inicio": 18.44,
+      "fin": 18.48
+    },
+    {
+      "texto": "cesto",
+      "inicio": 18.56,
+      "fin": 18.8
+    },
+    {
+      "texto": "de",
+      "inicio": 18.84,
+      "fin": 18.88
+    },
+    {
+      "texto": "la",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "colada:",
+      "inicio": 19.04,
+      "fin": 19.68
+    },
+    {
+      "texto": "vacío",
+      "inicio": 19.8,
+      "fin": 20.08
+    },
+    {
+      "texto": "casi",
+      "inicio": 20.24,
+      "fin": 20.48
+    },
+    {
+      "texto": "no",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "texto": "pesa;",
+      "inicio": 20.76,
+      "fin": 21.28
+    },
+    {
+      "texto": "lleno,",
+      "inicio": 21.36,
+      "fin": 21.84
+    },
+    {
+      "texto": "te",
+      "inicio": 21.88,
+      "fin": 21.92
+    },
+    {
+      "texto": "tira",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "texto": "del",
+      "inicio": 22.36,
+      "fin": 22.4
+    },
+    {
+      "texto": "brazo.",
+      "inicio": 22.48,
+      "fin": 23.36
+    },
+    {
+      "texto": "Con",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "texto": "esa",
+      "inicio": 23.6,
+      "fin": 23.68
+    },
+    {
+      "texto": "medida",
+      "inicio": 23.76,
+      "fin": 24.08
+    },
+    {
+      "texto": "echa",
+      "inicio": 24.2,
+      "fin": 24.32
+    },
+    {
+      "texto": "el",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "texto": "agua",
+      "inicio": 24.56,
+      "fin": 24.64
+    },
+    {
+      "texto": "que",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "texto": "toca,",
+      "inicio": 24.88,
+      "fin": 25.36
+    },
+    {
+      "texto": "y",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "texto": "si",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "texto": "hay",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "texto": "mucha",
+      "inicio": 25.84,
+      "fin": 26
+    },
+    {
+      "texto": "ropa",
+      "inicio": 26.08,
+      "fin": 26.48
+    },
+    {
+      "texto": "alarga",
+      "inicio": 26.56,
+      "fin": 26.88
+    },
+    {
+      "texto": "el",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "texto": "lavado.",
+      "inicio": 27.04,
+      "fin": 27.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 27.96,
+      "fin": 28
+    },
+    {
+      "texto": "otro",
+      "inicio": 28.04,
+      "fin": 28.16
+    },
+    {
+      "texto": "sensor,",
+      "inicio": 28.24,
+      "fin": 28.8
+    },
+    {
+      "texto": "en",
+      "inicio": 28.84,
+      "fin": 28.88
+    },
+    {
+      "texto": "el",
+      "inicio": 28.92,
+      "fin": 28.96
+    },
+    {
+      "texto": "tubo,",
+      "inicio": 29.04,
+      "fin": 29.52
+    },
+    {
+      "texto": "cuenta",
+      "inicio": 29.56,
+      "fin": 29.84
+    },
+    {
+      "texto": "el",
+      "inicio": 29.88,
+      "fin": 29.92
+    },
+    {
+      "texto": "agua",
+      "inicio": 30,
+      "fin": 30.16
+    },
+    {
+      "texto": "que",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "texto": "entra",
+      "inicio": 30.44,
+      "fin": 30.72
+    },
+    {
+      "texto": "y",
+      "inicio": 30.8,
+      "fin": 30.88
+    },
+    {
+      "texto": "cierra",
+      "inicio": 30.96,
+      "fin": 31.2
+    },
+    {
+      "texto": "al",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "texto": "llegar.",
+      "inicio": 31.44,
+      "fin": 32.16
+    },
+    {
+      "texto": "Así",
+      "inicio": 32.24,
+      "fin": 32.4
+    },
+    {
+      "texto": "que",
+      "inicio": 32.52,
+      "fin": 32.64
+    },
+    {
+      "texto": "no",
+      "inicio": 32.8,
+      "fin": 32.96
+    },
+    {
+      "texto": "pesa",
+      "inicio": 33.08,
+      "fin": 33.28
+    },
+    {
+      "texto": "la",
+      "inicio": 33.32,
+      "fin": 33.36
+    },
+    {
+      "texto": "colada:",
+      "inicio": 33.44,
+      "fin": 34.16
+    },
+    {
+      "texto": "siente",
+      "inicio": 34.2,
+      "fin": 34.64
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.68,
+      "fin": 34.72
+    },
+    {
+      "texto": "que",
+      "inicio": 34.76,
+      "fin": 34.8
+    },
+    {
+      "texto": "le",
+      "inicio": 34.88,
+      "fin": 34.96
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 35.04,
+      "fin": 35.28
+    },
+    {
+      "texto": "levantarla.",
+      "inicio": 35.48,
+      "fin": 36.48
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 36.56,
+      "fin": 36.96
+    },
+    {
+      "texto": "a",
+      "inicio": 37,
+      "fin": 37.04
+    },
+    {
+      "texto": "ese",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "amigo",
+      "inicio": 37.28,
+      "fin": 37.52
+    },
+    {
+      "texto": "que",
+      "inicio": 37.56,
+      "fin": 37.6
+    },
+    {
+      "texto": "mete",
+      "inicio": 37.68,
+      "fin": 37.92
+    },
+    {
+      "texto": "dos",
+      "inicio": 38,
+      "fin": 38.16
+    },
+    {
+      "texto": "camisetas",
+      "inicio": 38.24,
+      "fin": 38.8
+    },
+    {
+      "texto": "y",
+      "inicio": 38.84,
+      "fin": 38.88
+    },
+    {
+      "texto": "pone",
+      "inicio": 38.96,
+      "fin": 39.12
+    },
+    {
+      "texto": "carga",
+      "inicio": 39.28,
+      "fin": 39.6
+    },
+    {
+      "texto": "completa.",
+      "inicio": 39.68,
+      "fin": 40.48
+    }
+  ]
+}

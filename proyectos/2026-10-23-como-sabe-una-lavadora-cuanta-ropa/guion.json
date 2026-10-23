@@ -1,0 +1,49 @@
+{
+  "titulo": "¿Cómo sabe tu lavadora cuánta ropa has metido?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Cómo sabe tu lavadora cuánta ropa has metido?",
+      "clave": "ropa",
+      "hook": true
+    },
+    {
+      "texto": "No hay una báscula debajo: no la pesa.",
+      "clave": "báscula",
+      "hook": true
+    },
+    {
+      "texto": "En muchas, gira el tambor unos treinta segundos en seco, antes de echar el agua.",
+      "clave": "treinta"
+    },
+    {
+      "texto": "La ropa, quieta en el fondo, sube hacia un lado.",
+      "clave": "lado"
+    },
+    {
+      "texto": "El motor mide la corriente que hace falta para subirla: más ropa, más corriente.",
+      "clave": "corriente"
+    },
+    {
+      "texto": "Es como el cesto de la colada: vacío casi no pesa; lleno, te tira del brazo.",
+      "clave": "cesto"
+    },
+    {
+      "texto": "Con esa medida echa el agua que toca, y si hay mucha ropa alarga el lavado.",
+      "clave": "alarga"
+    },
+    {
+      "texto": "Y otro sensor, en el tubo, cuenta el agua que entra y cierra al llegar.",
+      "clave": "sensor"
+    },
+    {
+      "texto": "Así que no pesa la colada: siente lo que le cuesta levantarla.",
+      "clave": "levantarla"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que mete dos camisetas y pone carga completa.",
+      "clave": "camisetas"
+    }
+  ]
+}
