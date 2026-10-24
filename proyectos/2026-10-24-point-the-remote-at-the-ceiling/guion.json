@@ -1,0 +1,22 @@
+{
+  "titulo": "Point the remote at the ceiling",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "voz": { "id": "851ejYcv2BoNPjrkw93G", "modelo": "eleven_v4", "estabilidad": 0.35, "similitud": 0.7, "estilo": 0, "velocidad": 1 },
+  "frases": [
+    { "texto": "You can point your TV remote at the ceiling, and the channel still changes.", "clave": "ceiling", "hook": true },
+    { "texto": "You never aimed at the TV.", "clave": "aimed", "hook": true },
+    { "texto": "The light you can't see hits the white paint and bounces down.", "clave": "bounces", "hook": true },
+    { "texto": "It lands in the little eye on the set, and the channel jumps.", "clave": "eye" },
+    { "texto": "Same trick as a flashlight in a dark room.", "clave": "flashlight" },
+    { "texto": "The beam hits the ceiling, and the whole room fills.", "clave": "fills" },
+    { "texto": "The first wireless remote was a flashlight too.", "clave": "first" },
+    { "texto": "It only worked if you hit one corner of the screen.", "clave": "corner" },
+    { "texto": "Miss that corner, and nothing happened.", "clave": "nothing" },
+    { "texto": "Now one bounce is enough.", "clave": "bounce" },
+    { "texto": "Your phone skips the ceiling.", "clave": "phone" },
+    { "texto": "The app talks to the TV over your wifi.", "clave": "wifi" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still lines the remote up like a dart.", "clave": "dart" }
+  ]
+}
