@@ -14,7 +14,12 @@
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
-// Si te falta una pose (sentado, tumbado, de frente), AMPLÍA este archivo con otro parámetro y el mismo estilo
+//   Poses: sentado 0..1 (sentado, cabeza arriba, patas traseras plegadas) y tumbado 0..1 (esfinge, patas delante). Úsalas
+//   a 0 o 1 y pasa de una a otra con k.suave sobre t (los valores intermedios no son una pose).
+// salon(g, c, t, hora) es el INTERIOR de casa (pared con ventana y luz, cuadros, sofá, lámpara, plantas, suelo de madera y
+//   alfombra); hora 0 día, 1 tarde. Se usa igual que parque(): salon(g, c, t, hora); ponVista(g, c); perro(...). Pon el
+//   perro y la persona sobre la alfombra (x ≈ 420 + 900·n) y la cámara a Z 2.6–4. Nunca la persona entera tapando la pantalla.
+// Si te falta una pose (de frente, corriendo, saltando), AMPLÍA este archivo con otro parámetro y el mismo estilo
 // (volumen, luz arriba a la izquierda, patas con miembro()); no hagas un perro nuevo en el plano.
 // Lo que comparten los planos: el parque (capas con parallax), el perro, la persona y la correa.
 // Todo en 2D con unidades de «centímetros del mundo»: el suelo es y = 0 y arriba es y negativo.
@@ -315,23 +320,30 @@ export function perro(g, o) {
   const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4, nb = o.cuelloBaja || 0;
   const escala = o.escala ?? 1, alta = o.pataAlta || 0;
   const stride = 50 * marcha, lift = 11 * marcha, duty = 0.5, bob = -1.5 * marcha * Math.cos(fase * TAU * 2);
-  const cuerpoY = bob + 1.4 * alta;
-  const pitchPivot = [0, -40];
+  const sit = Math.min(1, o.sentado || 0), lie = Math.min(1, o.tumbado || 0), pz = Math.max(sit, lie);
+  const cuerpoY = bob * (1 - pz) + 1.4 * alta;
+  const rot = pitch * (1 - sit) - 0.72 * sit;
+  const pivB = [-34 * sit, -40 + 7 * sit], pivW = [-34 * sit, -40 + 36 * sit + 21 * lie];
   g.save(); g.translate(x, y); g.scale(dir * escala, escala);
   // la sombra en el suelo
-  g.save(); g.globalAlpha = 0.28; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(0, 2, 56, 7, 0, 0, TAU); g.fill(); g.restore();
-  g.translate(pitchPivot[0], pitchPivot[1]); g.rotate(pitch); g.translate(-pitchPivot[0], -pitchPivot[1]);
+  g.save(); g.globalAlpha = 0.28; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(-10 * sit, 2, 56 - 14 * sit + 4 * lie, 7, 0, 0, TAU); g.fill(); g.restore();
+  g.translate(pivW[0], pivW[1]); g.rotate(rot); g.translate(-pivB[0], -pivB[1]);
   g.translate(0, cuerpoY);
   const mundoPunto = (px, py) => { // de las coordenadas del perro al mundo (por si la correa)
-    let ex = px - pitchPivot[0], ey = py + cuerpoY - pitchPivot[1];
-    const cs = Math.cos(pitch), sn = Math.sin(pitch), rx = ex * cs - ey * sn + pitchPivot[0], ry = ex * sn + ey * cs + pitchPivot[1];
-    return [x + rx * dir * escala, y + ry * escala];
+    const ex = px - pivB[0], ey = py + cuerpoY - pivB[1], cs = Math.cos(rot), sn = Math.sin(rot);
+    return [x + (ex * cs - ey * sn + pivW[0]) * dir * escala, y + (ex * sn + ey * cs + pivW[1]) * escala];
   };
+  // de un punto del mundo (relativo al perro, antes de dir) a coordenadas del cuerpo
+  const aCuerpo = (wx, wy) => { const ex = wx - pivW[0], ey = wy - pivW[1], cs = Math.cos(rot), sn = Math.sin(rot); return [ex * cs + ey * sn + pivB[0], -ex * sn + ey * cs + pivB[1] - cuerpoY]; };
+  const mixP = (a, b) => [a[0] + (b[0] - a[0]) * pz, a[1] + (b[1] - a[1]) * pz];
 
   const cadera = [-27, -45], hombro = [17, -43];
   const pie = (ph, base, extra = 0) => { const [px, py] = ciclo(ph, duty, stride, lift); return [base + px, py - cuerpoY * 0 - (pitch ? 0 : 0) + extra]; };
   // el pie va al suelo del mundo aunque el cuerpo suba y baje: le restamos el bob y el pitch a la altura
   const alSuelo = (p) => [p[0], p[1] - cuerpoY];
+  // el sitio de la pata (zarpa y muñeca/corvejón) en el mundo cuando está sentado o tumbado
+  const trasPose = (lejos) => (lie > sit ? { P: [-8 + 4 * lejos, -1.5], H: [-27 + 3 * lejos, -3.5] } : { P: [-6 + 5 * lejos, -1.5], H: [-24 + 5 * lejos, -4] });
+  const delPose = (lejos) => (lie > sit ? { P: [47 + 6 * lejos, -1.5], H: [36 + 6 * lejos, -5] } : { P: [3 + 5 * lejos, -1.5], H: [2.5 + 5 * lejos, -11] });
   const luzPata = (curva, w) => { g.save(); g.strokeStyle = "rgba(255,238,196,0.32)"; g.lineWidth = w; g.lineCap = "round"; g.beginPath(); curva.forEach((p, i) => (i ? g.lineTo(p[0] - w * 0.9, p[1] - w * 0.2) : g.moveTo(p[0] - w * 0.9, p[1] - w * 0.2))); g.stroke(); g.restore(); };
   let pataLocal = [-30, 0];
   const trasera = (ph, lejos, alza = 0) => {
@@ -342,6 +354,7 @@ export function perro(g, o) {
       K = pose.K; H = pose.H; P = pose.P;
     } else {
       const pp = pie(ph, -30); P = alSuelo(pp); H = [P[0] - 4 - 2 * (pp[1] / -(lift || 1) || 0), P[1] - 17];
+      if (pz > 0.001) { const q = trasPose(lejos ? 1 : 0); P = mixP(P, aCuerpo(q.P[0], q.P[1])); H = mixP(H, aCuerpo(q.H[0], q.H[1])); }
       K = ik(cadera[0], cadera[1], H[0], H[1], 25, 25, -1);
     }
     g.fillStyle = lejos ? PELO.lejos : PELO.medio;
@@ -360,7 +373,10 @@ export function perro(g, o) {
     if (!lejos) { luzPata(curva.slice(6), 2); pataLocal = P; }
   };
   const delantera = (ph, lejos) => {
-    const pp = pie(ph, 21), P = alSuelo(pp), W = [P[0] - 0.5, P[1] - 10], E = ik(hombro[0], hombro[1], W[0], W[1], 22, 22, 1);
+    const pp = pie(ph, 21), P0 = alSuelo(pp), W0 = [P0[0] - 0.5, P0[1] - 10];
+    let P = P0, W = W0;
+    if (pz > 0.001) { const q = delPose(lejos ? 1 : 0); P = mixP(P0, aCuerpo(q.P[0], q.P[1])); W = mixP(W0, aCuerpo(q.H[0], q.H[1])); }
+    const E = ik(hombro[0], hombro[1], W[0], W[1], 22, 22, 1);
     g.fillStyle = lejos ? PELO.lejos : PELO.medio;
     const curva = miembro(g, [[hombro[0] + 1, hombro[1] + 1], E, W, [P[0] + 0.3, P[1] - 3.5]], lejos ? [12, 9.5, 6.4, 5.6] : [17, 10.5, 6.6, 5.8]);
     g.fillStyle = lejos ? "#c8935a" : PELO.pata; g.beginPath(); g.ellipse(P[0] + 3.6, P[1] - 2.6, 7.4, 4.1, 0, 0, TAU); g.fill();
@@ -713,3 +729,88 @@ export function pastillaPop(g, t, t0, x, y, principal, unidad, color, tam = 100,
 }
 // Dónde sale en pantalla un punto del mundo.
 export const aPantalla = (c, X, Y, f = 1) => { const z = zf(c, f); return [540 + (X - c.cx) * z, 960 + (Y - c.cy) * z]; };
+
+// ---------------------------------------------------------------- el salón (interior de casa)
+// El mismo sistema de cámara que el parque: salon(g, c, t, hora) deja el fondo hecho; después ponVista(g, c) y dibujas
+// perro/persona en cm del mundo. hora: 0 día, 1 tarde (más cálido). Sofá, ventana con luz, cuadros, lámpara, planta y suelo de madera.
+function ventana(g, x, hora) {
+  const w = 150, h = 190, y = -300;
+  g.save();
+  g.fillStyle = "#fff8ee"; k.redondo(g, x - 10, y - 10, w + 20, h + 20, 6); g.fill();
+  const sg = g.createLinearGradient(0, y, 0, y + h); sg.addColorStop(0, mezColor("#7cc4ff", "#ffb27a", hora)); sg.addColorStop(1, mezColor("#d9f0ff", "#ffe2b0", hora));
+  g.fillStyle = sg; g.fillRect(x, y, w, h);
+  g.fillStyle = "rgba(255,255,255,0.7)"; g.beginPath(); g.ellipse(x + 40, y + 60, 26, 9, 0, 0, TAU); g.ellipse(x + 62, y + 54, 20, 8, 0, 0, TAU); g.fill();
+  g.fillStyle = "#fff8ee"; g.fillRect(x + w / 2 - 3, y, 6, h); g.fillRect(x, y + h / 2 - 3, w, 6);
+  // cortinas
+  for (const s of [0, 1]) { const cg = g.createLinearGradient(0, 0, 1, 0); const cx = s ? x + w - 4 : x - 36; g.fillStyle = mezColor("#ff9aa2", "#f07a6a", hora); k.redondo(g, cx, y - 16, 42, h + 40, 10); g.fill(); g.strokeStyle = "rgba(120,30,30,0.25)"; g.lineWidth = 2; for (let i = 1; i < 4; i++) { g.beginPath(); g.moveTo(cx + i * 10.5, y - 10); g.lineTo(cx + i * 10.5, y + h + 20); g.stroke(); } }
+  g.restore();
+}
+function sofa(g, x) {
+  g.save();
+  const gr = g.createLinearGradient(0, -130, 0, 0); gr.addColorStop(0, "#43c2b4"); gr.addColorStop(1, "#1e8478");
+  g.fillStyle = "#145f56"; k.redondo(g, x + 16, -26, 14, 26, 3); g.fill(); k.redondo(g, x + 244, -26, 14, 26, 3); g.fill();
+  g.fillStyle = gr; k.redondo(g, x, -135, 276, 105, 26); g.fill(); // respaldo
+  k.redondo(g, x - 4, -86, 46, 74, 18); g.fill(); k.redondo(g, x + 234, -86, 46, 74, 18); g.fill(); // brazos
+  const cg = g.createLinearGradient(0, -64, 0, -26); cg.addColorStop(0, "#6fe0d0"); cg.addColorStop(1, "#2aa396");
+  g.fillStyle = cg; k.redondo(g, x + 34, -62, 100, 40, 14); g.fill(); k.redondo(g, x + 142, -62, 100, 40, 14); g.fill(); // cojines
+  g.fillStyle = "#ff8f6b"; k.redondo(g, x + 52, -112, 46, 46, 12); g.fill();
+  g.fillStyle = "rgba(255,255,255,0.18)"; k.redondo(g, x + 8, -128, 262, 10, 5); g.fill();
+  g.restore();
+}
+function lampara(g, x, hora) {
+  g.save();
+  g.strokeStyle = "#3a3330"; g.lineWidth = 4; g.beginPath(); g.moveTo(x, 0); g.lineTo(x, -150); g.stroke();
+  g.fillStyle = "#3a3330"; g.beginPath(); g.ellipse(x, 0, 18, 5, 0, 0, TAU); g.fill();
+  k.brillo(g, x, -170, 190, "255,226,160", 0.55 + 0.3 * hora);
+  g.fillStyle = "#ffe9b8"; g.beginPath(); g.moveTo(x - 16, -150); g.lineTo(x + 16, -150); g.lineTo(x + 24, -184); g.lineTo(x - 24, -184); g.closePath(); g.fill();
+  g.restore();
+}
+function planta(g, x) {
+  g.save();
+  g.fillStyle = "#c46a45"; g.beginPath(); g.moveTo(x - 18, -42); g.lineTo(x + 18, -42); g.lineTo(x + 13, 0); g.lineTo(x - 13, 0); g.closePath(); g.fill();
+  for (let i = 0; i < 7; i++) { const a = -Math.PI / 2 + (i - 3) * 0.32, L = 60 + (i % 3) * 14; const gr = g.createLinearGradient(x, -42, x + Math.cos(a) * L, -42 + Math.sin(a) * L); gr.addColorStop(0, "#2e8a3a"); gr.addColorStop(1, "#7fd35a"); g.fillStyle = gr; g.beginPath(); g.ellipse(x + Math.cos(a) * L * 0.5, -42 + Math.sin(a) * L * 0.5, L * 0.5, 9, a, 0, TAU); g.fill(); }
+  g.restore();
+}
+function cuadro(g, x, y, w, h, col) {
+  g.save(); g.fillStyle = "#f6efe4"; k.redondo(g, x, y, w, h, 3); g.fill(); g.fillStyle = col[0]; g.fillRect(x + 7, y + 7, w - 14, h - 14);
+  g.fillStyle = col[1]; g.beginPath(); g.arc(x + w * 0.62, y + h * 0.42, w * 0.18, 0, TAU); g.fill();
+  g.fillStyle = col[2]; g.beginPath(); g.moveTo(x + 7, y + h - 7); g.lineTo(x + w * 0.4, y + h * 0.55); g.lineTo(x + w - 7, y + h - 7); g.closePath(); g.fill();
+  g.restore();
+}
+export function salon(g, c, t, hora = 0) {
+  sinVista(g);
+  const yS = sueloY(c, 0.78), yF = sueloY(c, 1.5);
+  const wg = g.createLinearGradient(0, 0, 0, yS); wg.addColorStop(0, mezColor("#f6e3c8", "#f2c9a0", hora)); wg.addColorStop(1, mezColor("#e6c39a", "#d9a478", hora));
+  g.fillStyle = wg; g.fillRect(0, 0, 1080, yS + 4);
+  g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.07; g.drawImage(k.manchas, 0, 0, 1080, yS); g.globalAlpha = 1; g.globalCompositeOperation = "source-over";
+  // lo de la pared (parallax suave)
+  ponVista(g, c, 0.55);
+  repite(c, 0.55, 1500, 400, (x0, i) => {
+    ventana(g, x0 + 160, hora);
+    cuadro(g, x0 + 520, -330, 70, 90, ["#a8d8f0", "#ffe27a", "#6ab87a"]); cuadro(g, x0 + 610, -300, 52, 66, ["#f4b6c2", "#fff0a0", "#c97a8a"]);
+    cuadro(g, x0 + 980, -340, 100, 70, ["#ffd6a0", "#ff8f6b", "#8a5a3a"]);
+    // la luz de la ventana cae en el suelo
+    g.save(); g.globalCompositeOperation = "lighter"; g.globalAlpha = 0.16 + 0.1 * hora; const lg = g.createLinearGradient(x0 + 160, -300, x0 + 380, 0); lg.addColorStop(0, "#fff2c8"); lg.addColorStop(1, "rgba(255,240,200,0)");
+    g.fillStyle = lg; g.beginPath(); g.moveTo(x0 + 160, -300); g.lineTo(x0 + 310, -300); g.lineTo(x0 + 560, 0); g.lineTo(x0 + 300, 0); g.closePath(); g.fill(); g.restore();
+  });
+  // el rodapié y los muebles, más cerca
+  sinVista(g); g.fillStyle = mezColor("#fff6e8", "#f6dcc0", hora); g.fillRect(0, yS - 16, 1080, 18);
+  ponVista(g, c, 0.78);
+  repite(c, 0.78, 1500, 400, (x0, i) => { sofa(g, x0 + 380); lampara(g, x0 + 800, hora); planta(g, x0 + 90); planta(g, x0 + 1180); });
+  // el suelo de madera, en abanico
+  sinVista(g);
+  const fg = g.createLinearGradient(0, yS, 0, 1920); fg.addColorStop(0, mezColor("#ebc592", "#dba874", hora)); fg.addColorStop(0.35, mezColor("#d9a468", "#c98f58", hora)); fg.addColorStop(1, mezColor("#a8703f", "#905a32", hora));
+  g.fillStyle = fg; g.fillRect(0, yS, 1080, 1920 - yS);
+  g.save(); g.beginPath(); g.rect(0, yS, 1080, 1920 - yS); g.clip();
+  g.strokeStyle = "rgba(70,40,15,0.28)"; g.lineWidth = 2.4; g.beginPath();
+  const P0 = 38, fa = 0.7, fb = 1.5, zA = zf(c, fa), zB = zf(c, fb), a0 = Math.floor((c.cx - 540 / zA - 80) / P0), a1 = Math.ceil((c.cx + 540 / zA + 80) / P0);
+  for (let i = a0; i <= a1; i++) { const X = i * P0; g.moveTo(540 + (X - c.cx) * zA, yS); g.lineTo(540 + (X - c.cx) * zB * 1.9, 1920); }
+  g.stroke();
+  g.strokeStyle = "rgba(70,40,15,0.2)"; g.beginPath(); for (let j = 0; j < 14; j++) { const y = yS + Math.pow(j / 13, 1.6) * (1920 - yS); g.moveTo(0, y); g.lineTo(1080, y); } g.stroke();
+  g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.12; g.drawImage(k.manchas, 0, yS, 1080, 1920 - yS); g.globalAlpha = 0.08; g.drawImage(k.red, 0, yS, 1080, 1920 - yS);
+  g.restore();
+  // la alfombra, debajo de quien se mueve
+  ponVista(g, c, 1);
+  repite(c, 1, 900, 300, (x0) => { const ag = g.createLinearGradient(0, 4, 0, 36); ag.addColorStop(0, "#ff8f7a"); ag.addColorStop(1, "#d9604e"); g.fillStyle = ag; g.beginPath(); g.ellipse(x0 + 420, 14, 230, 24, 0, 0, TAU); g.fill(); g.strokeStyle = "rgba(255,240,220,0.7)"; g.lineWidth = 3; g.beginPath(); g.ellipse(x0 + 420, 14, 205, 18, 0, 0, TAU); g.stroke(); });
+  sinVista(g);
+}

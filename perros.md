@@ -18,7 +18,22 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
   se ve plano, torcido, con patas raras o con menos volumen que `perros/muestra-*.jpg`, arréglalo antes de seguir.
 - Si hace falta otra pose (sentado, tumbado, de frente), amplía `perros/mundo.js` con un parámetro nuevo y deja el
   mismo estilo (volumen, luz, patas con `miembro()`). Los vídeos nuevos reutilizan esa mejora.
+- Escenas en casa: `salon(g, c, t, hora)` de `perros/mundo.js` (sofá, ventana, alfombra, suelo de madera). Poses: `sentado`
+  y `tumbado`. Ahí van la mayoría de planos de «el perro en casa»; el parque, para los de paseo.
 - Nada de perros de frente con ojos enormes ni de cuerpos hechos con óvalos sueltos: es lo que peor se ve.
+
+## Nivel de calidad (obligatorio, antes de renderizar)
+
+- Compara cada plano con `perros/muestra-*.jpg` y con el vídeo de la correa. Si se ve más pobre (menos luz, menos fondo,
+  menos volumen), rehazlo; no publiques «aceptable».
+- Mira cada plano a resolución completa en 3 momentos (inicio, mitad, final) con `ver.mjs` y revisa: perro entero dentro de
+  cuadro, patas apoyadas en el suelo con sombra, fondo con capas (no un color liso), texto sin pisar al perro.
+- Ningún plano estático: el perro, la cámara o el fondo se mueven siempre (respiración, cola, parpadeo, parallax, zoom lento).
+  Un perro en una sola pose sin vida durante 3 segundos no vale.
+- La persona, solo entera y pequeña en cuadro (como en la correa) o solo las manos; jamás unas piernas gigantes llenando la
+  pantalla.
+- Cambia de plano al menos cada 3 segundos y varía el encuadre (general, medio, primer plano del hocico o los ojos).
+- Si `revisar.mjs` avisa de algo, se arregla; no se ignora.
 
 ## Ya hechos
 
