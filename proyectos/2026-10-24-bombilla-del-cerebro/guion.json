@@ -1,0 +1,21 @@
+{
+  "titulo": "La bombilla del cerebro",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Tu cerebro pesa poco más que una botella de agua de litro, y gasta como una bombilla pequeña, día y noche.", "clave": "bombilla", "hook": true },
+    { "texto": "Es el dos por ciento de tu cuerpo, y quieto se bebe una de cada cinco calorías.", "clave": "cinco", "hook": true },
+    { "texto": "Entonces, ¿cómo puede ser que casi todo esté apagado?", "clave": "apagado", "hook": true },
+    { "texto": "Eso es lo que se cuenta: que solo usas un trocito, y el resto sobra.", "clave": "trocito" },
+    { "texto": "Sería como pagar la luz de toda la casa para vivir en un cuarto.", "clave": "cuarto" },
+    { "texto": "Y la bombilla de tu cabeza sería una lucecita de noche, no una lámpara.", "clave": "lucecita" },
+    { "texto": "El contador de la luz, en esa casa, casi ni giraría.", "clave": "contador" },
+    { "texto": "Pero no se encoge.", "clave": "encoge" },
+    { "texto": "Un golpe en un sitio te quita el habla.", "clave": "habla" },
+    { "texto": "En otro, la vista.", "clave": "vista" },
+    { "texto": "En otro, la mano.", "clave": "mano" },
+    { "texto": "Y tumbado, sin hacer nada, sigues gastando lo mismo.", "clave": "mismo" },
+    { "texto": "Así que no hay un noventa por ciento guardado: cambias de luz, no de casa.", "clave": "guardado" },
+    { "texto": "Envíaselo a ese amigo que dice que solo usa el diez por ciento.", "clave": "diez" }
+  ]
+}
