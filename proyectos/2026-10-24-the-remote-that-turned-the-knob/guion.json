@@ -1,0 +1,19 @@
+{
+  "titulo": "The first TV remote turned the knob",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "The first TV remote turned the channel knob from the sofa.", "clave": "knob", "hook": true },
+    { "texto": "A motor inside the TV cranked it through a wire.", "clave": "motor", "hook": true },
+    { "texto": "One button turned it up. The other turned it back.", "clave": "back", "hook": true },
+    { "texto": "It could turn the set off, too.", "clave": "off" },
+    { "texto": "That wire ran across the rug, and people tripped over it.", "clave": "tripped" },
+    { "texto": "Now the button turns nothing.", "clave": "nothing" },
+    { "texto": "It blinks a light your eyes can't see.", "clave": "light" },
+    { "texto": "The TV reads that light and jumps to the channel.", "clave": "jumps" },
+    { "texto": "No knob has to turn.", "clave": "knob" },
+    { "texto": "Your phone can jump the channel too.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who still gets up to change the channel.", "clave": "friend" }
+  ]
+}
