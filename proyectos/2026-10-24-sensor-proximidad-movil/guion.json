@@ -1,0 +1,16 @@
+{
+  "titulo": "Cómo sabe tu móvil que lo tienes en la oreja",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo sabe tu móvil que tienes la pantalla pegada a la oreja?", "clave": "oreja", "hook": true },
+    { "texto": "La acercas a la mejilla y, en ese instante, se apaga.", "clave": "apaga", "hook": true },
+    { "texto": "Pero no te reconoce la oreja.", "clave": "reconoce" },
+    { "texto": "Lo habitual es una luz que tú no ves, como la del mando.", "clave": "mando" },
+    { "texto": "Sale, rebota en lo que tengas delante y vuelve.", "clave": "rebota" },
+    { "texto": "Si vuelve mucha, hay algo muy cerca.", "clave": "cerca" },
+    { "texto": "Entonces apaga la pantalla y deja de hacer caso a los toques.", "clave": "toques" },
+    { "texto": "Así que no sabe que es tu oreja. Solo sabe que hay algo pegado al cristal.", "clave": "cristal" },
+    { "texto": "Envíaselo a ese amigo que cuelga sin querer con la mejilla.", "clave": "mejilla" }
+  ]
+}

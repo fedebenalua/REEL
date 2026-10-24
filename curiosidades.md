@@ -52,6 +52,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 6: ¿Por qué los aviones tienen un pequeño agujero en las ventanillas? (2026-10-24).
 - Lista del creador 7: ¿Cómo sabe una máquina expendedora que tu producto ha caído? (2026-10-24).
 - Lista del creador 8: ¿Por qué las escaleras mecánicas tienen cepillos en los laterales? (2026-10-24).
+- Lista del creador 9: ¿Cómo sabe tu móvil que tienes la pantalla pegada a la oreja? (2026-10-24).
 
 ## Ideas pendientes
 
