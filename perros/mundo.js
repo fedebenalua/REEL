@@ -8,8 +8,9 @@
 //   proyectos/2026-10-22-perro-tira-correa/video/planos/04-atardecer.js   el parque al atardecer (parque(g, c, t, 1), ambiente)
 // Fotos de cómo tiene que verse: perros/muestra-*.jpg
 //
-// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, bostezo, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
+// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, bostezo, lamido, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
 //   bostezo 0..1: abre la boca de verdad (mandíbula abajo, ojo entornado). abre sigue siendo la lengua corta.
+//   lamido 0..1: un lametón a la punta. 0 escondida, a la mitad la lengua le cruza la trufa, y al final vuelve. Si hay lamido, no cuelga la lengua.
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
@@ -307,7 +308,7 @@ export function posePataAlta(alta) {
 // ---------------------------------------------------------------- el perro
 const PELO = { luz: "#fbd998", medio: "#e0a652", sombra: "#a96a2c", hondo: "#6d4119", pata: "#f6dcab", lejos: "#a9702f" };
 // Un perro grande (tipo labrador), de lado, mirando a la derecha (dir = -1, a la izquierda). Pie en y = 0.
-// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
+// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; lamido 0..1 le pasa la lengua por la trufa; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
 // cola: cuánto la menea. escala: tamaño (1 = el de siempre). pataAlta: 0 en el suelo, 1 la trasera de este lado casi vertical.
 // Devuelve collar, nariz, ingle y pata (la trasera de este lado), en el mundo.
 export function perro(g, o) {
@@ -417,7 +418,8 @@ export function perro(g, o) {
   };
   // la boca abierta (la lengua colgando) va detrás de la mandíbula. El bostezo se pinta después, encima.
   const bost = Math.max(0, Math.min(1, o.bostezo || 0));
-  const abre = cab.abre || 0;
+  const lam = Math.max(0, Math.min(1, o.lamido || 0));
+  const abre = (cab.abre || 0) * (lam > 0.04 ? 0 : 1);
   if (abre > 0.02 && bost < 0.04) {
     g.fillStyle = "#4a1c20"; g.beginPath(); g.moveTo(32, 5); g.quadraticCurveTo(38, 5 + 12 * abre, 28, 8 + 14 * abre); g.lineTo(24, 8); g.closePath(); g.fill();
     const tg = g.createLinearGradient(0, 6, 0, 26 * abre + 8); tg.addColorStop(0, "#ff7f93"); tg.addColorStop(1, "#d94a68");
@@ -440,6 +442,25 @@ export function perro(g, o) {
   g.fillStyle = ng; g.beginPath(); g.ellipse(45, -2.6, 4.2, 3.7, 0.25, 0, TAU); g.fill();
   g.fillStyle = "rgba(255,255,255,0.75)"; g.beginPath(); g.ellipse(43.8, -4.3, 1.6, 0.9, -0.3, 0, TAU); g.fill();
   { const ab = cab.olfato || 0; g.strokeStyle = "#000"; g.lineWidth = 1.5 + 1.4 * ab; g.lineCap = "round"; g.beginPath(); g.moveTo(46.2, -2.3); g.quadraticCurveTo(45, 0.4 + ab, 43.2, 0.2 + 1.2 * ab); g.stroke(); }
+  // el lametón: la lengua sale de la boca, cruza la trufa y vuelve. Todo sale de lamido.
+  if (lam > 0.03 && lam < 0.98 && bost < 0.04) {
+    const s = Math.sin(lam * Math.PI);
+    const tipX = 33 + 15.5 * s, tipY = 5.2 - 10.4 * s;
+    const tg = g.createLinearGradient(30, 6, tipX, tipY);
+    tg.addColorStop(0, "#d64566"); tg.addColorStop(0.6, "#ff8ea4"); tg.addColorStop(1, "#ffd0d8");
+    g.fillStyle = tg;
+    g.beginPath();
+    g.moveTo(27.5, 4.4);
+    g.quadraticCurveTo(32, 2.2 - 3 * s, tipX - 1.4, tipY + 1.5);
+    g.quadraticCurveTo(tipX + 2.4, tipY - 0.2, tipX + 0.2, tipY - 2.1);
+    g.quadraticCurveTo(34, -1 - 5 * s, 29.5, 2.4);
+    g.closePath();
+    g.fill();
+    g.fillStyle = "rgba(255,255,255,0.7)";
+    g.beginPath(); g.ellipse(tipX - 0.6, tipY - 0.3, 1.15 * s + 0.35, 0.62, -0.5, 0, TAU); g.fill();
+    g.fillStyle = `rgba(255,255,255,${0.35 + 0.4 * s})`;
+    g.beginPath(); g.ellipse(44.2, -4.6, 2.1, 1.05, -0.4, 0, TAU); g.fill();
+  }
   // el ojo
   const feliz = cab.ojo || 0;
   if (bost > 0.35) {

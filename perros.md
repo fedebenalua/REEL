@@ -29,6 +29,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué patalea al rascarle el costado (`proyectos/2026-10-23-perro-patalea`).
 - Por qué levanta la pata para hacer pis (`proyectos/2026-10-23-perro-levanta-la-pata`).
 - Por qué bosteza cuando tú bostezas (`proyectos/2026-10-24-perro-bosteza`).
+- Por qué se lame la nariz (`proyectos/2026-10-24-perro-lame-la-nariz`).
 
 ## Ideas pendientes
 
@@ -37,7 +38,6 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué se revuelcan en cosas que huelen fatal.
 - Por qué inclinan la cabeza cuando les hablas.
 - Por qué ladran a la nada de noche.
-- Por qué se lamen la nariz y por qué la tienen húmeda.
 - Por qué entierran los huesos.
 - Por qué corren a lo loco de repente (la «zoomies»).
 - Por qué te traen el juguete y no te lo dan.
