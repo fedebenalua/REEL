@@ -1,0 +1,16 @@
+{
+  "titulo": "Por qué las tapas de alcantarilla son redondas",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué las tapas de alcantarilla suelen ser redondas?", "clave": "redondas", "hook": true },
+    { "texto": "Una cuadrada, de canto, puede colarse por la diagonal.", "clave": "diagonal", "hook": true },
+    { "texto": "Porque esa diagonal es más larga que el lado.", "clave": "larga" },
+    { "texto": "La redonda mide lo mismo por todos lados.", "clave": "mismo" },
+    { "texto": "El agujero es un poco más estrecho: la tapa apoya en un reborde.", "clave": "reborde" },
+    { "texto": "La gires como la gires, el reborde la para.", "clave": "para" },
+    { "texto": "Igual que la tapa de una olla, que tampoco se cae dentro.", "clave": "olla" },
+    { "texto": "Así que es redonda para no caerle encima a quien trabaja abajo.", "clave": "abajo" },
+    { "texto": "Envíaselo a ese amigo que pasa por encima todos los días.", "clave": "días" }
+  ]
+}

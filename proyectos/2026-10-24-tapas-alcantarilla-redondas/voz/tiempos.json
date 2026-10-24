@@ -1,0 +1,715 @@
+{
+  "firma": "36c662e8171c",
+  "duracion": 30,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué las tapas de alcantarilla suelen ser redondas?",
+      "clave": "redondas",
+      "inicio": 0,
+      "fin": 2.8
+    },
+    {
+      "n": 2,
+      "texto": "Una cuadrada, de canto, puede colarse por la diagonal.",
+      "clave": "diagonal",
+      "inicio": 3.2,
+      "fin": 6.24
+    },
+    {
+      "n": 3,
+      "texto": "Porque esa diagonal es más larga que el lado.",
+      "clave": "larga",
+      "inicio": 6.72,
+      "fin": 9.04
+    },
+    {
+      "n": 4,
+      "texto": "La redonda mide lo mismo por todos lados.",
+      "clave": "mismo",
+      "inicio": 9.44,
+      "fin": 11.76
+    },
+    {
+      "n": 5,
+      "texto": "El agujero es un poco más estrecho: la tapa apoya en un reborde.",
+      "clave": "reborde",
+      "inicio": 12,
+      "fin": 15.84
+    },
+    {
+      "n": 6,
+      "texto": "La gires como la gires, el reborde la para.",
+      "clave": "para",
+      "inicio": 16.24,
+      "fin": 18.48
+    },
+    {
+      "n": 7,
+      "texto": "Igual que la tapa de una olla, que tampoco se cae dentro.",
+      "clave": "olla",
+      "inicio": 18.88,
+      "fin": 21.92
+    },
+    {
+      "n": 8,
+      "texto": "Así que es redonda para no caerle encima a quien trabaja abajo.",
+      "clave": "abajo",
+      "inicio": 22,
+      "fin": 25.92
+    },
+    {
+      "n": 9,
+      "texto": "Envíaselo a ese amigo que pasa por encima todos los días.",
+      "clave": "días",
+      "inicio": 26.04,
+      "fin": 29.2
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tapas",
+      "inicio": 0.48,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 0.76,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "alcantarilla",
+      "inicio": 0.88,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "suelen",
+      "inicio": 1.6,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ser",
+      "inicio": 2,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "redondas?",
+      "inicio": 2.16,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 3.2,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuadrada,",
+      "inicio": 3.36,
+      "fin": 4.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.12,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "canto,",
+      "inicio": 4.24,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.84,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "colarse",
+      "inicio": 5.12,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 5.52,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 5.64,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "diagonal.",
+      "inicio": 5.76,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Porque",
+      "inicio": 6.72,
+      "fin": 6.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 7,
+      "fin": 7.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "diagonal",
+      "inicio": 7.16,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 7.76,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 7.92,
+      "fin": 8.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "larga",
+      "inicio": 8.16,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 8.48,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 8.6,
+      "fin": 8.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lado.",
+      "inicio": 8.72,
+      "fin": 9.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "redonda",
+      "inicio": 9.6,
+      "fin": 10,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mide",
+      "inicio": 10.08,
+      "fin": 10.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.32,
+      "fin": 10.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 10.48,
+      "fin": 10.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "por",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 10.88,
+      "fin": 11.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lados.",
+      "inicio": 11.2,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 12,
+      "fin": 12.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "agujero",
+      "inicio": 12.12,
+      "fin": 12.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 12.56,
+      "fin": 12.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 12.76,
+      "fin": 12.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "poco",
+      "inicio": 12.92,
+      "fin": 13.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 13.2,
+      "fin": 13.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "estrecho:",
+      "inicio": 13.36,
+      "fin": 14.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.24,
+      "fin": 14.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 14.4,
+      "fin": 14.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "apoya",
+      "inicio": 14.72,
+      "fin": 15.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 15.12,
+      "fin": 15.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 15.24,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "reborde.",
+      "inicio": 15.36,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "La",
+      "inicio": 16.24,
+      "fin": 16.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "gires",
+      "inicio": 16.36,
+      "fin": 16.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 16.72,
+      "fin": 16.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 16.84,
+      "fin": 16.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "gires,",
+      "inicio": 16.96,
+      "fin": 17.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 17.52,
+      "fin": 17.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "reborde",
+      "inicio": 17.68,
+      "fin": 18,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.08,
+      "fin": 18.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "para.",
+      "inicio": 18.28,
+      "fin": 18.48,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Igual",
+      "inicio": 18.88,
+      "fin": 19.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.16,
+      "fin": 19.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 19.28,
+      "fin": 19.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 19.36,
+      "fin": 19.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 19.6,
+      "fin": 19.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 19.76,
+      "fin": 19.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "olla,",
+      "inicio": 19.92,
+      "fin": 20.24,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 20.32,
+      "fin": 20.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tampoco",
+      "inicio": 20.48,
+      "fin": 20.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 20.84,
+      "fin": 20.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cae",
+      "inicio": 20.96,
+      "fin": 21.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 21.24,
+      "fin": 21.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 22,
+      "fin": 22.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 22.24,
+      "fin": 22.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 22.48,
+      "fin": 22.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "redonda",
+      "inicio": 22.72,
+      "fin": 23.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 23.2,
+      "fin": 23.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 23.44,
+      "fin": 23.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "caerle",
+      "inicio": 23.6,
+      "fin": 23.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "encima",
+      "inicio": 24.04,
+      "fin": 24.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 24.36,
+      "fin": 24.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "quien",
+      "inicio": 24.48,
+      "fin": 24.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "trabaja",
+      "inicio": 24.68,
+      "fin": 25.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "abajo.",
+      "inicio": 25.24,
+      "fin": 25.92,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 26.04,
+      "fin": 26.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 26.52,
+      "fin": 26.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 26.64,
+      "fin": 26.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 26.8,
+      "fin": 27.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 27.12,
+      "fin": 27.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pasa",
+      "inicio": 27.24,
+      "fin": 27.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 27.52,
+      "fin": 27.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "encima",
+      "inicio": 27.72,
+      "fin": 27.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 28.08,
+      "fin": 28.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 28.48,
+      "fin": 28.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "días.",
+      "inicio": 28.6,
+      "fin": 29.2,
+      "frase": 9,
+      "clave": true
+    }
+  ]
+}
