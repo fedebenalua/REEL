@@ -54,6 +54,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 8: ¿Por qué las escaleras mecánicas tienen cepillos en los laterales? (2026-10-24).
 - Lista del creador 9: ¿Cómo sabe tu móvil que tienes la pantalla pegada a la oreja? (2026-10-24).
 - Lista del creador 10: ¿Por qué las tapas de alcantarilla suelen ser redondas? (2026-10-24).
+- Por qué se te ponen los dedos como pasas en la bañera (2026-10-24).
 
 ## Ideas pendientes
 
