@@ -1,0 +1,19 @@
+{
+  "titulo": "El año que no cuentas",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué no te acuerdas de cuando eras un bebé?", "clave": "bebé", "hook": true },
+    { "texto": "Parece que de bebé no se guardaba nada.", "clave": "nada", "hook": true },
+    { "texto": "Con tres meses, si patea, bailan los muñecos de la cuna.", "clave": "patea" },
+    { "texto": "Días después los ve quietos, y patea otra vez.", "clave": "quietos" },
+    { "texto": "Con seis meses, un recuerdo así aguanta unas dos semanas.", "clave": "semanas" },
+    { "texto": "Y aun así, de adulto, ese primer año no lo cuentas.", "clave": "cuentas" },
+    { "texto": "En crías de ratón, neuronas nuevas deshacen las huellas viejas.", "clave": "huellas" },
+    { "texto": "En personas, eso no está igual de claro.", "clave": "claro" },
+    { "texto": "Puede que no tuviera palabras, y ahora lo busques hablando.", "clave": "palabras" },
+    { "texto": "O que la historia que cuentas empiece hacia los tres o los cuatro años.", "clave": "años" },
+    { "texto": "No es que no te pasara nada. Es que no se quedó como una historia.", "clave": "historia" },
+    { "texto": "Envíaselo a ese amigo que dice que se acuerda de la cuna.", "clave": "cuna" }
+  ]
+}
