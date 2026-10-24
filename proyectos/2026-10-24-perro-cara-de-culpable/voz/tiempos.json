@@ -1,0 +1,1212 @@
+{
+  "firma": "dba9e88c2316",
+  "duracion": 51.68,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro te mira con cara de culpable cuando hace algo mal?",
+      "clave": "culpable",
+      "inicio": 0,
+      "fin": 3.84
+    },
+    {
+      "n": 2,
+      "texto": "Ojos hacia arriba, orejas atrás, cabeza baja.",
+      "clave": "orejas",
+      "inicio": 3.92,
+      "fin": 7.44
+    },
+    {
+      "n": 3,
+      "texto": "Tú piensas: sabe perfectamente lo que ha hecho.",
+      "clave": "sabe",
+      "inicio": 7.48,
+      "fin": 10.8
+    },
+    {
+      "n": 4,
+      "texto": "Pero en 2009 pusieron una galleta delante de catorce perros, y sus dueños les dijeron que no la tocaran.",
+      "clave": "galleta",
+      "inicio": 10.84,
+      "fin": 17.44
+    },
+    {
+      "n": 5,
+      "texto": "Al volver, a los dueños les decían que se la habían comido.",
+      "clave": "comido",
+      "inicio": 17.52,
+      "fin": 20.8
+    },
+    {
+      "n": 6,
+      "texto": "Y a veces era mentira: la galleta seguía ahí, entera.",
+      "clave": "mentira",
+      "inicio": 20.827,
+      "fin": 24.56
+    },
+    {
+      "n": 7,
+      "texto": "Si el dueño se enfadaba, el perro ponía esa cara, la hubiera comido o no.",
+      "clave": "enfadaba",
+      "inicio": 24.6,
+      "fin": 29.36
+    },
+    {
+      "n": 8,
+      "texto": "De hecho, la ponían más los que no habían hecho nada.",
+      "clave": "nada",
+      "inicio": 29.4,
+      "fin": 32.4
+    },
+    {
+      "n": 9,
+      "texto": "Y si el dueño los recibía contento, la ponían mucho menos.",
+      "clave": "contento",
+      "inicio": 32.44,
+      "fin": 36.16
+    },
+    {
+      "n": 10,
+      "texto": "Así que no es lo que han hecho: es cómo te ven a ti.",
+      "clave": "ti",
+      "inicio": 36.24,
+      "fin": 39.84
+    },
+    {
+      "n": 11,
+      "texto": "Parece un gesto para calmarte, y funciona.",
+      "clave": "calmarte",
+      "inicio": 39.88,
+      "fin": 42.64
+    },
+    {
+      "n": 12,
+      "texto": "Más de la mitad de los dueños dicen que, al verla, regañan menos.",
+      "clave": "regañan",
+      "inicio": 42.72,
+      "fin": 46.64
+    },
+    {
+      "n": 13,
+      "texto": "Envíaselo a ese amigo al que su perro le pone cara de culpable y él se la cree.",
+      "clave": "cree",
+      "inicio": 46.76,
+      "fin": 50.88
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.28,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.4,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.56,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 0.88,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mira",
+      "inicio": 1,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 1.28,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cara",
+      "inicio": 1.44,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.64,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "culpable",
+      "inicio": 1.76,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.32,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 2.6,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 2.92,
+      "fin": 3.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mal?",
+      "inicio": 3.12,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Ojos",
+      "inicio": 3.92,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hacia",
+      "inicio": 4.213,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "arriba,",
+      "inicio": 4.4,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "orejas",
+      "inicio": 5.08,
+      "fin": 5.36,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "atrás,",
+      "inicio": 5.52,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 6.16,
+      "fin": 6.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "baja.",
+      "inicio": 6.613,
+      "fin": 7.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Tú",
+      "inicio": 7.48,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "piensas:",
+      "inicio": 7.64,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sabe",
+      "inicio": 8.507,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "perfectamente",
+      "inicio": 8.96,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.64,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 9.76,
+      "fin": 9.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ha",
+      "inicio": 9.88,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hecho.",
+      "inicio": 10,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 10.84,
+      "fin": 10.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 11,
+      "fin": 11.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "2009",
+      "inicio": 11.12,
+      "fin": 11.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pusieron",
+      "inicio": 11.84,
+      "fin": 12.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 12.32,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "galleta",
+      "inicio": 12.44,
+      "fin": 12.8,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "delante",
+      "inicio": 12.88,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.24,
+      "fin": 13.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "catorce",
+      "inicio": 13.36,
+      "fin": 13.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "perros,",
+      "inicio": 13.84,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 14.6,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sus",
+      "inicio": 14.72,
+      "fin": 14.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dueños",
+      "inicio": 14.88,
+      "fin": 15.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 15.28,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dijeron",
+      "inicio": 15.493,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 15.92,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 16.16,
+      "fin": 16.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 16.32,
+      "fin": 16.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tocaran.",
+      "inicio": 16.4,
+      "fin": 17.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 17.52,
+      "fin": 17.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "volver,",
+      "inicio": 17.733,
+      "fin": 18.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 18.2,
+      "fin": 18.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 18.32,
+      "fin": 18.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dueños",
+      "inicio": 18.48,
+      "fin": 18.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 18.88,
+      "fin": 18.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "decían",
+      "inicio": 19.04,
+      "fin": 19.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.4,
+      "fin": 19.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 19.52,
+      "fin": 19.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 19.64,
+      "fin": 19.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "habían",
+      "inicio": 19.72,
+      "fin": 20,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "comido.",
+      "inicio": 20.08,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.827,
+      "fin": 20.853,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.88,
+      "fin": 20.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 20.96,
+      "fin": 21.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "era",
+      "inicio": 21.28,
+      "fin": 21.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mentira:",
+      "inicio": 21.52,
+      "fin": 22.08,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 22.12,
+      "fin": 22.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "galleta",
+      "inicio": 22.24,
+      "fin": 22.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "seguía",
+      "inicio": 22.64,
+      "fin": 22.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ahí,",
+      "inicio": 23.04,
+      "fin": 23.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "entera.",
+      "inicio": 23.44,
+      "fin": 24.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 24.6,
+      "fin": 24.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 24.72,
+      "fin": 24.773,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dueño",
+      "inicio": 24.827,
+      "fin": 25.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 25.08,
+      "fin": 25.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "enfadaba,",
+      "inicio": 25.2,
+      "fin": 25.76,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 25.8,
+      "fin": 25.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 26,
+      "fin": 26.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ponía",
+      "inicio": 26.32,
+      "fin": 26.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 26.72,
+      "fin": 26.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cara,",
+      "inicio": 27.04,
+      "fin": 27.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 27.56,
+      "fin": 27.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hubiera",
+      "inicio": 27.68,
+      "fin": 27.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "comido",
+      "inicio": 28,
+      "fin": 28.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 28.48,
+      "fin": 28.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no.",
+      "inicio": 28.64,
+      "fin": 29.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "De",
+      "inicio": 29.4,
+      "fin": 29.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hecho,",
+      "inicio": 29.52,
+      "fin": 29.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 29.88,
+      "fin": 29.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ponían",
+      "inicio": 30,
+      "fin": 30.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 30.44,
+      "fin": 30.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 30.72,
+      "fin": 30.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 30.88,
+      "fin": 30.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 31.04,
+      "fin": 31.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "habían",
+      "inicio": 31.2,
+      "fin": 31.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hecho",
+      "inicio": 31.48,
+      "fin": 31.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 31.76,
+      "fin": 32.4,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 32.44,
+      "fin": 32.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 32.56,
+      "fin": 32.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 32.64,
+      "fin": 32.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dueño",
+      "inicio": 32.8,
+      "fin": 33.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 33.12,
+      "fin": 33.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "recibía",
+      "inicio": 33.28,
+      "fin": 33.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "contento,",
+      "inicio": 33.68,
+      "fin": 34.4,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 34.44,
+      "fin": 34.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ponían",
+      "inicio": 34.56,
+      "fin": 34.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 35.04,
+      "fin": 35.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "menos.",
+      "inicio": 35.36,
+      "fin": 36.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.24,
+      "fin": 36.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36.4,
+      "fin": 36.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 36.64,
+      "fin": 36.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 36.88,
+      "fin": 36.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.04,
+      "fin": 37.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 37.16,
+      "fin": 37.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "han",
+      "inicio": 37.28,
+      "fin": 37.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "hecho:",
+      "inicio": 37.44,
+      "fin": 37.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 38,
+      "fin": 38.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 38.4,
+      "fin": 38.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 38.72,
+      "fin": 38.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ven",
+      "inicio": 38.88,
+      "fin": 38.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 39,
+      "fin": 39.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ti.",
+      "inicio": 39.12,
+      "fin": 39.84,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Parece",
+      "inicio": 39.88,
+      "fin": 40.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 40.2,
+      "fin": 40.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "gesto",
+      "inicio": 40.36,
+      "fin": 40.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 40.64,
+      "fin": 40.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "calmarte,",
+      "inicio": 40.8,
+      "fin": 41.6,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 41.64,
+      "fin": 41.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "funciona.",
+      "inicio": 41.8,
+      "fin": 42.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Más",
+      "inicio": 42.72,
+      "fin": 42.88,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.92,
+      "fin": 42.96,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43,
+      "fin": 43.04,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 43.12,
+      "fin": 43.36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.4,
+      "fin": 43.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 43.52,
+      "fin": 43.6,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "dueños",
+      "inicio": 43.68,
+      "fin": 44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "dicen",
+      "inicio": 44.08,
+      "fin": 44.32,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que,",
+      "inicio": 44.4,
+      "fin": 44.507,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 44.533,
+      "fin": 44.56,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "verla,",
+      "inicio": 44.64,
+      "fin": 45.2,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "regañan",
+      "inicio": 45.32,
+      "fin": 45.68,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "menos.",
+      "inicio": 45.76,
+      "fin": 46.64,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.76,
+      "fin": 47.2,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 47.227,
+      "fin": 47.253,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 47.28,
+      "fin": 47.44,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 47.52,
+      "fin": 47.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 47.84,
+      "fin": 47.92,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 47.96,
+      "fin": 48,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 48.08,
+      "fin": 48.16,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 48.24,
+      "fin": 48.4,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 48.48,
+      "fin": 48.56,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 48.64,
+      "fin": 48.72,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "cara",
+      "inicio": 48.88,
+      "fin": 49.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 49.08,
+      "fin": 49.12,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "culpable",
+      "inicio": 49.2,
+      "fin": 49.68,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 49.84,
+      "fin": 49.92,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "él",
+      "inicio": 50,
+      "fin": 50.08,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 50.16,
+      "fin": 50.24,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 50.28,
+      "fin": 50.32,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "cree.",
+      "inicio": 50.4,
+      "fin": 50.88,
+      "frase": 13,
+      "clave": true
+    }
+  ]
+}

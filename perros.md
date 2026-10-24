@@ -47,6 +47,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué levanta la pata para hacer pis (`proyectos/2026-10-23-perro-levanta-la-pata`).
 - Por qué bosteza cuando tú bostezas (`proyectos/2026-10-24-perro-bosteza`).
 - Por qué se lame la nariz (`proyectos/2026-10-24-perro-lame-la-nariz`).
+- Por qué te mira con cara de culpable cuando hace algo mal (`proyectos/2026-10-24-perro-cara-de-culpable`).
 
 ## Ideas pendientes
 

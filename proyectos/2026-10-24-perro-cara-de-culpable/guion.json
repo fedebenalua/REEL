@@ -1,0 +1,20 @@
+{
+  "titulo": "Por qué tu perro te mira con cara de culpable",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro te mira con cara de culpable cuando hace algo mal?", "clave": "culpable", "hook": true },
+    { "texto": "Ojos hacia arriba, orejas atrás, cabeza baja.", "clave": "orejas", "hook": true },
+    { "texto": "Tú piensas: sabe perfectamente lo que ha hecho.", "clave": "sabe", "hook": true },
+    { "texto": "Pero en 2009 pusieron una galleta delante de catorce perros, y sus dueños les dijeron que no la tocaran.", "clave": "galleta" },
+    { "texto": "Al volver, a los dueños les decían que se la habían comido.", "clave": "comido" },
+    { "texto": "Y a veces era mentira: la galleta seguía ahí, entera.", "clave": "mentira" },
+    { "texto": "Si el dueño se enfadaba, el perro ponía esa cara, la hubiera comido o no.", "clave": "enfadaba" },
+    { "texto": "De hecho, la ponían más los que no habían hecho nada.", "clave": "nada" },
+    { "texto": "Y si el dueño los recibía contento, la ponían mucho menos.", "clave": "contento" },
+    { "texto": "Así que no es lo que han hecho: es cómo te ven a ti.", "clave": "ti" },
+    { "texto": "Parece un gesto para calmarte, y funciona.", "clave": "calmarte" },
+    { "texto": "Más de la mitad de los dueños dicen que, al verla, regañan menos.", "clave": "regañan" },
+    { "texto": "Envíaselo a ese amigo al que su perro le pone cara de culpable y él se la cree.", "clave": "cree" }
+  ]
+}

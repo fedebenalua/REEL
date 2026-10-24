@@ -1,0 +1,809 @@
+{
+  "firma": "dba9e88c2316",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.28,
+      "fin": 0.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.56,
+      "fin": 0.8
+    },
+    {
+      "texto": "te",
+      "inicio": 0.88,
+      "fin": 0.96
+    },
+    {
+      "texto": "mira",
+      "inicio": 1,
+      "fin": 1.2
+    },
+    {
+      "texto": "con",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "texto": "cara",
+      "inicio": 1.44,
+      "fin": 1.6
+    },
+    {
+      "texto": "de",
+      "inicio": 1.64,
+      "fin": 1.68
+    },
+    {
+      "texto": "culpable",
+      "inicio": 1.76,
+      "fin": 2.24
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.32,
+      "fin": 2.56
+    },
+    {
+      "texto": "hace",
+      "inicio": 2.6,
+      "fin": 2.8
+    },
+    {
+      "texto": "algo",
+      "inicio": 2.92,
+      "fin": 3.04
+    },
+    {
+      "texto": "mal?",
+      "inicio": 3.12,
+      "fin": 3.84
+    },
+    {
+      "texto": "Ojos",
+      "inicio": 3.92,
+      "fin": 4.16
+    },
+    {
+      "texto": "hacia",
+      "inicio": 4.213,
+      "fin": 4.32
+    },
+    {
+      "texto": "arriba,",
+      "inicio": 4.4,
+      "fin": 4.96
+    },
+    {
+      "texto": "orejas",
+      "inicio": 5.08,
+      "fin": 5.36
+    },
+    {
+      "texto": "atrás,",
+      "inicio": 5.52,
+      "fin": 6.08
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 6.16,
+      "fin": 6.48
+    },
+    {
+      "texto": "baja.",
+      "inicio": 6.613,
+      "fin": 7.44
+    },
+    {
+      "texto": "Tú",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "piensas:",
+      "inicio": 7.64,
+      "fin": 8.4
+    },
+    {
+      "texto": "sabe",
+      "inicio": 8.507,
+      "fin": 8.72
+    },
+    {
+      "texto": "perfectamente",
+      "inicio": 8.96,
+      "fin": 9.6
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.64,
+      "fin": 9.68
+    },
+    {
+      "texto": "que",
+      "inicio": 9.76,
+      "fin": 9.84
+    },
+    {
+      "texto": "ha",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "texto": "hecho.",
+      "inicio": 10,
+      "fin": 10.8
+    },
+    {
+      "texto": "Pero",
+      "inicio": 10.84,
+      "fin": 10.96
+    },
+    {
+      "texto": "en",
+      "inicio": 11,
+      "fin": 11.04
+    },
+    {
+      "texto": "2009",
+      "inicio": 11.12,
+      "fin": 11.6
+    },
+    {
+      "texto": "pusieron",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "texto": "una",
+      "inicio": 12.32,
+      "fin": 12.4
+    },
+    {
+      "texto": "galleta",
+      "inicio": 12.44,
+      "fin": 12.8
+    },
+    {
+      "texto": "delante",
+      "inicio": 12.88,
+      "fin": 13.2
+    },
+    {
+      "texto": "de",
+      "inicio": 13.24,
+      "fin": 13.28
+    },
+    {
+      "texto": "catorce",
+      "inicio": 13.36,
+      "fin": 13.76
+    },
+    {
+      "texto": "perros,",
+      "inicio": 13.84,
+      "fin": 14.56
+    },
+    {
+      "texto": "y",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "sus",
+      "inicio": 14.72,
+      "fin": 14.8
+    },
+    {
+      "texto": "dueños",
+      "inicio": 14.88,
+      "fin": 15.2
+    },
+    {
+      "texto": "les",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "texto": "dijeron",
+      "inicio": 15.493,
+      "fin": 15.76
+    },
+    {
+      "texto": "que",
+      "inicio": 15.92,
+      "fin": 16
+    },
+    {
+      "texto": "no",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "texto": "la",
+      "inicio": 16.32,
+      "fin": 16.36
+    },
+    {
+      "texto": "tocaran.",
+      "inicio": 16.4,
+      "fin": 17.44
+    },
+    {
+      "texto": "Al",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "texto": "volver,",
+      "inicio": 17.733,
+      "fin": 18.16
+    },
+    {
+      "texto": "a",
+      "inicio": 18.2,
+      "fin": 18.24
+    },
+    {
+      "texto": "los",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "texto": "dueños",
+      "inicio": 18.48,
+      "fin": 18.8
+    },
+    {
+      "texto": "les",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "texto": "decían",
+      "inicio": 19.04,
+      "fin": 19.36
+    },
+    {
+      "texto": "que",
+      "inicio": 19.4,
+      "fin": 19.44
+    },
+    {
+      "texto": "se",
+      "inicio": 19.52,
+      "fin": 19.6
+    },
+    {
+      "texto": "la",
+      "inicio": 19.64,
+      "fin": 19.68
+    },
+    {
+      "texto": "habían",
+      "inicio": 19.72,
+      "fin": 20
+    },
+    {
+      "texto": "comido.",
+      "inicio": 20.08,
+      "fin": 20.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.827,
+      "fin": 20.853
+    },
+    {
+      "texto": "a",
+      "inicio": 20.88,
+      "fin": 20.92
+    },
+    {
+      "texto": "veces",
+      "inicio": 20.96,
+      "fin": 21.2
+    },
+    {
+      "texto": "era",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "texto": "mentira:",
+      "inicio": 21.52,
+      "fin": 22.08
+    },
+    {
+      "texto": "la",
+      "inicio": 22.12,
+      "fin": 22.16
+    },
+    {
+      "texto": "galleta",
+      "inicio": 22.24,
+      "fin": 22.56
+    },
+    {
+      "texto": "seguía",
+      "inicio": 22.64,
+      "fin": 22.96
+    },
+    {
+      "texto": "ahí,",
+      "inicio": 23.04,
+      "fin": 23.36
+    },
+    {
+      "texto": "entera.",
+      "inicio": 23.44,
+      "fin": 24.56
+    },
+    {
+      "texto": "Si",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "texto": "el",
+      "inicio": 24.72,
+      "fin": 24.773
+    },
+    {
+      "texto": "dueño",
+      "inicio": 24.827,
+      "fin": 25.04
+    },
+    {
+      "texto": "se",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "enfadaba,",
+      "inicio": 25.2,
+      "fin": 25.76
+    },
+    {
+      "texto": "el",
+      "inicio": 25.8,
+      "fin": 25.84
+    },
+    {
+      "texto": "perro",
+      "inicio": 26,
+      "fin": 26.24
+    },
+    {
+      "texto": "ponía",
+      "inicio": 26.32,
+      "fin": 26.64
+    },
+    {
+      "texto": "esa",
+      "inicio": 26.72,
+      "fin": 26.96
+    },
+    {
+      "texto": "cara,",
+      "inicio": 27.04,
+      "fin": 27.52
+    },
+    {
+      "texto": "la",
+      "inicio": 27.56,
+      "fin": 27.6
+    },
+    {
+      "texto": "hubiera",
+      "inicio": 27.68,
+      "fin": 27.92
+    },
+    {
+      "texto": "comido",
+      "inicio": 28,
+      "fin": 28.32
+    },
+    {
+      "texto": "o",
+      "inicio": 28.48,
+      "fin": 28.56
+    },
+    {
+      "texto": "no.",
+      "inicio": 28.64,
+      "fin": 29.36
+    },
+    {
+      "texto": "De",
+      "inicio": 29.4,
+      "fin": 29.44
+    },
+    {
+      "texto": "hecho,",
+      "inicio": 29.52,
+      "fin": 29.84
+    },
+    {
+      "texto": "la",
+      "inicio": 29.88,
+      "fin": 29.92
+    },
+    {
+      "texto": "ponían",
+      "inicio": 30,
+      "fin": 30.4
+    },
+    {
+      "texto": "más",
+      "inicio": 30.44,
+      "fin": 30.64
+    },
+    {
+      "texto": "los",
+      "inicio": 30.72,
+      "fin": 30.8
+    },
+    {
+      "texto": "que",
+      "inicio": 30.88,
+      "fin": 30.96
+    },
+    {
+      "texto": "no",
+      "inicio": 31.04,
+      "fin": 31.12
+    },
+    {
+      "texto": "habían",
+      "inicio": 31.2,
+      "fin": 31.44
+    },
+    {
+      "texto": "hecho",
+      "inicio": 31.48,
+      "fin": 31.68
+    },
+    {
+      "texto": "nada.",
+      "inicio": 31.76,
+      "fin": 32.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 32.44,
+      "fin": 32.48
+    },
+    {
+      "texto": "si",
+      "inicio": 32.56,
+      "fin": 32.6
+    },
+    {
+      "texto": "el",
+      "inicio": 32.64,
+      "fin": 32.72
+    },
+    {
+      "texto": "dueño",
+      "inicio": 32.8,
+      "fin": 33.04
+    },
+    {
+      "texto": "los",
+      "inicio": 33.12,
+      "fin": 33.2
+    },
+    {
+      "texto": "recibía",
+      "inicio": 33.28,
+      "fin": 33.6
+    },
+    {
+      "texto": "contento,",
+      "inicio": 33.68,
+      "fin": 34.4
+    },
+    {
+      "texto": "la",
+      "inicio": 34.44,
+      "fin": 34.48
+    },
+    {
+      "texto": "ponían",
+      "inicio": 34.56,
+      "fin": 34.96
+    },
+    {
+      "texto": "mucho",
+      "inicio": 35.04,
+      "fin": 35.28
+    },
+    {
+      "texto": "menos.",
+      "inicio": 35.36,
+      "fin": 36.16
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.24,
+      "fin": 36.36
+    },
+    {
+      "texto": "que",
+      "inicio": 36.4,
+      "fin": 36.56
+    },
+    {
+      "texto": "no",
+      "inicio": 36.64,
+      "fin": 36.8
+    },
+    {
+      "texto": "es",
+      "inicio": 36.88,
+      "fin": 36.96
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.04,
+      "fin": 37.12
+    },
+    {
+      "texto": "que",
+      "inicio": 37.16,
+      "fin": 37.2
+    },
+    {
+      "texto": "han",
+      "inicio": 37.28,
+      "fin": 37.36
+    },
+    {
+      "texto": "hecho:",
+      "inicio": 37.44,
+      "fin": 37.92
+    },
+    {
+      "texto": "es",
+      "inicio": 38,
+      "fin": 38.16
+    },
+    {
+      "texto": "cómo",
+      "inicio": 38.4,
+      "fin": 38.64
+    },
+    {
+      "texto": "te",
+      "inicio": 38.72,
+      "fin": 38.8
+    },
+    {
+      "texto": "ven",
+      "inicio": 38.88,
+      "fin": 38.96
+    },
+    {
+      "texto": "a",
+      "inicio": 39,
+      "fin": 39.04
+    },
+    {
+      "texto": "ti.",
+      "inicio": 39.12,
+      "fin": 39.84
+    },
+    {
+      "texto": "Parece",
+      "inicio": 39.88,
+      "fin": 40.16
+    },
+    {
+      "texto": "un",
+      "inicio": 40.2,
+      "fin": 40.24
+    },
+    {
+      "texto": "gesto",
+      "inicio": 40.36,
+      "fin": 40.56
+    },
+    {
+      "texto": "para",
+      "inicio": 40.64,
+      "fin": 40.72
+    },
+    {
+      "texto": "calmarte,",
+      "inicio": 40.8,
+      "fin": 41.6
+    },
+    {
+      "texto": "y",
+      "inicio": 41.64,
+      "fin": 41.68
+    },
+    {
+      "texto": "funciona.",
+      "inicio": 41.8,
+      "fin": 42.64
+    },
+    {
+      "texto": "Más",
+      "inicio": 42.72,
+      "fin": 42.88
+    },
+    {
+      "texto": "de",
+      "inicio": 42.92,
+      "fin": 42.96
+    },
+    {
+      "texto": "la",
+      "inicio": 43,
+      "fin": 43.04
+    },
+    {
+      "texto": "mitad",
+      "inicio": 43.12,
+      "fin": 43.36
+    },
+    {
+      "texto": "de",
+      "inicio": 43.4,
+      "fin": 43.44
+    },
+    {
+      "texto": "los",
+      "inicio": 43.52,
+      "fin": 43.6
+    },
+    {
+      "texto": "dueños",
+      "inicio": 43.68,
+      "fin": 44
+    },
+    {
+      "texto": "dicen",
+      "inicio": 44.08,
+      "fin": 44.32
+    },
+    {
+      "texto": "que,",
+      "inicio": 44.4,
+      "fin": 44.507
+    },
+    {
+      "texto": "al",
+      "inicio": 44.533,
+      "fin": 44.56
+    },
+    {
+      "texto": "verla,",
+      "inicio": 44.64,
+      "fin": 45.2
+    },
+    {
+      "texto": "regañan",
+      "inicio": 45.32,
+      "fin": 45.68
+    },
+    {
+      "texto": "menos.",
+      "inicio": 45.76,
+      "fin": 46.64
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.76,
+      "fin": 47.2
+    },
+    {
+      "texto": "a",
+      "inicio": 47.227,
+      "fin": 47.253
+    },
+    {
+      "texto": "ese",
+      "inicio": 47.28,
+      "fin": 47.44
+    },
+    {
+      "texto": "amigo",
+      "inicio": 47.52,
+      "fin": 47.76
+    },
+    {
+      "texto": "al",
+      "inicio": 47.84,
+      "fin": 47.92
+    },
+    {
+      "texto": "que",
+      "inicio": 47.96,
+      "fin": 48
+    },
+    {
+      "texto": "su",
+      "inicio": 48.08,
+      "fin": 48.16
+    },
+    {
+      "texto": "perro",
+      "inicio": 48.24,
+      "fin": 48.4
+    },
+    {
+      "texto": "le",
+      "inicio": 48.48,
+      "fin": 48.56
+    },
+    {
+      "texto": "pone",
+      "inicio": 48.64,
+      "fin": 48.72
+    },
+    {
+      "texto": "cara",
+      "inicio": 48.88,
+      "fin": 49.04
+    },
+    {
+      "texto": "de",
+      "inicio": 49.08,
+      "fin": 49.12
+    },
+    {
+      "texto": "culpable",
+      "inicio": 49.2,
+      "fin": 49.68
+    },
+    {
+      "texto": "y",
+      "inicio": 49.84,
+      "fin": 49.92
+    },
+    {
+      "texto": "él",
+      "inicio": 50,
+      "fin": 50.08
+    },
+    {
+      "texto": "se",
+      "inicio": 50.16,
+      "fin": 50.24
+    },
+    {
+      "texto": "la",
+      "inicio": 50.28,
+      "fin": 50.32
+    },
+    {
+      "texto": "cree.",
+      "inicio": 50.4,
+      "fin": 50.88
+    }
+  ]
+}
