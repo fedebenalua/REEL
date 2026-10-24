@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué tu perro da vueltas antes de echarse",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro da vueltas antes de echarse?", "clave": "vueltas", "hook": true },
+    { "texto": "Dicen que mira alrededor, por si hay peligro.", "clave": "peligro", "hook": true },
+    { "texto": "Eso, que se sepa, no se ha medido.", "clave": "medido", "hook": true },
+    { "texto": "Lo que sí se probó fue el suelo.", "clave": "suelo" },
+    { "texto": "Sesenta y dos perros, y dos alfombras.", "clave": "alfombras" },
+    { "texto": "En la lisa, uno de cada cinco dio la vuelta.", "clave": "cinco" },
+    { "texto": "En la de pelo largo, con bultos, más de la mitad.", "clave": "mitad" },
+    { "texto": "Casi el triple. Y solo ahí alguno escarbaba.", "clave": "triple" },
+    { "texto": "Aún así, no queda demostrado que sea la única razón.", "clave": "única" },
+    { "texto": "En lo que sí hay datos, se está haciendo la cama.", "clave": "cama" },
+    { "texto": "Envíaselo a ese amigo al que su perro da tres vueltas en el sofá y se le tumba encima.", "clave": "encima" }
+  ]
+}
