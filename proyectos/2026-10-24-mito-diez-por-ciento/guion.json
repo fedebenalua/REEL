@@ -1,0 +1,23 @@
+{
+  "titulo": "El mito del diez por ciento",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Dicen que el noventa por ciento de tu cerebro está apagado.", "clave": "apagado", "hook": true },
+    { "texto": "Si fuera verdad, podrían quitártelo y seguirías hablando y andando.", "clave": "andando", "hook": true },
+    { "texto": "Como si de tu casa solo sirviera el recibidor, y el resto estuviera vacío.", "clave": "recibidor" },
+    { "texto": "Pero mira la zona del habla.", "clave": "habla" },
+    { "texto": "Se estropea esa sola, y las palabras dejan de salir.", "clave": "palabras" },
+    { "texto": "Justo detrás está la del brazo.", "clave": "detrás" },
+    { "texto": "Se estropea, y el brazo deja de obedecerte.", "clave": "obedecerte" },
+    { "texto": "Y sale carísimo: un kilo cuatrocientos, el dos por ciento del cuerpo.", "clave": "cuatrocientos" },
+    { "texto": "Se bebe una de cada cinco calorías que quemas sin moverte.", "clave": "cinco" },
+    { "texto": "Incluso dormido, el gasto baja solo un poco.", "clave": "dormido" },
+    { "texto": "Nadie paga esa factura por tenerlo apagado.", "clave": "factura" },
+    { "texto": "En reposo no hay un noventa por ciento a oscuras: hay redes por todas partes.", "clave": "reposo" },
+    { "texto": "No entero a la vez: eso sería una crisis.", "clave": "crisis" },
+    { "texto": "Nunca se midió ese diez por ciento. Era talento, y acabó en mito.", "clave": "mito" },
+    { "texto": "Así que no te sobra cerebro.", "clave": "sobra" },
+    { "texto": "Envíaselo a ese amigo que todavía cree que le sobra cabeza.", "clave": "amigo" }
+  ]
+}
