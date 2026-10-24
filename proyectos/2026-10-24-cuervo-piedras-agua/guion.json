@@ -1,0 +1,22 @@
+{
+  "titulo": "El cuervo y el vaso",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Este cuervo quiere una comida que el pico no alcanza.", "clave": "alcanza", "hook": true },
+    { "texto": "Flota en un vaso hondo, como el hielo del fondo cuando el dedo no llega.", "clave": "hielo", "hook": true },
+    { "texto": "Mira unas piedras y no se va. ¿Para qué las quiere?", "clave": "piedras", "hook": true },
+    { "texto": "Si no llega, un pájaro picotea el cristal y se marcha.", "clave": "marcha" },
+    { "texto": "Seis cuervos de Nueva Caledonia tuvieron dos vasos delante.", "clave": "vasos" },
+    { "texto": "Uno con agua. El otro, lleno de arena.", "clave": "arena" },
+    { "texto": "Ya sabían tirar una piedra dentro de un tubo seco, para tumbar una plataforma.", "clave": "plataforma" },
+    { "texto": "El agua, no la habían probado.", "clave": "agua" },
+    { "texto": "A un lado, piedras que se hunden. Al otro, las que flotan.", "clave": "flotan" },
+    { "texto": "La comida iba sobre un corcho, pegada al agua.", "clave": "corcho" },
+    { "texto": "Tres de cada cuatro piedras fueron al agua: las que se hunden.", "clave": "cuatro" },
+    { "texto": "Con tres o cuatro, la comida sube hasta el pico.", "clave": "pico" },
+    { "texto": "Las que flotan las sueltan, y el vaso estrecho no lo eligen.", "clave": "estrecho" },
+    { "texto": "En lo fácil, se parecen a un niño de cinco a siete años.", "clave": "niño" },
+    { "texto": "Envíaselo a ese amigo que dice que un pájaro solo picotea.", "clave": "picotea" }
+  ]
+}
