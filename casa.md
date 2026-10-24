@@ -41,32 +41,32 @@ cada 6 horas.
 2. How to Unclog a Drain Without Chemicals, 2026-10-23
 3. Toilet Keeps Running? Here's the 2-Minute Fix, 2026-10-24
 4. Why Does My Shower Have Low Water Pressure?, 2026-10-24
+5. How to Remove Mold From Bathroom Caulk, 2026-10-24
 
 ## Ideas pendientes
 
-1. How to Remove Mold From Bathroom Caulk
-2. Why Is My Water Heater Making Banging Noises?
-3. How to Fix a Squeaky Door in 30 Seconds
-4. Outlet Not Working? Check This First
-5. How to Fix a Clogged Toilet With No Plunger
-6. Why Is There a Wet Spot on My Ceiling?
-7. How to Fix a Hole in the Wall
-8. Why Does My Fridge Leak Water on the Floor?
-9. How to Stop a Window From Fogging Up Inside
-10. Dishwasher Smells Bad? Fix It Fast
-11. How to Fix a Running Toilet Flapper
-12. Why Does My Circuit Breaker Keep Tripping?
-13. How to Remove Hard Water Stains From Glass
-14. How to Fix a Sagging Cabinet Door
-15. Why Is My AC Blowing Warm Air?
-16. How to Fix a Stripped Screw Hole
-17. Why Do My Pipes Freeze, and How Do I Thaw Them?
-18. How to Remove Water Rings From Wood
-19. Why Does My House Smell Like Sewage?
-20. How to Fix a Loose Toilet Seat
-21. How to Get Rid of Fruit Flies in the Kitchen
-22. Why Is My Garbage Disposal Humming and Not Spinning?
-23. How to Unclog a Kitchen Sink in 3 Steps
-24. Why Does My Washing Machine Shake So Much?
-25. How to Fix a Wobbly Chair
-26. How to Remove Carpet Stains in Minutes
+1. Why Is My Water Heater Making Banging Noises?
+2. How to Fix a Squeaky Door in 30 Seconds
+3. Outlet Not Working? Check This First
+4. How to Fix a Clogged Toilet With No Plunger
+5. Why Is There a Wet Spot on My Ceiling?
+6. How to Fix a Hole in the Wall
+7. Why Does My Fridge Leak Water on the Floor?
+8. How to Stop a Window From Fogging Up Inside
+9. Dishwasher Smells Bad? Fix It Fast
+10. How to Fix a Running Toilet Flapper
+11. Why Does My Circuit Breaker Keep Tripping?
+12. How to Remove Hard Water Stains From Glass
+13. How to Fix a Sagging Cabinet Door
+14. Why Is My AC Blowing Warm Air?
+15. How to Fix a Stripped Screw Hole
+16. Why Do My Pipes Freeze, and How Do I Thaw Them?
+17. How to Remove Water Rings From Wood
+18. Why Does My House Smell Like Sewage?
+19. How to Fix a Loose Toilet Seat
+20. How to Get Rid of Fruit Flies in the Kitchen
+21. Why Is My Garbage Disposal Humming and Not Spinning?
+22. How to Unclog a Kitchen Sink in 3 Steps
+23. Why Does My Washing Machine Shake So Much?
+24. How to Fix a Wobbly Chair
+25. How to Remove Carpet Stains in Minutes

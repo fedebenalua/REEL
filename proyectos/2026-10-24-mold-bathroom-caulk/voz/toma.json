@@ -1,0 +1,754 @@
+{
+  "firma": "acdab55ebae5",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "That",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "black",
+      "inicio": 0.32,
+      "fin": 0.56
+    },
+    {
+      "texto": "line",
+      "inicio": 0.64,
+      "fin": 0.8
+    },
+    {
+      "texto": "in",
+      "inicio": 0.84,
+      "fin": 0.88
+    },
+    {
+      "texto": "your",
+      "inicio": 0.96,
+      "fin": 1.04
+    },
+    {
+      "texto": "bathroom",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "texto": "caulk",
+      "inicio": 1.52,
+      "fin": 1.84
+    },
+    {
+      "texto": "is",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "texto": "mold.",
+      "inicio": 2.16,
+      "fin": 2.64
+    },
+    {
+      "texto": "A",
+      "inicio": 2.96,
+      "fin": 3.04
+    },
+    {
+      "texto": "wipe",
+      "inicio": 3.12,
+      "fin": 3.44
+    },
+    {
+      "texto": "cleans",
+      "inicio": 3.52,
+      "fin": 3.76
+    },
+    {
+      "texto": "the",
+      "inicio": 3.84,
+      "fin": 3.88
+    },
+    {
+      "texto": "surface.",
+      "inicio": 3.92,
+      "fin": 4.48
+    },
+    {
+      "texto": "The",
+      "inicio": 4.72,
+      "fin": 4.76
+    },
+    {
+      "texto": "black",
+      "inicio": 4.8,
+      "fin": 5.04
+    },
+    {
+      "texto": "inside",
+      "inicio": 5.12,
+      "fin": 5.6
+    },
+    {
+      "texto": "stays.",
+      "inicio": 5.68,
+      "fin": 6.4
+    },
+    {
+      "texto": "Water",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "texto": "sits",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "texto": "in",
+      "inicio": 7.2,
+      "fin": 7.28
+    },
+    {
+      "texto": "the",
+      "inicio": 7.32,
+      "fin": 7.36
+    },
+    {
+      "texto": "seam,",
+      "inicio": 7.44,
+      "fin": 7.92
+    },
+    {
+      "texto": "so",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "texto": "the",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "texto": "mold",
+      "inicio": 8.24,
+      "fin": 8.48
+    },
+    {
+      "texto": "grows",
+      "inicio": 8.56,
+      "fin": 8.8
+    },
+    {
+      "texto": "down",
+      "inicio": 8.92,
+      "fin": 9.04
+    },
+    {
+      "texto": "through",
+      "inicio": 9.12,
+      "fin": 9.28
+    },
+    {
+      "texto": "it.",
+      "inicio": 9.36,
+      "fin": 9.6
+    },
+    {
+      "texto": "Bigger",
+      "inicio": 10.08,
+      "fin": 10.24
+    },
+    {
+      "texto": "than",
+      "inicio": 10.32,
+      "fin": 10.4
+    },
+    {
+      "texto": "three",
+      "inicio": 10.48,
+      "fin": 10.56
+    },
+    {
+      "texto": "feet",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "texto": "by",
+      "inicio": 10.88,
+      "fin": 11.04
+    },
+    {
+      "texto": "three",
+      "inicio": 11.12,
+      "fin": 11.2
+    },
+    {
+      "texto": "feet?",
+      "inicio": 11.28,
+      "fin": 11.6
+    },
+    {
+      "texto": "Call",
+      "inicio": 11.84,
+      "fin": 12
+    },
+    {
+      "texto": "a",
+      "inicio": 12.04,
+      "fin": 12.08
+    },
+    {
+      "texto": "pro.",
+      "inicio": 12.16,
+      "fin": 12.48
+    },
+    {
+      "texto": "Open",
+      "inicio": 12.8,
+      "fin": 12.96
+    },
+    {
+      "texto": "a",
+      "inicio": 13.04,
+      "fin": 13.08
+    },
+    {
+      "texto": "window.",
+      "inicio": 13.12,
+      "fin": 13.52
+    },
+    {
+      "texto": "Gloves,",
+      "inicio": 14,
+      "fin": 14.56
+    },
+    {
+      "texto": "goggles,",
+      "inicio": 14.6,
+      "fin": 15.08
+    },
+    {
+      "texto": "and",
+      "inicio": 15.12,
+      "fin": 15.16
+    },
+    {
+      "texto": "an",
+      "inicio": 15.2,
+      "fin": 15.36
+    },
+    {
+      "texto": "N",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "texto": "ninety",
+      "inicio": 15.6,
+      "fin": 15.76
+    },
+    {
+      "texto": "five",
+      "inicio": 15.92,
+      "fin": 16.08
+    },
+    {
+      "texto": "mask.",
+      "inicio": 16.16,
+      "fin": 16.64
+    },
+    {
+      "texto": "Score",
+      "inicio": 17.04,
+      "fin": 17.28
+    },
+    {
+      "texto": "both",
+      "inicio": 17.44,
+      "fin": 17.6
+    },
+    {
+      "texto": "edges",
+      "inicio": 17.68,
+      "fin": 18
+    },
+    {
+      "texto": "with",
+      "inicio": 18.08,
+      "fin": 18.16
+    },
+    {
+      "texto": "a",
+      "inicio": 18.187,
+      "fin": 18.213
+    },
+    {
+      "texto": "utility",
+      "inicio": 18.24,
+      "fin": 18.72
+    },
+    {
+      "texto": "knife,",
+      "inicio": 18.8,
+      "fin": 19.08
+    },
+    {
+      "texto": "and",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "texto": "pull",
+      "inicio": 19.28,
+      "fin": 19.44
+    },
+    {
+      "texto": "the",
+      "inicio": 19.48,
+      "fin": 19.52
+    },
+    {
+      "texto": "caulk",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "texto": "out.",
+      "inicio": 19.92,
+      "fin": 20.24
+    },
+    {
+      "texto": "Scrub",
+      "inicio": 20.72,
+      "fin": 20.96
+    },
+    {
+      "texto": "the",
+      "inicio": 21,
+      "fin": 21.04
+    },
+    {
+      "texto": "gap",
+      "inicio": 21.12,
+      "fin": 21.28
+    },
+    {
+      "texto": "with",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "texto": "soapy",
+      "inicio": 21.52,
+      "fin": 21.76
+    },
+    {
+      "texto": "water,",
+      "inicio": 21.84,
+      "fin": 22.32
+    },
+    {
+      "texto": "then",
+      "inicio": 22.4,
+      "fin": 22.48
+    },
+    {
+      "texto": "wipe",
+      "inicio": 22.56,
+      "fin": 22.8
+    },
+    {
+      "texto": "with",
+      "inicio": 22.84,
+      "fin": 22.88
+    },
+    {
+      "texto": "rubbing",
+      "inicio": 22.96,
+      "fin": 23.2
+    },
+    {
+      "texto": "alcohol.",
+      "inicio": 23.28,
+      "fin": 23.96
+    },
+    {
+      "texto": "Let",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "texto": "it",
+      "inicio": 24.32,
+      "fin": 24.4
+    },
+    {
+      "texto": "dry",
+      "inicio": 24.48,
+      "fin": 24.72
+    },
+    {
+      "texto": "all",
+      "inicio": 24.96,
+      "fin": 25.12
+    },
+    {
+      "texto": "the",
+      "inicio": 25.2,
+      "fin": 25.24
+    },
+    {
+      "texto": "way.",
+      "inicio": 25.28,
+      "fin": 25.6
+    },
+    {
+      "texto": "If",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "texto": "the",
+      "inicio": 26.08,
+      "fin": 26.12
+    },
+    {
+      "texto": "wall",
+      "inicio": 26.16,
+      "fin": 26.32
+    },
+    {
+      "texto": "feels",
+      "inicio": 26.4,
+      "fin": 26.64
+    },
+    {
+      "texto": "soft,",
+      "inicio": 26.72,
+      "fin": 27.36
+    },
+    {
+      "texto": "stop.",
+      "inicio": 27.56,
+      "fin": 27.84
+    },
+    {
+      "texto": "Tape",
+      "inicio": 28.4,
+      "fin": 28.64
+    },
+    {
+      "texto": "both",
+      "inicio": 28.76,
+      "fin": 28.88
+    },
+    {
+      "texto": "sides,",
+      "inicio": 28.96,
+      "fin": 29.413
+    },
+    {
+      "texto": "and",
+      "inicio": 29.467,
+      "fin": 29.52
+    },
+    {
+      "texto": "run",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "texto": "a",
+      "inicio": 29.76,
+      "fin": 29.84
+    },
+    {
+      "texto": "thin",
+      "inicio": 29.96,
+      "fin": 30.08
+    },
+    {
+      "texto": "bead",
+      "inicio": 30.16,
+      "fin": 30.32
+    },
+    {
+      "texto": "of",
+      "inicio": 30.4,
+      "fin": 30.48
+    },
+    {
+      "texto": "mold-resistant",
+      "inicio": 30.56,
+      "fin": 31.2
+    },
+    {
+      "texto": "silicone.",
+      "inicio": 31.28,
+      "fin": 31.84
+    },
+    {
+      "texto": "Smooth",
+      "inicio": 32.32,
+      "fin": 32.56
+    },
+    {
+      "texto": "it",
+      "inicio": 32.64,
+      "fin": 32.72
+    },
+    {
+      "texto": "with",
+      "inicio": 32.76,
+      "fin": 32.8
+    },
+    {
+      "texto": "a",
+      "inicio": 32.84,
+      "fin": 32.88
+    },
+    {
+      "texto": "gloved",
+      "inicio": 32.96,
+      "fin": 33.2
+    },
+    {
+      "texto": "finger,",
+      "inicio": 33.36,
+      "fin": 33.72
+    },
+    {
+      "texto": "and",
+      "inicio": 33.76,
+      "fin": 33.84
+    },
+    {
+      "texto": "peel",
+      "inicio": 33.92,
+      "fin": 34.16
+    },
+    {
+      "texto": "the",
+      "inicio": 34.2,
+      "fin": 34.24
+    },
+    {
+      "texto": "tape.",
+      "inicio": 34.32,
+      "fin": 34.64
+    },
+    {
+      "texto": "Stay",
+      "inicio": 35.12,
+      "fin": 35.36
+    },
+    {
+      "texto": "out",
+      "inicio": 35.44,
+      "fin": 35.6
+    },
+    {
+      "texto": "until",
+      "inicio": 35.72,
+      "fin": 35.84
+    },
+    {
+      "texto": "the",
+      "inicio": 35.88,
+      "fin": 35.92
+    },
+    {
+      "texto": "time",
+      "inicio": 36,
+      "fin": 36.16
+    },
+    {
+      "texto": "on",
+      "inicio": 36.24,
+      "fin": 36.32
+    },
+    {
+      "texto": "the",
+      "inicio": 36.36,
+      "fin": 36.4
+    },
+    {
+      "texto": "tube.",
+      "inicio": 36.48,
+      "fin": 36.8
+    },
+    {
+      "texto": "Often",
+      "inicio": 37.04,
+      "fin": 37.36
+    },
+    {
+      "texto": "a",
+      "inicio": 37.4,
+      "fin": 37.44
+    },
+    {
+      "texto": "full",
+      "inicio": 37.52,
+      "fin": 37.68
+    },
+    {
+      "texto": "day.",
+      "inicio": 37.76,
+      "fin": 38.08
+    },
+    {
+      "texto": "Squeegee",
+      "inicio": 38.56,
+      "fin": 38.96
+    },
+    {
+      "texto": "the",
+      "inicio": 39,
+      "fin": 39.04
+    },
+    {
+      "texto": "glass",
+      "inicio": 39.24,
+      "fin": 39.44
+    },
+    {
+      "texto": "and",
+      "inicio": 39.52,
+      "fin": 39.6
+    },
+    {
+      "texto": "run",
+      "inicio": 39.68,
+      "fin": 39.84
+    },
+    {
+      "texto": "the",
+      "inicio": 39.88,
+      "fin": 39.92
+    },
+    {
+      "texto": "fan,",
+      "inicio": 40,
+      "fin": 40.36
+    },
+    {
+      "texto": "or",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "texto": "it",
+      "inicio": 40.52,
+      "fin": 40.56
+    },
+    {
+      "texto": "comes",
+      "inicio": 40.64,
+      "fin": 40.88
+    },
+    {
+      "texto": "right",
+      "inicio": 40.96,
+      "fin": 41.12
+    },
+    {
+      "texto": "back.",
+      "inicio": 41.2,
+      "fin": 41.52
+    },
+    {
+      "texto": "Want",
+      "inicio": 42.08,
+      "fin": 42.24
+    },
+    {
+      "texto": "the",
+      "inicio": 42.32,
+      "fin": 42.4
+    },
+    {
+      "texto": "full",
+      "inicio": 42.48,
+      "fin": 42.56
+    },
+    {
+      "texto": "step-by-step",
+      "inicio": 42.64,
+      "fin": 43.28
+    },
+    {
+      "texto": "for",
+      "inicio": 43.36,
+      "fin": 43.44
+    },
+    {
+      "texto": "any",
+      "inicio": 43.52,
+      "fin": 43.6
+    },
+    {
+      "texto": "problem",
+      "inicio": 43.68,
+      "fin": 44
+    },
+    {
+      "texto": "at",
+      "inicio": 44.04,
+      "fin": 44.08
+    },
+    {
+      "texto": "home?",
+      "inicio": 44.16,
+      "fin": 44.72
+    },
+    {
+      "texto": "Our",
+      "inicio": 44.84,
+      "fin": 44.96
+    },
+    {
+      "texto": "tool",
+      "inicio": 45.08,
+      "fin": 45.2
+    },
+    {
+      "texto": "is",
+      "inicio": 45.28,
+      "fin": 45.36
+    },
+    {
+      "texto": "in",
+      "inicio": 45.4,
+      "fin": 45.44
+    },
+    {
+      "texto": "the",
+      "inicio": 45.48,
+      "fin": 45.52
+    },
+    {
+      "texto": "link",
+      "inicio": 45.6,
+      "fin": 45.76
+    },
+    {
+      "texto": "in",
+      "inicio": 45.84,
+      "fin": 45.92
+    },
+    {
+      "texto": "bio.",
+      "inicio": 46,
+      "fin": 46.56
+    }
+  ]
+}

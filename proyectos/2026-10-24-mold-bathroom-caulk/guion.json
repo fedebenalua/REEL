@@ -1,0 +1,20 @@
+{
+  "titulo": "How to remove mold from bathroom caulk",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "That black line in your bathroom caulk is mold.", "clave": "mold", "hook": true },
+    { "texto": "A wipe cleans the surface. The black inside stays.", "clave": "inside", "hook": true },
+    { "texto": "Water sits in the seam, so the mold grows down through it.", "clave": "seam" },
+    { "texto": "Bigger than three feet by three feet? Call a pro.", "clave": "pro" },
+    { "texto": "Open a window. Gloves, goggles, and an N95 mask.", "clave": "mask", "dicho": "Open a window. Gloves, goggles, and an N ninety five mask." },
+    { "texto": "Score both edges with a utility knife, and pull the caulk out.", "clave": "pull" },
+    { "texto": "Scrub the gap with soapy water, then wipe with rubbing alcohol.", "clave": "alcohol" },
+    { "texto": "Let it dry all the way. If the wall feels soft, stop.", "clave": "soft" },
+    { "texto": "Tape both sides, and run a thin bead of mold-resistant silicone.", "clave": "silicone" },
+    { "texto": "Smooth it with a gloved finger, and peel the tape.", "clave": "finger" },
+    { "texto": "Stay out until the time on the tube. Often a full day.", "clave": "day" },
+    { "texto": "Squeegee the glass and run the fan, or it comes right back.", "clave": "fan" },
+    { "texto": "Want the full step-by-step for any problem at home? Our tool is in the link in bio.", "clave": "bio" }
+  ]
+}
