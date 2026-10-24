@@ -1,0 +1,829 @@
+{
+  "firma": "d1538d24b421",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Este",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "cuervo",
+      "inicio": 0.28,
+      "fin": 0.64
+    },
+    {
+      "texto": "quiere",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "texto": "una",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "comida",
+      "inicio": 1.2,
+      "fin": 1.52
+    },
+    {
+      "texto": "que",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "texto": "el",
+      "inicio": 1.72,
+      "fin": 1.76
+    },
+    {
+      "texto": "pico",
+      "inicio": 1.92,
+      "fin": 2.16
+    },
+    {
+      "texto": "no",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "texto": "alcanza.",
+      "inicio": 2.4,
+      "fin": 3.24
+    },
+    {
+      "texto": "Flota",
+      "inicio": 3.52,
+      "fin": 3.76
+    },
+    {
+      "texto": "en",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "texto": "un",
+      "inicio": 3.96,
+      "fin": 4
+    },
+    {
+      "texto": "vaso",
+      "inicio": 4.08,
+      "fin": 4.4
+    },
+    {
+      "texto": "hondo,",
+      "inicio": 4.44,
+      "fin": 5.04
+    },
+    {
+      "texto": "como",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "texto": "el",
+      "inicio": 5.24,
+      "fin": 5.28
+    },
+    {
+      "texto": "hielo",
+      "inicio": 5.36,
+      "fin": 5.6
+    },
+    {
+      "texto": "del",
+      "inicio": 5.68,
+      "fin": 5.76
+    },
+    {
+      "texto": "fondo",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "texto": "cuando",
+      "inicio": 6.24,
+      "fin": 6.48
+    },
+    {
+      "texto": "el",
+      "inicio": 6.56,
+      "fin": 6.6
+    },
+    {
+      "texto": "dedo",
+      "inicio": 6.64,
+      "fin": 6.88
+    },
+    {
+      "texto": "no",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "llega.",
+      "inicio": 7.093,
+      "fin": 7.68
+    },
+    {
+      "texto": "Mira",
+      "inicio": 8,
+      "fin": 8.24
+    },
+    {
+      "texto": "unas",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "texto": "piedras",
+      "inicio": 8.48,
+      "fin": 8.96
+    },
+    {
+      "texto": "y",
+      "inicio": 9.12,
+      "fin": 9.16
+    },
+    {
+      "texto": "no",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "se",
+      "inicio": 9.36,
+      "fin": 9.44
+    },
+    {
+      "texto": "va.",
+      "inicio": 9.52,
+      "fin": 9.92
+    },
+    {
+      "texto": "¿Para",
+      "inicio": 10.16,
+      "fin": 10.32
+    },
+    {
+      "texto": "qué",
+      "inicio": 10.36,
+      "fin": 10.4
+    },
+    {
+      "texto": "las",
+      "inicio": 10.48,
+      "fin": 10.64
+    },
+    {
+      "texto": "quiere?",
+      "inicio": 10.68,
+      "fin": 11.36
+    },
+    {
+      "texto": "Si",
+      "inicio": 11.4,
+      "fin": 11.44
+    },
+    {
+      "texto": "no",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "texto": "llega,",
+      "inicio": 11.68,
+      "fin": 12.24
+    },
+    {
+      "texto": "un",
+      "inicio": 12.32,
+      "fin": 12.4
+    },
+    {
+      "texto": "pájaro",
+      "inicio": 12.48,
+      "fin": 12.8
+    },
+    {
+      "texto": "picotea",
+      "inicio": 12.92,
+      "fin": 13.28
+    },
+    {
+      "texto": "el",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "texto": "cristal",
+      "inicio": 13.44,
+      "fin": 13.84
+    },
+    {
+      "texto": "y",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "texto": "se",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "texto": "marcha.",
+      "inicio": 14.28,
+      "fin": 15.28
+    },
+    {
+      "texto": "Seis",
+      "inicio": 15.92,
+      "fin": 16.08
+    },
+    {
+      "texto": "cuervos",
+      "inicio": 16.16,
+      "fin": 16.48
+    },
+    {
+      "texto": "de",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "texto": "Nueva",
+      "inicio": 16.64,
+      "fin": 16.8
+    },
+    {
+      "texto": "Caledonia",
+      "inicio": 16.88,
+      "fin": 17.36
+    },
+    {
+      "texto": "tuvieron",
+      "inicio": 17.44,
+      "fin": 17.92
+    },
+    {
+      "texto": "dos",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "texto": "vasos",
+      "inicio": 18.16,
+      "fin": 18.4
+    },
+    {
+      "texto": "delante.",
+      "inicio": 18.48,
+      "fin": 19.2
+    },
+    {
+      "texto": "Uno",
+      "inicio": 19.44,
+      "fin": 19.6
+    },
+    {
+      "texto": "con",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "texto": "agua.",
+      "inicio": 19.92,
+      "fin": 20.24
+    },
+    {
+      "texto": "El",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "texto": "otro,",
+      "inicio": 20.8,
+      "fin": 21.2
+    },
+    {
+      "texto": "lleno",
+      "inicio": 21.36,
+      "fin": 21.6
+    },
+    {
+      "texto": "de",
+      "inicio": 21.64,
+      "fin": 21.68
+    },
+    {
+      "texto": "arena.",
+      "inicio": 21.84,
+      "fin": 22.08
+    },
+    {
+      "texto": "Ya",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "texto": "sabían",
+      "inicio": 22.84,
+      "fin": 23.12
+    },
+    {
+      "texto": "tirar",
+      "inicio": 23.16,
+      "fin": 23.36
+    },
+    {
+      "texto": "una",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "texto": "piedra",
+      "inicio": 23.6,
+      "fin": 23.92
+    },
+    {
+      "texto": "dentro",
+      "inicio": 24.04,
+      "fin": 24.24
+    },
+    {
+      "texto": "de",
+      "inicio": 24.28,
+      "fin": 24.32
+    },
+    {
+      "texto": "un",
+      "inicio": 24.4,
+      "fin": 24.44
+    },
+    {
+      "texto": "tubo",
+      "inicio": 24.48,
+      "fin": 24.72
+    },
+    {
+      "texto": "seco,",
+      "inicio": 24.8,
+      "fin": 25.28
+    },
+    {
+      "texto": "para",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "texto": "tumbar",
+      "inicio": 25.48,
+      "fin": 25.76
+    },
+    {
+      "texto": "una",
+      "inicio": 25.84,
+      "fin": 25.92
+    },
+    {
+      "texto": "plataforma.",
+      "inicio": 26,
+      "fin": 26.64
+    },
+    {
+      "texto": "El",
+      "inicio": 27.12,
+      "fin": 27.2
+    },
+    {
+      "texto": "agua,",
+      "inicio": 27.28,
+      "fin": 27.68
+    },
+    {
+      "texto": "no",
+      "inicio": 27.84,
+      "fin": 27.92
+    },
+    {
+      "texto": "la",
+      "inicio": 28,
+      "fin": 28.08
+    },
+    {
+      "texto": "habían",
+      "inicio": 28.12,
+      "fin": 28.32
+    },
+    {
+      "texto": "probado.",
+      "inicio": 28.4,
+      "fin": 28.88
+    },
+    {
+      "texto": "A",
+      "inicio": 29.52,
+      "fin": 29.56
+    },
+    {
+      "texto": "un",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "texto": "lado,",
+      "inicio": 29.72,
+      "fin": 30.16
+    },
+    {
+      "texto": "piedras",
+      "inicio": 30.2,
+      "fin": 30.56
+    },
+    {
+      "texto": "que",
+      "inicio": 30.6,
+      "fin": 30.64
+    },
+    {
+      "texto": "se",
+      "inicio": 30.72,
+      "fin": 30.8
+    },
+    {
+      "texto": "hunden.",
+      "inicio": 30.88,
+      "fin": 31.28
+    },
+    {
+      "texto": "Al",
+      "inicio": 31.52,
+      "fin": 31.68
+    },
+    {
+      "texto": "otro,",
+      "inicio": 31.76,
+      "fin": 32.16
+    },
+    {
+      "texto": "las",
+      "inicio": 32.24,
+      "fin": 32.32
+    },
+    {
+      "texto": "que",
+      "inicio": 32.4,
+      "fin": 32.44
+    },
+    {
+      "texto": "flotan.",
+      "inicio": 32.48,
+      "fin": 32.96
+    },
+    {
+      "texto": "La",
+      "inicio": 33.52,
+      "fin": 33.6
+    },
+    {
+      "texto": "comida",
+      "inicio": 33.68,
+      "fin": 34
+    },
+    {
+      "texto": "iba",
+      "inicio": 34.08,
+      "fin": 34.16
+    },
+    {
+      "texto": "sobre",
+      "inicio": 34.24,
+      "fin": 34.48
+    },
+    {
+      "texto": "un",
+      "inicio": 34.56,
+      "fin": 34.64
+    },
+    {
+      "texto": "corcho,",
+      "inicio": 34.72,
+      "fin": 35.28
+    },
+    {
+      "texto": "pegada",
+      "inicio": 35.36,
+      "fin": 35.68
+    },
+    {
+      "texto": "al",
+      "inicio": 35.76,
+      "fin": 35.84
+    },
+    {
+      "texto": "agua.",
+      "inicio": 36,
+      "fin": 36.48
+    },
+    {
+      "texto": "Tres",
+      "inicio": 36.8,
+      "fin": 37.04
+    },
+    {
+      "texto": "de",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "cada",
+      "inicio": 37.24,
+      "fin": 37.36
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 37.52,
+      "fin": 37.76
+    },
+    {
+      "texto": "piedras",
+      "inicio": 37.84,
+      "fin": 38.24
+    },
+    {
+      "texto": "fueron",
+      "inicio": 38.32,
+      "fin": 38.64
+    },
+    {
+      "texto": "al",
+      "inicio": 38.68,
+      "fin": 38.72
+    },
+    {
+      "texto": "agua:",
+      "inicio": 38.8,
+      "fin": 39.36
+    },
+    {
+      "texto": "las",
+      "inicio": 39.44,
+      "fin": 39.52
+    },
+    {
+      "texto": "que",
+      "inicio": 39.56,
+      "fin": 39.6
+    },
+    {
+      "texto": "se",
+      "inicio": 39.68,
+      "fin": 39.76
+    },
+    {
+      "texto": "hunden.",
+      "inicio": 39.84,
+      "fin": 40.44
+    },
+    {
+      "texto": "Con",
+      "inicio": 40.72,
+      "fin": 40.8
+    },
+    {
+      "texto": "tres",
+      "inicio": 40.88,
+      "fin": 41.04
+    },
+    {
+      "texto": "o",
+      "inicio": 41.12,
+      "fin": 41.16
+    },
+    {
+      "texto": "cuatro,",
+      "inicio": 41.2,
+      "fin": 41.68
+    },
+    {
+      "texto": "la",
+      "inicio": 41.72,
+      "fin": 41.76
+    },
+    {
+      "texto": "comida",
+      "inicio": 41.84,
+      "fin": 42.16
+    },
+    {
+      "texto": "sube",
+      "inicio": 42.32,
+      "fin": 42.56
+    },
+    {
+      "texto": "hasta",
+      "inicio": 42.6,
+      "fin": 42.8
+    },
+    {
+      "texto": "el",
+      "inicio": 42.84,
+      "fin": 42.88
+    },
+    {
+      "texto": "pico.",
+      "inicio": 42.96,
+      "fin": 43.56
+    },
+    {
+      "texto": "Las",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "texto": "que",
+      "inicio": 44,
+      "fin": 44.08
+    },
+    {
+      "texto": "flotan",
+      "inicio": 44.16,
+      "fin": 44.56
+    },
+    {
+      "texto": "las",
+      "inicio": 44.64,
+      "fin": 44.72
+    },
+    {
+      "texto": "sueltan,",
+      "inicio": 44.8,
+      "fin": 45.52
+    },
+    {
+      "texto": "y",
+      "inicio": 45.56,
+      "fin": 45.6
+    },
+    {
+      "texto": "el",
+      "inicio": 45.64,
+      "fin": 45.68
+    },
+    {
+      "texto": "vaso",
+      "inicio": 45.76,
+      "fin": 45.92
+    },
+    {
+      "texto": "estrecho",
+      "inicio": 46.08,
+      "fin": 46.48
+    },
+    {
+      "texto": "no",
+      "inicio": 46.64,
+      "fin": 46.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 46.8,
+      "fin": 46.88
+    },
+    {
+      "texto": "eligen.",
+      "inicio": 46.92,
+      "fin": 47.68
+    },
+    {
+      "texto": "En",
+      "inicio": 48,
+      "fin": 48.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 48.12,
+      "fin": 48.16
+    },
+    {
+      "texto": "fácil,",
+      "inicio": 48.24,
+      "fin": 48.88
+    },
+    {
+      "texto": "se",
+      "inicio": 48.96,
+      "fin": 49.04
+    },
+    {
+      "texto": "parecen",
+      "inicio": 49.12,
+      "fin": 49.36
+    },
+    {
+      "texto": "a",
+      "inicio": 49.4,
+      "fin": 49.44
+    },
+    {
+      "texto": "un",
+      "inicio": 49.48,
+      "fin": 49.52
+    },
+    {
+      "texto": "niño",
+      "inicio": 49.6,
+      "fin": 49.84
+    },
+    {
+      "texto": "de",
+      "inicio": 49.92,
+      "fin": 50
+    },
+    {
+      "texto": "cinco",
+      "inicio": 50.08,
+      "fin": 50.4
+    },
+    {
+      "texto": "a",
+      "inicio": 50.48,
+      "fin": 50.56
+    },
+    {
+      "texto": "siete",
+      "inicio": 50.64,
+      "fin": 50.88
+    },
+    {
+      "texto": "años.",
+      "inicio": 50.96,
+      "fin": 51.64
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 51.92,
+      "fin": 52.48
+    },
+    {
+      "texto": "a",
+      "inicio": 52.52,
+      "fin": 52.56
+    },
+    {
+      "texto": "ese",
+      "inicio": 52.64,
+      "fin": 52.72
+    },
+    {
+      "texto": "amigo",
+      "inicio": 52.8,
+      "fin": 53.04
+    },
+    {
+      "texto": "que",
+      "inicio": 53.12,
+      "fin": 53.2
+    },
+    {
+      "texto": "dice",
+      "inicio": 53.32,
+      "fin": 53.44
+    },
+    {
+      "texto": "que",
+      "inicio": 53.52,
+      "fin": 53.6
+    },
+    {
+      "texto": "un",
+      "inicio": 53.68,
+      "fin": 53.76
+    },
+    {
+      "texto": "pájaro",
+      "inicio": 53.84,
+      "fin": 54.24
+    },
+    {
+      "texto": "solo",
+      "inicio": 54.32,
+      "fin": 54.56
+    },
+    {
+      "texto": "picotea.",
+      "inicio": 54.64,
+      "fin": 55.44
+    }
+  ]
+}
