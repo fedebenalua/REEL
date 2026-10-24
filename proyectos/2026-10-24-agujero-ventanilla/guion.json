@@ -1,0 +1,65 @@
+{
+  "titulo": "Por qué los aviones tienen un agujero en la ventanilla",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué los aviones tienen un pequeño agujero en las ventanillas?",
+      "clave": "agujero",
+      "hook": true
+    },
+    {
+      "texto": "Parece un defecto. No lo es.",
+      "clave": "defecto",
+      "hook": true
+    },
+    {
+      "texto": "Son tres láminas de plástico, una detrás de otra.",
+      "clave": "láminas"
+    },
+    {
+      "texto": "La de dentro es como el protector del móvil: la tocas tú, para no rayar la de verdad.",
+      "clave": "protector"
+    },
+    {
+      "texto": "El agujero está en la del medio, abajo.",
+      "clave": "medio"
+    },
+    {
+      "texto": "En vuelo, dentro empuja mucho más que fuera.",
+      "clave": "empuja"
+    },
+    {
+      "texto": "El aire pasa por ese agujero y empuja solo la lámina de fuera.",
+      "clave": "fuera"
+    },
+    {
+      "texto": "La del medio descansa: es la de reserva.",
+      "clave": "reserva"
+    },
+    {
+      "texto": "Si la de fuera se rompe, la del medio aguanta ella sola.",
+      "clave": "rompe"
+    },
+    {
+      "texto": "Se escapa un hilo de aire, tan poco que la cabina lo repone.",
+      "clave": "hilo"
+    },
+    {
+      "texto": "Y saca el vaho, como el espejo del baño si le dejas una rendija.",
+      "clave": "vaho"
+    },
+    {
+      "texto": "Por eso el hielo, cuando sale, se queda en un anillo en el agujero.",
+      "clave": "anillo"
+    },
+    {
+      "texto": "Así que no está roto: está ahí para que veas el cielo.",
+      "clave": "cielo"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que siempre pide ventanilla.",
+      "clave": "ventanilla"
+    }
+  ]
+}
