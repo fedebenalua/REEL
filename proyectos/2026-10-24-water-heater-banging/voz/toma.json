@@ -1,0 +1,799 @@
+{
+  "firma": "534fa6f73457",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Why",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "is",
+      "inicio": 0.32,
+      "fin": 0.4
+    },
+    {
+      "texto": "your",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "water",
+      "inicio": 0.64,
+      "fin": 0.88
+    },
+    {
+      "texto": "heater",
+      "inicio": 0.96,
+      "fin": 1.2
+    },
+    {
+      "texto": "banging?",
+      "inicio": 1.28,
+      "fin": 2.16
+    },
+    {
+      "texto": "If",
+      "inicio": 2.2,
+      "fin": 2.24
+    },
+    {
+      "texto": "it",
+      "inicio": 2.32,
+      "fin": 2.4
+    },
+    {
+      "texto": "pops",
+      "inicio": 2.48,
+      "fin": 2.72
+    },
+    {
+      "texto": "while",
+      "inicio": 2.8,
+      "fin": 2.88
+    },
+    {
+      "texto": "it",
+      "inicio": 2.96,
+      "fin": 3.04
+    },
+    {
+      "texto": "heats,",
+      "inicio": 3.12,
+      "fin": 3.68
+    },
+    {
+      "texto": "chalk",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "texto": "is",
+      "inicio": 4.08,
+      "fin": 4.16
+    },
+    {
+      "texto": "trapping",
+      "inicio": 4.2,
+      "fin": 4.48
+    },
+    {
+      "texto": "steam",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "texto": "on",
+      "inicio": 4.92,
+      "fin": 4.96
+    },
+    {
+      "texto": "the",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "texto": "bottom.",
+      "inicio": 5.28,
+      "fin": 6
+    },
+    {
+      "texto": "Shut",
+      "inicio": 6.08,
+      "fin": 6.24
+    },
+    {
+      "texto": "a",
+      "inicio": 6.28,
+      "fin": 6.32
+    },
+    {
+      "texto": "faucet",
+      "inicio": 6.4,
+      "fin": 6.8
+    },
+    {
+      "texto": "and",
+      "inicio": 6.84,
+      "fin": 6.88
+    },
+    {
+      "texto": "it",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "bangs",
+      "inicio": 7.12,
+      "fin": 7.36
+    },
+    {
+      "texto": "right",
+      "inicio": 7.48,
+      "fin": 7.6
+    },
+    {
+      "texto": "then?",
+      "inicio": 7.72,
+      "fin": 8.32
+    },
+    {
+      "texto": "That's",
+      "inicio": 8.36,
+      "fin": 8.48
+    },
+    {
+      "texto": "the",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "texto": "pipes.",
+      "inicio": 8.84,
+      "fin": 9.36
+    },
+    {
+      "texto": "Call",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "texto": "a",
+      "inicio": 9.6,
+      "fin": 9.64
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 9.68,
+      "fin": 10.4
+    },
+    {
+      "texto": "If",
+      "inicio": 10.44,
+      "fin": 10.48
+    },
+    {
+      "texto": "it's",
+      "inicio": 10.56,
+      "fin": 10.72
+    },
+    {
+      "texto": "gas,",
+      "inicio": 10.92,
+      "fin": 11.36
+    },
+    {
+      "texto": "stop",
+      "inicio": 11.44,
+      "fin": 11.76
+    },
+    {
+      "texto": "and",
+      "inicio": 11.84,
+      "fin": 12
+    },
+    {
+      "texto": "call",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "texto": "a",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 12.36,
+      "fin": 13.04
+    },
+    {
+      "texto": "Electric?",
+      "inicio": 13.12,
+      "fin": 13.92
+    },
+    {
+      "texto": "Flip",
+      "inicio": 14.04,
+      "fin": 14.16
+    },
+    {
+      "texto": "the",
+      "inicio": 14.2,
+      "fin": 14.24
+    },
+    {
+      "texto": "breaker",
+      "inicio": 14.32,
+      "fin": 14.64
+    },
+    {
+      "texto": "off.",
+      "inicio": 14.72,
+      "fin": 15.28
+    },
+    {
+      "texto": "Shut",
+      "inicio": 15.32,
+      "fin": 15.44
+    },
+    {
+      "texto": "the",
+      "inicio": 15.52,
+      "fin": 15.6
+    },
+    {
+      "texto": "cold",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "valve",
+      "inicio": 15.92,
+      "fin": 16.16
+    },
+    {
+      "texto": "on",
+      "inicio": 16.24,
+      "fin": 16.32
+    },
+    {
+      "texto": "the",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "texto": "inlet",
+      "inicio": 16.48,
+      "fin": 16.72
+    },
+    {
+      "texto": "pipe.",
+      "inicio": 16.8,
+      "fin": 17.44
+    },
+    {
+      "texto": "Open",
+      "inicio": 17.56,
+      "fin": 17.68
+    },
+    {
+      "texto": "a",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "texto": "hot",
+      "inicio": 17.96,
+      "fin": 18.08
+    },
+    {
+      "texto": "faucet",
+      "inicio": 18.12,
+      "fin": 18.4
+    },
+    {
+      "texto": "upstairs,",
+      "inicio": 18.48,
+      "fin": 19.093
+    },
+    {
+      "texto": "and",
+      "inicio": 19.147,
+      "fin": 19.2
+    },
+    {
+      "texto": "leave",
+      "inicio": 19.28,
+      "fin": 19.36
+    },
+    {
+      "texto": "it",
+      "inicio": 19.44,
+      "fin": 19.52
+    },
+    {
+      "texto": "running.",
+      "inicio": 19.68,
+      "fin": 20.24
+    },
+    {
+      "texto": "Now",
+      "inicio": 20.36,
+      "fin": 20.48
+    },
+    {
+      "texto": "wait",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "texto": "until",
+      "inicio": 20.72,
+      "fin": 20.96
+    },
+    {
+      "texto": "the",
+      "inicio": 21,
+      "fin": 21.04
+    },
+    {
+      "texto": "tank",
+      "inicio": 21.12,
+      "fin": 21.36
+    },
+    {
+      "texto": "is",
+      "inicio": 21.44,
+      "fin": 21.52
+    },
+    {
+      "texto": "cool.",
+      "inicio": 21.88,
+      "fin": 22.267
+    },
+    {
+      "texto": "Hose",
+      "inicio": 22.293,
+      "fin": 22.48
+    },
+    {
+      "texto": "on",
+      "inicio": 22.52,
+      "fin": 22.56
+    },
+    {
+      "texto": "the",
+      "inicio": 22.64,
+      "fin": 22.72
+    },
+    {
+      "texto": "drain,",
+      "inicio": 22.8,
+      "fin": 23.28
+    },
+    {
+      "texto": "into",
+      "inicio": 23.4,
+      "fin": 23.52
+    },
+    {
+      "texto": "a",
+      "inicio": 23.56,
+      "fin": 23.6
+    },
+    {
+      "texto": "tub.",
+      "inicio": 23.68,
+      "fin": 24.4
+    },
+    {
+      "texto": "Open",
+      "inicio": 24.52,
+      "fin": 24.64
+    },
+    {
+      "texto": "the",
+      "inicio": 24.68,
+      "fin": 24.72
+    },
+    {
+      "texto": "valve.",
+      "inicio": 24.8,
+      "fin": 25.52
+    },
+    {
+      "texto": "Crack",
+      "inicio": 25.56,
+      "fin": 25.84
+    },
+    {
+      "texto": "the",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "texto": "cold",
+      "inicio": 26.08,
+      "fin": 26.32
+    },
+    {
+      "texto": "valve.",
+      "inicio": 26.4,
+      "fin": 27.04
+    },
+    {
+      "texto": "Blast",
+      "inicio": 27.08,
+      "fin": 27.44
+    },
+    {
+      "texto": "it",
+      "inicio": 27.52,
+      "fin": 27.6
+    },
+    {
+      "texto": "until",
+      "inicio": 27.72,
+      "fin": 27.84
+    },
+    {
+      "texto": "the",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "texto": "water",
+      "inicio": 28.16,
+      "fin": 28.32
+    },
+    {
+      "texto": "runs",
+      "inicio": 28.48,
+      "fin": 28.64
+    },
+    {
+      "texto": "clear.",
+      "inicio": 29,
+      "fin": 29.493
+    },
+    {
+      "texto": "Then",
+      "inicio": 29.627,
+      "fin": 29.76
+    },
+    {
+      "texto": "close",
+      "inicio": 29.84,
+      "fin": 30.08
+    },
+    {
+      "texto": "the",
+      "inicio": 30.12,
+      "fin": 30.16
+    },
+    {
+      "texto": "drain.",
+      "inicio": 30.24,
+      "fin": 30.88
+    },
+    {
+      "texto": "Open",
+      "inicio": 31,
+      "fin": 31.12
+    },
+    {
+      "texto": "that",
+      "inicio": 31.24,
+      "fin": 31.36
+    },
+    {
+      "texto": "cold",
+      "inicio": 31.48,
+      "fin": 31.6
+    },
+    {
+      "texto": "valve",
+      "inicio": 31.68,
+      "fin": 32.08
+    },
+    {
+      "texto": "all",
+      "inicio": 32.2,
+      "fin": 32.32
+    },
+    {
+      "texto": "the",
+      "inicio": 32.36,
+      "fin": 32.4
+    },
+    {
+      "texto": "way.",
+      "inicio": 32.48,
+      "fin": 33.2
+    },
+    {
+      "texto": "Upstairs,",
+      "inicio": 33.28,
+      "fin": 33.84
+    },
+    {
+      "texto": "the",
+      "inicio": 33.92,
+      "fin": 34
+    },
+    {
+      "texto": "faucet",
+      "inicio": 34.08,
+      "fin": 34.4
+    },
+    {
+      "texto": "stops",
+      "inicio": 34.56,
+      "fin": 34.72
+    },
+    {
+      "texto": "spitting",
+      "inicio": 34.8,
+      "fin": 35.12
+    },
+    {
+      "texto": "and",
+      "inicio": 35.2,
+      "fin": 35.28
+    },
+    {
+      "texto": "runs",
+      "inicio": 35.4,
+      "fin": 35.52
+    },
+    {
+      "texto": "steady.",
+      "inicio": 35.6,
+      "fin": 36.28
+    },
+    {
+      "texto": "Only",
+      "inicio": 36.32,
+      "fin": 36.64
+    },
+    {
+      "texto": "then",
+      "inicio": 36.72,
+      "fin": 36.96
+    },
+    {
+      "texto": "do",
+      "inicio": 37,
+      "fin": 37.04
+    },
+    {
+      "texto": "you",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "flip",
+      "inicio": 37.28,
+      "fin": 37.36
+    },
+    {
+      "texto": "the",
+      "inicio": 37.44,
+      "fin": 37.52
+    },
+    {
+      "texto": "breaker",
+      "inicio": 37.68,
+      "fin": 37.84
+    },
+    {
+      "texto": "back",
+      "inicio": 37.96,
+      "fin": 38.08
+    },
+    {
+      "texto": "on.",
+      "inicio": 38.16,
+      "fin": 38.68
+    },
+    {
+      "texto": "Once",
+      "inicio": 38.72,
+      "fin": 38.88
+    },
+    {
+      "texto": "a",
+      "inicio": 38.96,
+      "fin": 39.04
+    },
+    {
+      "texto": "year.",
+      "inicio": 39.36,
+      "fin": 39.76
+    },
+    {
+      "texto": "Hard",
+      "inicio": 39.84,
+      "fin": 39.92
+    },
+    {
+      "texto": "water,",
+      "inicio": 40,
+      "fin": 40.52
+    },
+    {
+      "texto": "every",
+      "inicio": 40.56,
+      "fin": 40.8
+    },
+    {
+      "texto": "six",
+      "inicio": 40.92,
+      "fin": 41.04
+    },
+    {
+      "texto": "months.",
+      "inicio": 41.36,
+      "fin": 41.76
+    },
+    {
+      "texto": "Skip",
+      "inicio": 41.88,
+      "fin": 42
+    },
+    {
+      "texto": "it,",
+      "inicio": 42.08,
+      "fin": 42.347
+    },
+    {
+      "texto": "and",
+      "inicio": 42.373,
+      "fin": 42.4
+    },
+    {
+      "texto": "the",
+      "inicio": 42.48,
+      "fin": 42.56
+    },
+    {
+      "texto": "tank",
+      "inicio": 42.68,
+      "fin": 42.8
+    },
+    {
+      "texto": "cooks",
+      "inicio": 42.84,
+      "fin": 43.04
+    },
+    {
+      "texto": "itself.",
+      "inicio": 43.12,
+      "fin": 44.027
+    },
+    {
+      "texto": "Still",
+      "inicio": 44.133,
+      "fin": 44.24
+    },
+    {
+      "texto": "banging,",
+      "inicio": 44.28,
+      "fin": 44.933
+    },
+    {
+      "texto": "a",
+      "inicio": 44.987,
+      "fin": 45.04
+    },
+    {
+      "texto": "leak,",
+      "inicio": 45.08,
+      "fin": 45.6
+    },
+    {
+      "texto": "or",
+      "inicio": 45.68,
+      "fin": 45.76
+    },
+    {
+      "texto": "eight",
+      "inicio": 45.84,
+      "fin": 45.92
+    },
+    {
+      "texto": "years",
+      "inicio": 46,
+      "fin": 46.16
+    },
+    {
+      "texto": "old?",
+      "inicio": 46.24,
+      "fin": 46.933
+    },
+    {
+      "texto": "Call",
+      "inicio": 46.987,
+      "fin": 47.04
+    },
+    {
+      "texto": "a",
+      "inicio": 47.12,
+      "fin": 47.2
+    },
+    {
+      "texto": "pro.",
+      "inicio": 47.56,
+      "fin": 47.96
+    },
+    {
+      "texto": "Send",
+      "inicio": 48,
+      "fin": 48.16
+    },
+    {
+      "texto": "this",
+      "inicio": 48.24,
+      "fin": 48.32
+    },
+    {
+      "texto": "to",
+      "inicio": 48.36,
+      "fin": 48.4
+    },
+    {
+      "texto": "that",
+      "inicio": 48.48,
+      "fin": 48.64
+    },
+    {
+      "texto": "friend",
+      "inicio": 48.76,
+      "fin": 48.88
+    },
+    {
+      "texto": "whose",
+      "inicio": 48.96,
+      "fin": 49.2
+    },
+    {
+      "texto": "water",
+      "inicio": 49.32,
+      "fin": 49.44
+    },
+    {
+      "texto": "heater",
+      "inicio": 49.52,
+      "fin": 49.76
+    },
+    {
+      "texto": "sounds",
+      "inicio": 49.88,
+      "fin": 50
+    },
+    {
+      "texto": "like",
+      "inicio": 50.08,
+      "fin": 50.16
+    },
+    {
+      "texto": "a",
+      "inicio": 50.32,
+      "fin": 50.347
+    },
+    {
+      "texto": "kettle.",
+      "inicio": 50.373,
+      "fin": 50.88
+    }
+  ]
+}

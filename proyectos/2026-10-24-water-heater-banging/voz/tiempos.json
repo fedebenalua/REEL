@@ -1,0 +1,1212 @@
+{
+  "firma": "534fa6f73457",
+  "duracion": 51.68,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Why is your water heater banging?",
+      "clave": "banging",
+      "inicio": 0,
+      "fin": 2.16
+    },
+    {
+      "n": 2,
+      "texto": "If it pops while it heats, chalk is trapping steam on the bottom.",
+      "clave": "steam",
+      "inicio": 2.2,
+      "fin": 6
+    },
+    {
+      "n": 3,
+      "texto": "Shut a faucet and it bangs right then? That's the pipes. Call a plumber.",
+      "clave": "pipes",
+      "inicio": 6.08,
+      "fin": 10.4
+    },
+    {
+      "n": 4,
+      "texto": "If it's gas, stop and call a plumber. Electric? Flip the breaker off.",
+      "clave": "gas",
+      "inicio": 10.44,
+      "fin": 15.28
+    },
+    {
+      "n": 5,
+      "texto": "Shut the cold valve on the inlet pipe.",
+      "clave": "valve",
+      "inicio": 15.32,
+      "fin": 17.44
+    },
+    {
+      "n": 6,
+      "texto": "Open a hot faucet upstairs, and leave it running.",
+      "clave": "upstairs",
+      "inicio": 17.56,
+      "fin": 20.24
+    },
+    {
+      "n": 7,
+      "texto": "Now wait until the tank is cool.",
+      "clave": "cool",
+      "inicio": 20.36,
+      "fin": 22.267
+    },
+    {
+      "n": 8,
+      "texto": "Hose on the drain, into a tub. Open the valve.",
+      "clave": "hose",
+      "inicio": 22.293,
+      "fin": 25.52
+    },
+    {
+      "n": 9,
+      "texto": "Crack the cold valve. Blast it until the water runs clear. Then close the drain.",
+      "clave": "clear",
+      "inicio": 25.56,
+      "fin": 30.88
+    },
+    {
+      "n": 10,
+      "texto": "Open that cold valve all the way.",
+      "clave": "way",
+      "inicio": 31,
+      "fin": 33.2
+    },
+    {
+      "n": 11,
+      "texto": "Upstairs, the faucet stops spitting and runs steady.",
+      "clave": "steady",
+      "inicio": 33.28,
+      "fin": 36.28
+    },
+    {
+      "n": 12,
+      "texto": "Only then do you flip the breaker back on.",
+      "clave": "then",
+      "inicio": 36.32,
+      "fin": 38.68
+    },
+    {
+      "n": 13,
+      "texto": "Once a year. Hard water, every six months. Skip it, and the tank cooks itself.",
+      "clave": "cooks",
+      "inicio": 38.72,
+      "fin": 44.027
+    },
+    {
+      "n": 14,
+      "texto": "Still banging, a leak, or eight years old? Call a pro.",
+      "clave": "pro",
+      "inicio": 44.133,
+      "fin": 47.96
+    },
+    {
+      "n": 15,
+      "texto": "Send this to that friend whose water heater sounds like a kettle.",
+      "clave": "kettle",
+      "inicio": 48,
+      "fin": 50.88
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Why",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "your",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "water",
+      "inicio": 0.64,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "heater",
+      "inicio": 0.96,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "banging?",
+      "inicio": 1.28,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "If",
+      "inicio": 2.2,
+      "fin": 2.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 2.32,
+      "fin": 2.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pops",
+      "inicio": 2.48,
+      "fin": 2.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "while",
+      "inicio": 2.8,
+      "fin": 2.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 2.96,
+      "fin": 3.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "heats,",
+      "inicio": 3.12,
+      "fin": 3.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "chalk",
+      "inicio": 3.84,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 4.08,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "trapping",
+      "inicio": 4.2,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "steam",
+      "inicio": 4.56,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "on",
+      "inicio": 4.92,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 5.04,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "bottom.",
+      "inicio": 5.28,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Shut",
+      "inicio": 6.08,
+      "fin": 6.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 6.28,
+      "fin": 6.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "faucet",
+      "inicio": 6.4,
+      "fin": 6.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 6.84,
+      "fin": 6.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 6.96,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "bangs",
+      "inicio": 7.12,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "right",
+      "inicio": 7.48,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "then?",
+      "inicio": 7.72,
+      "fin": 8.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "That's",
+      "inicio": 8.36,
+      "fin": 8.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 8.56,
+      "fin": 8.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pipes.",
+      "inicio": 8.84,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Call",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 9.6,
+      "fin": 9.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 9.68,
+      "fin": 10.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 10.44,
+      "fin": 10.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "it's",
+      "inicio": 10.56,
+      "fin": 10.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gas,",
+      "inicio": 10.92,
+      "fin": 11.36,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "stop",
+      "inicio": 11.44,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 11.84,
+      "fin": 12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "call",
+      "inicio": 12.08,
+      "fin": 12.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 12.24,
+      "fin": 12.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "plumber.",
+      "inicio": 12.36,
+      "fin": 13.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Electric?",
+      "inicio": 13.12,
+      "fin": 13.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Flip",
+      "inicio": 14.04,
+      "fin": 14.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 14.2,
+      "fin": 14.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "breaker",
+      "inicio": 14.32,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "off.",
+      "inicio": 14.72,
+      "fin": 15.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Shut",
+      "inicio": 15.32,
+      "fin": 15.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 15.52,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cold",
+      "inicio": 15.68,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "valve",
+      "inicio": 15.92,
+      "fin": 16.16,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "on",
+      "inicio": 16.24,
+      "fin": 16.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 16.36,
+      "fin": 16.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "inlet",
+      "inicio": 16.48,
+      "fin": 16.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "pipe.",
+      "inicio": 16.8,
+      "fin": 17.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Open",
+      "inicio": 17.56,
+      "fin": 17.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 17.76,
+      "fin": 17.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hot",
+      "inicio": 17.96,
+      "fin": 18.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "faucet",
+      "inicio": 18.12,
+      "fin": 18.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "upstairs,",
+      "inicio": 18.48,
+      "fin": 19.093,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "and",
+      "inicio": 19.147,
+      "fin": 19.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "leave",
+      "inicio": 19.28,
+      "fin": 19.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 19.44,
+      "fin": 19.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "running.",
+      "inicio": 19.68,
+      "fin": 20.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Now",
+      "inicio": 20.36,
+      "fin": 20.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "wait",
+      "inicio": 20.56,
+      "fin": 20.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "until",
+      "inicio": 20.72,
+      "fin": 20.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 21,
+      "fin": 21.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tank",
+      "inicio": 21.12,
+      "fin": 21.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 21.44,
+      "fin": 21.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cool.",
+      "inicio": 21.88,
+      "fin": 22.267,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Hose",
+      "inicio": 22.293,
+      "fin": 22.48,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "on",
+      "inicio": 22.52,
+      "fin": 22.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 22.64,
+      "fin": 22.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "drain,",
+      "inicio": 22.8,
+      "fin": 23.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "into",
+      "inicio": 23.4,
+      "fin": 23.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 23.56,
+      "fin": 23.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tub.",
+      "inicio": 23.68,
+      "fin": 24.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Open",
+      "inicio": 24.52,
+      "fin": 24.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 24.68,
+      "fin": 24.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "valve.",
+      "inicio": 24.8,
+      "fin": 25.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Crack",
+      "inicio": 25.56,
+      "fin": 25.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 25.92,
+      "fin": 26,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cold",
+      "inicio": 26.08,
+      "fin": 26.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "valve.",
+      "inicio": 26.4,
+      "fin": 27.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Blast",
+      "inicio": 27.08,
+      "fin": 27.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 27.52,
+      "fin": 27.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "until",
+      "inicio": 27.72,
+      "fin": 27.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 27.92,
+      "fin": 28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "water",
+      "inicio": 28.16,
+      "fin": 28.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "runs",
+      "inicio": 28.48,
+      "fin": 28.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "clear.",
+      "inicio": 29,
+      "fin": 29.493,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Then",
+      "inicio": 29.627,
+      "fin": 29.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "close",
+      "inicio": 29.84,
+      "fin": 30.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 30.12,
+      "fin": 30.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "drain.",
+      "inicio": 30.24,
+      "fin": 30.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Open",
+      "inicio": 31,
+      "fin": 31.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 31.24,
+      "fin": 31.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cold",
+      "inicio": 31.48,
+      "fin": 31.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "valve",
+      "inicio": 31.68,
+      "fin": 32.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "all",
+      "inicio": 32.2,
+      "fin": 32.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 32.36,
+      "fin": 32.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "way.",
+      "inicio": 32.48,
+      "fin": 33.2,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Upstairs,",
+      "inicio": 33.28,
+      "fin": 33.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 33.92,
+      "fin": 34,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "faucet",
+      "inicio": 34.08,
+      "fin": 34.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "stops",
+      "inicio": 34.56,
+      "fin": 34.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "spitting",
+      "inicio": 34.8,
+      "fin": 35.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 35.2,
+      "fin": 35.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "runs",
+      "inicio": 35.4,
+      "fin": 35.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "steady.",
+      "inicio": 35.6,
+      "fin": 36.28,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "Only",
+      "inicio": 36.32,
+      "fin": 36.64,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "then",
+      "inicio": 36.72,
+      "fin": 36.96,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "do",
+      "inicio": 37,
+      "fin": 37.04,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "you",
+      "inicio": 37.12,
+      "fin": 37.2,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "flip",
+      "inicio": 37.28,
+      "fin": 37.36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 37.44,
+      "fin": 37.52,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "breaker",
+      "inicio": 37.68,
+      "fin": 37.84,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "back",
+      "inicio": 37.96,
+      "fin": 38.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "on.",
+      "inicio": 38.16,
+      "fin": 38.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "Once",
+      "inicio": 38.72,
+      "fin": 38.88,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 38.96,
+      "fin": 39.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "year.",
+      "inicio": 39.36,
+      "fin": 39.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "Hard",
+      "inicio": 39.84,
+      "fin": 39.92,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "water,",
+      "inicio": 40,
+      "fin": 40.52,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "every",
+      "inicio": 40.56,
+      "fin": 40.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "six",
+      "inicio": 40.92,
+      "fin": 41.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "months.",
+      "inicio": 41.36,
+      "fin": 41.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "Skip",
+      "inicio": 41.88,
+      "fin": 42,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "it,",
+      "inicio": 42.08,
+      "fin": 42.347,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 42.373,
+      "fin": 42.4,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 42.48,
+      "fin": 42.56,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "tank",
+      "inicio": 42.68,
+      "fin": 42.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "cooks",
+      "inicio": 42.84,
+      "fin": 43.04,
+      "frase": 13,
+      "clave": true
+    },
+    {
+      "texto": "itself.",
+      "inicio": 43.12,
+      "fin": 44.027,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "Still",
+      "inicio": 44.133,
+      "fin": 44.24,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "banging,",
+      "inicio": 44.28,
+      "fin": 44.933,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 44.987,
+      "fin": 45.04,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "leak,",
+      "inicio": 45.08,
+      "fin": 45.6,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "or",
+      "inicio": 45.68,
+      "fin": 45.76,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "eight",
+      "inicio": 45.84,
+      "fin": 45.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "years",
+      "inicio": 46,
+      "fin": 46.16,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "old?",
+      "inicio": 46.24,
+      "fin": 46.933,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "Call",
+      "inicio": 46.987,
+      "fin": 47.04,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 47.12,
+      "fin": 47.2,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "pro.",
+      "inicio": 47.56,
+      "fin": 47.96,
+      "frase": 14,
+      "clave": true
+    },
+    {
+      "texto": "Send",
+      "inicio": 48,
+      "fin": 48.16,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "this",
+      "inicio": 48.24,
+      "fin": 48.32,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 48.36,
+      "fin": 48.4,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 48.48,
+      "fin": 48.64,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "friend",
+      "inicio": 48.76,
+      "fin": 48.88,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "whose",
+      "inicio": 48.96,
+      "fin": 49.2,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "water",
+      "inicio": 49.32,
+      "fin": 49.44,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "heater",
+      "inicio": 49.52,
+      "fin": 49.76,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "sounds",
+      "inicio": 49.88,
+      "fin": 50,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "like",
+      "inicio": 50.08,
+      "fin": 50.16,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 50.32,
+      "fin": 50.347,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "kettle.",
+      "inicio": 50.373,
+      "fin": 50.88,
+      "frase": 15,
+      "clave": true
+    }
+  ]
+}

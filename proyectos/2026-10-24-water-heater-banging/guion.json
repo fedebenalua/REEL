@@ -1,0 +1,22 @@
+{
+  "titulo": "Why is my water heater banging?",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why is your water heater banging?", "clave": "banging", "hook": true },
+    { "texto": "If it pops while it heats, chalk is trapping steam on the bottom.", "clave": "steam", "hook": true },
+    { "texto": "Shut a faucet and it bangs right then? That's the pipes. Call a plumber.", "clave": "pipes" },
+    { "texto": "If it's gas, stop and call a plumber. Electric? Flip the breaker off.", "clave": "gas" },
+    { "texto": "Shut the cold valve on the inlet pipe.", "clave": "valve" },
+    { "texto": "Open a hot faucet upstairs, and leave it running.", "clave": "upstairs" },
+    { "texto": "Now wait until the tank is cool.", "clave": "cool" },
+    { "texto": "Hose on the drain, into a tub. Open the valve.", "clave": "hose" },
+    { "texto": "Crack the cold valve. Blast it until the water runs clear. Then close the drain.", "clave": "clear" },
+    { "texto": "Open that cold valve all the way.", "clave": "way" },
+    { "texto": "Upstairs, the faucet stops spitting and runs steady.", "clave": "steady" },
+    { "texto": "Only then do you flip the breaker back on.", "clave": "then" },
+    { "texto": "Once a year. Hard water, every six months. Skip it, and the tank cooks itself.", "clave": "cooks" },
+    { "texto": "Still banging, a leak, or eight years old? Call a pro.", "clave": "pro" },
+    { "texto": "Send this to that friend whose water heater sounds like a kettle.", "clave": "kettle" }
+  ]
+}
