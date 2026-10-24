@@ -1,0 +1,19 @@
+{
+  "titulo": "Por qué tu perro se revuelca en lo que huele fatal",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro se revuelca en cosas que huelen fatal?", "clave": "fatal", "hook": true },
+    { "texto": "Dicen que se disfraza, para cazar sin que lo huelan.", "clave": "disfraza", "hook": true },
+    { "texto": "Pues en el ochenta y seis, a quince lobos les pusieron perfume.", "clave": "perfume", "hook": true },
+    { "texto": "Caca de oveja y de caballo: ni se rozaron.", "clave": "rozaron" },
+    { "texto": "Perfume y aceite de coche: se tiraron de espaldas.", "clave": "espaldas" },
+    { "texto": "Lo segundo fue caca de puma y de oso.", "clave": "puma" },
+    { "texto": "Un disfraz de caza no huele a perfume.", "clave": "caza" },
+    { "texto": "Años después, en un zoo, también se revolcaron en curry y en lana.", "clave": "curry" },
+    { "texto": "El motivo exacto sigue abierto.", "clave": "abierto" },
+    { "texto": "Lo que sí eligen es el olor raro, aunque a ti te huela fatal.", "clave": "raro" },
+    { "texto": "Así que no se disfraza para cazar: se pone un olor que no había olido.", "clave": "olido" },
+    { "texto": "Envíaselo a ese amigo al que su perro vuelve del parque oliendo a algo innombrable.", "clave": "innombrable" }
+  ]
+}

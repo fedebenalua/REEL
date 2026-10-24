@@ -48,6 +48,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué bosteza cuando tú bostezas (`proyectos/2026-10-24-perro-bosteza`).
 - Por qué se lame la nariz (`proyectos/2026-10-24-perro-lame-la-nariz`).
 - Por qué te mira con cara de culpable cuando hace algo mal (`proyectos/2026-10-24-perro-cara-de-culpable`).
+- Por qué se revuelca en lo que huele fatal (`proyectos/2026-10-24-perro-se-revuelca`).
 
 ## Ideas pendientes
 

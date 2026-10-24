@@ -13,6 +13,7 @@
 //   lamido 0..1: un lametón a la punta. 0 escondida, a la mitad la lengua le cruza la trufa, y al final vuelve. Si hay lamido, no cuelga la lengua.
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
+//   espalda 0..1: panza arriba, patas al aire (1 = de espaldas del todo; los valores de en medio no son una pose).
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
 //   Poses: sentado 0..1 (sentado, cabeza arriba, patas traseras plegadas) y tumbado 0..1 (esfinge, patas delante). Úsalas
 //   a 0 o 1 y pasa de una a otra con k.suave sobre t (los valores intermedios no son una pose).
@@ -316,11 +317,96 @@ export function posePataAlta(alta) {
 
 // ---------------------------------------------------------------- el perro
 const PELO = { luz: "#fbd998", medio: "#e0a652", sombra: "#a96a2c", hondo: "#6d4119", pata: "#f6dcab", lejos: "#a9702f" };
+
+// El mismo labrador, de espaldas: el lomo en el suelo, la panza clara arriba y las cuatro patas meneándose.
+function perroEspalda(g, o) {
+  const { x, y = 0, dir = 1, t = 0 } = o, cab = o.cabeza || {};
+  const escala = o.escala ?? 1, cola = o.cola ?? 0.8;
+  const rock = Math.sin(t * 6.5) * 0.1;
+  g.save(); g.translate(x, y); g.scale(dir * escala, escala); g.rotate(rock);
+  g.save(); g.globalAlpha = 0.32; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(-2, 3, 62, 9, 0, 0, TAU); g.fill(); g.restore();
+  // la cola, en el suelo, meneando
+  { const w = Math.sin(t * 9) * 14 * cola, base = [-34, -16];
+    g.lineCap = "round";
+    for (const [col, wd] of [[PELO.sombra, 8], [PELO.medio, 6], [PELO.luz, 2.2]]) {
+      g.strokeStyle = col; g.lineWidth = wd; g.beginPath(); g.moveTo(base[0], base[1]); g.quadraticCurveTo(-48, -8, -58 + w * 0.25, -6 - 8 * cola + w * 0.15); g.stroke();
+    }
+  }
+  const pata = (origen, ph, lejos) => {
+    const ang = -0.2 + Math.sin(t * 8 + ph) * 0.85;
+    const K = [origen[0] + Math.sin(ang) * 18, origen[1] - 22];
+    const P = [K[0] + Math.sin(ang + 1.05) * 18, K[1] - 20];
+    g.fillStyle = lejos ? PELO.lejos : PELO.medio;
+    miembro(g, [origen, K, P], lejos ? [15, 10, 6] : [22, 13, 7]);
+    g.save(); g.translate(P[0], P[1]); g.rotate(ang + 0.4);
+    g.fillStyle = lejos ? "#c8935a" : PELO.pata; g.beginPath(); g.ellipse(0, 0, 6.4, 3.6, 0, 0, TAU); g.fill();
+    if (!lejos) { g.fillStyle = "#5c3814"; for (const [dx, dy] of [[-2.2, -1.2], [0.4, -1.6], [2.4, -0.6], [0.2, 0.8]]) { g.beginPath(); g.ellipse(dx, dy, 1.1, 1.3, 0, 0, TAU); g.fill(); } }
+    g.restore();
+  };
+  pata([-20, -18], 0.4, true); pata([12, -18], 2.1, true);
+  // el lomo en el suelo y la panza clara hacia arriba
+  g.beginPath(); g.ellipse(-2, -22, 34, 16, -0.06, 0, TAU);
+  const bg = g.createLinearGradient(0, -40, 0, -8); bg.addColorStop(0, PELO.luz); bg.addColorStop(0.42, PELO.medio); bg.addColorStop(1, PELO.sombra);
+  g.fillStyle = bg; g.fill();
+  g.save(); g.beginPath(); g.ellipse(-2, -22, 34, 16, -0.06, 0, TAU); g.clip();
+  g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.16; g.drawImage(k.manchas, -40, -42, 80, 40);
+  g.globalCompositeOperation = "source-over"; g.globalAlpha = 1;
+  const pe = g.createRadialGradient(-6, -32, 2, -4, -30, 18); pe.addColorStop(0, "rgba(255,244,214,0.85)"); pe.addColorStop(1, "rgba(255,244,214,0)");
+  g.fillStyle = pe; g.fillRect(-30, -42, 40, 24);
+  g.restore();
+  // manchas de la panza
+  g.fillStyle = "rgba(255,236,200,0.55)"; g.beginPath(); g.ellipse(-4, -30, 16, 7, -0.1, 0, TAU); g.fill();
+  pata([-14, -28], 0, false); pata([16, -28], 1.7, false);
+  // el cuello y la cabeza, echada hacia atrás (el hocico mira arriba)
+  g.save(); g.translate(28, -28); g.rotate(-1.05);
+  g.strokeStyle = "#1d4fd8"; g.lineWidth = 5.2; g.lineCap = "round"; g.beginPath(); g.moveTo(-6, 6); g.lineTo(8, -2); g.stroke();
+  g.strokeStyle = "#5b8dff"; g.lineWidth = 1.5; g.beginPath(); g.moveTo(-6, 4); g.lineTo(8, -4); g.stroke();
+  const cabeza = () => {
+    g.beginPath();
+    g.moveTo(4, -16); g.bezierCurveTo(16, -22, 30, -16, 40, -6); g.bezierCurveTo(46, -2, 46, 6, 38, 8);
+    g.bezierCurveTo(30, 12, 16, 12, 8, 6); g.bezierCurveTo(0, 2, -2, -8, 4, -16); g.closePath();
+  };
+  cabeza();
+  const hg = g.createLinearGradient(0, -20, 0, 12); hg.addColorStop(0, PELO.luz); hg.addColorStop(0.5, PELO.medio); hg.addColorStop(1, PELO.sombra);
+  g.fillStyle = hg; g.fill();
+  g.save(); cabeza(); g.clip();
+  g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.35; g.drawImage(k.manchas, 0, -24, 50, 40); g.globalCompositeOperation = "source-over"; g.globalAlpha = 1;
+  g.restore();
+  const ng = g.createRadialGradient(40, -6, 0.4, 42, -4, 5); ng.addColorStop(0, "#5a5a63"); ng.addColorStop(0.4, "#17171b"); ng.addColorStop(1, "#050507");
+  g.fillStyle = ng; g.beginPath(); g.ellipse(42, -4, 4, 3.4, 0.4, 0, TAU); g.fill();
+  g.fillStyle = "rgba(255,255,255,0.75)"; g.beginPath(); g.ellipse(40.5, -5.6, 1.5, 0.8, -0.4, 0, TAU); g.fill();
+  const feliz = cab.ojo ?? 1;
+  if (feliz > 0.5) { g.strokeStyle = "#2a1408"; g.lineWidth = 1.8; g.beginPath(); g.arc(22, -6, 3.4, Math.PI * 1.15, Math.PI * 1.9); g.stroke(); }
+  else {
+    g.fillStyle = "#fff6e6"; g.beginPath(); g.ellipse(22, -6, 3.4, 3, 0, 0, TAU); g.fill();
+    g.fillStyle = "#3a1d0a"; g.beginPath(); g.arc(23, -6, 2.2, 0, TAU); g.fill();
+    g.fillStyle = "#fff"; g.beginPath(); g.arc(23.6, -6.8, 0.7, 0, TAU); g.fill();
+  }
+  // la lengua, contento
+  if ((cab.abre || 0) > 0.2) {
+    const tg = g.createLinearGradient(30, 6, 36, 16); tg.addColorStop(0, "#ff8ea0"); tg.addColorStop(1, "#d64566");
+    g.fillStyle = tg; g.beginPath(); g.moveTo(32, 6); g.quadraticCurveTo(40, 12, 36, 18); g.quadraticCurveTo(30, 16, 30, 8); g.fill();
+  }
+  g.save(); g.translate(10, -12); g.rotate(-0.4 + Math.sin(t * 5) * 0.08);
+  g.beginPath(); g.moveTo(0, 0); g.bezierCurveTo(8, 2, 12, 14, 6, 24); g.bezierCurveTo(2, 28, -6, 22, -6, 12); g.bezierCurveTo(-6, 4, -2, 0, 0, 0); g.closePath();
+  const og = g.createLinearGradient(-6, 0, 8, 24); og.addColorStop(0, PELO.sombra); og.addColorStop(1, PELO.hondo); g.fillStyle = og; g.fill();
+  g.restore();
+  const narizLocal = [42, -4];
+  g.restore();
+  g.restore();
+  const cs = Math.cos(rock), sn = Math.sin(rock);
+  const alMundo = (px, py) => [x + (px * cs - py * sn) * dir * escala, y + (px * sn + py * cs) * escala];
+  // la nariz, en el mundo: el giro de la cabeza (−1.05) alrededor del cuello (28, −28)
+  const ca = Math.cos(-1.05), sa = Math.sin(-1.05);
+  const nx = 28 + narizLocal[0] * ca - narizLocal[1] * sa, ny = -28 + narizLocal[0] * sa + narizLocal[1] * ca;
+  return { collar: alMundo(30, -30), nariz: alMundo(nx, ny), ingle: alMundo(0, -20), pata: alMundo(16, -50) };
+}
 // Un perro grande (tipo labrador), de lado, mirando a la derecha (dir = -1, a la izquierda). Pie en y = 0.
 // fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; lamido 0..1 le pasa la lengua por la trufa; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
 // cola: cuánto la menea. escala: tamaño (1 = el de siempre). pataAlta: 0 en el suelo, 1 la trasera de este lado casi vertical.
 // Devuelve collar, nariz, ingle y pata (la trasera de este lado), en el mundo.
 export function perro(g, o) {
+  if ((o.espalda || 0) > 0.5) return perroEspalda(g, o);
   const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4, nb = o.cuelloBaja || 0;
   const escala = o.escala ?? 1, alta = o.pataAlta || 0;
   const stride = 50 * marcha, lift = 11 * marcha, duty = 0.5, bob = -1.5 * marcha * Math.cos(fase * TAU * 2);

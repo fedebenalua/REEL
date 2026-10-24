@@ -1,0 +1,1002 @@
+{
+  "firma": "01d0f5897b21",
+  "duracion": 43.12,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro se revuelca en cosas que huelen fatal?",
+      "clave": "fatal",
+      "inicio": 0,
+      "fin": 3.24
+    },
+    {
+      "n": 2,
+      "texto": "Dicen que se disfraza, para cazar sin que lo huelan.",
+      "clave": "disfraza",
+      "inicio": 3.52,
+      "fin": 6.56
+    },
+    {
+      "n": 3,
+      "texto": "Pues en el ochenta y seis, a quince lobos les pusieron perfume.",
+      "clave": "perfume",
+      "inicio": 6.6,
+      "fin": 10.56
+    },
+    {
+      "n": 4,
+      "texto": "Caca de oveja y de caballo: ni se rozaron.",
+      "clave": "rozaron",
+      "inicio": 10.6,
+      "fin": 13.6
+    },
+    {
+      "n": 5,
+      "texto": "Perfume y aceite de coche: se tiraron de espaldas.",
+      "clave": "espaldas",
+      "inicio": 13.72,
+      "fin": 17.04
+    },
+    {
+      "n": 6,
+      "texto": "Lo segundo fue caca de puma y de oso.",
+      "clave": "puma",
+      "inicio": 17.08,
+      "fin": 19.68
+    },
+    {
+      "n": 7,
+      "texto": "Un disfraz de caza no huele a perfume.",
+      "clave": "caza",
+      "inicio": 19.76,
+      "fin": 22.48
+    },
+    {
+      "n": 8,
+      "texto": "Años después, en un zoo, también se revolcaron en curry y en lana.",
+      "clave": "curry",
+      "inicio": 22.52,
+      "fin": 26.88
+    },
+    {
+      "n": 9,
+      "texto": "El motivo exacto sigue abierto.",
+      "clave": "abierto",
+      "inicio": 26.92,
+      "fin": 28.96
+    },
+    {
+      "n": 10,
+      "texto": "Lo que sí eligen es el olor raro, aunque a ti te huela fatal.",
+      "clave": "raro",
+      "inicio": 29,
+      "fin": 33.12
+    },
+    {
+      "n": 11,
+      "texto": "Así que no se disfraza para cazar: se pone un olor que no había olido.",
+      "clave": "olido",
+      "inicio": 33.2,
+      "fin": 37.92
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a ese amigo al que su perro vuelve del parque oliendo a algo innombrable.",
+      "clave": "innombrable",
+      "inicio": 38,
+      "fin": 42.32
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.56,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 0.8,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "revuelca",
+      "inicio": 0.96,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 1.44,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cosas",
+      "inicio": 1.6,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 1.92,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "huelen",
+      "inicio": 2.08,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "fatal?",
+      "inicio": 2.48,
+      "fin": 3.24,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Dicen",
+      "inicio": 3.52,
+      "fin": 3.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.8,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 3.92,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "disfraza,",
+      "inicio": 4.08,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "para",
+      "inicio": 4.8,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cazar",
+      "inicio": 4.96,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 5.28,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 5.48,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 5.56,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "huelan.",
+      "inicio": 5.68,
+      "fin": 6.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Pues",
+      "inicio": 6.6,
+      "fin": 6.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 7,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 7.12,
+      "fin": 7.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 7.28,
+      "fin": 7.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 7.56,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "seis,",
+      "inicio": 7.68,
+      "fin": 8.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 8.12,
+      "fin": 8.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "quince",
+      "inicio": 8.24,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lobos",
+      "inicio": 8.64,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 8.96,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pusieron",
+      "inicio": 9.2,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "perfume.",
+      "inicio": 9.6,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Caca",
+      "inicio": 10.6,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 10.88,
+      "fin": 10.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "oveja",
+      "inicio": 10.96,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 11.32,
+      "fin": 11.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 11.4,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "caballo:",
+      "inicio": 11.52,
+      "fin": 12.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 12.32,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 12.48,
+      "fin": 12.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "rozaron.",
+      "inicio": 12.64,
+      "fin": 13.6,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Perfume",
+      "inicio": 13.72,
+      "fin": 14.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 14.12,
+      "fin": 14.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "aceite",
+      "inicio": 14.24,
+      "fin": 14.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.56,
+      "fin": 14.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "coche:",
+      "inicio": 14.68,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 15.36,
+      "fin": 15.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tiraron",
+      "inicio": 15.52,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 15.92,
+      "fin": 15.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "espaldas.",
+      "inicio": 16,
+      "fin": 17.04,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 17.08,
+      "fin": 17.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "segundo",
+      "inicio": 17.2,
+      "fin": 17.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "fue",
+      "inicio": 17.68,
+      "fin": 17.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "caca",
+      "inicio": 18,
+      "fin": 18.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 18.28,
+      "fin": 18.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "puma",
+      "inicio": 18.4,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 18.76,
+      "fin": 18.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 18.84,
+      "fin": 18.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "oso.",
+      "inicio": 18.96,
+      "fin": 19.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Un",
+      "inicio": 19.76,
+      "fin": 19.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "disfraz",
+      "inicio": 19.92,
+      "fin": 20.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.2,
+      "fin": 20.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "caza",
+      "inicio": 20.32,
+      "fin": 20.64,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "no",
+      "inicio": 20.8,
+      "fin": 20.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "huele",
+      "inicio": 20.96,
+      "fin": 21.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 21.227,
+      "fin": 21.253,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "perfume.",
+      "inicio": 21.28,
+      "fin": 22.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Años",
+      "inicio": 22.52,
+      "fin": 22.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "después,",
+      "inicio": 22.8,
+      "fin": 23.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 23.36,
+      "fin": 23.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 23.52,
+      "fin": 23.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "zoo,",
+      "inicio": 23.64,
+      "fin": 24.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "también",
+      "inicio": 24.16,
+      "fin": 24.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 24.56,
+      "fin": 24.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "revolcaron",
+      "inicio": 24.72,
+      "fin": 25.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 25.24,
+      "fin": 25.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "curry",
+      "inicio": 25.44,
+      "fin": 25.76,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 25.84,
+      "fin": 25.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 26,
+      "fin": 26.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lana.",
+      "inicio": 26.12,
+      "fin": 26.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 26.92,
+      "fin": 26.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "motivo",
+      "inicio": 27.04,
+      "fin": 27.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "exacto",
+      "inicio": 27.48,
+      "fin": 27.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 27.84,
+      "fin": 28.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "abierto.",
+      "inicio": 28.16,
+      "fin": 28.96,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 29,
+      "fin": 29.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 29.12,
+      "fin": 29.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sí",
+      "inicio": 29.28,
+      "fin": 29.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "eligen",
+      "inicio": 29.44,
+      "fin": 29.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 30,
+      "fin": 30.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 30.12,
+      "fin": 30.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "olor",
+      "inicio": 30.24,
+      "fin": 30.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "raro,",
+      "inicio": 30.48,
+      "fin": 31.04,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "aunque",
+      "inicio": 31.08,
+      "fin": 31.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 31.32,
+      "fin": 31.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ti",
+      "inicio": 31.44,
+      "fin": 31.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 31.68,
+      "fin": 31.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "huela",
+      "inicio": 31.92,
+      "fin": 32.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "fatal.",
+      "inicio": 32.16,
+      "fin": 33.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 33.2,
+      "fin": 33.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 33.36,
+      "fin": 33.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 33.68,
+      "fin": 33.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 33.84,
+      "fin": 33.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "disfraza",
+      "inicio": 34,
+      "fin": 34.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 34.48,
+      "fin": 34.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "cazar:",
+      "inicio": 34.64,
+      "fin": 35.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 35.36,
+      "fin": 35.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 35.52,
+      "fin": 35.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 35.84,
+      "fin": 35.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "olor",
+      "inicio": 36.04,
+      "fin": 36.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36.32,
+      "fin": 36.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 36.56,
+      "fin": 36.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "había",
+      "inicio": 36.72,
+      "fin": 36.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "olido.",
+      "inicio": 37.08,
+      "fin": 37.92,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 38,
+      "fin": 38.48,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 38.507,
+      "fin": 38.533,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 38.56,
+      "fin": 38.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 38.8,
+      "fin": 39.04,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 39.12,
+      "fin": 39.2,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.24,
+      "fin": 39.28,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 39.36,
+      "fin": 39.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 39.52,
+      "fin": 39.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 39.84,
+      "fin": 40.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 40.16,
+      "fin": 40.24,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "parque",
+      "inicio": 40.32,
+      "fin": 40.56,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "oliendo",
+      "inicio": 40.64,
+      "fin": 40.96,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 40.987,
+      "fin": 41.013,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "algo",
+      "inicio": 41.04,
+      "fin": 41.28,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "innombrable.",
+      "inicio": 41.4,
+      "fin": 42.32,
+      "frase": 12,
+      "clave": true
+    }
+  ]
+}
