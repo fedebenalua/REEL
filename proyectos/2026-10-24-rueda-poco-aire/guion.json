@@ -1,0 +1,57 @@
+{
+  "titulo": "Cómo sabe un coche que una rueda tiene poco aire",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Cómo sabe un coche que una rueda tiene poco aire?",
+      "clave": "aire",
+      "hook": true
+    },
+    {
+      "texto": "No la mira. Dentro de la rueda no hay ojos.",
+      "clave": "ojos",
+      "hook": true
+    },
+    {
+      "texto": "En unos, un sensor pegado a la válvula mide el aire y lo manda por radio.",
+      "clave": "sensor"
+    },
+    {
+      "texto": "Cuando falta alrededor de una quinta parte, el testigo se enciende.",
+      "clave": "quinta"
+    },
+    {
+      "texto": "En otros no hay sensor dentro: cuentan las vueltas de cada rueda.",
+      "clave": "vueltas"
+    },
+    {
+      "texto": "Con menos aire, la rueda es más pequeña y gira más deprisa para no quedarse atrás.",
+      "clave": "deprisa"
+    },
+    {
+      "texto": "Como una moneda al lado de un plato: la pequeña da más vueltas en el mismo camino.",
+      "clave": "moneda"
+    },
+    {
+      "texto": "Si una gira más deprisa que las otras, esa es la baja.",
+      "clave": "baja"
+    },
+    {
+      "texto": "Si bajan las cuatro igual, todas giran igual y no se nota cuál.",
+      "clave": "igual"
+    },
+    {
+      "texto": "Pero cada rueda, al girar, vibra. Con menos aire, esa vibración va más lenta.",
+      "clave": "lenta"
+    },
+    {
+      "texto": "Así que no adivina: o mide el aire por radio, o cuenta las vueltas.",
+      "clave": "adivina"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que pasa del testigo de la rueda.",
+      "clave": "testigo"
+    }
+  ]
+}
