@@ -19,7 +19,10 @@
 // salon(g, c, t, hora) es el INTERIOR de casa (pared con ventana y luz, cuadros, sofá, lámpara, plantas, suelo de madera y
 //   alfombra); hora 0 día, 1 tarde. Se usa igual que parque(): salon(g, c, t, hora); ponVista(g, c); perro(...). Pon el
 //   perro y la persona sobre la alfombra (x ≈ 420 + 900·n) y la cámara a Z 2.6–4. Nunca la persona entera tapando la pantalla.
-// Si te falta una pose (de frente, corriendo, saltando), AMPLÍA este archivo con otro parámetro y el mismo estilo
+// perroFrente(g, { x, escala, t, cola, cabeza: { ladea, abre, ojo, oreja, mira } }): el mismo perro SENTADO DE FRENTE, mirando a
+//   cámara (ladea la cabeza, bosteza, sonríe). Para primeros planos y reacciones; el de lado, para andar y para escenas con
+//   persona. Va sobre la alfombra del salón (x ≈ 420) con la cámara a Z 4–6 (cy ≈ -330/Z). Mira perros/muestra-frente.jpg.
+// Si te falta una pose (corriendo, saltando), AMPLÍA este archivo con otro parámetro y el mismo estilo
 // (volumen, luz arriba a la izquierda, patas con miembro()); no hagas un perro nuevo en el plano.
 // Lo que comparten los planos: el parque (capas con parallax), el perro, la persona y la correa.
 // Todo en 2D con unidades de «centímetros del mundo»: el suelo es y = 0 y arriba es y negativo.
@@ -813,4 +816,84 @@ export function salon(g, c, t, hora = 0) {
   ponVista(g, c, 1);
   repite(c, 1, 900, 300, (x0) => { const ag = g.createLinearGradient(0, 4, 0, 36); ag.addColorStop(0, "#ff8f7a"); ag.addColorStop(1, "#d9604e"); g.fillStyle = ag; g.beginPath(); g.ellipse(x0 + 420, 14, 230, 24, 0, 0, TAU); g.fill(); g.strokeStyle = "rgba(255,240,220,0.7)"; g.lineWidth = 3; g.beginPath(); g.ellipse(x0 + 420, 14, 205, 18, 0, 0, TAU); g.stroke(); });
   sinVista(g);
+}
+
+// ---------------------------------------------------------------- el perro DE FRENTE (sentado, mirando a cámara)
+// perroFrente(g, { x, y = 0, escala = 1, t, cola, cabeza: { ladea (rad, + a la derecha), abre 0..1 (boca/lengua), ojo 0 abierto..1 feliz, oreja 0..1 (alza), mira (-1..1, pupilas) } })
+// Mismo labrador, mismos colores y luz (arriba a la izquierda). Sirve para primeros planos: ladea la cabeza, bosteza, sonríe.
+// Pie en y = 0; la cabeza queda a unos 105 cm. Devuelve { cabeza: [x, y] } en el mundo.
+export function perroFrente(g, o) {
+  const { x, y = 0, escala = 1, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.5;
+  const ladea = cab.ladea || 0, abre = cab.abre || 0, feliz = cab.ojo || 0, oreja = cab.oreja ?? 0, mira = cab.mira || 0;
+  const resp = Math.sin(t * 2.1) * 0.8, parp = Math.pow(Math.max(0, Math.sin(t * 1.3 + 1.7)), 60); // respira y parpadea solo
+  const lin = (x0, y0, x1, y1, a, b) => { const gr = g.createLinearGradient(x0, y0, x1, y1); gr.addColorStop(0, a); gr.addColorStop(1, b); return gr; };
+  g.save(); g.translate(x, y); g.scale(escala, escala);
+  // sombra
+  g.save(); g.globalAlpha = 0.3; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(2, 2, 52, 8, 0, 0, TAU); g.fill(); g.restore();
+  // la cola, a un lado, meneando
+  const w = Math.sin(t * 9) * cola;
+  g.strokeStyle = PELO.sombra; g.lineWidth = 8; g.lineCap = "round"; g.beginPath(); g.moveTo(26, -6); g.quadraticCurveTo(46 + 5 * w, -8, 50 + 12 * w, -30 + 4 * Math.abs(w)); g.stroke();
+  g.strokeStyle = PELO.medio; g.lineWidth = 5; g.beginPath(); g.moveTo(26, -7); g.quadraticCurveTo(46 + 5 * w, -9, 50 + 12 * w, -31 + 4 * Math.abs(w)); g.stroke();
+  // las ancas (patas traseras dobladas), a los lados
+  for (const s of [-1, 1]) {
+    g.fillStyle = s < 0 ? lin(-50, -30, -10, 0, PELO.medio, PELO.sombra) : lin(10, -30, 50, 0, PELO.sombra, PELO.hondo);
+    g.beginPath(); g.ellipse(s * 28, -16, 23, 17, s * -0.15, 0, TAU); g.fill();
+    g.fillStyle = PELO.pata; g.beginPath(); g.ellipse(s * 30, -3, 12, 4.6, 0, 0, TAU); g.fill();
+  }
+  // el torso
+  g.beginPath(); g.moveTo(-17, -78 + resp * 0.3); g.bezierCurveTo(-27, -60, -30, -34, -22, -4); g.lineTo(22, -4); g.bezierCurveTo(30, -34, 27, -60, 17, -78 + resp * 0.3); g.closePath();
+  const tg = g.createLinearGradient(-30, 0, 30, 0); tg.addColorStop(0, PELO.luz); tg.addColorStop(0.45, PELO.medio); tg.addColorStop(1, PELO.sombra); g.fillStyle = tg; g.fill();
+  // el pecho claro
+  g.fillStyle = "rgba(251,226,170,0.55)"; g.beginPath(); g.ellipse(-2, -50 + resp, 14, 24, 0, 0, TAU); g.fill();
+  // patas delanteras
+  for (const s of [-1, 1]) {
+    const px = s * 11.5; g.fillStyle = s < 0 ? lin(px - 7, 0, px + 7, 0, PELO.luz, PELO.medio) : lin(px - 7, 0, px + 7, 0, PELO.medio, PELO.sombra);
+    redondo(g, px - 7, -44, 14, 42, 6.5); g.fill();
+    g.fillStyle = PELO.pata; g.beginPath(); g.ellipse(px, -3, 9.5, 5.2, 0, 0, TAU); g.fill();
+    g.strokeStyle = "rgba(109,65,25,0.45)"; g.lineWidth = 1.2; g.beginPath(); g.moveTo(px - 3, -6); g.lineTo(px - 3, -1.5); g.moveTo(px + 3, -6); g.lineTo(px + 3, -1.5); g.stroke();
+  }
+  // collar
+  g.strokeStyle = "#1f4fd8"; g.lineWidth = 6; g.beginPath(); g.moveTo(-16, -76); g.quadraticCurveTo(0, -66, 16, -76); g.stroke();
+  g.strokeStyle = "rgba(160,200,255,0.6)"; g.lineWidth = 1.6; g.beginPath(); g.moveTo(-15, -78); g.quadraticCurveTo(0, -68.5, 15, -78); g.stroke();
+  g.fillStyle = "#f5c53a"; g.beginPath(); g.arc(1, -64, 4.2, 0, TAU); g.fill(); g.fillStyle = "rgba(255,255,255,0.7)"; g.beginPath(); g.arc(-0.2, -65.4, 1.4, 0, TAU); g.fill();
+  // la cabeza (gira un poco desde el cuello)
+  g.translate(0, -76 + resp * 0.4); g.rotate(ladea); g.translate(0, 76 - resp * 0.4 - 0); g.translate(0, 0);
+  const cy = -98;
+  // orejas caídas (detrás del cráneo)
+  for (const s of [-1, 1]) {
+    const alz = oreja * 10;
+    g.fillStyle = s < 0 ? lin(-34, cy, -14, cy, PELO.sombra, PELO.medio) : lin(14, cy, 34, cy, PELO.medio, PELO.hondo);
+    g.beginPath(); g.moveTo(s * 13, cy - 14); g.bezierCurveTo(s * 28, cy - 17 - alz, s * 36, cy - 4 - alz * 0.6, s * 32, cy + 12 - alz * 0.3); g.bezierCurveTo(s * 29, cy + 22 - alz * 0.2, s * 19, cy + 18, s * 15, cy + 6); g.closePath(); g.fill();
+  }
+  // el cráneo
+  const hg = g.createRadialGradient(-8, cy - 10, 4, 0, cy, 30); hg.addColorStop(0, PELO.luz); hg.addColorStop(0.6, PELO.medio); hg.addColorStop(1, PELO.sombra);
+  g.fillStyle = hg; g.beginPath(); g.ellipse(0, cy, 22, 20, 0, 0, TAU); g.fill();
+  // la franja clara de la frente al hocico
+  g.fillStyle = "rgba(251,226,170,0.45)"; g.beginPath(); g.moveTo(-4, cy - 18); g.quadraticCurveTo(0, cy - 4, -7, cy + 6); g.lineTo(7, cy + 6); g.quadraticCurveTo(0, cy - 4, 4, cy - 18); g.closePath(); g.fill();
+  // el hocico
+  const my = cy + 9;
+  g.fillStyle = lin(-12, my - 8, 12, my + 10, "#fbe3b5", "#e6bd80"); g.beginPath(); g.ellipse(0, my, 12.5, 10.5, 0, 0, TAU); g.fill();
+  if (abre > 0.02) { // boca abierta
+    const bo = abre * 9;
+    g.fillStyle = "#4a1420"; g.beginPath(); g.ellipse(0, my + 6 + bo * 0.35, 8 + abre * 1.5, 2.6 + bo * 0.8, 0, 0, TAU); g.fill();
+    g.fillStyle = "#ee6c86"; g.beginPath(); g.ellipse(0, my + 8 + bo * 0.7, 5.5, 1.6 + bo * 0.5, 0, 0, TAU); g.fill();
+    g.fillStyle = "#fff"; g.beginPath(); g.moveTo(-6, my + 4.5); g.lineTo(-4, my + 4.5); g.lineTo(-5, my + 8); g.closePath(); g.moveTo(6, my + 4.5); g.lineTo(4, my + 4.5); g.lineTo(5, my + 8); g.closePath(); g.fill();
+  } else { // la sonrisa
+    g.strokeStyle = PELO.hondo; g.lineWidth = 1.6; g.lineCap = "round"; g.beginPath(); g.moveTo(0, my + 2); g.lineTo(0, my + 6); g.moveTo(-9, my + 4.5); g.quadraticCurveTo(-4, my + 9, 0, my + 6); g.quadraticCurveTo(4, my + 9, 9, my + 4.5); g.stroke();
+  }
+  // la trufa
+  g.fillStyle = "#231a1c"; g.beginPath(); g.moveTo(-6.4, my - 5.4); g.quadraticCurveTo(0, my - 8.6, 6.4, my - 5.4); g.quadraticCurveTo(6.2, my - 0.6, 0, my + 1.6); g.quadraticCurveTo(-6.2, my - 0.6, -6.4, my - 5.4); g.fill();
+  g.fillStyle = "rgba(255,255,255,0.55)"; g.beginPath(); g.ellipse(-2.2, my - 5.2, 2.4, 1.1, -0.15, 0, TAU); g.fill();
+  // los ojos
+  for (const s of [-1, 1]) {
+    const ex = s * 9.5, ey = cy - 3;
+    g.fillStyle = "rgba(109,65,25,0.5)"; g.beginPath(); g.ellipse(ex, ey - 6, 4.4, 1.6, s * 0.2, 0, TAU); g.fill(); // la ceja
+    if (feliz > 0.5 || parp > 0.5) { g.strokeStyle = "#231a1c"; g.lineWidth = 2; g.lineCap = "round"; g.beginPath(); g.arc(ex, ey + (feliz > 0.5 ? 1.5 : 0), 3.6, Math.PI * 1.1, Math.PI * 1.9); g.stroke(); continue; }
+    g.fillStyle = "#fffaf0"; g.beginPath(); g.ellipse(ex, ey, 4.4, 3.9, 0, 0, TAU); g.fill();
+    g.fillStyle = "#6a3b14"; g.beginPath(); g.arc(ex + mira * 1.2, ey + 0.2, 3, 0, TAU); g.fill();
+    g.fillStyle = "#14100f"; g.beginPath(); g.arc(ex + mira * 1.4, ey + 0.2, 1.7, 0, TAU); g.fill();
+    g.fillStyle = "#fff"; g.beginPath(); g.arc(ex + mira * 1.2 - 1, ey - 1.1, 1, 0, TAU); g.fill();
+  }
+  g.restore();
+  return { cabeza: [x, y - 98 * escala] };
 }

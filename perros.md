@@ -20,6 +20,8 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
   mismo estilo (volumen, luz, patas con `miembro()`). Los vídeos nuevos reutilizan esa mejora.
 - Escenas en casa: `salon(g, c, t, hora)` de `perros/mundo.js` (sofá, ventana, alfombra, suelo de madera). Poses: `sentado`
   y `tumbado`. Ahí van la mayoría de planos de «el perro en casa»; el parque, para los de paseo.
+- De frente: `perroFrente()` de `perros/mundo.js` (sentado, mirando a cámara; ladea la cabeza, bosteza, sonríe). Úsalo en
+  primeros planos y reacciones, alternando con el perro de lado. Referencia: `perros/muestra-frente.jpg`.
 - Nada de perros de frente con ojos enormes ni de cuerpos hechos con óvalos sueltos: es lo que peor se ve.
 
 ## Nivel de calidad (obligatorio, antes de renderizar)
