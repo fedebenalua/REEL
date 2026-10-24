@@ -1,0 +1,18 @@
+{
+  "titulo": "El maestro que se cae",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Un maestro de ajedrez, en cinco segundos, devuelve unas dieciséis piezas a su sitio.", "clave": "dieciséis", "hook": true },
+    { "texto": "Un principiante, en esos mismos cinco, devuelve unas cuatro.", "clave": "cuatro", "hook": true },
+    { "texto": "¿Tiene más memoria que tú?", "clave": "memoria", "hook": true },
+    { "texto": "La partida es de verdad: unas veinticinco piezas, a mitad de juego, y se la tapan enseguida.", "clave": "tapan" },
+    { "texto": "Cualquiera diría que se ha hecho una foto.", "clave": "foto" },
+    { "texto": "Pero una foto no sabe de ajedrez: le daría igual.", "clave": "igual" },
+    { "texto": "Así que pon las mismas piezas al azar.", "clave": "azar" },
+    { "texto": "Ahí se le cae casi todo: no guardaba casillas, guardaba grupos de una partida de verdad.", "clave": "grupos" },
+    { "texto": "Y cada grupo le cabe en un solo hueco.", "clave": "hueco" },
+    { "texto": "No tiene más memoria. Tiene más partidas dentro.", "clave": "partidas" },
+    { "texto": "Si quieres ver tu cociente, está en la aplicación del enlace de la bio. Es un número, no lo que vales.", "clave": "número" }
+  ]
+}

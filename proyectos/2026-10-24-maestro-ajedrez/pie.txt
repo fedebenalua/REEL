@@ -1,0 +1,2 @@
+Un maestro de ajedrez devuelve dieciséis piezas en cinco segundos. Un principiante, cuatro.
+No tiene más memoria: tiene más partidas dentro.
