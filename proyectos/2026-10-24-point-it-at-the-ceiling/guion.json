@@ -1,0 +1,19 @@
+{
+  "titulo": "Point the remote at the ceiling",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Your TV remote still works when you point it at the ceiling.", "clave": "ceiling", "hook": true },
+    { "texto": "The light misses the TV, bounces off the paint, and the channel changes.", "clave": "bounces", "hook": true },
+    { "texto": "It isn't a laser. It spreads, like a flashlight.", "clave": "flashlight" },
+    { "texto": "Back up twice as far, and that splash gets four times fainter.", "clave": "fainter" },
+    { "texto": "Shove it under a cushion, and the light never gets out.", "clave": "cushion" },
+    { "texto": "That's why a remote lost in the couch does nothing.", "clave": "nothing" },
+    { "texto": "The first wireless remote had to hit one corner of the screen.", "clave": "corner" },
+    { "texto": "That corner was the button. Miss it, and the set just sat there.", "clave": "sat" },
+    { "texto": "Today the blinks are the button, so a bounce still counts.", "clave": "blinks" },
+    { "texto": "Your phone can change the channel without pointing.", "clave": "phone" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend who aims the remote at the ceiling.", "clave": "friend" }
+  ]
+}

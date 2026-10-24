@@ -1,0 +1,669 @@
+{
+  "firma": "9ed61ae63d19",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Your",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "TV",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "remote",
+      "inicio": 0.84,
+      "fin": 1.04
+    },
+    {
+      "texto": "still",
+      "inicio": 1.12,
+      "fin": 1.36
+    },
+    {
+      "texto": "works",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "texto": "when",
+      "inicio": 1.8,
+      "fin": 1.84
+    },
+    {
+      "texto": "you",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "texto": "point",
+      "inicio": 2.12,
+      "fin": 2.24
+    },
+    {
+      "texto": "it",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "at",
+      "inicio": 2.36,
+      "fin": 2.4
+    },
+    {
+      "texto": "the",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "texto": "ceiling.",
+      "inicio": 2.64,
+      "fin": 3.44
+    },
+    {
+      "texto": "The",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "texto": "light",
+      "inicio": 3.64,
+      "fin": 3.76
+    },
+    {
+      "texto": "misses",
+      "inicio": 3.84,
+      "fin": 4.16
+    },
+    {
+      "texto": "the",
+      "inicio": 4.24,
+      "fin": 4.28
+    },
+    {
+      "texto": "TV,",
+      "inicio": 4.32,
+      "fin": 5.04
+    },
+    {
+      "texto": "bounces",
+      "inicio": 5.08,
+      "fin": 5.44
+    },
+    {
+      "texto": "off",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "texto": "the",
+      "inicio": 5.64,
+      "fin": 5.68
+    },
+    {
+      "texto": "paint,",
+      "inicio": 5.76,
+      "fin": 6.24
+    },
+    {
+      "texto": "and",
+      "inicio": 6.28,
+      "fin": 6.32
+    },
+    {
+      "texto": "the",
+      "inicio": 6.4,
+      "fin": 6.44
+    },
+    {
+      "texto": "channel",
+      "inicio": 6.48,
+      "fin": 6.72
+    },
+    {
+      "texto": "changes.",
+      "inicio": 6.8,
+      "fin": 7.52
+    },
+    {
+      "texto": "It",
+      "inicio": 7.76,
+      "fin": 7.84
+    },
+    {
+      "texto": "isn't",
+      "inicio": 7.92,
+      "fin": 8.08
+    },
+    {
+      "texto": "a",
+      "inicio": 8.12,
+      "fin": 8.16
+    },
+    {
+      "texto": "laser.",
+      "inicio": 8.24,
+      "fin": 8.96
+    },
+    {
+      "texto": "It",
+      "inicio": 9,
+      "fin": 9.04
+    },
+    {
+      "texto": "spreads,",
+      "inicio": 9.12,
+      "fin": 9.68
+    },
+    {
+      "texto": "like",
+      "inicio": 9.76,
+      "fin": 9.84
+    },
+    {
+      "texto": "a",
+      "inicio": 9.867,
+      "fin": 9.893
+    },
+    {
+      "texto": "flashlight.",
+      "inicio": 9.92,
+      "fin": 10.96
+    },
+    {
+      "texto": "Back",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "texto": "up",
+      "inicio": 11.2,
+      "fin": 11.28
+    },
+    {
+      "texto": "twice",
+      "inicio": 11.36,
+      "fin": 11.6
+    },
+    {
+      "texto": "as",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "texto": "far,",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "texto": "and",
+      "inicio": 12.28,
+      "fin": 12.32
+    },
+    {
+      "texto": "that",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "splash",
+      "inicio": 12.56,
+      "fin": 12.96
+    },
+    {
+      "texto": "gets",
+      "inicio": 13.08,
+      "fin": 13.2
+    },
+    {
+      "texto": "four",
+      "inicio": 13.36,
+      "fin": 13.52
+    },
+    {
+      "texto": "times",
+      "inicio": 13.6,
+      "fin": 13.84
+    },
+    {
+      "texto": "fainter.",
+      "inicio": 13.92,
+      "fin": 14.8
+    },
+    {
+      "texto": "Shove",
+      "inicio": 14.84,
+      "fin": 14.96
+    },
+    {
+      "texto": "it",
+      "inicio": 15.04,
+      "fin": 15.08
+    },
+    {
+      "texto": "under",
+      "inicio": 15.12,
+      "fin": 15.28
+    },
+    {
+      "texto": "a",
+      "inicio": 15.36,
+      "fin": 15.4
+    },
+    {
+      "texto": "cushion,",
+      "inicio": 15.44,
+      "fin": 16
+    },
+    {
+      "texto": "and",
+      "inicio": 16.04,
+      "fin": 16.08
+    },
+    {
+      "texto": "the",
+      "inicio": 16.16,
+      "fin": 16.2
+    },
+    {
+      "texto": "light",
+      "inicio": 16.24,
+      "fin": 16.4
+    },
+    {
+      "texto": "never",
+      "inicio": 16.56,
+      "fin": 16.72
+    },
+    {
+      "texto": "gets",
+      "inicio": 16.8,
+      "fin": 16.96
+    },
+    {
+      "texto": "out.",
+      "inicio": 17.04,
+      "fin": 17.76
+    },
+    {
+      "texto": "That's",
+      "inicio": 17.84,
+      "fin": 17.973
+    },
+    {
+      "texto": "why",
+      "inicio": 18.027,
+      "fin": 18.08
+    },
+    {
+      "texto": "a",
+      "inicio": 18.16,
+      "fin": 18.2
+    },
+    {
+      "texto": "remote",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "texto": "lost",
+      "inicio": 18.64,
+      "fin": 18.88
+    },
+    {
+      "texto": "in",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "the",
+      "inicio": 19,
+      "fin": 19.04
+    },
+    {
+      "texto": "couch",
+      "inicio": 19.12,
+      "fin": 19.52
+    },
+    {
+      "texto": "does",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "texto": "nothing.",
+      "inicio": 19.84,
+      "fin": 20.72
+    },
+    {
+      "texto": "The",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "texto": "first",
+      "inicio": 21,
+      "fin": 21.12
+    },
+    {
+      "texto": "wireless",
+      "inicio": 21.2,
+      "fin": 21.6
+    },
+    {
+      "texto": "remote",
+      "inicio": 21.8,
+      "fin": 22
+    },
+    {
+      "texto": "had",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "to",
+      "inicio": 22.24,
+      "fin": 22.32
+    },
+    {
+      "texto": "hit",
+      "inicio": 22.44,
+      "fin": 22.56
+    },
+    {
+      "texto": "one",
+      "inicio": 22.64,
+      "fin": 22.8
+    },
+    {
+      "texto": "corner",
+      "inicio": 22.88,
+      "fin": 23.12
+    },
+    {
+      "texto": "of",
+      "inicio": 23.2,
+      "fin": 23.28
+    },
+    {
+      "texto": "the",
+      "inicio": 23.32,
+      "fin": 23.36
+    },
+    {
+      "texto": "screen.",
+      "inicio": 23.44,
+      "fin": 24.16
+    },
+    {
+      "texto": "That",
+      "inicio": 24.24,
+      "fin": 24.32
+    },
+    {
+      "texto": "corner",
+      "inicio": 24.4,
+      "fin": 24.8
+    },
+    {
+      "texto": "was",
+      "inicio": 24.88,
+      "fin": 24.96
+    },
+    {
+      "texto": "the",
+      "inicio": 25,
+      "fin": 25.04
+    },
+    {
+      "texto": "button.",
+      "inicio": 25.12,
+      "fin": 25.92
+    },
+    {
+      "texto": "Miss",
+      "inicio": 26.04,
+      "fin": 26.16
+    },
+    {
+      "texto": "it,",
+      "inicio": 26.24,
+      "fin": 26.56
+    },
+    {
+      "texto": "and",
+      "inicio": 26.6,
+      "fin": 26.64
+    },
+    {
+      "texto": "the",
+      "inicio": 26.72,
+      "fin": 26.76
+    },
+    {
+      "texto": "set",
+      "inicio": 26.8,
+      "fin": 27.04
+    },
+    {
+      "texto": "just",
+      "inicio": 27.12,
+      "fin": 27.28
+    },
+    {
+      "texto": "sat",
+      "inicio": 27.4,
+      "fin": 27.52
+    },
+    {
+      "texto": "there.",
+      "inicio": 27.6,
+      "fin": 28.4
+    },
+    {
+      "texto": "Today",
+      "inicio": 28.64,
+      "fin": 28.88
+    },
+    {
+      "texto": "the",
+      "inicio": 28.92,
+      "fin": 28.96
+    },
+    {
+      "texto": "blinks",
+      "inicio": 29.04,
+      "fin": 29.44
+    },
+    {
+      "texto": "are",
+      "inicio": 29.48,
+      "fin": 29.52
+    },
+    {
+      "texto": "the",
+      "inicio": 29.6,
+      "fin": 29.68
+    },
+    {
+      "texto": "button,",
+      "inicio": 29.84,
+      "fin": 30.24
+    },
+    {
+      "texto": "so",
+      "inicio": 30.4,
+      "fin": 30.56
+    },
+    {
+      "texto": "a",
+      "inicio": 30.64,
+      "fin": 30.72
+    },
+    {
+      "texto": "bounce",
+      "inicio": 30.8,
+      "fin": 31.12
+    },
+    {
+      "texto": "still",
+      "inicio": 31.24,
+      "fin": 31.36
+    },
+    {
+      "texto": "counts.",
+      "inicio": 31.44,
+      "fin": 32.4
+    },
+    {
+      "texto": "Your",
+      "inicio": 32.52,
+      "fin": 32.64
+    },
+    {
+      "texto": "phone",
+      "inicio": 32.76,
+      "fin": 32.88
+    },
+    {
+      "texto": "can",
+      "inicio": 32.96,
+      "fin": 33.12
+    },
+    {
+      "texto": "change",
+      "inicio": 33.24,
+      "fin": 33.36
+    },
+    {
+      "texto": "the",
+      "inicio": 33.44,
+      "fin": 33.52
+    },
+    {
+      "texto": "channel",
+      "inicio": 33.68,
+      "fin": 33.84
+    },
+    {
+      "texto": "without",
+      "inicio": 34.04,
+      "fin": 34.24
+    },
+    {
+      "texto": "pointing.",
+      "inicio": 34.36,
+      "fin": 35.04
+    },
+    {
+      "texto": "The",
+      "inicio": 35.08,
+      "fin": 35.12
+    },
+    {
+      "texto": "app",
+      "inicio": 35.2,
+      "fin": 35.44
+    },
+    {
+      "texto": "is",
+      "inicio": 35.48,
+      "fin": 35.52
+    },
+    {
+      "texto": "in",
+      "inicio": 35.6,
+      "fin": 35.68
+    },
+    {
+      "texto": "the",
+      "inicio": 35.707,
+      "fin": 35.733
+    },
+    {
+      "texto": "link",
+      "inicio": 35.76,
+      "fin": 35.92
+    },
+    {
+      "texto": "in",
+      "inicio": 36,
+      "fin": 36.08
+    },
+    {
+      "texto": "bio.",
+      "inicio": 36.16,
+      "fin": 37.04
+    },
+    {
+      "texto": "Send",
+      "inicio": 37.12,
+      "fin": 37.2
+    },
+    {
+      "texto": "it",
+      "inicio": 37.24,
+      "fin": 37.28
+    },
+    {
+      "texto": "to",
+      "inicio": 37.32,
+      "fin": 37.36
+    },
+    {
+      "texto": "that",
+      "inicio": 37.44,
+      "fin": 37.6
+    },
+    {
+      "texto": "friend",
+      "inicio": 37.68,
+      "fin": 37.92
+    },
+    {
+      "texto": "who",
+      "inicio": 38,
+      "fin": 38.08
+    },
+    {
+      "texto": "aims",
+      "inicio": 38.16,
+      "fin": 38.32
+    },
+    {
+      "texto": "the",
+      "inicio": 38.4,
+      "fin": 38.44
+    },
+    {
+      "texto": "remote",
+      "inicio": 38.48,
+      "fin": 38.8
+    },
+    {
+      "texto": "at",
+      "inicio": 38.84,
+      "fin": 38.88
+    },
+    {
+      "texto": "the",
+      "inicio": 38.96,
+      "fin": 39.04
+    },
+    {
+      "texto": "ceiling.",
+      "inicio": 39.08,
+      "fin": 39.68
+    }
+  ]
+}
