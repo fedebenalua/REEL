@@ -1,0 +1,18 @@
+{
+  "titulo": "La bombilla del sofá",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Tu cerebro, en el sofá, gasta como una bombilla pequeña encendida.", "clave": "bombilla", "hook": true },
+    { "texto": "Se bebe una de cada cinco calorías, con solo el dos por ciento de ti.", "clave": "cinco", "hook": true },
+    { "texto": "¿Para qué tanto, si no estás pensando en nada?", "clave": "nada", "hook": true },
+    { "texto": "Porque por dentro no para: va lleno de señales.", "clave": "señales" },
+    { "texto": "La mayor parte de esa energía son mensajes entre neuronas.", "clave": "mensajes" },
+    { "texto": "Pensar de verdad apenas suma: la sangre, en esa zona, suele subir un cinco por ciento, o menos.", "clave": "sangre" },
+    { "texto": "Y si se rompe un trozo, falla algo concreto. No hay un rincón mudo.", "clave": "trozo" },
+    { "texto": "Así que lo del diez por ciento es mentira: lo usas entero.", "clave": "diez" },
+    { "texto": "Lo que no puedes es encender todas las neuronas a la vez. Si disparan de más, eso es una crisis.", "clave": "crisis" },
+    { "texto": "No te queda cerebro sin estrenar: ya va, hasta en el sofá.", "clave": "sofá" },
+    { "texto": "Sígueme, y envíaselo a ese amigo que cree que lo tiene a medias.", "clave": "amigo" }
+  ]
+}
