@@ -50,6 +50,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 4: ¿Por qué las puertas de los supermercados se abren justo cuando te acercas? (2026-10-23).
 - Lista del creador 5: ¿Cómo sabe un coche que una rueda tiene poco aire? (2026-10-24).
 - Lista del creador 6: ¿Por qué los aviones tienen un pequeño agujero en las ventanillas? (2026-10-24).
+- Lista del creador 7: ¿Cómo sabe una máquina expendedora que tu producto ha caído? (2026-10-24).
 
 ## Ideas pendientes
 

@@ -1,0 +1,49 @@
+{
+  "titulo": "Cómo sabe la máquina expendedora que ha caído",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Cómo sabe una máquina expendedora que tu producto ha caído?",
+      "clave": "caído",
+      "hook": true
+    },
+    {
+      "texto": "No lo ve. Espera a que corte una luz que tú no ves.",
+      "clave": "luz",
+      "hook": true
+    },
+    {
+      "texto": "Encima de donde lo recoges, dos sensores tienden una cortina de luz infrarroja.",
+      "clave": "cortina"
+    },
+    {
+      "texto": "La espiral gira, empuja la bolsa y la suelta.",
+      "clave": "espiral"
+    },
+    {
+      "texto": "Al caer, tapa esa luz un instante. Para la máquina, eso es que ya está.",
+      "clave": "instante"
+    },
+    {
+      "texto": "Si se queda enganchada y la luz sigue entera, la espiral gira un poco más.",
+      "clave": "enganchada"
+    },
+    {
+      "texto": "Si aun así no cae, te guarda el dinero para que elijas otra.",
+      "clave": "dinero"
+    },
+    {
+      "texto": "Igual que los ojitos de la puerta del garaje: si algo corta el rayo, la puerta no baja.",
+      "clave": "garaje"
+    },
+    {
+      "texto": "Así que no adivina: sabe que ha caído porque le has tapado la luz.",
+      "clave": "tapado"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que sacude la máquina cuando no cae.",
+      "clave": "sacude"
+    }
+  ]
+}
