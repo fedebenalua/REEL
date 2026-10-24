@@ -1,0 +1,18 @@
+{
+  "titulo": "Toilet keeps running? The two-minute fix",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why does your toilet keep running?", "clave": "running", "hook": true },
+    { "texto": "A leaky one wastes about two hundred gallons a day.", "clave": "gallons", "hook": true },
+    { "texto": "If water spills down the overflow tube, the float is too high.", "clave": "spills", "hook": true },
+    { "texto": "Turn the screw beside the float counterclockwise, until the water stops an inch below the top.", "clave": "counterclockwise" },
+    { "texto": "If it doesn't spill, the flapper isn't sealing. Shut the wall valve clockwise, and flush once.", "clave": "flapper" },
+    { "texto": "Lift off the old flapper, and clip on a new one the same size.", "clave": "new" },
+    { "texto": "Leave half an inch of slack in the chain, then open the valve.", "clave": "slack" },
+    { "texto": "The water rises and stops, and the hiss goes quiet.", "clave": "quiet" },
+    { "texto": "Keep bleach tablets out of the tank. They warp that rubber.", "clave": "bleach" },
+    { "texto": "If the wall valve won't turn, stop and call a plumber.", "clave": "plumber" },
+    { "texto": "Send this to that friend whose toilet won't stop running.", "clave": "friend" }
+  ]
+}

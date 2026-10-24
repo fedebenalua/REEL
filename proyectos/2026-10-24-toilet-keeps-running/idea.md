@@ -1,0 +1,20 @@
+# Toilet keeps running
+
+Pedido el 2026-10-24. Idea de casa.md: «Toilet Keeps Running? Here's the 2-Minute Fix».
+
+## Lo que cuenta, en una frase
+
+El váter no para porque o el agua se cuela por el tubo de rebose (el flotador está alto) o la goma del fondo no cierra; se baja el flotador girando el tornillo al revés, o se cambia la goma del mismo tamaño con un poco de cadena floja, y eso corta una fuga de unos 200 galones al día.
+
+## Los datos, cada uno con su fuente
+
+- **Lo sorprendente:** un váter que pierde puede gastar unos 200 galones de agua al día. Fuente: EPA WaterSense, hoja «Indoor Water Use in the United States» (marzo 2017): «A leaky toilet can waste about 200 gallons of water every day.» https://www.epa.gov/sites/default/files/2017-03/documents/ws-facthseet-indoor-water-use-in-the-us.pdf
+- **La regla que rompe:** parece un hilo de agua inofensivo. En un día son unos 200 galones. (La cifra de 4.300 galones al día de la guía WaterSense de 2026 es otra cosa: una válvula de llenado atascada abierta, no la fuga típica de la goma. No se usa aquí.)
+- **La causa más común:** la fuga de la flapper (la goma del fondo del depósito) es el punto de fuga más habitual y cae siempre a la taza. Fuente: Fluidmaster, «Leaking Toilet Flapper»: «Flapper leaks are the most common leak point and always leaks directly into the bowl.» https://fluidmaster.com/toilet-problems/identify-fix-toilet-flapper-leaks/
+- **Si el agua se va por el tubo de rebose:** el flotador está alto. En la válvula Fluidmaster 400A, el tornillo de nivel se gira en sentido horario para subir el flotador y antihorario para bajarlo. El agua debe quedar unos ½ pulgada por debajo de la boca del tubo (guía 400A) o entre ½ y 1 pulgada (hoja PRO45). EPA WaterSense at Work (tanques) dice una pulgada por debajo. El vídeo dice «an inch below», que cabe en el rango del fabricante y coincide con la EPA. Fuentes: https://www.fluidmaster.com/wp-content/uploads/2017/12/400A_Instructions_Booklet_FM91623_Grev4_ENGLISH_122017_HR.pdf y https://www.epa.gov/system/files/documents/2023-06/ws-commercial-watersense-at-work_Section_3.1_Toilets.pdf
+- **La cadena:** holgura de ¼ a ½ pulgada. Si queda tensa, levanta la goma y el agua sigue corriendo. Fuente: Fluidmaster, inspección de la flapper («Have 1/4″ to 1/2″ slack in chain») y la guía 400A («Give flapper chain approximately 1/2″ of slack»).
+- **La goma nueva, del mismo tamaño.** La EPA dice llevar la vieja (o una foto) a la tienda para que coincida el ancho. No vale cualquiera. https://www.epa.gov/watersense/fix-leak-week
+- **Pastillas de lejía en el depósito:** Fluidmaster avisa de no usar limpia-tazas de pastilla con lejía o cloro dentro del depósito. Estropean las piezas, pueden causar una inundación y anulan la garantía. Si la goma está deformada, esas pastillas son la causa. https://fluidmaster.com/toilet-problems/identify-fix-toilet-flapper-leaks/
+- **Seguridad:** se cierra la llave de la pared (sentido horario, hasta que pare) antes de vaciar y tocar la goma. Si esa llave no gira, no se fuerza: se llama a un fontanero. El depósito es agua limpia de la red; no se mete la mano en la taza. No se aprietan tuercas de plástico a lo bestia (Fluidmaster: la tuerca del mecanismo, como mucho media vuelta más de lo que da la mano). El vídeo no pide abrir el gas ni la electricidad.
+- **El mecanismo, en orden:** se mira el depósito. Si el agua cae por el tubo de rebose, se baja el flotador (tornillo antihorario) hasta una pulgada bajo la boca. Si no cae por ahí, la goma no sella: se cierra la llave, se descarga una vez, se quita la goma vieja, se pone una del mismo tamaño con media pulgada de cadena floja, se abre el agua y se comprueba que para bajo el tubo. Si la llave de la pared no gira, se para y se llama a un fontanero. Las pastillas de lejía no vuelven al depósito.
+- **Comparaciones de casa:** el tubo de rebose del depósito (como el rebosadero de un lavabo), la cadena con un dedo de holgura, la llave de paso de la pared como la de debajo del fregadero.

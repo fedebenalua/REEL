@@ -39,34 +39,34 @@ cada 6 horas.
 
 1. Why Is My Faucet Dripping? (and How to Fix It in 5 Minutes), 2026-10-23
 2. How to Unclog a Drain Without Chemicals, 2026-10-23
+3. Toilet Keeps Running? Here's the 2-Minute Fix, 2026-10-24
 
 ## Ideas pendientes
 
-1. Toilet Keeps Running? Here's the 2-Minute Fix
-2. Why Does My Shower Have Low Water Pressure?
-3. How to Remove Mold From Bathroom Caulk
-4. Why Is My Water Heater Making Banging Noises?
-5. How to Fix a Squeaky Door in 30 Seconds
-6. Outlet Not Working? Check This First
-7. How to Fix a Clogged Toilet With No Plunger
-8. Why Is There a Wet Spot on My Ceiling?
-9. How to Fix a Hole in the Wall
-10. Why Does My Fridge Leak Water on the Floor?
-11. How to Stop a Window From Fogging Up Inside
-12. Dishwasher Smells Bad? Fix It Fast
-13. How to Fix a Running Toilet Flapper
-14. Why Does My Circuit Breaker Keep Tripping?
-15. How to Remove Hard Water Stains From Glass
-16. How to Fix a Sagging Cabinet Door
-17. Why Is My AC Blowing Warm Air?
-18. How to Fix a Stripped Screw Hole
-19. Why Do My Pipes Freeze, and How Do I Thaw Them?
-20. How to Remove Water Rings From Wood
-21. Why Does My House Smell Like Sewage?
-22. How to Fix a Loose Toilet Seat
-23. How to Get Rid of Fruit Flies in the Kitchen
-24. Why Is My Garbage Disposal Humming and Not Spinning?
-25. How to Unclog a Kitchen Sink in 3 Steps
-26. Why Does My Washing Machine Shake So Much?
-27. How to Fix a Wobbly Chair
-28. How to Remove Carpet Stains in Minutes
+1. Why Does My Shower Have Low Water Pressure?
+2. How to Remove Mold From Bathroom Caulk
+3. Why Is My Water Heater Making Banging Noises?
+4. How to Fix a Squeaky Door in 30 Seconds
+5. Outlet Not Working? Check This First
+6. How to Fix a Clogged Toilet With No Plunger
+7. Why Is There a Wet Spot on My Ceiling?
+8. How to Fix a Hole in the Wall
+9. Why Does My Fridge Leak Water on the Floor?
+10. How to Stop a Window From Fogging Up Inside
+11. Dishwasher Smells Bad? Fix It Fast
+12. How to Fix a Running Toilet Flapper
+13. Why Does My Circuit Breaker Keep Tripping?
+14. How to Remove Hard Water Stains From Glass
+15. How to Fix a Sagging Cabinet Door
+16. Why Is My AC Blowing Warm Air?
+17. How to Fix a Stripped Screw Hole
+18. Why Do My Pipes Freeze, and How Do I Thaw Them?
+19. How to Remove Water Rings From Wood
+20. Why Does My House Smell Like Sewage?
+21. How to Fix a Loose Toilet Seat
+22. How to Get Rid of Fruit Flies in the Kitchen
+23. Why Is My Garbage Disposal Humming and Not Spinning?
+24. How to Unclog a Kitchen Sink in 3 Steps
+25. Why Does My Washing Machine Shake So Much?
+26. How to Fix a Wobbly Chair
+27. How to Remove Carpet Stains in Minutes
