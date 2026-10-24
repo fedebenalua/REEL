@@ -55,13 +55,13 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 9: ¿Cómo sabe tu móvil que tienes la pantalla pegada a la oreja? (2026-10-24).
 - Lista del creador 10: ¿Por qué las tapas de alcantarilla suelen ser redondas? (2026-10-24).
 - Por qué se te ponen los dedos como pasas en la bañera (2026-10-24).
+- Por qué se te duermen los pies al sentarte (2026-10-24).
 
 ## Ideas pendientes
 
 (Antes de elegir, mira `proyectos/`: ya hay vídeos del plátano, el pulpo, el papel doblado, el primer móvil, los gatos,
 las cosquillas y el cielo azul.)
 
-- Por qué se te duermen los pies al sentarte.
 - Por qué los flamencos son rosas por lo que comen.
 - Por qué crujen los nudillos.
 - Qué pasa en tu cuerpo si pasas 24 horas sin dormir.
