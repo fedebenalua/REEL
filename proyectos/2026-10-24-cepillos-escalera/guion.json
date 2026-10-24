@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué la escalera mecánica tiene cepillos",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué las escaleras mecánicas tienen cepillos en los laterales?", "clave": "cepillos", "hook": true },
+    { "texto": "Parece que barren el polvo de tus zapatos.", "clave": "polvo", "hook": true },
+    { "texto": "No barren nada.", "clave": "nada", "hook": true },
+    { "texto": "El escalón se mueve, y el lateral se queda quieto.", "clave": "quieto" },
+    { "texto": "Entre los dos queda una rendija de cuatro milímetros, como mucho: más fina que dos monedas de un euro, una sobre otra.", "clave": "milímetros" },
+    { "texto": "Si metes ahí la punta del zapato, el escalón se la lleva.", "clave": "lleva" },
+    { "texto": "Por eso el cepillo sale del lateral, justo encima.", "clave": "encima" },
+    { "texto": "Las cerdas rozan el zapato y lo empujan al centro.", "clave": "centro" },
+    { "texto": "Y apartan igual un cordón o el bajo del pantalón.", "clave": "pantalón" },
+    { "texto": "Así que no limpian: te sacan de la única rendija que se mueve.", "clave": "rendija" },
+    { "texto": "Envíaselo a ese amigo que se pone siempre en el borde.", "clave": "borde" }
+  ]
+}

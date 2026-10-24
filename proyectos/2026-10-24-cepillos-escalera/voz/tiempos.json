@@ -1,0 +1,911 @@
+{
+  "firma": "296766c4246e",
+  "duracion": 38.24,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué las escaleras mecánicas tienen cepillos en los laterales?",
+      "clave": "cepillos",
+      "inicio": 0,
+      "fin": 3.6
+    },
+    {
+      "n": 2,
+      "texto": "Parece que barren el polvo de tus zapatos.",
+      "clave": "polvo",
+      "inicio": 3.653,
+      "fin": 6
+    },
+    {
+      "n": 3,
+      "texto": "No barren nada.",
+      "clave": "nada",
+      "inicio": 6.08,
+      "fin": 7.44
+    },
+    {
+      "n": 4,
+      "texto": "El escalón se mueve, y el lateral se queda quieto.",
+      "clave": "quieto",
+      "inicio": 7.48,
+      "fin": 10.64
+    },
+    {
+      "n": 5,
+      "texto": "Entre los dos queda una rendija de cuatro milímetros, como mucho: más fina que dos monedas de un euro, una sobre otra.",
+      "clave": "milímetros",
+      "inicio": 10.76,
+      "fin": 17.76
+    },
+    {
+      "n": 6,
+      "texto": "Si metes ahí la punta del zapato, el escalón se la lleva.",
+      "clave": "lleva",
+      "inicio": 17.84,
+      "fin": 21.12
+    },
+    {
+      "n": 7,
+      "texto": "Por eso el cepillo sale del lateral, justo encima.",
+      "clave": "encima",
+      "inicio": 21.2,
+      "fin": 24.4
+    },
+    {
+      "n": 8,
+      "texto": "Las cerdas rozan el zapato y lo empujan al centro.",
+      "clave": "centro",
+      "inicio": 24.48,
+      "fin": 27.68
+    },
+    {
+      "n": 9,
+      "texto": "Y apartan igual un cordón o el bajo del pantalón.",
+      "clave": "pantalón",
+      "inicio": 27.707,
+      "fin": 30.48
+    },
+    {
+      "n": 10,
+      "texto": "Así que no limpian: te sacan de la única rendija que se mueve.",
+      "clave": "rendija",
+      "inicio": 30.56,
+      "fin": 34.72
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que se pone siempre en el borde.",
+      "clave": "borde",
+      "inicio": 34.8,
+      "fin": 37.44
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "escaleras",
+      "inicio": 0.48,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mecánicas",
+      "inicio": 0.96,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tienen",
+      "inicio": 1.6,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cepillos",
+      "inicio": 1.84,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 2.36,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 2.48,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "laterales?",
+      "inicio": 2.72,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Parece",
+      "inicio": 3.653,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.92,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "barren",
+      "inicio": 4.08,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 4.4,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "polvo",
+      "inicio": 4.52,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 4.76,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 4.84,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "zapatos.",
+      "inicio": 5.08,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 6.08,
+      "fin": 6.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "barren",
+      "inicio": 6.32,
+      "fin": 6.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "nada.",
+      "inicio": 6.68,
+      "fin": 7.44,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 7.48,
+      "fin": 7.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "escalón",
+      "inicio": 7.6,
+      "fin": 8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 8.04,
+      "fin": 8.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mueve,",
+      "inicio": 8.24,
+      "fin": 8.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 8.76,
+      "fin": 8.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 8.84,
+      "fin": 8.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lateral",
+      "inicio": 8.92,
+      "fin": 9.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 9.64,
+      "fin": 9.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "quieto.",
+      "inicio": 9.84,
+      "fin": 10.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Entre",
+      "inicio": 10.76,
+      "fin": 10.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.96,
+      "fin": 11.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.12,
+      "fin": 11.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 11.36,
+      "fin": 11.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 11.6,
+      "fin": 11.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "rendija",
+      "inicio": 11.76,
+      "fin": 12.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.24,
+      "fin": 12.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 12.44,
+      "fin": 12.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "milímetros,",
+      "inicio": 12.8,
+      "fin": 13.4,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "como",
+      "inicio": 13.44,
+      "fin": 13.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mucho:",
+      "inicio": 13.68,
+      "fin": 14.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 14.44,
+      "fin": 14.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "fina",
+      "inicio": 14.64,
+      "fin": 14.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 14.96,
+      "fin": 15.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 15.2,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "monedas",
+      "inicio": 15.36,
+      "fin": 15.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 15.76,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 15.88,
+      "fin": 15.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "euro,",
+      "inicio": 16,
+      "fin": 16.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 16.48,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 16.72,
+      "fin": 16.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "otra.",
+      "inicio": 17.04,
+      "fin": 17.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 17.84,
+      "fin": 17.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "metes",
+      "inicio": 18,
+      "fin": 18.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ahí",
+      "inicio": 18.24,
+      "fin": 18.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.4,
+      "fin": 18.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "punta",
+      "inicio": 18.56,
+      "fin": 18.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 18.84,
+      "fin": 18.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "zapato,",
+      "inicio": 18.96,
+      "fin": 19.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 19.6,
+      "fin": 19.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "escalón",
+      "inicio": 19.84,
+      "fin": 20.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 20.16,
+      "fin": 20.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 20.28,
+      "fin": 20.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "lleva.",
+      "inicio": 20.4,
+      "fin": 21.12,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Por",
+      "inicio": 21.2,
+      "fin": 21.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 21.4,
+      "fin": 21.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 21.56,
+      "fin": 21.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cepillo",
+      "inicio": 21.68,
+      "fin": 22.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 22.2,
+      "fin": 22.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 22.4,
+      "fin": 22.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lateral,",
+      "inicio": 22.56,
+      "fin": 23.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 23.32,
+      "fin": 23.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "encima.",
+      "inicio": 23.64,
+      "fin": 24.4,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Las",
+      "inicio": 24.48,
+      "fin": 24.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cerdas",
+      "inicio": 24.64,
+      "fin": 25.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "rozan",
+      "inicio": 25.12,
+      "fin": 25.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 25.48,
+      "fin": 25.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "zapato",
+      "inicio": 25.6,
+      "fin": 26,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 26.08,
+      "fin": 26.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.2,
+      "fin": 26.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "empujan",
+      "inicio": 26.32,
+      "fin": 26.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 26.8,
+      "fin": 26.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "centro.",
+      "inicio": 27,
+      "fin": 27.68,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 27.707,
+      "fin": 27.733,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "apartan",
+      "inicio": 27.76,
+      "fin": 28.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "igual",
+      "inicio": 28.16,
+      "fin": 28.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 28.4,
+      "fin": 28.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cordón",
+      "inicio": 28.6,
+      "fin": 28.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 29,
+      "fin": 29.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 29.12,
+      "fin": 29.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "bajo",
+      "inicio": 29.24,
+      "fin": 29.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 29.52,
+      "fin": 29.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pantalón.",
+      "inicio": 29.64,
+      "fin": 30.48,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 30.56,
+      "fin": 30.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 30.8,
+      "fin": 30.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 31.04,
+      "fin": 31.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "limpian:",
+      "inicio": 31.2,
+      "fin": 32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 32.08,
+      "fin": 32.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sacan",
+      "inicio": 32.24,
+      "fin": 32.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 32.64,
+      "fin": 32.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 32.76,
+      "fin": 32.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "única",
+      "inicio": 32.88,
+      "fin": 33.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "rendija",
+      "inicio": 33.2,
+      "fin": 33.68,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 33.72,
+      "fin": 33.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 33.84,
+      "fin": 33.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "mueve.",
+      "inicio": 34,
+      "fin": 34.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 34.8,
+      "fin": 35.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 35.307,
+      "fin": 35.333,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 35.36,
+      "fin": 35.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 35.6,
+      "fin": 35.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 35.88,
+      "fin": 35.92,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 36,
+      "fin": 36.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 36.2,
+      "fin": 36.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 36.36,
+      "fin": 36.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 36.68,
+      "fin": 36.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 36.76,
+      "fin": 36.8,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "borde.",
+      "inicio": 36.88,
+      "fin": 37.44,
+      "frase": 11,
+      "clave": true
+    }
+  ]
+}
