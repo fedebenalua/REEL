@@ -1,0 +1,809 @@
+{
+  "firma": "c23e62465a46",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 0.2,
+      "fin": 0.56
+    },
+    {
+      "texto": "pesa",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "texto": "poco",
+      "inicio": 0.96,
+      "fin": 1.2
+    },
+    {
+      "texto": "más",
+      "inicio": 1.28,
+      "fin": 1.44
+    },
+    {
+      "texto": "que",
+      "inicio": 1.48,
+      "fin": 1.52
+    },
+    {
+      "texto": "una",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "texto": "botella",
+      "inicio": 1.76,
+      "fin": 2.08
+    },
+    {
+      "texto": "de",
+      "inicio": 2.16,
+      "fin": 2.2
+    },
+    {
+      "texto": "agua",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "texto": "de",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "texto": "litro,",
+      "inicio": 2.68,
+      "fin": 3.2
+    },
+    {
+      "texto": "y",
+      "inicio": 3.28,
+      "fin": 3.36
+    },
+    {
+      "texto": "gasta",
+      "inicio": 3.4,
+      "fin": 3.68
+    },
+    {
+      "texto": "como",
+      "inicio": 3.76,
+      "fin": 3.92
+    },
+    {
+      "texto": "una",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "bombilla",
+      "inicio": 4.16,
+      "fin": 4.48
+    },
+    {
+      "texto": "pequeña,",
+      "inicio": 4.56,
+      "fin": 5.2
+    },
+    {
+      "texto": "día",
+      "inicio": 5.28,
+      "fin": 5.6
+    },
+    {
+      "texto": "y",
+      "inicio": 5.76,
+      "fin": 5.84
+    },
+    {
+      "texto": "noche.",
+      "inicio": 5.92,
+      "fin": 6.32
+    },
+    {
+      "texto": "Es",
+      "inicio": 6.8,
+      "fin": 6.88
+    },
+    {
+      "texto": "el",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.12,
+      "fin": 7.28
+    },
+    {
+      "texto": "por",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "texto": "ciento",
+      "inicio": 7.52,
+      "fin": 7.76
+    },
+    {
+      "texto": "de",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "texto": "tu",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "texto": "cuerpo,",
+      "inicio": 8.12,
+      "fin": 8.72
+    },
+    {
+      "texto": "y",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "quieto",
+      "inicio": 8.88,
+      "fin": 9.28
+    },
+    {
+      "texto": "se",
+      "inicio": 9.44,
+      "fin": 9.52
+    },
+    {
+      "texto": "bebe",
+      "inicio": 9.56,
+      "fin": 9.76
+    },
+    {
+      "texto": "una",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "texto": "de",
+      "inicio": 10.08,
+      "fin": 10.16
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.213,
+      "fin": 10.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.48,
+      "fin": 10.72
+    },
+    {
+      "texto": "calorías.",
+      "inicio": 10.88,
+      "fin": 11.44
+    },
+    {
+      "texto": "Entonces,",
+      "inicio": 11.92,
+      "fin": 12.48
+    },
+    {
+      "texto": "¿cómo",
+      "inicio": 12.8,
+      "fin": 12.96
+    },
+    {
+      "texto": "puede",
+      "inicio": 13.04,
+      "fin": 13.28
+    },
+    {
+      "texto": "ser",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "texto": "que",
+      "inicio": 13.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "casi",
+      "inicio": 13.787,
+      "fin": 14
+    },
+    {
+      "texto": "todo",
+      "inicio": 14.08,
+      "fin": 14.32
+    },
+    {
+      "texto": "esté",
+      "inicio": 14.4,
+      "fin": 14.56
+    },
+    {
+      "texto": "apagado?",
+      "inicio": 14.64,
+      "fin": 15.12
+    },
+    {
+      "texto": "Eso",
+      "inicio": 15.84,
+      "fin": 16.08
+    },
+    {
+      "texto": "es",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 16.28,
+      "fin": 16.32
+    },
+    {
+      "texto": "que",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "texto": "se",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "texto": "cuenta:",
+      "inicio": 16.6,
+      "fin": 17.28
+    },
+    {
+      "texto": "que",
+      "inicio": 17.32,
+      "fin": 17.36
+    },
+    {
+      "texto": "solo",
+      "inicio": 17.44,
+      "fin": 17.68
+    },
+    {
+      "texto": "usas",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "texto": "un",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "texto": "trocito,",
+      "inicio": 18.12,
+      "fin": 18.72
+    },
+    {
+      "texto": "y",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "texto": "el",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "texto": "resto",
+      "inicio": 19.04,
+      "fin": 19.36
+    },
+    {
+      "texto": "sobra.",
+      "inicio": 19.52,
+      "fin": 19.92
+    },
+    {
+      "texto": "Sería",
+      "inicio": 20.4,
+      "fin": 20.72
+    },
+    {
+      "texto": "como",
+      "inicio": 20.84,
+      "fin": 20.96
+    },
+    {
+      "texto": "pagar",
+      "inicio": 21.04,
+      "fin": 21.28
+    },
+    {
+      "texto": "la",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "texto": "luz",
+      "inicio": 21.48,
+      "fin": 21.6
+    },
+    {
+      "texto": "de",
+      "inicio": 21.64,
+      "fin": 21.68
+    },
+    {
+      "texto": "toda",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "texto": "la",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "casa",
+      "inicio": 22.2,
+      "fin": 22.48
+    },
+    {
+      "texto": "para",
+      "inicio": 22.56,
+      "fin": 22.72
+    },
+    {
+      "texto": "vivir",
+      "inicio": 22.8,
+      "fin": 23.04
+    },
+    {
+      "texto": "en",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "texto": "un",
+      "inicio": 23.2,
+      "fin": 23.24
+    },
+    {
+      "texto": "cuarto.",
+      "inicio": 23.28,
+      "fin": 23.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.16,
+      "fin": 24.24
+    },
+    {
+      "texto": "la",
+      "inicio": 24.28,
+      "fin": 24.32
+    },
+    {
+      "texto": "bombilla",
+      "inicio": 24.4,
+      "fin": 24.72
+    },
+    {
+      "texto": "de",
+      "inicio": 24.76,
+      "fin": 24.8
+    },
+    {
+      "texto": "tu",
+      "inicio": 24.84,
+      "fin": 24.88
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 24.96,
+      "fin": 25.36
+    },
+    {
+      "texto": "sería",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "texto": "una",
+      "inicio": 25.84,
+      "fin": 26
+    },
+    {
+      "texto": "lucecita",
+      "inicio": 26.08,
+      "fin": 26.64
+    },
+    {
+      "texto": "de",
+      "inicio": 26.68,
+      "fin": 26.72
+    },
+    {
+      "texto": "noche,",
+      "inicio": 26.8,
+      "fin": 27.28
+    },
+    {
+      "texto": "no",
+      "inicio": 27.36,
+      "fin": 27.44
+    },
+    {
+      "texto": "una",
+      "inicio": 27.52,
+      "fin": 27.68
+    },
+    {
+      "texto": "lámpara.",
+      "inicio": 27.72,
+      "fin": 28.16
+    },
+    {
+      "texto": "El",
+      "inicio": 28.64,
+      "fin": 28.72
+    },
+    {
+      "texto": "contador",
+      "inicio": 28.8,
+      "fin": 29.12
+    },
+    {
+      "texto": "de",
+      "inicio": 29.2,
+      "fin": 29.28
+    },
+    {
+      "texto": "la",
+      "inicio": 29.32,
+      "fin": 29.36
+    },
+    {
+      "texto": "luz,",
+      "inicio": 29.4,
+      "fin": 29.72
+    },
+    {
+      "texto": "en",
+      "inicio": 29.76,
+      "fin": 29.84
+    },
+    {
+      "texto": "esa",
+      "inicio": 29.92,
+      "fin": 30
+    },
+    {
+      "texto": "casa,",
+      "inicio": 30.08,
+      "fin": 30.56
+    },
+    {
+      "texto": "casi",
+      "inicio": 30.6,
+      "fin": 30.88
+    },
+    {
+      "texto": "ni",
+      "inicio": 30.96,
+      "fin": 31.04
+    },
+    {
+      "texto": "giraría.",
+      "inicio": 31.08,
+      "fin": 31.6
+    },
+    {
+      "texto": "Pero",
+      "inicio": 32.24,
+      "fin": 32.4
+    },
+    {
+      "texto": "no",
+      "inicio": 32.48,
+      "fin": 32.56
+    },
+    {
+      "texto": "se",
+      "inicio": 32.64,
+      "fin": 32.72
+    },
+    {
+      "texto": "encoge.",
+      "inicio": 32.8,
+      "fin": 33.28
+    },
+    {
+      "texto": "Un",
+      "inicio": 33.76,
+      "fin": 33.84
+    },
+    {
+      "texto": "golpe",
+      "inicio": 33.92,
+      "fin": 34.16
+    },
+    {
+      "texto": "en",
+      "inicio": 34.24,
+      "fin": 34.32
+    },
+    {
+      "texto": "un",
+      "inicio": 34.4,
+      "fin": 34.48
+    },
+    {
+      "texto": "sitio",
+      "inicio": 34.6,
+      "fin": 34.8
+    },
+    {
+      "texto": "te",
+      "inicio": 34.88,
+      "fin": 34.96
+    },
+    {
+      "texto": "quita",
+      "inicio": 35.04,
+      "fin": 35.2
+    },
+    {
+      "texto": "el",
+      "inicio": 35.28,
+      "fin": 35.36
+    },
+    {
+      "texto": "habla.",
+      "inicio": 35.44,
+      "fin": 35.92
+    },
+    {
+      "texto": "En",
+      "inicio": 36,
+      "fin": 36.08
+    },
+    {
+      "texto": "otro,",
+      "inicio": 36.16,
+      "fin": 36.56
+    },
+    {
+      "texto": "la",
+      "inicio": 36.64,
+      "fin": 36.72
+    },
+    {
+      "texto": "vista.",
+      "inicio": 36.76,
+      "fin": 37.44
+    },
+    {
+      "texto": "En",
+      "inicio": 37.52,
+      "fin": 37.6
+    },
+    {
+      "texto": "otro,",
+      "inicio": 37.68,
+      "fin": 38.16
+    },
+    {
+      "texto": "la",
+      "inicio": 38.24,
+      "fin": 38.32
+    },
+    {
+      "texto": "mano.",
+      "inicio": 38.4,
+      "fin": 39.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 39.147,
+      "fin": 39.173
+    },
+    {
+      "texto": "tumbado,",
+      "inicio": 39.2,
+      "fin": 39.84
+    },
+    {
+      "texto": "sin",
+      "inicio": 39.92,
+      "fin": 40
+    },
+    {
+      "texto": "hacer",
+      "inicio": 40.08,
+      "fin": 40.24
+    },
+    {
+      "texto": "nada,",
+      "inicio": 40.32,
+      "fin": 40.8
+    },
+    {
+      "texto": "sigues",
+      "inicio": 40.88,
+      "fin": 41.2
+    },
+    {
+      "texto": "gastando",
+      "inicio": 41.28,
+      "fin": 41.68
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.76,
+      "fin": 41.84
+    },
+    {
+      "texto": "mismo.",
+      "inicio": 41.947,
+      "fin": 42.72
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.8,
+      "fin": 42.92
+    },
+    {
+      "texto": "que",
+      "inicio": 42.96,
+      "fin": 43.12
+    },
+    {
+      "texto": "no",
+      "inicio": 43.2,
+      "fin": 43.28
+    },
+    {
+      "texto": "hay",
+      "inicio": 43.36,
+      "fin": 43.52
+    },
+    {
+      "texto": "un",
+      "inicio": 43.56,
+      "fin": 43.6
+    },
+    {
+      "texto": "noventa",
+      "inicio": 43.68,
+      "fin": 44
+    },
+    {
+      "texto": "por",
+      "inicio": 44.08,
+      "fin": 44.16
+    },
+    {
+      "texto": "ciento",
+      "inicio": 44.24,
+      "fin": 44.48
+    },
+    {
+      "texto": "guardado:",
+      "inicio": 44.56,
+      "fin": 45.36
+    },
+    {
+      "texto": "cambias",
+      "inicio": 45.413,
+      "fin": 45.68
+    },
+    {
+      "texto": "de",
+      "inicio": 45.76,
+      "fin": 45.8
+    },
+    {
+      "texto": "luz,",
+      "inicio": 45.84,
+      "fin": 46.4
+    },
+    {
+      "texto": "no",
+      "inicio": 46.48,
+      "fin": 46.56
+    },
+    {
+      "texto": "de",
+      "inicio": 46.64,
+      "fin": 46.72
+    },
+    {
+      "texto": "casa.",
+      "inicio": 46.8,
+      "fin": 47.6
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 47.68,
+      "fin": 48.16
+    },
+    {
+      "texto": "a",
+      "inicio": 48.187,
+      "fin": 48.213
+    },
+    {
+      "texto": "ese",
+      "inicio": 48.24,
+      "fin": 48.4
+    },
+    {
+      "texto": "amigo",
+      "inicio": 48.48,
+      "fin": 48.72
+    },
+    {
+      "texto": "que",
+      "inicio": 48.76,
+      "fin": 48.8
+    },
+    {
+      "texto": "dice",
+      "inicio": 48.88,
+      "fin": 49.04
+    },
+    {
+      "texto": "que",
+      "inicio": 49.12,
+      "fin": 49.2
+    },
+    {
+      "texto": "solo",
+      "inicio": 49.28,
+      "fin": 49.52
+    },
+    {
+      "texto": "usa",
+      "inicio": 49.6,
+      "fin": 49.76
+    },
+    {
+      "texto": "el",
+      "inicio": 49.8,
+      "fin": 49.84
+    },
+    {
+      "texto": "diez",
+      "inicio": 49.92,
+      "fin": 50.04
+    },
+    {
+      "texto": "por",
+      "inicio": 50.08,
+      "fin": 50.16
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 50.24,
+      "fin": 50.8
+    }
+  ]
+}
