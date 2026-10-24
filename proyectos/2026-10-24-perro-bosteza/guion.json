@@ -1,0 +1,16 @@
+{
+  "titulo": "Por qué tu perro bosteza cuando bostezas",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro bosteza cuando bostezas tú?", "clave": "bosteza", "hook": true },
+    { "texto": "No es que le entre el sueño: le salta el tuyo.", "clave": "salta", "hook": true },
+    { "texto": "Si solo abres la boca, la mitad. Si el bostezo es de verdad, el doble.", "clave": "doble" },
+    { "texto": "Parecía cariño, porque contigo le entraba más.", "clave": "cariño" },
+    { "texto": "Al juntar los estudios, con un extraño le entra igual.", "clave": "extraño" },
+    { "texto": "Y le da igual que le acaricies o que pases de largo.", "clave": "largo" },
+    { "texto": "Ni el cariño ni la tensión lo explican del todo.", "clave": "tensión" },
+    { "texto": "Así que te copia el bostezo, y un te quiero no está demostrado.", "clave": "quiero" },
+    { "texto": "Envíaselo a ese amigo al que su perro le bosteza en la cara y él se lo toma por un te quiero.", "clave": "cara" }
+  ]
+}

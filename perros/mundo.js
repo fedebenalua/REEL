@@ -8,7 +8,8 @@
 //   proyectos/2026-10-22-perro-tira-correa/video/planos/04-atardecer.js   el parque al atardecer (parque(g, c, t, 1), ambiente)
 // Fotos de cómo tiene que verse: perros/muestra-*.jpg
 //
-// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
+// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, bostezo, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
+//   bostezo 0..1: abre la boca de verdad (mandíbula abajo, ojo entornado). abre sigue siendo la lengua corta.
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
@@ -306,7 +307,7 @@ export function posePataAlta(alta) {
 // ---------------------------------------------------------------- el perro
 const PELO = { luz: "#fbd998", medio: "#e0a652", sombra: "#a96a2c", hondo: "#6d4119", pata: "#f6dcab", lejos: "#a9702f" };
 // Un perro grande (tipo labrador), de lado, mirando a la derecha (dir = -1, a la izquierda). Pie en y = 0.
-// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
+// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
 // cola: cuánto la menea. escala: tamaño (1 = el de siempre). pataAlta: 0 en el suelo, 1 la trasera de este lado casi vertical.
 // Devuelve collar, nariz, ingle y pata (la trasera de este lado), en el mundo.
 export function perro(g, o) {
@@ -414,9 +415,10 @@ export function perro(g, o) {
     g.bezierCurveTo(48, -4, 49, 0, 46, 3); g.bezierCurveTo(44, 6, 36, 7, 30, 7);
     g.bezierCurveTo(24, 12, 14, 14, 6, 10); g.bezierCurveTo(-2, 8, -5, -6, -2, -12); g.closePath();
   };
-  // la boca abierta (la lengua colgando) va detrás de la mandíbula
+  // la boca abierta (la lengua colgando) va detrás de la mandíbula. El bostezo se pinta después, encima.
+  const bost = Math.max(0, Math.min(1, o.bostezo || 0));
   const abre = cab.abre || 0;
-  if (abre > 0.02) {
+  if (abre > 0.02 && bost < 0.04) {
     g.fillStyle = "#4a1c20"; g.beginPath(); g.moveTo(32, 5); g.quadraticCurveTo(38, 5 + 12 * abre, 28, 8 + 14 * abre); g.lineTo(24, 8); g.closePath(); g.fill();
     const tg = g.createLinearGradient(0, 6, 0, 26 * abre + 8); tg.addColorStop(0, "#ff7f93"); tg.addColorStop(1, "#d94a68");
     g.fillStyle = tg; g.beginPath(); g.moveTo(24, 6); g.quadraticCurveTo(26, 6 + 24 * abre, 32, 6 + 22 * abre); g.quadraticCurveTo(38, 6 + 18 * abre, 34, 6); g.closePath(); g.fill();
@@ -430,7 +432,9 @@ export function perro(g, o) {
   const mz = g.createLinearGradient(0, -6, 0, 8); mz.addColorStop(0, "rgba(255,230,180,0)"); mz.addColorStop(1, "rgba(255,230,180,0.5)"); g.fillStyle = mz; g.fillRect(24, -10, 26, 20);
   g.restore();
   // la boca
-  g.strokeStyle = "#4a2410"; g.lineWidth = 1.5; g.lineCap = "round"; g.beginPath(); g.moveTo(44.5, 3.5); g.quadraticCurveTo(38, 7 + 2 * abre, 30, 6.4); g.quadraticCurveTo(27, 5.5, 25.6, 2.5); g.stroke();
+  if (bost <= 0.04) {
+    g.strokeStyle = "#4a2410"; g.lineWidth = 1.5; g.lineCap = "round"; g.beginPath(); g.moveTo(44.5, 3.5); g.quadraticCurveTo(38, 7 + 2 * abre, 30, 6.4); g.quadraticCurveTo(27, 5.5, 25.6, 2.5); g.stroke();
+  }
   // la trufa
   const ng = g.createRadialGradient(44, -5, 0.5, 45, -3, 5.5); ng.addColorStop(0, "#5a5a63"); ng.addColorStop(0.35, "#17171b"); ng.addColorStop(1, "#050507");
   g.fillStyle = ng; g.beginPath(); g.ellipse(45, -2.6, 4.2, 3.7, 0.25, 0, TAU); g.fill();
@@ -438,7 +442,24 @@ export function perro(g, o) {
   { const ab = cab.olfato || 0; g.strokeStyle = "#000"; g.lineWidth = 1.5 + 1.4 * ab; g.lineCap = "round"; g.beginPath(); g.moveTo(46.2, -2.3); g.quadraticCurveTo(45, 0.4 + ab, 43.2, 0.2 + 1.2 * ab); g.stroke(); }
   // el ojo
   const feliz = cab.ojo || 0;
-  if (feliz > 0.5) { g.strokeStyle = "#2a1408"; g.lineWidth = 1.8; g.beginPath(); g.arc(21, -7, 3.6, Math.PI * 1.1, Math.PI * 1.9); g.stroke(); }
+  if (bost > 0.35) {
+    g.fillStyle = PELO.luz; g.beginPath(); g.ellipse(21.2, -7.4, 5.4, 4.4, 0, 0, TAU); g.fill();
+    g.strokeStyle = "#2a1408"; g.lineWidth = 1.7; g.beginPath(); g.moveTo(16.8, -7.5); g.quadraticCurveTo(21.2, -4.6 - bost, 25.6, -8); g.stroke();
+  } else if (feliz > 0.5) { g.strokeStyle = "#2a1408"; g.lineWidth = 1.8; g.beginPath(); g.arc(21, -7, 3.6, Math.PI * 1.1, Math.PI * 1.9); g.stroke(); }
+  // el bostezo, encima de todo el hocico: un hueco oscuro y la mandíbula solo en el borde
+  if (bost > 0.04) {
+    const cae = 34 * bost, cx = 33, cy = 1 + cae * 0.48, rx = 14, ry = 4 + cae * 0.5;
+    g.fillStyle = "#1a080c"; g.beginPath(); g.ellipse(cx, cy, rx, ry, 0.12, 0, TAU); g.fill();
+    g.fillStyle = "#fff6ea"; g.beginPath(); g.moveTo(cx - 7, cy - ry + 1); g.lineTo(cx + 6, cy - ry + 0.4); g.lineTo(cx + 5, cy - ry + 2.4); g.lineTo(cx - 6, cy - ry + 2.6); g.closePath(); g.fill();
+    const tg = g.createLinearGradient(cx, cy, cx, cy + ry); tg.addColorStop(0, "#ffb4c0"); tg.addColorStop(1, "#c43858");
+    g.fillStyle = tg; g.beginPath(); g.ellipse(cx + 1, cy + ry * 0.28, rx * 0.55, ry * 0.62, 0.1, 0, TAU); g.fill();
+    g.strokeStyle = "rgba(255,220,220,0.65)"; g.lineWidth = 0.8; g.beginPath(); g.moveTo(cx, cy); g.quadraticCurveTo(cx + 2, cy + ry * 0.4, cx + 0.5, cy + ry * 0.7); g.stroke();
+    g.fillStyle = PELO.medio;
+    g.beginPath(); g.ellipse(cx, cy + ry * 0.72, rx + 1.5, ry * 0.55, 0.1, 0.15, Math.PI - 0.15); g.fill();
+    const lg = g.createLinearGradient(cx - rx, cy, cx + rx, cy + ry); lg.addColorStop(0, "rgba(255,236,200,0.5)"); lg.addColorStop(1, "rgba(90,40,16,0)");
+    g.fillStyle = lg; g.beginPath(); g.ellipse(cx, cy + ry * 0.72, rx + 1.5, ry * 0.55, 0.1, 0.15, Math.PI - 0.15); g.fill();
+    g.strokeStyle = "#3a1c10"; g.lineWidth = 1.3; g.beginPath(); g.ellipse(cx, cy, rx, ry, 0.12, 0.15, Math.PI - 0.1); g.stroke();
+  }
   else {
     g.fillStyle = "#fff6e6"; g.beginPath(); g.ellipse(21.2, -7.4, 3.6, 3.1, 0, 0, TAU); g.fill();
     g.fillStyle = "#3a1d0a"; g.beginPath(); g.arc(22.2, -7.2, 2.5, 0, TAU); g.fill();
@@ -467,6 +488,9 @@ const GENTE = { piel: "#efb98e", pielSombra: "#cc8f66", pelo: "#3a2417", chaquet
 // correa (en el mundo); arbol de 0 a 1: le salen hojas y raíces. Devuelve dónde queda la mano de la correa.
 export function persona(g, o) {
   const { x, y = 0, dir = 1, fase = 0, paso = 1, inclina = 0, t = 0 } = o, arbol = o.arbol || 0;
+  const chaqueta = o.chaqueta || GENTE.chaqueta;
+  const pelo = o.pelo || GENTE.pelo;
+  const boca = Math.max(0, Math.min(1, o.boca || 0));
   const stride = 92 * paso, lift = 9 * Math.min(1, 0.4 + paso), duty = 0.6, bob = -1.4 * paso * Math.cos(fase * TAU * 2);
   const cadera = [(o.cadX || 0), -92 + bob];
   g.save(); g.translate(x, y); g.scale(dir, 1);
@@ -492,12 +516,12 @@ export function persona(g, o) {
   const hombro = [0, -52], cuello = [2, -58];
   // el brazo de atrás (el que no lleva la correa), balanceándose
   const sw = Math.sin(fase * TAU + Math.PI) * 0.5 * paso, mAtras = [Math.sin(sw) * 34 - 2, -52 + Math.cos(sw) * 40], eAtras = ik(hombro[0], hombro[1], mAtras[0], mAtras[1], 26, 26, 1);
-  g.fillStyle = GENTE.chaqueta[2]; miembro(g, [hombro, eAtras, mAtras], [13, 10.5, 9]);
+  g.fillStyle = chaqueta[2]; miembro(g, [hombro, eAtras, mAtras], [13, 10.5, 9]);
   g.fillStyle = GENTE.pielSombra; g.beginPath(); g.arc(mAtras[0], mAtras[1] + 3, 5, 0, TAU); g.fill();
   // la chaqueta
   const torso = () => { g.beginPath(); g.moveTo(-10, -56); g.quadraticCurveTo(-14, -26, -12, 4); g.lineTo(12, 4); g.quadraticCurveTo(14, -24, 12, -54); g.quadraticCurveTo(2, -62, -10, -56); g.closePath(); };
   torso();
-  const tg = g.createLinearGradient(-14, 0, 14, 0); tg.addColorStop(0, GENTE.chaqueta[0]); tg.addColorStop(0.5, GENTE.chaqueta[1]); tg.addColorStop(1, GENTE.chaqueta[2]);
+  const tg = g.createLinearGradient(-14, 0, 14, 0); tg.addColorStop(0, chaqueta[0]); tg.addColorStop(0.5, chaqueta[1]); tg.addColorStop(1, chaqueta[2]);
   g.fillStyle = tg; g.fill();
   g.save(); torso(); g.clip(); g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.14; g.drawImage(k.manchas, -20, -64, 40, 70); g.globalAlpha = 1; g.globalCompositeOperation = "source-over";
   g.strokeStyle = "rgba(255,255,255,0.25)"; g.lineWidth = 1.6; g.beginPath(); g.moveTo(9, -54); g.quadraticCurveTo(11, -28, 10, 2); g.stroke();
@@ -505,7 +529,7 @@ export function persona(g, o) {
   g.fillStyle = "rgba(0,0,0,0.2)"; g.fillRect(-14, -2, 28, 7);
   g.restore();
   // la capucha, detrás del cuello
-  g.fillStyle = GENTE.chaqueta[2]; g.beginPath(); g.ellipse(-6, -58, 9, 6, -0.3, 0, TAU); g.fill();
+  g.fillStyle = chaqueta[2]; g.beginPath(); g.ellipse(-6, -58, 9, 6, -0.3, 0, TAU); g.fill();
   // la cabeza
   g.fillStyle = GENTE.piel; hueso(g, [0, -58], [3, -66], 9, 8);
   g.save(); g.translate(5, -80);
@@ -513,12 +537,23 @@ export function persona(g, o) {
   const cg = g.createRadialGradient(4, -4, 2, 0, 0, 13); cg.addColorStop(0, "rgba(255,255,255,0.18)"); cg.addColorStop(1, "rgba(120,50,20,0.28)"); g.fillStyle = cg; g.beginPath(); g.ellipse(0, 0, 10.6, 12, 0, 0, TAU); g.fill();
   // la nariz, la boca y el ojo
   g.fillStyle = GENTE.piel; g.beginPath(); g.moveTo(9.6, -2); g.quadraticCurveTo(14.5, 2, 10.5, 4.5); g.closePath(); g.fill();
-  g.strokeStyle = "rgba(120,50,30,0.7)"; g.lineWidth = 1.2; g.beginPath(); g.moveTo(5.5, 7); g.quadraticCurveTo(8.5, 8.2, 10.2, 6.6); g.stroke();
-  g.fillStyle = "#2a1a12"; g.beginPath(); g.ellipse(6, -3.4, 1.3, 1.9, 0, 0, TAU); g.fill();
+  if (boca > 0.08) {
+    const al = 1.1 + 7.2 * boca;
+    g.fillStyle = "#3a1520"; g.beginPath(); g.ellipse(7.4, 6.4, 2.6 + 1.1 * boca, al * 0.55, 0.15, 0, TAU); g.fill();
+    g.fillStyle = "#e07080"; g.beginPath(); g.ellipse(7.5, 6.6 + al * 0.28, 1.7, 1.1 + 2.4 * boca, 0.1, 0, TAU); g.fill();
+    g.fillStyle = "rgba(255,255,255,0.85)"; g.beginPath(); g.ellipse(6.2, 5.2, 1.5, 0.45, -0.2, 0, TAU); g.fill();
+  } else {
+    g.strokeStyle = "rgba(120,50,30,0.7)"; g.lineWidth = 1.2; g.beginPath(); g.moveTo(5.5, 7); g.quadraticCurveTo(8.5, 8.2, 10.2, 6.6); g.stroke();
+  }
+  if (boca > 0.35) {
+    g.strokeStyle = "#2a1a12"; g.lineWidth = 1.5; g.beginPath(); g.moveTo(4.2, -4.6); g.quadraticCurveTo(6.1, -2.8 - 1.6 * boca, 8.4, -4.8); g.stroke();
+  } else {
+    g.fillStyle = "#2a1a12"; g.beginPath(); g.ellipse(6, -3.4, 1.3, 1.9, 0, 0, TAU); g.fill();
+  }
   g.strokeStyle = "#2a1a12"; g.lineWidth = 1.4; g.beginPath(); g.moveTo(3.4, -7); g.lineTo(8.4, -7.4); g.stroke();
   g.fillStyle = GENTE.pielSombra; g.beginPath(); g.ellipse(-4, 1, 2.3, 3.6, 0, 0, TAU); g.fill();
   // el pelo
-  g.fillStyle = GENTE.pelo; g.beginPath(); g.moveTo(-11, 2); g.quadraticCurveTo(-13, -14, -2, -14); g.quadraticCurveTo(10, -16, 11, -6); g.quadraticCurveTo(5, -9, -1, -7); g.quadraticCurveTo(-6, -5, -6, 4); g.closePath(); g.fill();
+  g.fillStyle = pelo; g.beginPath(); g.moveTo(-11, 2); g.quadraticCurveTo(-13, -14, -2, -14); g.quadraticCurveTo(10, -16, 11, -6); g.quadraticCurveTo(5, -9, -1, -7); g.quadraticCurveTo(-6, -5, -6, 4); g.closePath(); g.fill();
   g.strokeStyle = "rgba(255,255,255,0.22)"; g.lineWidth = 1.4; g.beginPath(); g.moveTo(-8, -9); g.quadraticCurveTo(-1, -14, 7, -11); g.stroke();
   g.restore();
   // el brazo de la correa: extendido hacia la mano que se pide
@@ -531,7 +566,7 @@ export function persona(g, o) {
   if (o.mano) { const dx = (o.mano[0] - x) * dir - mundoHombro[0], dy = o.mano[1] - y - mundoHombro[1], d = Math.hypot(dx, dy) || 1, q = Math.min(d, 54.5) / d, tira = o.tira ?? 1; mano = [mez(reposo[0], mundoHombro[0] + dx * q, tira), mez(reposo[1], mundoHombro[1] + dy * q, tira)]; }
   else mano = reposo;
   const codo = ik(mundoHombro[0], mundoHombro[1], mano[0], mano[1], 28, 28, 1);
-  g.fillStyle = GENTE.chaqueta[1]; miembro(g, [mundoHombro, codo, mano], [14, 11.5, 9.4]);
+  g.fillStyle = chaqueta[1]; miembro(g, [mundoHombro, codo, mano], [14, 11.5, 9.4]);
   g.strokeStyle = "rgba(255,255,255,0.22)"; g.lineWidth = 2; g.beginPath(); g.moveTo(mundoHombro[0] + 1, mundoHombro[1] - 2); g.lineTo(codo[0] + 1, codo[1] - 2); g.stroke();
   g.fillStyle = GENTE.piel; g.beginPath(); g.arc(mano[0] + 1, mano[1] + 2, 5.4, 0, TAU); g.fill();
   pierna(fase + 0.5, false);
