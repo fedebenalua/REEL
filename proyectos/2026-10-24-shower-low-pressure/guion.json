@@ -1,0 +1,20 @@
+{
+  "titulo": "Why does my shower have low water pressure?",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why is your shower just a trickle?", "clave": "trickle", "hook": true },
+    { "texto": "The holes are packed with white chalk, so the water can't get out.", "clave": "chalk", "hook": true },
+    { "texto": "Open the sink. If that blasts, the clog is in the showerhead.", "clave": "sink" },
+    { "texto": "If only the hot side is weak, leave the water heater alone.", "clave": "heater" },
+    { "texto": "Hold the arm still. A cloth if it's stuck, then twist the head to the left.", "clave": "left" },
+    { "texto": "If the arm starts turning, stop, and call a plumber.", "clave": "stop" },
+    { "texto": "Soak the head in white vinegar, holes down, for one hour.", "clave": "vinegar" },
+    { "texto": "A thick crust can sit overnight. Gold or brass: thirty minutes only.", "clave": "thirty" },
+    { "texto": "Scrub the holes with an old toothbrush, and rinse.", "clave": "toothbrush" },
+    { "texto": "Screw it back on to the right, by hand.", "clave": "right" },
+    { "texto": "The spray comes roaring back. Once a month, the same soak keeps the chalk away.", "clave": "spray" },
+    { "texto": "If every tap is weak, open the main valve all the way. Already open? Call a plumber.", "clave": "valve" },
+    { "texto": "Send this to that friend whose shower barely dribbles.", "clave": "friend" }
+  ]
+}
