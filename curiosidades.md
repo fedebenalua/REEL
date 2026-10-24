@@ -48,6 +48,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 2: ¿Por qué el microondas tiene una rejilla negra en la puerta y aun así puedes ver dentro? (2026-10-23).
 - Lista del creador 3: ¿Cómo sabe una lavadora cuánta ropa has metido? (2026-10-23).
 - Lista del creador 4: ¿Por qué las puertas de los supermercados se abren justo cuando te acercas? (2026-10-23).
+- Lista del creador 5: ¿Cómo sabe un coche que una rueda tiene poco aire? (2026-10-24).
 
 ## Ideas pendientes
 
