@@ -56,6 +56,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Lista del creador 10: ¿Por qué las tapas de alcantarilla suelen ser redondas? (2026-10-24).
 - Por qué se te ponen los dedos como pasas en la bañera (2026-10-24).
 - Por qué se te duermen los pies al sentarte (2026-10-24).
+- Por qué crujen los nudillos (2026-10-25).
 
 ## Ideas pendientes
 
