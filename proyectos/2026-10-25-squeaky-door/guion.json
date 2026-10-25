@@ -1,0 +1,16 @@
+{
+  "titulo": "How to fix a squeaky door in thirty seconds",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "How do you fix a squeaky door in thirty seconds?", "clave": "squeaky", "hook": true },
+    { "texto": "That squeak is a dry pin, grinding metal on metal inside the hinge.", "clave": "pin", "hook": true },
+    { "texto": "Close the door, and pull just one pin. All of them, and the door drops.", "clave": "one" },
+    { "texto": "Tap it up from underneath with a nail. If it sticks, lift the handle and slide it out.", "clave": "nail" },
+    { "texto": "Wipe the grit off, and coat the pin with petroleum jelly.", "clave": "jelly" },
+    { "texto": "Push it back down, wipe the extra, and swing the door.", "clave": "swing" },
+    { "texto": "Skip the cooking oil. It runs, and then it turns sticky.", "clave": "sticky" },
+    { "texto": "Still noisy? Tighten the screws. A warped frame needs a carpenter.", "clave": "carpenter" },
+    { "texto": "Send this to that friend whose door squeaks every morning.", "clave": "morning" }
+  ]
+}
