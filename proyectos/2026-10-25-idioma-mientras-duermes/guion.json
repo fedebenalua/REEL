@@ -1,0 +1,27 @@
+{
+  "titulo": "El idioma mientras duermes",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Poner un idioma mientras duermes te lo enseña?", "clave": "enseña", "hook": true },
+    { "texto": "La grabación suena toda la noche, palabra tras palabra.", "clave": "grabación", "hook": true },
+    { "texto": "Y al abrir los ojos, se supone que ya lo hablas.", "clave": "hablas", "hook": true },
+    { "texto": "Por la tarde dejas una secuencia en los dedos.", "clave": "dedos" },
+    { "texto": "Cuatro teclas, siempre en el mismo orden.", "clave": "teclas" },
+    { "texto": "Luego te duermes.", "clave": "duermes" },
+    { "texto": "A la mañana, esos dedos van más rápidos.", "clave": "rápidos" },
+    { "texto": "Alrededor de un veinte por ciento.", "clave": "veinte" },
+    { "texto": "Y sin fallar más que antes.", "clave": "fallar" },
+    { "texto": "Si te quedas despierto esas horas, casi no cambia.", "clave": "cambia" },
+    { "texto": "La noche no crea la secuencia.", "clave": "crea" },
+    { "texto": "Deja más firme la que ya habías hecho.", "clave": "firme" },
+    { "texto": "La hiciste despierto, con los ojos abiertos.", "clave": "abiertos" },
+    { "texto": "Dormir no añade teclas: afianza esas.", "clave": "afianza" },
+    { "texto": "Un idioma que no has estudiado no se queda.", "clave": "queda" },
+    { "texto": "No amaneces hablándolo.", "clave": "amaneces" },
+    { "texto": "En el sueño profundo, a veces, una palabra inclina una elección.", "clave": "elección" },
+    { "texto": "Ni te acuerdas, y no es un idioma.", "clave": "idioma" },
+    { "texto": "La noche sella lo que ya metiste. No te lo cuela por el oído.", "clave": "sella" },
+    { "texto": "Si quieres ver tu cociente, está en la app del enlace de la bio.", "clave": "cociente" }
+  ]
+}
