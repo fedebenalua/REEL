@@ -1,0 +1,17 @@
+{
+  "titulo": "Lo malo de los vápers",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que un váper puede llevar la nicotina de dos paquetes de tabaco?", "clave": "paquetes", "hook": true },
+    { "texto": "Y eso que sale no es vapor de agua: es un líquido frito en una resistencia de metal.", "clave": "frito", "hook": true },
+    { "texto": "Al calentarse, esa resistencia suelta níquel, cromo y plomo, y te los tragas en cada calada.", "clave": "plomo" },
+    { "texto": "También sale formaldehído: lo mismo que se usa para conservar cadáveres.", "clave": "cadáveres" },
+    { "texto": "Y la nicotina llega a tu cerebro en segundos, por eso cada calada te pide la siguiente.", "clave": "siguiente" },
+    { "texto": "Si tienes menos de veinticinco, tu cerebro aún se está montando, y la nicotina cambia cómo se conecta: la atención, el humor, los impulsos.", "clave": "montando" },
+    { "texto": "En España, la mitad de los chavales de catorce a dieciocho ya lo ha probado.", "clave": "mitad" },
+    { "texto": "Y quien vapea tiene casi el triple de probabilidades de acabar fumando tabaco.", "clave": "triple" },
+    { "texto": "Así que no es humo de sabores: son dos paquetes de tabaco con metal dentro.", "clave": "metal" },
+    { "texto": "Sígueme para más, o envíaselo a ese amigo que dice que solo es vapor.", "clave": "vapor" }
+  ]
+}

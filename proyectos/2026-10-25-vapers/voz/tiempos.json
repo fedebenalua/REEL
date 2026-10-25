@@ -1,0 +1,1170 @@
+{
+  "firma": "2faea596036f",
+  "duracion": 52.4,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que un váper puede llevar la nicotina de dos paquetes de tabaco?",
+      "clave": "dos paquetes",
+      "inicio": 0,
+      "fin": 4.08
+    },
+    {
+      "n": 2,
+      "texto": "Y eso que sale no es vapor de agua: es un líquido frito en una resistencia de metal.",
+      "clave": "frito",
+      "inicio": 4.12,
+      "fin": 9.2
+    },
+    {
+      "n": 3,
+      "texto": "Al calentarse, esa resistencia suelta níquel, cromo y plomo, y te los tragas en cada calada.",
+      "clave": "plomo",
+      "inicio": 9.24,
+      "fin": 15.44
+    },
+    {
+      "n": 4,
+      "texto": "También sale formaldehído: lo mismo que se usa para conservar cadáveres.",
+      "clave": "cadáveres",
+      "inicio": 15.52,
+      "fin": 19.68
+    },
+    {
+      "n": 5,
+      "texto": "Y la nicotina llega a tu cerebro en segundos, por eso cada calada te pide la siguiente.",
+      "clave": "siguiente",
+      "inicio": 19.72,
+      "fin": 25.04
+    },
+    {
+      "n": 6,
+      "texto": "Si tienes menos de veinticinco, tu cerebro aún se está montando, y la nicotina cambia cómo se conecta: la atención, el humor, los impulsos.",
+      "clave": "montando",
+      "inicio": 25.08,
+      "fin": 33.64
+    },
+    {
+      "n": 7,
+      "texto": "En España, la mitad de los chavales de catorce a dieciocho ya lo ha probado.",
+      "clave": "mitad",
+      "inicio": 33.92,
+      "fin": 38.24
+    },
+    {
+      "n": 8,
+      "texto": "Y quien vapea tiene casi el triple de probabilidades de acabar fumando tabaco.",
+      "clave": "triple",
+      "inicio": 38.267,
+      "fin": 42.64
+    },
+    {
+      "n": 9,
+      "texto": "Así que no es humo de sabores: son dos paquetes de tabaco con metal dentro.",
+      "clave": "metal",
+      "inicio": 42.72,
+      "fin": 47.68
+    },
+    {
+      "n": 10,
+      "texto": "Sígueme para más, o envíaselo a ese amigo que dice que solo es vapor.",
+      "clave": "vapor",
+      "inicio": 47.72,
+      "fin": 51.6
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 0.56,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "váper",
+      "inicio": 0.72,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 1.08,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "llevar",
+      "inicio": 1.36,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.6,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 1.76,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 2.24,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.48,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "paquetes",
+      "inicio": 2.72,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 3.16,
+      "fin": 3.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tabaco?",
+      "inicio": 3.28,
+      "fin": 4.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 4.12,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 4.4,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 4.6,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 4.88,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 5.12,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "vapor",
+      "inicio": 5.28,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.52,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "agua:",
+      "inicio": 5.68,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 6.32,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 6.44,
+      "fin": 6.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "líquido",
+      "inicio": 6.56,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "frito",
+      "inicio": 6.96,
+      "fin": 7.28,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 7.36,
+      "fin": 7.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 7.52,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "resistencia",
+      "inicio": 7.68,
+      "fin": 8.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 8.28,
+      "fin": 8.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "metal.",
+      "inicio": 8.4,
+      "fin": 9.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 9.24,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "calentarse,",
+      "inicio": 9.36,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 10.2,
+      "fin": 10.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "resistencia",
+      "inicio": 10.4,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 11,
+      "fin": 11.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "níquel,",
+      "inicio": 11.44,
+      "fin": 12.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cromo",
+      "inicio": 12.12,
+      "fin": 12.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 12.56,
+      "fin": 12.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "plomo,",
+      "inicio": 12.72,
+      "fin": 13.28,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 13.32,
+      "fin": 13.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 13.4,
+      "fin": 13.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 13.52,
+      "fin": 13.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tragas",
+      "inicio": 13.8,
+      "fin": 14,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.08,
+      "fin": 14.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 14.32,
+      "fin": 14.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "calada.",
+      "inicio": 14.56,
+      "fin": 15.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "También",
+      "inicio": 15.52,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 15.88,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "formaldehído:",
+      "inicio": 16.12,
+      "fin": 17.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.08,
+      "fin": 17.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 17.2,
+      "fin": 17.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 17.48,
+      "fin": 17.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 17.6,
+      "fin": 17.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "usa",
+      "inicio": 17.76,
+      "fin": 17.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 18,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "conservar",
+      "inicio": 18.16,
+      "fin": 18.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cadáveres.",
+      "inicio": 18.64,
+      "fin": 19.68,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.72,
+      "fin": 19.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 19.8,
+      "fin": 19.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 19.92,
+      "fin": 20.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 20.4,
+      "fin": 20.587,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.613,
+      "fin": 20.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 20.72,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 20.84,
+      "fin": 21.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 21.28,
+      "fin": 21.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "segundos,",
+      "inicio": 21.44,
+      "fin": 22.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 22.32,
+      "fin": 22.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 22.52,
+      "fin": 22.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 22.8,
+      "fin": 23.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "calada",
+      "inicio": 23.12,
+      "fin": 23.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 23.52,
+      "fin": 23.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "pide",
+      "inicio": 23.68,
+      "fin": 23.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 23.88,
+      "fin": 23.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "siguiente.",
+      "inicio": 24,
+      "fin": 25.04,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.08,
+      "fin": 25.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tienes",
+      "inicio": 25.2,
+      "fin": 25.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 25.52,
+      "fin": 25.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.72,
+      "fin": 25.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 25.8,
+      "fin": 26.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 26.6,
+      "fin": 26.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 26.72,
+      "fin": 27.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "aún",
+      "inicio": 27.12,
+      "fin": 27.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 27.36,
+      "fin": 27.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 27.52,
+      "fin": 27.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "montando,",
+      "inicio": 27.68,
+      "fin": 28.48,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 28.52,
+      "fin": 28.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 28.6,
+      "fin": 28.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 28.72,
+      "fin": 29.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cambia",
+      "inicio": 29.28,
+      "fin": 29.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 29.68,
+      "fin": 29.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30,
+      "fin": 30.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "conecta:",
+      "inicio": 30.12,
+      "fin": 30.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 30.88,
+      "fin": 30.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "atención,",
+      "inicio": 30.96,
+      "fin": 31.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 31.8,
+      "fin": 31.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "humor,",
+      "inicio": 31.92,
+      "fin": 32.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 32.56,
+      "fin": 32.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "impulsos.",
+      "inicio": 32.72,
+      "fin": 33.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 33.92,
+      "fin": 34,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "España,",
+      "inicio": 34.08,
+      "fin": 34.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 34.64,
+      "fin": 34.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 34.8,
+      "fin": 35.04,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 35.12,
+      "fin": 35.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 35.2,
+      "fin": 35.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "chavales",
+      "inicio": 35.36,
+      "fin": 35.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 35.76,
+      "fin": 35.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "catorce",
+      "inicio": 35.84,
+      "fin": 36.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 36.24,
+      "fin": 36.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dieciocho",
+      "inicio": 36.4,
+      "fin": 36.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 37.04,
+      "fin": 37.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.16,
+      "fin": 37.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ha",
+      "inicio": 37.28,
+      "fin": 37.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "probado.",
+      "inicio": 37.36,
+      "fin": 38.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 38.267,
+      "fin": 38.293,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "quien",
+      "inicio": 38.32,
+      "fin": 38.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "vapea",
+      "inicio": 38.587,
+      "fin": 38.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 38.96,
+      "fin": 39.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 39.28,
+      "fin": 39.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.52,
+      "fin": 39.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "triple",
+      "inicio": 39.72,
+      "fin": 40,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 40.08,
+      "fin": 40.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "probabilidades",
+      "inicio": 40.24,
+      "fin": 40.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 40.92,
+      "fin": 40.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "acabar",
+      "inicio": 41.04,
+      "fin": 41.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "fumando",
+      "inicio": 41.36,
+      "fin": 41.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tabaco.",
+      "inicio": 41.76,
+      "fin": 42.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.72,
+      "fin": 42.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.96,
+      "fin": 43.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 43.2,
+      "fin": 43.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 43.44,
+      "fin": 43.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "humo",
+      "inicio": 43.68,
+      "fin": 43.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 43.84,
+      "fin": 43.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sabores:",
+      "inicio": 43.96,
+      "fin": 44.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 44.84,
+      "fin": 44.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 45.04,
+      "fin": 45.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "paquetes",
+      "inicio": 45.28,
+      "fin": 45.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 45.72,
+      "fin": 45.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tabaco",
+      "inicio": 45.84,
+      "fin": 46.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 46.24,
+      "fin": 46.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "metal",
+      "inicio": 46.56,
+      "fin": 46.72,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 46.8,
+      "fin": 47.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 47.72,
+      "fin": 48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 48.08,
+      "fin": 48.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "más,",
+      "inicio": 48.28,
+      "fin": 48.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 48.68,
+      "fin": 48.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 48.8,
+      "fin": 49.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 49.32,
+      "fin": 49.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 49.44,
+      "fin": 49.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 49.6,
+      "fin": 49.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 49.92,
+      "fin": 50,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "dice",
+      "inicio": 50.12,
+      "fin": 50.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 50.32,
+      "fin": 50.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 50.56,
+      "fin": 50.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 50.88,
+      "fin": 50.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "vapor.",
+      "inicio": 51,
+      "fin": 51.6,
+      "frase": 10,
+      "clave": true
+    }
+  ]
+}
