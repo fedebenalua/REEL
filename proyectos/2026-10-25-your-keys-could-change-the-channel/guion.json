@@ -1,0 +1,26 @@
+{
+  "titulo": "Your keys could change the TV channel",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "voz": { "id": "851ejYcv2BoNPjrkw93G", "modelo": "eleven_v4", "estabilidad": 0.35, "similitud": 0.7, "estilo": 0, "velocidad": 1 },
+  "frases": [
+    { "texto": "Your keys could change the TV channel.", "clave": "keys", "hook": true },
+    { "texto": "Right from the coffee table.", "clave": "table", "hook": true },
+    { "texto": "The remote never moved.", "clave": "moved", "hook": true },
+    { "texto": "The TV was listening for a note you can't hear.", "clave": "note", "hook": true },
+    { "texto": "A little hammer hit a metal rod.", "clave": "hammer" },
+    { "texto": "The rod rang about forty thousand times a second.", "clave": "thousand" },
+    { "texto": "Four rods, four notes.", "clave": "notes" },
+    { "texto": "Channel up, channel down, the sound, and the power.", "clave": "power" },
+    { "texto": "A jangle of keys could fool the TV.", "clave": "jangle" },
+    { "texto": "So could a glass, when you clink it.", "clave": "clink" },
+    { "texto": "Then the TV stopped listening.", "clave": "stopped" },
+    { "texto": "Now the button blinks a light your eyes can't see.", "clave": "light" },
+    { "texto": "Keys can jangle.", "clave": "jangle" },
+    { "texto": "The TV ignores them.", "clave": "ignores" },
+    { "texto": "Your phone never makes that note.", "clave": "phone" },
+    { "texto": "The app talks to the TV over your wifi.", "clave": "wifi" },
+    { "texto": "The app is in the link in bio.", "clave": "app" },
+    { "texto": "Send it to that friend whose keys still live on the table.", "clave": "friend" }
+  ]
+}
