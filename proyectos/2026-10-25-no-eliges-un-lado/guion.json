@@ -1,0 +1,21 @@
+{
+  "titulo": "No eliges un lado",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Y si tu cerebro no tuviera lado lógico ni lado creativo?", "clave": "creativo", "hook": true },
+    { "texto": "Te lo pintan así: el izquierdo calcula y el derecho inventa.", "clave": "calcula", "hook": true },
+    { "texto": "Y dicen que tú vives en uno de los dos.", "clave": "vives", "hook": true },
+    { "texto": "Si escribes con la derecha, algo sí se apoya en un lado.", "clave": "derecha" },
+    { "texto": "Las palabras tiran más a la izquierda.", "clave": "palabras" },
+    { "texto": "Atender a lo que tienes delante, más a la derecha.", "clave": "delante" },
+    { "texto": "Por eso parece que cada persona elige una mitad.", "clave": "mitad" },
+    { "texto": "En dos mil trece miraron mil once cerebros, en reposo.", "clave": "once" },
+    { "texto": "De siete a veintinueve años, sin calcular y sin inventar.", "clave": "inventar" },
+    { "texto": "Un enlace fuerte solo arrastra a los que toca.", "clave": "toca" },
+    { "texto": "No se lleva el cerebro entero hacia un lado.", "clave": "entero" },
+    { "texto": "No sales de cerebro izquierdo ni de cerebro derecho.", "clave": "sales" },
+    { "texto": "Los dos lados hacen su parte a la vez.", "clave": "parte" },
+    { "texto": "Envíaselo a ese amigo que dice que es de cerebro derecho.", "clave": "amigo" }
+  ]
+}
