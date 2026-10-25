@@ -59,6 +59,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Por qué crujen los nudillos (2026-10-25).
 - Qué pasa en tu cuerpo si pasas 24 horas sin dormir (2026-10-25).
 - Por qué los wombats hacen caca en cubos (2026-10-25).
+- Cómo conseguir gasolina más barata (2026-10-25).
 
 ## Ideas pendientes
 

@@ -1,0 +1,988 @@
+{
+  "firma": "b74edc9abadb",
+  "duracion": 46.08,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Cómo puedes conseguir gasolina más barata?",
+      "clave": "barata",
+      "inicio": 0,
+      "fin": 2.48
+    },
+    {
+      "n": 2,
+      "texto": "En tu misma ciudad, una gasolinera puede cobrarte veinte céntimos más por litro que otra.",
+      "clave": "veinte",
+      "inicio": 2.72,
+      "fin": 7.92
+    },
+    {
+      "n": 3,
+      "texto": "En un depósito de cincuenta litros, son diez euros cada vez que llenas.",
+      "clave": "diez",
+      "inicio": 7.96,
+      "fin": 11.84
+    },
+    {
+      "n": 4,
+      "texto": "Primero: el Gobierno tiene un mapa gratis con el precio de cada gasolinera de España, y se actualiza cada cinco minutos.",
+      "clave": "mapa",
+      "inicio": 12.16,
+      "fin": 19.44
+    },
+    {
+      "n": 5,
+      "texto": "Segundo: huye de la autopista, que es donde más cara está.",
+      "clave": "autopista",
+      "inicio": 19.52,
+      "fin": 23.44
+    },
+    {
+      "n": 6,
+      "texto": "Tercero: las gasolineras sin empleados, donde pagas tú en la máquina, suelen ser las más baratas.",
+      "clave": "máquina",
+      "inicio": 23.48,
+      "fin": 29.52
+    },
+    {
+      "n": 7,
+      "texto": "Y repostar por la mañana, porque la gasolina está más fría, no sirve: está bajo tierra, a unos quince grados todo el día.",
+      "clave": "quince",
+      "inicio": 29.64,
+      "fin": 36.8
+    },
+    {
+      "n": 8,
+      "texto": "Así que no importa a qué hora la eches: importa dónde.",
+      "clave": "dónde",
+      "inicio": 36.88,
+      "fin": 40.8
+    },
+    {
+      "n": 9,
+      "texto": "Sígueme para más trucos, o envíaselo a ese amigo que siempre llena en la autopista.",
+      "clave": "autopista",
+      "inicio": 40.84,
+      "fin": 45.28
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "puedes",
+      "inicio": 0.32,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "conseguir",
+      "inicio": 0.64,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 1.04,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 1.6,
+      "fin": 1.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "barata?",
+      "inicio": 1.84,
+      "fin": 2.48,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 2.72,
+      "fin": 2.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.88,
+      "fin": 2.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "misma",
+      "inicio": 3.04,
+      "fin": 3.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ciudad,",
+      "inicio": 3.28,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 3.92,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gasolinera",
+      "inicio": 4.08,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.64,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cobrarte",
+      "inicio": 4.88,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 5.48,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "céntimos",
+      "inicio": 5.84,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 6.32,
+      "fin": 6.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 6.48,
+      "fin": 6.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "litro",
+      "inicio": 6.76,
+      "fin": 6.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 7.04,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "otra.",
+      "inicio": 7.2,
+      "fin": 7.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 7.96,
+      "fin": 8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 8.08,
+      "fin": 8.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "depósito",
+      "inicio": 8.24,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 8.64,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 8.76,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "litros,",
+      "inicio": 9.2,
+      "fin": 9.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 9.88,
+      "fin": 10,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 10.08,
+      "fin": 10.24,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "euros",
+      "inicio": 10.32,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 10.64,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "vez",
+      "inicio": 10.88,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 11.04,
+      "fin": 11.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "llenas.",
+      "inicio": 11.16,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Primero:",
+      "inicio": 12.16,
+      "fin": 13.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 13.08,
+      "fin": 13.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Gobierno",
+      "inicio": 13.2,
+      "fin": 13.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 13.68,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 13.92,
+      "fin": 14,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mapa",
+      "inicio": 14.08,
+      "fin": 14.24,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "gratis",
+      "inicio": 14.32,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 14.72,
+      "fin": 14.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 14.88,
+      "fin": 14.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "precio",
+      "inicio": 15.04,
+      "fin": 15.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 15.36,
+      "fin": 15.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 15.6,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gasolinera",
+      "inicio": 15.84,
+      "fin": 16.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 16.4,
+      "fin": 16.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "España,",
+      "inicio": 16.48,
+      "fin": 17.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 17.147,
+      "fin": 17.173,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 17.2,
+      "fin": 17.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "actualiza",
+      "inicio": 17.44,
+      "fin": 17.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.84,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cinco",
+      "inicio": 18.16,
+      "fin": 18.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "minutos.",
+      "inicio": 18.48,
+      "fin": 19.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Segundo:",
+      "inicio": 19.52,
+      "fin": 20.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "huye",
+      "inicio": 20.44,
+      "fin": 20.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.76,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 20.84,
+      "fin": 20.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "autopista,",
+      "inicio": 21,
+      "fin": 21.6,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 21.64,
+      "fin": 21.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 21.72,
+      "fin": 21.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "donde",
+      "inicio": 21.84,
+      "fin": 22.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 22.12,
+      "fin": 22.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cara",
+      "inicio": 22.4,
+      "fin": 22.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "está.",
+      "inicio": 22.64,
+      "fin": 23.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Tercero:",
+      "inicio": 23.48,
+      "fin": 24.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 24.4,
+      "fin": 24.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "gasolineras",
+      "inicio": 24.56,
+      "fin": 25.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 25.12,
+      "fin": 25.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "empleados,",
+      "inicio": 25.28,
+      "fin": 26,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "donde",
+      "inicio": 26.08,
+      "fin": 26.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pagas",
+      "inicio": 26.24,
+      "fin": 26.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tú",
+      "inicio": 26.64,
+      "fin": 26.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 26.8,
+      "fin": 26.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 26.92,
+      "fin": 26.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "máquina,",
+      "inicio": 27.04,
+      "fin": 27.52,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "suelen",
+      "inicio": 27.6,
+      "fin": 27.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ser",
+      "inicio": 28,
+      "fin": 28.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 28.16,
+      "fin": 28.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 28.4,
+      "fin": 28.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "baratas.",
+      "inicio": 28.56,
+      "fin": 29.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.64,
+      "fin": 29.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "repostar",
+      "inicio": 29.84,
+      "fin": 30.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 30.32,
+      "fin": 30.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 30.44,
+      "fin": 30.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mañana,",
+      "inicio": 30.56,
+      "fin": 31.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "porque",
+      "inicio": 31.12,
+      "fin": 31.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 31.32,
+      "fin": 31.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "gasolina",
+      "inicio": 31.44,
+      "fin": 31.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 31.84,
+      "fin": 32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 32.053,
+      "fin": 32.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "fría,",
+      "inicio": 32.2,
+      "fin": 32.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 32.8,
+      "fin": 32.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sirve:",
+      "inicio": 32.96,
+      "fin": 33.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 33.68,
+      "fin": 33.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "bajo",
+      "inicio": 33.84,
+      "fin": 34,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tierra,",
+      "inicio": 34.08,
+      "fin": 34.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 34.52,
+      "fin": 34.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 34.64,
+      "fin": 34.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "quince",
+      "inicio": 34.88,
+      "fin": 35.2,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "grados",
+      "inicio": 35.28,
+      "fin": 35.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 35.68,
+      "fin": 35.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 35.96,
+      "fin": 36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "día.",
+      "inicio": 36.08,
+      "fin": 36.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 36.88,
+      "fin": 37,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 37.04,
+      "fin": 37.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 37.36,
+      "fin": 37.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "importa",
+      "inicio": 37.64,
+      "fin": 37.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 37.92,
+      "fin": 38,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 38.08,
+      "fin": 38.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hora",
+      "inicio": 38.24,
+      "fin": 38.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 38.36,
+      "fin": 38.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "eches:",
+      "inicio": 38.48,
+      "fin": 39.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "importa",
+      "inicio": 39.24,
+      "fin": 39.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "dónde.",
+      "inicio": 39.84,
+      "fin": 40.8,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 40.84,
+      "fin": 41.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 41.28,
+      "fin": 41.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 41.4,
+      "fin": 41.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "trucos,",
+      "inicio": 41.6,
+      "fin": 42.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 42.24,
+      "fin": 42.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 42.44,
+      "fin": 42.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 42.92,
+      "fin": 42.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.04,
+      "fin": 43.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.2,
+      "fin": 43.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.52,
+      "fin": 43.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 43.68,
+      "fin": 44.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "llena",
+      "inicio": 44.16,
+      "fin": 44.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 44.4,
+      "fin": 44.427,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 44.453,
+      "fin": 44.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "autopista.",
+      "inicio": 44.56,
+      "fin": 45.28,
+      "frase": 9,
+      "clave": true
+    }
+  ]
+}
