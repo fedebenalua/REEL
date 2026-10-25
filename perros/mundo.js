@@ -15,6 +15,7 @@
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
 //   espalda 0..1: panza arriba, patas al aire (1 = de espaldas del todo; los valores de en medio no son una pose).
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
+//   agacha 0..1: grupa baja y patas traseras flexionadas, cola alta (la postura de hacer sus cosas, de lado). Úsala a 0 o 1.
 //   Poses: sentado 0..1 (sentado, cabeza arriba, patas traseras plegadas) y tumbado 0..1 (esfinge, patas delante). Úsalas
 //   a 0 o 1 y pasa de una a otra con k.suave sobre t (los valores intermedios no son una pose).
 // salon(g, c, t, hora) es el INTERIOR de casa (pared con ventana y luz, cuadros, sofá, lámpara, plantas, suelo de madera y
@@ -411,12 +412,13 @@ export function perro(g, o) {
   const escala = o.escala ?? 1, alta = o.pataAlta || 0;
   const stride = 50 * marcha, lift = 11 * marcha, duty = 0.5, bob = -1.5 * marcha * Math.cos(fase * TAU * 2);
   const sit = Math.min(1, o.sentado || 0), lie = Math.min(1, o.tumbado || 0), pz = Math.max(sit, lie);
-  const cuerpoY = bob * (1 - pz) + 1.4 * alta;
-  const rot = pitch * (1 - sit) - 0.72 * sit;
-  const pivB = [-34 * sit, -40 + 7 * sit], pivW = [-34 * sit, -40 + 36 * sit + 21 * lie];
+  const ag = Math.min(1, Math.max(0, o.agacha || 0));
+  const cuerpoY = bob * (1 - pz) * (1 - ag) + 1.4 * alta;
+  const rot = pitch * (1 - sit) - 0.72 * sit - 0.16 * ag;
+  const pivB = [-34 * sit - 4 * ag, -40 + 7 * sit + 2 * ag], pivW = [-34 * sit, -40 + 36 * sit + 21 * lie + 8 * ag];
   g.save(); g.translate(x, y); g.scale(dir * escala, escala);
   // la sombra en el suelo
-  g.save(); g.globalAlpha = 0.28; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(-10 * sit, 2, 56 - 14 * sit + 4 * lie, 7, 0, 0, TAU); g.fill(); g.restore();
+  g.save(); g.globalAlpha = 0.28; g.fillStyle = "#1a2a10"; g.beginPath(); g.ellipse(-10 * sit + 2 * ag, 2, 56 - 14 * sit + 4 * lie + 8 * ag, 7 + 1.5 * ag, 0, 0, TAU); g.fill(); g.restore();
   g.translate(pivW[0], pivW[1]); g.rotate(rot); g.translate(-pivB[0], -pivB[1]);
   g.translate(0, cuerpoY);
   const mundoPunto = (px, py) => { // de las coordenadas del perro al mundo (por si la correa)
@@ -445,6 +447,11 @@ export function perro(g, o) {
     } else {
       const pp = pie(ph, -30); P = alSuelo(pp); H = [P[0] - 4 - 2 * (pp[1] / -(lift || 1) || 0), P[1] - 17];
       if (pz > 0.001) { const q = trasPose(lejos ? 1 : 0); P = mixP(P, aCuerpo(q.P[0], q.P[1])); H = mixP(H, aCuerpo(q.H[0], q.H[1])); }
+      if (ag > 0.001 && pz < 0.001) {
+        const qP = aCuerpo(2 + (lejos ? 7 : 0), 5), qH = aCuerpo(-14 + (lejos ? 5 : 0), -4);
+        P = [mez(P[0], qP[0], ag), mez(P[1], qP[1], ag)];
+        H = [mez(H[0], qH[0], ag), mez(H[1], qH[1], ag)];
+      }
       K = ik(cadera[0], cadera[1], H[0], H[1], 25, 25, -1);
     }
     g.fillStyle = lejos ? PELO.lejos : PELO.medio;
@@ -466,6 +473,11 @@ export function perro(g, o) {
     const pp = pie(ph, 21), P0 = alSuelo(pp), W0 = [P0[0] - 0.5, P0[1] - 10];
     let P = P0, W = W0;
     if (pz > 0.001) { const q = delPose(lejos ? 1 : 0); P = mixP(P0, aCuerpo(q.P[0], q.P[1])); W = mixP(W0, aCuerpo(q.H[0], q.H[1])); }
+    if (ag > 0.001 && pz < 0.001) {
+      const qP = aCuerpo(20 + (lejos ? 5 : 0), 4.2), qW = aCuerpo(17 + (lejos ? 4 : 0), -14);
+      P = [mez(P[0], qP[0], ag), mez(P[1], qP[1], ag)];
+      W = [mez(W[0], qW[0], ag), mez(W[1], qW[1], ag)];
+    }
     const E = ik(hombro[0], hombro[1], W[0], W[1], 22, 22, 1);
     g.fillStyle = lejos ? PELO.lejos : PELO.medio;
     const curva = miembro(g, [[hombro[0] + 1, hombro[1] + 1], E, W, [P[0] + 0.3, P[1] - 3.5]], lejos ? [12, 9.5, 6.4, 5.6] : [17, 10.5, 6.6, 5.8]);
@@ -475,7 +487,7 @@ export function perro(g, o) {
 
   // la cola, detrás: una pluma que sube y menea
   { const w = Math.sin(t * 9) * 10 * cola + Math.sin(t * 4.3) * 3, base = [-36, -53];
-    const p1 = [-47, -58 - 6 * cola], p2 = [-54 + w * 0.3, -57 - 15 + 0 + w * 0.6 - 4 * (1 - cola)];
+    const p1 = [-47 + 6 * ag, -58 - 6 * cola - 22 * ag], p2 = [-54 + w * 0.3 + 10 * ag, -57 - 15 + w * 0.6 - 4 * (1 - cola) - 28 * ag];
     g.lineCap = "round"; g.lineJoin = "round";
     for (const [col, wd] of [[PELO.sombra, 7.6], [PELO.medio, 6.4], [PELO.luz, 2.2]]) { g.strokeStyle = col; g.lineWidth = wd; g.beginPath(); g.moveTo(base[0], base[1]); g.quadraticCurveTo(p1[0], p1[1], p2[0], p2[1]); g.stroke(); }
   }

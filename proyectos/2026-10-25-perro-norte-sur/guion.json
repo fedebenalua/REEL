@@ -1,0 +1,22 @@
+{
+  "titulo": "Por qué tu perro se pone de norte a sur para hacer caca",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro se pone de norte a sur para hacer caca?", "clave": "norte", "hook": true },
+    { "texto": "Setenta perros lo anotaron durante dos años.", "clave": "setenta", "hook": true },
+    { "texto": "Casi dos mil veces, y la media no señalaba ningún sitio.", "clave": "media", "hook": true },
+    { "texto": "Ordenaron los paseos después, según el campo de ese día.", "clave": "después" },
+    { "texto": "Con la brújula quieta, el lomo se quedaba de norte a sur.", "clave": "lomo" },
+    { "texto": "Cuarenta y tres perros, con el eje casi clavado.", "clave": "clavado" },
+    { "texto": "Si el norte se movía más de un dos por ciento, el eje desaparecía.", "clave": "ciento" },
+    { "texto": "Y el campo solo está tan quieto una de cada cinco horas de sol.", "clave": "cinco" },
+    { "texto": "Creen que así calibra el mapa, y solo si el norte no tiembla.", "clave": "mapa" },
+    { "texto": "En cinco parques de ciudad, otro estudio no lo encontró.", "clave": "ciudad" },
+    { "texto": "Cincuenta y dos perros: en el pis mandaba la valla, no el norte.", "clave": "valla" },
+    { "texto": "En la caca, ni la valla ni el norte.", "clave": "caca" },
+    { "texto": "Así que parece, en campo abierto y con la brújula quieta.", "clave": "parece" },
+    { "texto": "No todos los estudios lo confirman.", "clave": "confirman" },
+    { "texto": "Envíaselo a ese amigo al que su perro da tres vueltas en la acera y se agacha mirando al semáforo.", "clave": "semáforo" }
+  ]
+}
