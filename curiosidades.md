@@ -57,6 +57,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Por qué se te ponen los dedos como pasas en la bañera (2026-10-24).
 - Por qué se te duermen los pies al sentarte (2026-10-24).
 - Por qué crujen los nudillos (2026-10-25).
+- Qué pasa en tu cuerpo si pasas 24 horas sin dormir (2026-10-25).
 
 ## Ideas pendientes
 
