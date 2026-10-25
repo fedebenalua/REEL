@@ -1,0 +1,18 @@
+{
+  "titulo": "El test que nadie encargó",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "El primer test de inteligencia no lo encargó ningún ministro.", "clave": "ministro", "hook": true },
+    { "texto": "Los libros dicen que Francia contrató a un hombre para puntuar a los niños.", "clave": "puntuar", "hook": true },
+    { "texto": "Había una comisión. Binet entró por su cuenta, y nadie le pagó el test.", "clave": "cuenta" },
+    { "texto": "Quería la misma medida para todos, no el ojo de un médico.", "clave": "ojo" },
+    { "texto": "Con Simon, las mismas tareas para cada niño, una por una.", "clave": "tareas" },
+    { "texto": "Cada tarea llevaba la edad en la que la mayoría ya la resolvía.", "clave": "edad" },
+    { "texto": "Y de ahí salió una sola cifra, que medio mundo trató como un veredicto.", "clave": "cifra" },
+    { "texto": "Dos años por detrás no era un sello: era el aviso de otra enseñanza.", "clave": "enseñanza" },
+    { "texto": "El cociente ni es de Binet. Lo calculó Stern en mil novecientos doce, y Terman lo extendió.", "clave": "Stern" },
+    { "texto": "Binet avisó: la inteligencia no es una cantidad fija, y la cifra no es un techo.", "clave": "techo" },
+    { "texto": "Envíaselo a ese amigo que cree que un test dice lo que vales.", "clave": "vales" }
+  ]
+}
