@@ -1,0 +1,19 @@
+{
+  "titulo": "Clogged toilet, no plunger",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Toilet clogged, and there's no plunger?", "clave": "plunger", "hook": true },
+    { "texto": "Don't flush it again. You'll send the water over the rim.", "clave": "flush", "hook": true },
+    { "texto": "A wad of paper is stuck in the bend under the bowl.", "clave": "bend", "hook": true },
+    { "texto": "Turn the valve on the wall clockwise, all the way shut.", "clave": "clockwise" },
+    { "texto": "If the water sits at the rim, scoop some into a bucket.", "clave": "bucket" },
+    { "texto": "Pour in about half a cup of dish soap, and wait fifteen minutes.", "clave": "soap" },
+    { "texto": "Then pour about a gallon of hot tap water from waist height, and stand back.", "clave": "gallon" },
+    { "texto": "Never boiling. That can crack the bowl.", "clave": "boiling" },
+    { "texto": "Flush once, and the water spirals down.", "clave": "spirals" },
+    { "texto": "Still stuck, or the tub gurgles too? Stop, and call a plumber.", "clave": "plumber" },
+    { "texto": "And skip the chemical clog remover. The label says not for toilets.", "clave": "label" },
+    { "texto": "Send this to that friend whose toilet is clogged, with no plunger.", "clave": "friend" }
+  ]
+}
