@@ -1,0 +1,897 @@
+{
+  "firma": "00fdfb765a90",
+  "duracion": 37.76,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro entierra el hueso, si ya ha comido?",
+      "clave": "hueso",
+      "inicio": 0,
+      "fin": 3
+    },
+    {
+      "n": 2,
+      "texto": "El plato está lleno, y él sigue cavando.",
+      "clave": "lleno",
+      "inicio": 3.2,
+      "fin": 6.16
+    },
+    {
+      "n": 3,
+      "texto": "Eso lo hacen los lobos, cuando les sobra la presa.",
+      "clave": "lobos",
+      "inicio": 6.2,
+      "fin": 8.92
+    },
+    {
+      "n": 4,
+      "texto": "Una loba escondió una pata a más de dos kilómetros.",
+      "clave": "kilómetros",
+      "inicio": 9.2,
+      "fin": 12.32
+    },
+    {
+      "n": 5,
+      "texto": "Y dos hoyos de carne ya masticada, de más de medio kilo cada uno.",
+      "clave": "kilo",
+      "inicio": 12.36,
+      "fin": 16.64
+    },
+    {
+      "n": 6,
+      "texto": "Lo filmaron en ocho lobos, más de ciento cincuenta veces.",
+      "clave": "cincuenta",
+      "inicio": 16.72,
+      "fin": 20.56
+    },
+    {
+      "n": 7,
+      "texto": "El hoyo, siempre con las patas de delante.",
+      "clave": "patas",
+      "inicio": 20.64,
+      "fin": 23.2
+    },
+    {
+      "n": 8,
+      "texto": "Taparlo, siempre con el hocico.",
+      "clave": "hocico",
+      "inicio": 23.28,
+      "fin": 25.44
+    },
+    {
+      "n": 9,
+      "texto": "Tu perro hace ese gesto, aunque ya esté lleno.",
+      "clave": "gesto",
+      "inicio": 25.48,
+      "fin": 28.32
+    },
+    {
+      "n": 10,
+      "texto": "Y si no hay tierra, lo empuja bajo el cojín.",
+      "clave": "cojín",
+      "inicio": 28.36,
+      "fin": 30.8
+    },
+    {
+      "n": 11,
+      "texto": "Lo guarda para comérselo luego.",
+      "clave": "luego",
+      "inicio": 30.84,
+      "fin": 32.8
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a ese amigo al que su perro le entierra los calcetines detrás del sofá.",
+      "clave": "calcetines",
+      "inicio": 32.92,
+      "fin": 36.96
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.48,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "entierra",
+      "inicio": 0.72,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.16,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hueso,",
+      "inicio": 1.28,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "si",
+      "inicio": 1.92,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 2.16,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ha",
+      "inicio": 2.28,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "comido?",
+      "inicio": 2.4,
+      "fin": 3,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 3.2,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "plato",
+      "inicio": 3.36,
+      "fin": 3.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 3.6,
+      "fin": 3.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lleno,",
+      "inicio": 3.84,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 4.44,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "él",
+      "inicio": 4.56,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 4.88,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cavando.",
+      "inicio": 5.16,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Eso",
+      "inicio": 6.2,
+      "fin": 6.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 6.4,
+      "fin": 6.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hacen",
+      "inicio": 6.56,
+      "fin": 6.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 6.8,
+      "fin": 6.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lobos,",
+      "inicio": 6.96,
+      "fin": 7.52,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "cuando",
+      "inicio": 7.56,
+      "fin": 7.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 7.84,
+      "fin": 7.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sobra",
+      "inicio": 8,
+      "fin": 8.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 8.2,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "presa.",
+      "inicio": 8.32,
+      "fin": 8.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Una",
+      "inicio": 9.2,
+      "fin": 9.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "loba",
+      "inicio": 9.44,
+      "fin": 9.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "escondió",
+      "inicio": 9.68,
+      "fin": 10.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 10.16,
+      "fin": 10.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pata",
+      "inicio": 10.32,
+      "fin": 10.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 10.64,
+      "fin": 10.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 10.76,
+      "fin": 10.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 10.96,
+      "fin": 11.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.2,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "kilómetros.",
+      "inicio": 11.36,
+      "fin": 12.32,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.36,
+      "fin": 12.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 12.48,
+      "fin": 12.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hoyos",
+      "inicio": 12.68,
+      "fin": 12.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.96,
+      "fin": 13.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "carne",
+      "inicio": 13.12,
+      "fin": 13.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 13.44,
+      "fin": 13.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "masticada,",
+      "inicio": 13.64,
+      "fin": 14.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.48,
+      "fin": 14.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 14.64,
+      "fin": 14.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.88,
+      "fin": 14.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "medio",
+      "inicio": 15.04,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "kilo",
+      "inicio": 15.44,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "cada",
+      "inicio": 15.68,
+      "fin": 15.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "uno.",
+      "inicio": 15.92,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Lo",
+      "inicio": 16.72,
+      "fin": 16.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "filmaron",
+      "inicio": 16.88,
+      "fin": 17.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 17.32,
+      "fin": 17.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ocho",
+      "inicio": 17.52,
+      "fin": 17.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "lobos,",
+      "inicio": 17.76,
+      "fin": 18.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 18.36,
+      "fin": 18.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 18.56,
+      "fin": 18.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 18.76,
+      "fin": 19.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 19.2,
+      "fin": 19.6,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "veces.",
+      "inicio": 19.68,
+      "fin": 20.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 20.64,
+      "fin": 20.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hoyo,",
+      "inicio": 20.8,
+      "fin": 21.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 21.36,
+      "fin": 21.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 21.76,
+      "fin": 21.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 21.92,
+      "fin": 22,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "patas",
+      "inicio": 22.08,
+      "fin": 22.32,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 22.36,
+      "fin": 22.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "delante.",
+      "inicio": 22.48,
+      "fin": 23.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Taparlo,",
+      "inicio": 23.28,
+      "fin": 23.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 24,
+      "fin": 24.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 24.4,
+      "fin": 24.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 24.52,
+      "fin": 24.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hocico.",
+      "inicio": 24.64,
+      "fin": 25.44,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Tu",
+      "inicio": 25.48,
+      "fin": 25.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 25.6,
+      "fin": 25.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 25.88,
+      "fin": 26.08,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 26.2,
+      "fin": 26.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "gesto,",
+      "inicio": 26.48,
+      "fin": 26.88,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "aunque",
+      "inicio": 26.92,
+      "fin": 27.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 27.28,
+      "fin": 27.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "esté",
+      "inicio": 27.44,
+      "fin": 27.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lleno.",
+      "inicio": 27.64,
+      "fin": 28.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 28.36,
+      "fin": 28.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 28.44,
+      "fin": 28.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 28.56,
+      "fin": 28.613,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 28.667,
+      "fin": 28.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "tierra,",
+      "inicio": 28.76,
+      "fin": 29.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 29.24,
+      "fin": 29.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "empuja",
+      "inicio": 29.36,
+      "fin": 29.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "bajo",
+      "inicio": 29.76,
+      "fin": 29.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 29.96,
+      "fin": 30,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cojín.",
+      "inicio": 30.08,
+      "fin": 30.8,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Lo",
+      "inicio": 30.84,
+      "fin": 30.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "guarda",
+      "inicio": 30.96,
+      "fin": 31.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 31.36,
+      "fin": 31.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "comérselo",
+      "inicio": 31.52,
+      "fin": 32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "luego.",
+      "inicio": 32.107,
+      "fin": 32.8,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 32.92,
+      "fin": 33.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 33.48,
+      "fin": 33.52,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 33.6,
+      "fin": 33.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 33.76,
+      "fin": 34,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 34.08,
+      "fin": 34.16,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 34.2,
+      "fin": 34.24,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 34.32,
+      "fin": 34.4,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 34.48,
+      "fin": 34.64,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 34.68,
+      "fin": 34.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "entierra",
+      "inicio": 34.8,
+      "fin": 35.12,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 35.2,
+      "fin": 35.28,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "calcetines",
+      "inicio": 35.36,
+      "fin": 35.84,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "detrás",
+      "inicio": 35.92,
+      "fin": 36.16,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 36.24,
+      "fin": 36.32,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "sofá.",
+      "inicio": 36.4,
+      "fin": 36.96,
+      "frase": 12,
+      "clave": false
+    }
+  ]
+}

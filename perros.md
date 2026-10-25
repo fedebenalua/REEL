@@ -52,6 +52,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué da vueltas antes de echarse (`proyectos/2026-10-24-perro-da-vueltas`).
 - Por qué ladra a la nada de noche (`proyectos/2026-10-25-perro-ladra-de-noche`).
 - Por qué se pone de norte a sur para hacer caca (`proyectos/2026-10-25-perro-norte-sur`).
+- Por qué entierra el hueso (`proyectos/2026-10-25-perro-entierra-hueso`).
 
 ## Ideas pendientes
 

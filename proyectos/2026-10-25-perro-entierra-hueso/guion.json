@@ -1,0 +1,19 @@
+{
+  "titulo": "Por qué tu perro entierra el hueso",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro entierra el hueso, si ya ha comido?", "clave": "hueso", "hook": true },
+    { "texto": "El plato está lleno, y él sigue cavando.", "clave": "lleno", "hook": true },
+    { "texto": "Eso lo hacen los lobos, cuando les sobra la presa.", "clave": "lobos" },
+    { "texto": "Una loba escondió una pata a más de dos kilómetros.", "clave": "kilómetros" },
+    { "texto": "Y dos hoyos de carne ya masticada, de más de medio kilo cada uno.", "clave": "kilo" },
+    { "texto": "Lo filmaron en ocho lobos, más de ciento cincuenta veces.", "clave": "cincuenta" },
+    { "texto": "El hoyo, siempre con las patas de delante.", "clave": "patas" },
+    { "texto": "Taparlo, siempre con el hocico.", "clave": "hocico" },
+    { "texto": "Tu perro hace ese gesto, aunque ya esté lleno.", "clave": "gesto" },
+    { "texto": "Y si no hay tierra, lo empuja bajo el cojín.", "clave": "cojín" },
+    { "texto": "Lo guarda para comérselo luego.", "clave": "luego" },
+    { "texto": "Envíaselo a ese amigo al que su perro le entierra los calcetines detrás del sofá.", "clave": "calcetines" }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "firma": "00fdfb765a90",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.48,
+      "fin": 0.64
+    },
+    {
+      "texto": "entierra",
+      "inicio": 0.72,
+      "fin": 1.12
+    },
+    {
+      "texto": "el",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "hueso,",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "texto": "si",
+      "inicio": 1.92,
+      "fin": 2.08
+    },
+    {
+      "texto": "ya",
+      "inicio": 2.16,
+      "fin": 2.24
+    },
+    {
+      "texto": "ha",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "comido?",
+      "inicio": 2.4,
+      "fin": 3
+    },
+    {
+      "texto": "El",
+      "inicio": 3.2,
+      "fin": 3.28
+    },
+    {
+      "texto": "plato",
+      "inicio": 3.36,
+      "fin": 3.52
+    },
+    {
+      "texto": "está",
+      "inicio": 3.6,
+      "fin": 3.76
+    },
+    {
+      "texto": "lleno,",
+      "inicio": 3.84,
+      "fin": 4.4
+    },
+    {
+      "texto": "y",
+      "inicio": 4.44,
+      "fin": 4.48
+    },
+    {
+      "texto": "él",
+      "inicio": 4.56,
+      "fin": 4.8
+    },
+    {
+      "texto": "sigue",
+      "inicio": 4.88,
+      "fin": 5.12
+    },
+    {
+      "texto": "cavando.",
+      "inicio": 5.16,
+      "fin": 6.16
+    },
+    {
+      "texto": "Eso",
+      "inicio": 6.2,
+      "fin": 6.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "texto": "hacen",
+      "inicio": 6.56,
+      "fin": 6.72
+    },
+    {
+      "texto": "los",
+      "inicio": 6.8,
+      "fin": 6.88
+    },
+    {
+      "texto": "lobos,",
+      "inicio": 6.96,
+      "fin": 7.52
+    },
+    {
+      "texto": "cuando",
+      "inicio": 7.56,
+      "fin": 7.76
+    },
+    {
+      "texto": "les",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "texto": "sobra",
+      "inicio": 8,
+      "fin": 8.16
+    },
+    {
+      "texto": "la",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "texto": "presa.",
+      "inicio": 8.32,
+      "fin": 8.92
+    },
+    {
+      "texto": "Una",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "texto": "loba",
+      "inicio": 9.44,
+      "fin": 9.6
+    },
+    {
+      "texto": "escondió",
+      "inicio": 9.68,
+      "fin": 10.08
+    },
+    {
+      "texto": "una",
+      "inicio": 10.16,
+      "fin": 10.24
+    },
+    {
+      "texto": "pata",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "a",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "texto": "más",
+      "inicio": 10.76,
+      "fin": 10.88
+    },
+    {
+      "texto": "de",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "texto": "dos",
+      "inicio": 11.2,
+      "fin": 11.28
+    },
+    {
+      "texto": "kilómetros.",
+      "inicio": 11.36,
+      "fin": 12.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 12.36,
+      "fin": 12.4
+    },
+    {
+      "texto": "dos",
+      "inicio": 12.48,
+      "fin": 12.64
+    },
+    {
+      "texto": "hoyos",
+      "inicio": 12.68,
+      "fin": 12.88
+    },
+    {
+      "texto": "de",
+      "inicio": 12.96,
+      "fin": 13.04
+    },
+    {
+      "texto": "carne",
+      "inicio": 13.12,
+      "fin": 13.36
+    },
+    {
+      "texto": "ya",
+      "inicio": 13.44,
+      "fin": 13.6
+    },
+    {
+      "texto": "masticada,",
+      "inicio": 13.64,
+      "fin": 14.4
+    },
+    {
+      "texto": "de",
+      "inicio": 14.48,
+      "fin": 14.56
+    },
+    {
+      "texto": "más",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "de",
+      "inicio": 14.88,
+      "fin": 14.96
+    },
+    {
+      "texto": "medio",
+      "inicio": 15.04,
+      "fin": 15.28
+    },
+    {
+      "texto": "kilo",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "texto": "cada",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "uno.",
+      "inicio": 15.92,
+      "fin": 16.64
+    },
+    {
+      "texto": "Lo",
+      "inicio": 16.72,
+      "fin": 16.8
+    },
+    {
+      "texto": "filmaron",
+      "inicio": 16.88,
+      "fin": 17.2
+    },
+    {
+      "texto": "en",
+      "inicio": 17.32,
+      "fin": 17.44
+    },
+    {
+      "texto": "ocho",
+      "inicio": 17.52,
+      "fin": 17.68
+    },
+    {
+      "texto": "lobos,",
+      "inicio": 17.76,
+      "fin": 18.32
+    },
+    {
+      "texto": "más",
+      "inicio": 18.36,
+      "fin": 18.48
+    },
+    {
+      "texto": "de",
+      "inicio": 18.56,
+      "fin": 18.72
+    },
+    {
+      "texto": "ciento",
+      "inicio": 18.76,
+      "fin": 19.04
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 19.2,
+      "fin": 19.6
+    },
+    {
+      "texto": "veces.",
+      "inicio": 19.68,
+      "fin": 20.56
+    },
+    {
+      "texto": "El",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "texto": "hoyo,",
+      "inicio": 20.8,
+      "fin": 21.28
+    },
+    {
+      "texto": "siempre",
+      "inicio": 21.36,
+      "fin": 21.68
+    },
+    {
+      "texto": "con",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "texto": "las",
+      "inicio": 21.92,
+      "fin": 22
+    },
+    {
+      "texto": "patas",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "texto": "de",
+      "inicio": 22.36,
+      "fin": 22.4
+    },
+    {
+      "texto": "delante.",
+      "inicio": 22.48,
+      "fin": 23.2
+    },
+    {
+      "texto": "Taparlo,",
+      "inicio": 23.28,
+      "fin": 23.92
+    },
+    {
+      "texto": "siempre",
+      "inicio": 24,
+      "fin": 24.32
+    },
+    {
+      "texto": "con",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "texto": "el",
+      "inicio": 24.52,
+      "fin": 24.56
+    },
+    {
+      "texto": "hocico.",
+      "inicio": 24.64,
+      "fin": 25.44
+    },
+    {
+      "texto": "Tu",
+      "inicio": 25.48,
+      "fin": 25.52
+    },
+    {
+      "texto": "perro",
+      "inicio": 25.6,
+      "fin": 25.84
+    },
+    {
+      "texto": "hace",
+      "inicio": 25.88,
+      "fin": 26.08
+    },
+    {
+      "texto": "ese",
+      "inicio": 26.2,
+      "fin": 26.32
+    },
+    {
+      "texto": "gesto,",
+      "inicio": 26.48,
+      "fin": 26.88
+    },
+    {
+      "texto": "aunque",
+      "inicio": 26.92,
+      "fin": 27.2
+    },
+    {
+      "texto": "ya",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "texto": "esté",
+      "inicio": 27.44,
+      "fin": 27.6
+    },
+    {
+      "texto": "lleno.",
+      "inicio": 27.64,
+      "fin": 28.32
+    },
+    {
+      "texto": "Y",
+      "inicio": 28.36,
+      "fin": 28.4
+    },
+    {
+      "texto": "si",
+      "inicio": 28.44,
+      "fin": 28.48
+    },
+    {
+      "texto": "no",
+      "inicio": 28.56,
+      "fin": 28.613
+    },
+    {
+      "texto": "hay",
+      "inicio": 28.667,
+      "fin": 28.72
+    },
+    {
+      "texto": "tierra,",
+      "inicio": 28.76,
+      "fin": 29.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 29.24,
+      "fin": 29.28
+    },
+    {
+      "texto": "empuja",
+      "inicio": 29.36,
+      "fin": 29.68
+    },
+    {
+      "texto": "bajo",
+      "inicio": 29.76,
+      "fin": 29.92
+    },
+    {
+      "texto": "el",
+      "inicio": 29.96,
+      "fin": 30
+    },
+    {
+      "texto": "cojín.",
+      "inicio": 30.08,
+      "fin": 30.8
+    },
+    {
+      "texto": "Lo",
+      "inicio": 30.84,
+      "fin": 30.88
+    },
+    {
+      "texto": "guarda",
+      "inicio": 30.96,
+      "fin": 31.28
+    },
+    {
+      "texto": "para",
+      "inicio": 31.36,
+      "fin": 31.44
+    },
+    {
+      "texto": "comérselo",
+      "inicio": 31.52,
+      "fin": 32
+    },
+    {
+      "texto": "luego.",
+      "inicio": 32.107,
+      "fin": 32.8
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 32.92,
+      "fin": 33.44
+    },
+    {
+      "texto": "a",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "ese",
+      "inicio": 33.6,
+      "fin": 33.68
+    },
+    {
+      "texto": "amigo",
+      "inicio": 33.76,
+      "fin": 34
+    },
+    {
+      "texto": "al",
+      "inicio": 34.08,
+      "fin": 34.16
+    },
+    {
+      "texto": "que",
+      "inicio": 34.2,
+      "fin": 34.24
+    },
+    {
+      "texto": "su",
+      "inicio": 34.32,
+      "fin": 34.4
+    },
+    {
+      "texto": "perro",
+      "inicio": 34.48,
+      "fin": 34.64
+    },
+    {
+      "texto": "le",
+      "inicio": 34.68,
+      "fin": 34.72
+    },
+    {
+      "texto": "entierra",
+      "inicio": 34.8,
+      "fin": 35.12
+    },
+    {
+      "texto": "los",
+      "inicio": 35.2,
+      "fin": 35.28
+    },
+    {
+      "texto": "calcetines",
+      "inicio": 35.36,
+      "fin": 35.84
+    },
+    {
+      "texto": "detrás",
+      "inicio": 35.92,
+      "fin": 36.16
+    },
+    {
+      "texto": "del",
+      "inicio": 36.24,
+      "fin": 36.32
+    },
+    {
+      "texto": "sofá.",
+      "inicio": 36.4,
+      "fin": 36.96
+    }
+  ]
+}
