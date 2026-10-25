@@ -9,7 +9,7 @@
 // Fotos de cómo tiene que verse: perros/muestra-*.jpg
 //
 // perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, bostezo, lamido, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata }
-//   bostezo 0..1: abre la boca de verdad (mandíbula abajo, ojo entornado). abre sigue siendo la lengua corta.
+//   bostezo 0..1: abre la boca de verdad (mandíbula abajo, ojo entornado). ladra 0..1: un ladrido, boca abierta y ojo abierto. abre sigue siendo la lengua corta.
 //   lamido 0..1: un lametón a la punta. 0 escondida, a la mitad la lengua le cruza la trufa, y al final vuelve. Si hay lamido, no cuelga la lengua.
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
 //   marcha 0 = quieto, 1 = trote; fase = ciclo de la pata; cuelloBaja 0..1 = baja el cuello para oler.
@@ -18,7 +18,7 @@
 //   Poses: sentado 0..1 (sentado, cabeza arriba, patas traseras plegadas) y tumbado 0..1 (esfinge, patas delante). Úsalas
 //   a 0 o 1 y pasa de una a otra con k.suave sobre t (los valores intermedios no son una pose).
 // salon(g, c, t, hora) es el INTERIOR de casa (pared con ventana y luz, cuadros, sofá, lámpara, plantas, suelo de madera y
-//   alfombra); hora 0 día, 1 tarde. Se usa igual que parque(): salon(g, c, t, hora); ponVista(g, c); perro(...). Pon el
+//   alfombra); hora 0 día, 1 tarde, 2 noche (pared azul, ventana con luna, lámpara encendida). Se usa igual que parque(): salon(g, c, t, hora); ponVista(g, c); perro(...). Pon el
 //   perro y la persona sobre la alfombra (x ≈ 420 + 900·n) y la cámara a Z 2.6–4. Nunca la persona entera tapando la pantalla.
 // perroFrente(g, { x, escala, t, cola, culpa, lamido, cabeza: { ladea, abre, ojo, oreja, mira, miraY } }): el mismo perro SENTADO DE FRENTE, mirando a
 //   cámara (ladea la cabeza, bosteza, sonríe). culpa 0..1 (y culpaOjos, culpaOrejas, culpaCabeza para subirlas por separado): la «cara de culpable» (cabeza y cuerpo bajos, orejas atrás, cejas
@@ -402,7 +402,7 @@ function perroEspalda(g, o) {
   return { collar: alMundo(30, -30), nariz: alMundo(nx, ny), ingle: alMundo(0, -20), pata: alMundo(16, -50) };
 }
 // Un perro grande (tipo labrador), de lado, mirando a la derecha (dir = -1, a la izquierda). Pie en y = 0.
-// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; lamido 0..1 le pasa la lengua por la trufa; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
+// fase: el ciclo del trote; marcha: 0 quieto, 1 a trote; pitch: se echa adelante; bostezo 0..1 abre la mandíbula; ladra 0..1 abre la boca en un ladrido, con el ojo abierto; lamido 0..1 le pasa la lengua por la trufa; cabeza: { ang (+ baja), abre, ojo (0 abierto, 1 feliz), oreja }
 // cola: cuánto la menea. escala: tamaño (1 = el de siempre). pataAlta: 0 en el suelo, 1 la trasera de este lado casi vertical.
 // Devuelve collar, nariz, ingle y pata (la trasera de este lado), en el mundo.
 export function perro(g, o) {
@@ -524,8 +524,9 @@ export function perro(g, o) {
   };
   // la boca abierta (la lengua colgando) va detrás de la mandíbula. El bostezo se pinta después, encima.
   const bost = Math.max(0, Math.min(1, o.bostezo || 0));
+  const ladra = Math.max(0, Math.min(1, o.ladra || 0));
   const lam = Math.max(0, Math.min(1, o.lamido || 0));
-  const abre = (cab.abre || 0) * (lam > 0.04 ? 0 : 1);
+  const abre = (cab.abre || 0) * (lam > 0.04 || ladra > 0.04 ? 0 : 1);
   if (abre > 0.02 && bost < 0.04) {
     g.fillStyle = "#4a1c20"; g.beginPath(); g.moveTo(32, 5); g.quadraticCurveTo(38, 5 + 12 * abre, 28, 8 + 14 * abre); g.lineTo(24, 8); g.closePath(); g.fill();
     const tg = g.createLinearGradient(0, 6, 0, 26 * abre + 8); tg.addColorStop(0, "#ff7f93"); tg.addColorStop(1, "#d94a68");
@@ -540,7 +541,7 @@ export function perro(g, o) {
   const mz = g.createLinearGradient(0, -6, 0, 8); mz.addColorStop(0, "rgba(255,230,180,0)"); mz.addColorStop(1, "rgba(255,230,180,0.5)"); g.fillStyle = mz; g.fillRect(24, -10, 26, 20);
   g.restore();
   // la boca
-  if (bost <= 0.04) {
+  if (bost <= 0.04 && ladra < 0.04) {
     g.strokeStyle = "#4a2410"; g.lineWidth = 1.5; g.lineCap = "round"; g.beginPath(); g.moveTo(44.5, 3.5); g.quadraticCurveTo(38, 7 + 2 * abre, 30, 6.4); g.quadraticCurveTo(27, 5.5, 25.6, 2.5); g.stroke();
   }
   // la trufa
@@ -593,6 +594,13 @@ export function perro(g, o) {
     g.fillStyle = "#08040a"; g.beginPath(); g.arc(22.5, -7.1, 1.4, 0, TAU); g.fill();
     g.fillStyle = "rgba(255,255,255,0.95)"; g.beginPath(); g.arc(23.1, -8.1, 0.8, 0, TAU); g.fill();
     g.strokeStyle = "rgba(90,50,20,0.7)"; g.lineWidth = 1.2; g.beginPath(); g.arc(21.2, -7.4, 3.9, Math.PI * 1.05, Math.PI * 1.95); g.stroke();
+    if (ladra > 0.04) {
+      const cae = 16 * ladra, cx = 34, cy = 3 + cae * 0.42, rx = 10, ry = 2.6 + cae * 0.42;
+      g.fillStyle = "#1a080c"; g.beginPath(); g.ellipse(cx, cy, rx, ry, 0.1, 0, TAU); g.fill();
+      g.fillStyle = "#fff6ea"; g.beginPath(); g.moveTo(cx - 5, cy - ry + 0.6); g.lineTo(cx + 4.5, cy - ry + 0.3); g.lineTo(cx + 3.6, cy - ry + 2); g.lineTo(cx - 4.2, cy - ry + 2.1); g.closePath(); g.fill();
+      const tg = g.createLinearGradient(cx, cy, cx, cy + ry); tg.addColorStop(0, "#ffb4c0"); tg.addColorStop(1, "#c43858");
+      g.fillStyle = tg; g.beginPath(); g.ellipse(cx + 0.5, cy + ry * 0.25, rx * 0.45, ry * 0.5, 0.08, 0, TAU); g.fill();
+    }
   }
   // la oreja, caída, que se mueve
   const ore = (cab.oreja || 0) + Math.sin(t * 9 + fase * 0) * 0.04 * marcha + marcha * Math.sin(fase * TAU * 2) * 0.1;
@@ -824,15 +832,24 @@ export const aPantalla = (c, X, Y, f = 1) => { const z = zf(c, f); return [540 +
 // El mismo sistema de cámara que el parque: salon(g, c, t, hora) deja el fondo hecho; después ponVista(g, c) y dibujas
 // perro/persona en cm del mundo. hora: 0 día, 1 tarde (más cálido). Sofá, ventana con luz, cuadros, lámpara, planta y suelo de madera.
 function ventana(g, x, hora) {
-  const w = 150, h = 190, y = -300;
+  const noche = hora >= 1.5, w = 150, h = 190, y = -300;
   g.save();
-  g.fillStyle = "#fff8ee"; k.redondo(g, x - 10, y - 10, w + 20, h + 20, 6); g.fill();
-  const sg = g.createLinearGradient(0, y, 0, y + h); sg.addColorStop(0, mezColor("#7cc4ff", "#ffb27a", hora)); sg.addColorStop(1, mezColor("#d9f0ff", "#ffe2b0", hora));
-  g.fillStyle = sg; g.fillRect(x, y, w, h);
-  g.fillStyle = "rgba(255,255,255,0.7)"; g.beginPath(); g.ellipse(x + 40, y + 60, 26, 9, 0, 0, TAU); g.ellipse(x + 62, y + 54, 20, 8, 0, 0, TAU); g.fill();
-  g.fillStyle = "#fff8ee"; g.fillRect(x + w / 2 - 3, y, 6, h); g.fillRect(x, y + h / 2 - 3, w, 6);
+  g.fillStyle = noche ? "#d5deee" : "#fff8ee"; k.redondo(g, x - 10, y - 10, w + 20, h + 20, 6); g.fill();
+  if (noche) {
+    const sg = g.createLinearGradient(0, y, 0, y + h); sg.addColorStop(0, "#070b22"); sg.addColorStop(0.55, "#1a2d6e"); sg.addColorStop(1, "#3d4f92");
+    g.fillStyle = sg; g.fillRect(x, y, w, h);
+    g.fillStyle = "#fff4c4"; g.beginPath(); g.arc(x + 112, y + 46, 18, 0, TAU); g.fill();
+    g.fillStyle = "rgba(255,244,196,0.35)"; g.beginPath(); g.arc(x + 112, y + 46, 28, 0, TAU); g.fill();
+    g.fillStyle = "#fff";
+    for (const [sx, sy, r] of [[26, 36, 1.7], [48, 78, 1.2], [64, 28, 1.5], [34, 112, 1.1], [86, 96, 1.4], [18, 70, 1]]) { g.beginPath(); g.arc(x + sx, y + sy, r, 0, TAU); g.fill(); }
+  } else {
+    const sg = g.createLinearGradient(0, y, 0, y + h); sg.addColorStop(0, mezColor("#7cc4ff", "#ffb27a", hora)); sg.addColorStop(1, mezColor("#d9f0ff", "#ffe2b0", hora));
+    g.fillStyle = sg; g.fillRect(x, y, w, h);
+    g.fillStyle = "rgba(255,255,255,0.7)"; g.beginPath(); g.ellipse(x + 40, y + 60, 26, 9, 0, 0, TAU); g.ellipse(x + 62, y + 54, 20, 8, 0, 0, TAU); g.fill();
+  }
+  g.fillStyle = noche ? "#d5deee" : "#fff8ee"; g.fillRect(x + w / 2 - 3, y, 6, h); g.fillRect(x, y + h / 2 - 3, w, 6);
   // cortinas
-  for (const s of [0, 1]) { const cg = g.createLinearGradient(0, 0, 1, 0); const cx = s ? x + w - 4 : x - 36; g.fillStyle = mezColor("#ff9aa2", "#f07a6a", hora); k.redondo(g, cx, y - 16, 42, h + 40, 10); g.fill(); g.strokeStyle = "rgba(120,30,30,0.25)"; g.lineWidth = 2; for (let i = 1; i < 4; i++) { g.beginPath(); g.moveTo(cx + i * 10.5, y - 10); g.lineTo(cx + i * 10.5, y + h + 20); g.stroke(); } }
+  for (const s of [0, 1]) { const cg = g.createLinearGradient(0, 0, 1, 0); const cx = s ? x + w - 4 : x - 36; g.fillStyle = mezColor("#ff9aa2", "#f07a6a", noche ? 1 : hora); k.redondo(g, cx, y - 16, 42, h + 40, 10); g.fill(); g.strokeStyle = "rgba(120,30,30,0.25)"; g.lineWidth = 2; for (let i = 1; i < 4; i++) { g.beginPath(); g.moveTo(cx + i * 10.5, y - 10); g.lineTo(cx + i * 10.5, y + h + 20); g.stroke(); } }
   g.restore();
 }
 function sofa(g, x) {
@@ -848,11 +865,12 @@ function sofa(g, x) {
   g.restore();
 }
 function lampara(g, x, hora) {
+  const noche = hora >= 1.5;
   g.save();
   g.strokeStyle = "#3a3330"; g.lineWidth = 4; g.beginPath(); g.moveTo(x, 0); g.lineTo(x, -150); g.stroke();
   g.fillStyle = "#3a3330"; g.beginPath(); g.ellipse(x, 0, 18, 5, 0, 0, TAU); g.fill();
-  k.brillo(g, x, -170, 190, "255,226,160", 0.55 + 0.3 * hora);
-  g.fillStyle = "#ffe9b8"; g.beginPath(); g.moveTo(x - 16, -150); g.lineTo(x + 16, -150); g.lineTo(x + 24, -184); g.lineTo(x - 24, -184); g.closePath(); g.fill();
+  k.brillo(g, x, -170, noche ? 320 : 190, "255,226,160", noche ? 1 : 0.55 + 0.3 * hora);
+  g.fillStyle = noche ? "#fff1c4" : "#ffe9b8"; g.beginPath(); g.moveTo(x - 16, -150); g.lineTo(x + 16, -150); g.lineTo(x + 24, -184); g.lineTo(x - 24, -184); g.closePath(); g.fill();
   g.restore();
 }
 function planta(g, x) {
@@ -869,27 +887,32 @@ function cuadro(g, x, y, w, h, col) {
 }
 export function salon(g, c, t, hora = 0) {
   sinVista(g);
+  const noche = hora >= 1.5, h = noche ? 0 : Math.max(0, Math.min(1, hora));
   const yS = sueloY(c, 0.78), yF = sueloY(c, 1.5);
-  const wg = g.createLinearGradient(0, 0, 0, yS); wg.addColorStop(0, mezColor("#f6e3c8", "#f2c9a0", hora)); wg.addColorStop(1, mezColor("#e6c39a", "#d9a478", hora));
+  const wg = g.createLinearGradient(0, 0, 0, yS);
+  if (noche) { wg.addColorStop(0, "#2a3868"); wg.addColorStop(1, "#161c38"); }
+  else { wg.addColorStop(0, mezColor("#f6e3c8", "#f2c9a0", h)); wg.addColorStop(1, mezColor("#e6c39a", "#d9a478", h)); }
   g.fillStyle = wg; g.fillRect(0, 0, 1080, yS + 4);
   g.globalCompositeOperation = "multiply"; g.globalAlpha = 0.07; g.drawImage(k.manchas, 0, 0, 1080, yS); g.globalAlpha = 1; g.globalCompositeOperation = "source-over";
   // lo de la pared (parallax suave)
   ponVista(g, c, 0.55);
   repite(c, 0.55, 1500, 400, (x0, i) => {
-    ventana(g, x0 + 160, hora);
+    ventana(g, x0 + 160, noche ? 2 : h);
     cuadro(g, x0 + 520, -330, 70, 90, ["#a8d8f0", "#ffe27a", "#6ab87a"]); cuadro(g, x0 + 610, -300, 52, 66, ["#f4b6c2", "#fff0a0", "#c97a8a"]);
     cuadro(g, x0 + 980, -340, 100, 70, ["#ffd6a0", "#ff8f6b", "#8a5a3a"]);
     // la luz de la ventana cae en el suelo
-    g.save(); g.globalCompositeOperation = "lighter"; g.globalAlpha = 0.16 + 0.1 * hora; const lg = g.createLinearGradient(x0 + 160, -300, x0 + 380, 0); lg.addColorStop(0, "#fff2c8"); lg.addColorStop(1, "rgba(255,240,200,0)");
+    g.save(); g.globalCompositeOperation = "lighter"; g.globalAlpha = noche ? 0.1 : 0.16 + 0.1 * h; const lg = g.createLinearGradient(x0 + 160, -300, x0 + 380, 0); lg.addColorStop(0, noche ? "#b9c8ff" : "#fff2c8"); lg.addColorStop(1, "rgba(255,240,200,0)");
     g.fillStyle = lg; g.beginPath(); g.moveTo(x0 + 160, -300); g.lineTo(x0 + 310, -300); g.lineTo(x0 + 560, 0); g.lineTo(x0 + 300, 0); g.closePath(); g.fill(); g.restore();
   });
   // el rodapié y los muebles, más cerca
-  sinVista(g); g.fillStyle = mezColor("#fff6e8", "#f6dcc0", hora); g.fillRect(0, yS - 16, 1080, 18);
+  sinVista(g); g.fillStyle = noche ? "#3c4868" : mezColor("#fff6e8", "#f6dcc0", h); g.fillRect(0, yS - 16, 1080, 18);
   ponVista(g, c, 0.78);
-  repite(c, 0.78, 1500, 400, (x0, i) => { sofa(g, x0 + 380); lampara(g, x0 + 800, hora); planta(g, x0 + 90); planta(g, x0 + 1180); });
+  repite(c, 0.78, 1500, 400, (x0, i) => { sofa(g, x0 + 380); lampara(g, x0 + 800, noche ? 2 : h); planta(g, x0 + 90); planta(g, x0 + 1180); });
   // el suelo de madera, en abanico
   sinVista(g);
-  const fg = g.createLinearGradient(0, yS, 0, 1920); fg.addColorStop(0, mezColor("#ebc592", "#dba874", hora)); fg.addColorStop(0.35, mezColor("#d9a468", "#c98f58", hora)); fg.addColorStop(1, mezColor("#a8703f", "#905a32", hora));
+  const fg = g.createLinearGradient(0, yS, 0, 1920);
+  if (noche) { fg.addColorStop(0, "#8a5a34"); fg.addColorStop(0.35, "#5c3a22"); fg.addColorStop(1, "#2c1c10"); }
+  else { fg.addColorStop(0, mezColor("#ebc592", "#dba874", h)); fg.addColorStop(0.35, mezColor("#d9a468", "#c98f58", h)); fg.addColorStop(1, mezColor("#a8703f", "#905a32", h)); }
   g.fillStyle = fg; g.fillRect(0, yS, 1080, 1920 - yS);
   g.save(); g.beginPath(); g.rect(0, yS, 1080, 1920 - yS); g.clip();
   g.strokeStyle = "rgba(70,40,15,0.28)"; g.lineWidth = 2.4; g.beginPath();
@@ -911,8 +934,8 @@ export function salon(g, c, t, hora = 0) {
 // Pie en y = 0; la cabeza queda a unos 105 cm. Devuelve { cabeza: [x, y] } en el mundo.
 export function perroFrente(g, o) {
   const { x, y = 0, escala = 1, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.5;
-  const cu = Math.max(0, Math.min(1, o.culpa || 0)), cuO = Math.max(0, Math.min(1, o.culpaOjos ?? cu)), cuE = Math.max(0, Math.min(1, o.culpaOrejas ?? cu)), cuH = Math.max(0, Math.min(1, o.culpaCabeza ?? cu)), lam = Math.max(0, Math.min(1, o.lamido || 0));
-  const ladea = (cab.ladea || 0) + 0.06 * cuH, abre = cab.abre || 0, feliz = cab.ojo || 0, oreja = cab.oreja ?? 0, mira = cab.mira || 0, miraY = (cab.miraY || 0) - 0.95 * cuO;
+  const cu = Math.max(0, Math.min(1, o.culpa || 0)), cuO = Math.max(0, Math.min(1, o.culpaOjos ?? cu)), cuE = Math.max(0, Math.min(1, o.culpaOrejas ?? cu)), cuH = Math.max(0, Math.min(1, o.culpaCabeza ?? cu)), lam = Math.max(0, Math.min(1, o.lamido || 0)), ladra = Math.max(0, Math.min(1, o.ladra || 0));
+  const ladea = (cab.ladea || 0) + 0.06 * cuH, abre = Math.max(cab.abre || 0, ladra), feliz = cab.ojo || 0, oreja = cab.oreja ?? 0, mira = cab.mira || 0, miraY = (cab.miraY || 0) - 0.95 * cuO;
   const resp = Math.sin(t * 2.1) * 0.8, parp = Math.pow(Math.max(0, Math.sin(t * 1.3 - 1.03)), 140); // respira y parpadea solo
   const lin = (x0, y0, x1, y1, a, b) => { const gr = g.createLinearGradient(x0, y0, x1, y1); gr.addColorStop(0, a); gr.addColorStop(1, b); return gr; };
   g.save(); g.translate(x, y); g.scale(escala, escala * (1 - 0.045 * cu));
@@ -961,8 +984,8 @@ export function perroFrente(g, o) {
   // el hocico
   const my = cy + 9;
   g.fillStyle = lin(-12, my - 8, 12, my + 10, "#fbe3b5", "#e6bd80"); g.beginPath(); g.ellipse(0, my, 12.5, 10.5, 0, 0, TAU); g.fill();
-  if (abre > 0.02) { // boca abierta
-    const bo = abre * 9;
+  if (abre > 0.02) { // boca abierta. ladra la abre más, como un ladrido, sin entornar el ojo.
+    const bo = abre * (ladra > 0.04 ? 16 : 9);
     g.fillStyle = "#4a1420"; g.beginPath(); g.ellipse(0, my + 6 + bo * 0.35, 8 + abre * 1.5, 2.6 + bo * 0.8, 0, 0, TAU); g.fill();
     g.fillStyle = "#ee6c86"; g.beginPath(); g.ellipse(0, my + 8 + bo * 0.7, 5.5, 1.6 + bo * 0.5, 0, 0, TAU); g.fill();
     g.fillStyle = "#fff"; g.beginPath(); g.moveTo(-6, my + 4.5); g.lineTo(-4, my + 4.5); g.lineTo(-5, my + 8); g.closePath(); g.moveTo(6, my + 4.5); g.lineTo(4, my + 4.5); g.lineTo(5, my + 8); g.closePath(); g.fill();

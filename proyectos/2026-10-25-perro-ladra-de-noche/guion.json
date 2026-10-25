@@ -1,0 +1,20 @@
+{
+  "titulo": "Por qué tu perro ladra a la nada de noche",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro ladra a la nada, de noche?", "clave": "nada", "hook": true },
+    { "texto": "Tú no oyes nada, y él no para.", "clave": "para", "hook": true },
+    { "texto": "Se planta en el pasillo y ladra a la pared vacía.", "clave": "pared", "hook": true },
+    { "texto": "Una persona se queda cerca de los veinte mil hercios.", "clave": "veinte" },
+    { "texto": "En cinco perros, un pitido fuerte llegaba a más del doble.", "clave": "doble" },
+    { "texto": "El que menos, a cuarenta y un mil. El que más, a cuarenta y siete.", "clave": "siete" },
+    { "texto": "Una rata, de noche, avisa a las suyas a unos veintidós mil.", "clave": "rata" },
+    { "texto": "Ese chillido a ti te pasa de largo. A él, no.", "clave": "largo" },
+    { "texto": "Y de noche la casa calla, así que no se tapa.", "clave": "calla" },
+    { "texto": "Puede que le ladre a la pared, no al aire.", "clave": "aire" },
+    { "texto": "Eso sí: no cada ladrido es una rata. También avisa, o te llama.", "clave": "avisa" },
+    { "texto": "Pero a la nada, no. Oye agudos que tú no puedes oír.", "clave": "agudos" },
+    { "texto": "Envíaselo a ese amigo al que su perro ladra al pasillo a las tres de la mañana.", "clave": "mañana" }
+  ]
+}

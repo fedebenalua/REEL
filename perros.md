@@ -50,6 +50,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué te mira con cara de culpable cuando hace algo mal (`proyectos/2026-10-24-perro-cara-de-culpable`).
 - Por qué se revuelca en lo que huele fatal (`proyectos/2026-10-24-perro-se-revuelca`).
 - Por qué da vueltas antes de echarse (`proyectos/2026-10-24-perro-da-vueltas`).
+- Por qué ladra a la nada de noche (`proyectos/2026-10-25-perro-ladra-de-noche`).
 
 ## Ideas pendientes
 
