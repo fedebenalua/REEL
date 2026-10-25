@@ -1,0 +1,23 @@
+{
+  "titulo": "Una siempre espera",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Dos cosas a la vez, y una siempre espera.", "clave": "espera", "hook": true },
+    { "texto": "Te hablan y escribes. Las dos, ahora mismo.", "clave": "escribes", "hook": true },
+    { "texto": "Todo el mundo dice que sí puede.", "clave": "puede", "hook": true },
+    { "texto": "Si fueran juntas de verdad, la segunda no se quedaría atrás.", "clave": "atrás" },
+    { "texto": "Encienden dos señales muy pegadas. Respondes a las dos.", "clave": "señales" },
+    { "texto": "La primera mano llega. La segunda se queda en el aire.", "clave": "aire" },
+    { "texto": "Si las acercas, la segunda tarda casi lo que las has acercado.", "clave": "acercado" },
+    { "texto": "Sola, esa mano es igual de rápida.", "clave": "rápida" },
+    { "texto": "En la cocina pasa igual: el mensaje y la sartén. Una se queda.", "clave": "sartén" },
+    { "texto": "La sartén sigue quieta hasta que el mensaje termina.", "clave": "quieta" },
+    { "texto": "No van juntas: eliges una cada vez.", "clave": "eliges" },
+    { "texto": "Al cambiar de regla se te va, de media, casi un segundo.", "clave": "segundo" },
+    { "texto": "Caminar y hablar se estorban menos, aunque el paso se frena.", "clave": "paso" },
+    { "texto": "Si el camino se complica, se te corta la frase.", "clave": "corta" },
+    { "texto": "Era una, y luego la otra.", "clave": "luego" },
+    { "texto": "Envíaselo a ese amigo que dice que él sí hace varias cosas a la vez.", "clave": "varias" }
+  ]
+}
