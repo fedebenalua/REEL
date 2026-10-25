@@ -1,0 +1,21 @@
+{
+  "titulo": "Siete cajones",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Te han dicho que en la cabeza te caben siete cosas a la vez.", "clave": "siete", "hook": true },
+    { "texto": "Como si tuvieras siete cajones, y ni uno más.", "clave": "cajones", "hook": true },
+    { "texto": "Miller contó números y palabras, y le salía alrededor de siete.", "clave": "Miller" },
+    { "texto": "Luego avisó: ese siete podía ser solo una coincidencia.", "clave": "coincidencia" },
+    { "texto": "Una frase hecha entra entera, con todas sus palabras.", "clave": "entera" },
+    { "texto": "Porque ya es un solo trozo.", "clave": "trozo" },
+    { "texto": "El teléfono igual: nueve cifras, dichas de tres en tres.", "clave": "tres" },
+    { "texto": "Si llegan sueltas y no puedes repetirlas, el montón se encoge.", "clave": "encoge" },
+    { "texto": "Cowan juntó esas pruebas. De media, unas cuatro.", "clave": "cuatro", "dicho": "Cáuan juntó esas pruebas. De media, unas cuatro." },
+    { "texto": "En una ristra de cifras que no para, te quedas con cuatro coma dos.", "clave": "coma" },
+    { "texto": "No está clavado: casi todo cae entre tres y cinco.", "clave": "cinco" },
+    { "texto": "Y en lo que ves, la atención se reparte: más cosas, cada una más borrosa.", "clave": "borrosa" },
+    { "texto": "El siete no llenaba la cabeza. Contaba trozos que ya venían hechos.", "clave": "hechos" },
+    { "texto": "Si quieres ver tu cociente, está en la app del enlace de la bio.", "clave": "cociente" }
+  ]
+}
