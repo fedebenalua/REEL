@@ -1,0 +1,22 @@
+{
+  "titulo": "Por qué tu perro te trae el juguete y no te lo suelta",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro te trae el juguete y no te lo suelta?", "clave": "juguete", "hook": true },
+    { "texto": "No te lo regala. Te está llamando a jugar.", "clave": "jugar", "hook": true },
+    { "texto": "Con otro perro, si gana la cuerda, casi no la suelta.", "clave": "cuerda" },
+    { "texto": "Contigo la suelta mucho más, para que el juego siga.", "clave": "siga" },
+    { "texto": "Lo vieron en labradores, con la misma cuerda anudada.", "clave": "labradores" },
+    { "texto": "Si hay dos juguetes, cada perro se queda el suyo.", "clave": "suyo" },
+    { "texto": "Si el otro eres tú, ignora el que está libre.", "clave": "libre" },
+    { "texto": "El premio no es el juguete. Eres tú.", "clave": "tú" },
+    { "texto": "Y si aun así no lo suelta, no es que mande.", "clave": "mande" },
+    { "texto": "Catorce golden retriever.", "clave": "catorce", "dicho": "Catorce gólden retríver." },
+    { "texto": "Veinte partidas ganadas, y veinte perdidas.", "clave": "veinte" },
+    { "texto": "Ganar no cambió quién mandaba.", "clave": "mandaba" },
+    { "texto": "Los diez más juguetones pedían más juego después de ganar.", "clave": "juego" },
+    { "texto": "Te lo pone delante para que no pares.", "clave": "delante" },
+    { "texto": "Envíaselo a ese amigo al que su perro le acerca la pelota y sale corriendo.", "clave": "pelota" }
+  ]
+}

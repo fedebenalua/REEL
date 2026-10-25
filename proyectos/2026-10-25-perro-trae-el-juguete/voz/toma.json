@@ -1,0 +1,704 @@
+{
+  "firma": "27c1fc359620",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.48,
+      "fin": 0.64
+    },
+    {
+      "texto": "te",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "texto": "trae",
+      "inicio": 0.88,
+      "fin": 1.04
+    },
+    {
+      "texto": "el",
+      "inicio": 1.08,
+      "fin": 1.12
+    },
+    {
+      "texto": "juguete",
+      "inicio": 1.2,
+      "fin": 1.6
+    },
+    {
+      "texto": "y",
+      "inicio": 1.76,
+      "fin": 1.84
+    },
+    {
+      "texto": "no",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "texto": "te",
+      "inicio": 2.04,
+      "fin": 2.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.16,
+      "fin": 2.24
+    },
+    {
+      "texto": "suelta?",
+      "inicio": 2.28,
+      "fin": 3.04
+    },
+    {
+      "texto": "No",
+      "inicio": 3.08,
+      "fin": 3.12
+    },
+    {
+      "texto": "te",
+      "inicio": 3.2,
+      "fin": 3.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.28,
+      "fin": 3.36
+    },
+    {
+      "texto": "regala.",
+      "inicio": 3.44,
+      "fin": 4.04
+    },
+    {
+      "texto": "Te",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "está",
+      "inicio": 4.4,
+      "fin": 4.56
+    },
+    {
+      "texto": "llamando",
+      "inicio": 4.6,
+      "fin": 4.96
+    },
+    {
+      "texto": "a",
+      "inicio": 5,
+      "fin": 5.04
+    },
+    {
+      "texto": "jugar.",
+      "inicio": 5.12,
+      "fin": 5.8
+    },
+    {
+      "texto": "Con",
+      "inicio": 6.08,
+      "fin": 6.24
+    },
+    {
+      "texto": "otro",
+      "inicio": 6.28,
+      "fin": 6.4
+    },
+    {
+      "texto": "perro,",
+      "inicio": 6.48,
+      "fin": 6.88
+    },
+    {
+      "texto": "si",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "gana",
+      "inicio": 7.093,
+      "fin": 7.2
+    },
+    {
+      "texto": "la",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "texto": "cuerda,",
+      "inicio": 7.44,
+      "fin": 7.84
+    },
+    {
+      "texto": "casi",
+      "inicio": 7.88,
+      "fin": 8.16
+    },
+    {
+      "texto": "no",
+      "inicio": 8.2,
+      "fin": 8.24
+    },
+    {
+      "texto": "la",
+      "inicio": 8.32,
+      "fin": 8.4
+    },
+    {
+      "texto": "suelta.",
+      "inicio": 8.44,
+      "fin": 9.2
+    },
+    {
+      "texto": "Contigo",
+      "inicio": 9.36,
+      "fin": 9.68
+    },
+    {
+      "texto": "la",
+      "inicio": 9.84,
+      "fin": 9.92
+    },
+    {
+      "texto": "suelta",
+      "inicio": 10,
+      "fin": 10.24
+    },
+    {
+      "texto": "mucho",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "más,",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "texto": "para",
+      "inicio": 11.12,
+      "fin": 11.2
+    },
+    {
+      "texto": "que",
+      "inicio": 11.24,
+      "fin": 11.28
+    },
+    {
+      "texto": "el",
+      "inicio": 11.32,
+      "fin": 11.36
+    },
+    {
+      "texto": "juego",
+      "inicio": 11.44,
+      "fin": 11.68
+    },
+    {
+      "texto": "siga.",
+      "inicio": 11.76,
+      "fin": 12.4
+    },
+    {
+      "texto": "Lo",
+      "inicio": 12.72,
+      "fin": 12.8
+    },
+    {
+      "texto": "vieron",
+      "inicio": 12.88,
+      "fin": 13.04
+    },
+    {
+      "texto": "en",
+      "inicio": 13.08,
+      "fin": 13.12
+    },
+    {
+      "texto": "labradores,",
+      "inicio": 13.2,
+      "fin": 13.92
+    },
+    {
+      "texto": "con",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "texto": "la",
+      "inicio": 14.16,
+      "fin": 14.24
+    },
+    {
+      "texto": "misma",
+      "inicio": 14.32,
+      "fin": 14.64
+    },
+    {
+      "texto": "cuerda",
+      "inicio": 14.72,
+      "fin": 14.96
+    },
+    {
+      "texto": "anudada.",
+      "inicio": 15.04,
+      "fin": 15.52
+    },
+    {
+      "texto": "Si",
+      "inicio": 16,
+      "fin": 16.08
+    },
+    {
+      "texto": "hay",
+      "inicio": 16.16,
+      "fin": 16.24
+    },
+    {
+      "texto": "dos",
+      "inicio": 16.32,
+      "fin": 16.4
+    },
+    {
+      "texto": "juguetes,",
+      "inicio": 16.48,
+      "fin": 17.04
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.093,
+      "fin": 17.2
+    },
+    {
+      "texto": "perro",
+      "inicio": 17.36,
+      "fin": 17.6
+    },
+    {
+      "texto": "se",
+      "inicio": 17.68,
+      "fin": 17.76
+    },
+    {
+      "texto": "queda",
+      "inicio": 17.84,
+      "fin": 17.92
+    },
+    {
+      "texto": "el",
+      "inicio": 18,
+      "fin": 18.04
+    },
+    {
+      "texto": "suyo.",
+      "inicio": 18.08,
+      "fin": 18.48
+    },
+    {
+      "texto": "Si",
+      "inicio": 18.88,
+      "fin": 18.96
+    },
+    {
+      "texto": "el",
+      "inicio": 19,
+      "fin": 19.04
+    },
+    {
+      "texto": "otro",
+      "inicio": 19.12,
+      "fin": 19.28
+    },
+    {
+      "texto": "eres",
+      "inicio": 19.4,
+      "fin": 19.52
+    },
+    {
+      "texto": "tú,",
+      "inicio": 19.56,
+      "fin": 20
+    },
+    {
+      "texto": "ignora",
+      "inicio": 20.08,
+      "fin": 20.48
+    },
+    {
+      "texto": "el",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "texto": "que",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "texto": "está",
+      "inicio": 20.8,
+      "fin": 20.92
+    },
+    {
+      "texto": "libre.",
+      "inicio": 20.96,
+      "fin": 21.68
+    },
+    {
+      "texto": "El",
+      "inicio": 21.72,
+      "fin": 21.76
+    },
+    {
+      "texto": "premio",
+      "inicio": 21.84,
+      "fin": 22.16
+    },
+    {
+      "texto": "no",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "texto": "es",
+      "inicio": 22.56,
+      "fin": 22.64
+    },
+    {
+      "texto": "el",
+      "inicio": 22.68,
+      "fin": 22.72
+    },
+    {
+      "texto": "juguete.",
+      "inicio": 22.8,
+      "fin": 23.52
+    },
+    {
+      "texto": "Eres",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "tú.",
+      "inicio": 23.84,
+      "fin": 24.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.64,
+      "fin": 24.68
+    },
+    {
+      "texto": "si",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "texto": "aun",
+      "inicio": 24.84,
+      "fin": 24.96
+    },
+    {
+      "texto": "así",
+      "inicio": 25.04,
+      "fin": 25.2
+    },
+    {
+      "texto": "no",
+      "inicio": 25.28,
+      "fin": 25.36
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.4,
+      "fin": 25.44
+    },
+    {
+      "texto": "suelta,",
+      "inicio": 25.52,
+      "fin": 26.16
+    },
+    {
+      "texto": "no",
+      "inicio": 26.32,
+      "fin": 26.4
+    },
+    {
+      "texto": "es",
+      "inicio": 26.48,
+      "fin": 26.56
+    },
+    {
+      "texto": "que",
+      "inicio": 26.64,
+      "fin": 26.72
+    },
+    {
+      "texto": "mande.",
+      "inicio": 26.84,
+      "fin": 27.12
+    },
+    {
+      "texto": "Catorce",
+      "inicio": 27.92,
+      "fin": 28.32
+    },
+    {
+      "texto": "gólden",
+      "inicio": 28.48,
+      "fin": 28.8
+    },
+    {
+      "texto": "retríver.",
+      "inicio": 28.88,
+      "fin": 29.84
+    },
+    {
+      "texto": "Veinte",
+      "inicio": 29.88,
+      "fin": 30.08
+    },
+    {
+      "texto": "partidas",
+      "inicio": 30.16,
+      "fin": 30.56
+    },
+    {
+      "texto": "ganadas,",
+      "inicio": 30.64,
+      "fin": 31.24
+    },
+    {
+      "texto": "y",
+      "inicio": 31.36,
+      "fin": 31.44
+    },
+    {
+      "texto": "veinte",
+      "inicio": 31.48,
+      "fin": 31.76
+    },
+    {
+      "texto": "perdidas.",
+      "inicio": 31.84,
+      "fin": 32.4
+    },
+    {
+      "texto": "Ganar",
+      "inicio": 32.8,
+      "fin": 33.2
+    },
+    {
+      "texto": "no",
+      "inicio": 33.36,
+      "fin": 33.44
+    },
+    {
+      "texto": "cambió",
+      "inicio": 33.52,
+      "fin": 33.84
+    },
+    {
+      "texto": "quién",
+      "inicio": 33.88,
+      "fin": 34
+    },
+    {
+      "texto": "mandaba.",
+      "inicio": 34.08,
+      "fin": 34.56
+    },
+    {
+      "texto": "Los",
+      "inicio": 35.04,
+      "fin": 35.2
+    },
+    {
+      "texto": "diez",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "texto": "más",
+      "inicio": 35.6,
+      "fin": 35.76
+    },
+    {
+      "texto": "juguetones",
+      "inicio": 35.84,
+      "fin": 36.32
+    },
+    {
+      "texto": "pedían",
+      "inicio": 36.4,
+      "fin": 36.8
+    },
+    {
+      "texto": "más",
+      "inicio": 36.84,
+      "fin": 37.04
+    },
+    {
+      "texto": "juego",
+      "inicio": 37.12,
+      "fin": 37.36
+    },
+    {
+      "texto": "después",
+      "inicio": 37.48,
+      "fin": 37.68
+    },
+    {
+      "texto": "de",
+      "inicio": 37.76,
+      "fin": 37.8
+    },
+    {
+      "texto": "ganar.",
+      "inicio": 37.84,
+      "fin": 38.44
+    },
+    {
+      "texto": "Te",
+      "inicio": 38.72,
+      "fin": 38.8
+    },
+    {
+      "texto": "lo",
+      "inicio": 38.88,
+      "fin": 38.92
+    },
+    {
+      "texto": "pone",
+      "inicio": 38.96,
+      "fin": 39.12
+    },
+    {
+      "texto": "delante",
+      "inicio": 39.2,
+      "fin": 39.52
+    },
+    {
+      "texto": "para",
+      "inicio": 39.6,
+      "fin": 39.76
+    },
+    {
+      "texto": "que",
+      "inicio": 39.84,
+      "fin": 39.92
+    },
+    {
+      "texto": "no",
+      "inicio": 40,
+      "fin": 40.08
+    },
+    {
+      "texto": "pares.",
+      "inicio": 40.16,
+      "fin": 40.96
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 41.08,
+      "fin": 41.52
+    },
+    {
+      "texto": "a",
+      "inicio": 41.56,
+      "fin": 41.6
+    },
+    {
+      "texto": "ese",
+      "inicio": 41.68,
+      "fin": 41.76
+    },
+    {
+      "texto": "amigo",
+      "inicio": 41.84,
+      "fin": 42.08
+    },
+    {
+      "texto": "al",
+      "inicio": 42.16,
+      "fin": 42.24
+    },
+    {
+      "texto": "que",
+      "inicio": 42.28,
+      "fin": 42.32
+    },
+    {
+      "texto": "su",
+      "inicio": 42.4,
+      "fin": 42.48
+    },
+    {
+      "texto": "perro",
+      "inicio": 42.56,
+      "fin": 42.72
+    },
+    {
+      "texto": "le",
+      "inicio": 42.8,
+      "fin": 42.88
+    },
+    {
+      "texto": "acerca",
+      "inicio": 43,
+      "fin": 43.2
+    },
+    {
+      "texto": "la",
+      "inicio": 43.24,
+      "fin": 43.28
+    },
+    {
+      "texto": "pelota",
+      "inicio": 43.36,
+      "fin": 43.76
+    },
+    {
+      "texto": "y",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "texto": "sale",
+      "inicio": 44,
+      "fin": 44.24
+    },
+    {
+      "texto": "corriendo.",
+      "inicio": 44.32,
+      "fin": 45.04
+    }
+  ]
+}

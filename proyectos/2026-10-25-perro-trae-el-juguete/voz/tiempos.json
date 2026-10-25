@@ -1,0 +1,1079 @@
+{
+  "firma": "27c1fc359620",
+  "duracion": 45.84,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tu perro te trae el juguete y no te lo suelta?",
+      "clave": "juguete",
+      "inicio": 0,
+      "fin": 3.04
+    },
+    {
+      "n": 2,
+      "texto": "No te lo regala. Te está llamando a jugar.",
+      "clave": "jugar",
+      "inicio": 3.08,
+      "fin": 5.8
+    },
+    {
+      "n": 3,
+      "texto": "Con otro perro, si gana la cuerda, casi no la suelta.",
+      "clave": "cuerda",
+      "inicio": 6.08,
+      "fin": 9.2
+    },
+    {
+      "n": 4,
+      "texto": "Contigo la suelta mucho más, para que el juego siga.",
+      "clave": "sigue",
+      "inicio": 9.36,
+      "fin": 12.4
+    },
+    {
+      "n": 5,
+      "texto": "Lo vieron en labradores, con la misma cuerda anudada.",
+      "clave": "labradores",
+      "inicio": 12.72,
+      "fin": 15.52
+    },
+    {
+      "n": 6,
+      "texto": "Si hay dos juguetes, cada perro se queda el suyo.",
+      "clave": "suyo",
+      "inicio": 16,
+      "fin": 18.48
+    },
+    {
+      "n": 7,
+      "texto": "Si el otro eres tú, ignora el que está libre.",
+      "clave": "libre",
+      "inicio": 18.88,
+      "fin": 21.68
+    },
+    {
+      "n": 8,
+      "texto": "El premio no es el juguete. Eres tú.",
+      "clave": "tú",
+      "inicio": 21.72,
+      "fin": 24.08
+    },
+    {
+      "n": 9,
+      "texto": "Y si aun así no lo suelta, no es que mande.",
+      "clave": "mande",
+      "inicio": 24.64,
+      "fin": 27.12
+    },
+    {
+      "n": 10,
+      "texto": "Catorce golden retriever.",
+      "clave": "catorce",
+      "inicio": 27.92,
+      "fin": 29.84
+    },
+    {
+      "n": 11,
+      "texto": "Veinte partidas ganadas, y veinte perdidas.",
+      "clave": "veinte",
+      "inicio": 29.88,
+      "fin": 32.4
+    },
+    {
+      "n": 12,
+      "texto": "Ganar no cambió quién mandaba.",
+      "clave": "mandaba",
+      "inicio": 32.8,
+      "fin": 34.56
+    },
+    {
+      "n": 13,
+      "texto": "Los diez más juguetones pedían más juego después de ganar.",
+      "clave": "juego",
+      "inicio": 35.04,
+      "fin": 38.44
+    },
+    {
+      "n": 14,
+      "texto": "Te lo pone delante para que no pares.",
+      "clave": "delante",
+      "inicio": 38.72,
+      "fin": 40.96
+    },
+    {
+      "n": 15,
+      "texto": "Envíaselo a ese amigo al que su perro le acerca la pelota y sale corriendo.",
+      "clave": "pelota",
+      "inicio": 41.08,
+      "fin": 45.04
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.48,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 0.72,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "trae",
+      "inicio": 0.88,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.08,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "juguete",
+      "inicio": 1.2,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 1.76,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 1.92,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 2.04,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 2.16,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "suelta?",
+      "inicio": 2.28,
+      "fin": 3.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 3.08,
+      "fin": 3.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 3.2,
+      "fin": 3.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.28,
+      "fin": 3.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "regala.",
+      "inicio": 3.44,
+      "fin": 4.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Te",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 4.4,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "llamando",
+      "inicio": 4.6,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 5,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "jugar.",
+      "inicio": 5.12,
+      "fin": 5.8,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 6.08,
+      "fin": 6.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "otro",
+      "inicio": 6.28,
+      "fin": 6.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "perro,",
+      "inicio": 6.48,
+      "fin": 6.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 6.96,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "gana",
+      "inicio": 7.093,
+      "fin": 7.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 7.28,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cuerda,",
+      "inicio": 7.44,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "casi",
+      "inicio": 7.88,
+      "fin": 8.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 8.2,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 8.32,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "suelta.",
+      "inicio": 8.44,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Contigo",
+      "inicio": 9.36,
+      "fin": 9.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 9.84,
+      "fin": 9.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 10,
+      "fin": 10.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 10.32,
+      "fin": 10.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más,",
+      "inicio": 10.64,
+      "fin": 11.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 11.12,
+      "fin": 11.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 11.24,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 11.32,
+      "fin": 11.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "juego",
+      "inicio": 11.44,
+      "fin": 11.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "siga.",
+      "inicio": 11.76,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Lo",
+      "inicio": 12.72,
+      "fin": 12.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "vieron",
+      "inicio": 12.88,
+      "fin": 13.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 13.08,
+      "fin": 13.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "labradores,",
+      "inicio": 13.2,
+      "fin": 13.92,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "con",
+      "inicio": 14,
+      "fin": 14.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.16,
+      "fin": 14.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "misma",
+      "inicio": 14.32,
+      "fin": 14.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cuerda",
+      "inicio": 14.72,
+      "fin": 14.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "anudada.",
+      "inicio": 15.04,
+      "fin": 15.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 16,
+      "fin": 16.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 16.16,
+      "fin": 16.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 16.32,
+      "fin": 16.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "juguetes,",
+      "inicio": 16.48,
+      "fin": 17.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 17.093,
+      "fin": 17.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 17.36,
+      "fin": 17.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 17.68,
+      "fin": 17.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 17.84,
+      "fin": 17.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 18,
+      "fin": 18.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "suyo.",
+      "inicio": 18.08,
+      "fin": 18.48,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 18.88,
+      "fin": 18.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 19,
+      "fin": 19.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "otro",
+      "inicio": 19.12,
+      "fin": 19.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "eres",
+      "inicio": 19.4,
+      "fin": 19.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tú,",
+      "inicio": 19.56,
+      "fin": 20,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ignora",
+      "inicio": 20.08,
+      "fin": 20.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 20.52,
+      "fin": 20.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 20.64,
+      "fin": 20.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 20.8,
+      "fin": 20.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "libre.",
+      "inicio": 20.96,
+      "fin": 21.68,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 21.72,
+      "fin": 21.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "premio",
+      "inicio": 21.84,
+      "fin": 22.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 22.32,
+      "fin": 22.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 22.56,
+      "fin": 22.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 22.68,
+      "fin": 22.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "juguete.",
+      "inicio": 22.8,
+      "fin": 23.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Eres",
+      "inicio": 23.6,
+      "fin": 23.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tú.",
+      "inicio": 23.84,
+      "fin": 24.08,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 24.64,
+      "fin": 24.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 24.72,
+      "fin": 24.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "aun",
+      "inicio": 24.84,
+      "fin": 24.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "así",
+      "inicio": 25.04,
+      "fin": 25.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 25.28,
+      "fin": 25.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 25.4,
+      "fin": 25.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "suelta,",
+      "inicio": 25.52,
+      "fin": 26.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 26.32,
+      "fin": 26.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 26.48,
+      "fin": 26.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 26.64,
+      "fin": 26.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mande.",
+      "inicio": 26.84,
+      "fin": 27.12,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Catorce",
+      "inicio": 27.92,
+      "fin": 28.32,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "golden",
+      "inicio": 28.48,
+      "fin": 28.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "retriever.",
+      "inicio": 28.88,
+      "fin": 29.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Veinte",
+      "inicio": 29.88,
+      "fin": 30.08,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "partidas",
+      "inicio": 30.16,
+      "fin": 30.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ganadas,",
+      "inicio": 30.64,
+      "fin": 31.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 31.36,
+      "fin": 31.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "veinte",
+      "inicio": 31.48,
+      "fin": 31.76,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "perdidas.",
+      "inicio": 31.84,
+      "fin": 32.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Ganar",
+      "inicio": 32.8,
+      "fin": 33.2,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 33.36,
+      "fin": 33.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "cambió",
+      "inicio": 33.52,
+      "fin": 33.84,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "quién",
+      "inicio": 33.88,
+      "fin": 34,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "mandaba.",
+      "inicio": 34.08,
+      "fin": 34.56,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "Los",
+      "inicio": 35.04,
+      "fin": 35.2,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 35.28,
+      "fin": 35.44,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 35.6,
+      "fin": 35.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "juguetones",
+      "inicio": 35.84,
+      "fin": 36.32,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "pedían",
+      "inicio": 36.4,
+      "fin": 36.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 36.84,
+      "fin": 37.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "juego",
+      "inicio": 37.12,
+      "fin": 37.36,
+      "frase": 13,
+      "clave": true
+    },
+    {
+      "texto": "después",
+      "inicio": 37.48,
+      "fin": 37.68,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 37.76,
+      "fin": 37.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "ganar.",
+      "inicio": 37.84,
+      "fin": 38.44,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "Te",
+      "inicio": 38.72,
+      "fin": 38.8,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 38.88,
+      "fin": 38.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 38.96,
+      "fin": 39.12,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "delante",
+      "inicio": 39.2,
+      "fin": 39.52,
+      "frase": 14,
+      "clave": true
+    },
+    {
+      "texto": "para",
+      "inicio": 39.6,
+      "fin": 39.76,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.84,
+      "fin": 39.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 40,
+      "fin": 40.08,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "pares.",
+      "inicio": 40.16,
+      "fin": 40.96,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 41.08,
+      "fin": 41.52,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 41.56,
+      "fin": 41.6,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 41.68,
+      "fin": 41.76,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 41.84,
+      "fin": 42.08,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 42.16,
+      "fin": 42.24,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.28,
+      "fin": 42.32,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 42.4,
+      "fin": 42.48,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "perro",
+      "inicio": 42.56,
+      "fin": 42.72,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 42.8,
+      "fin": 42.88,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "acerca",
+      "inicio": 43,
+      "fin": 43.2,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.24,
+      "fin": 43.28,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "pelota",
+      "inicio": 43.36,
+      "fin": 43.76,
+      "frase": 15,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 43.84,
+      "fin": 43.92,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 44,
+      "fin": 44.24,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "corriendo.",
+      "inicio": 44.32,
+      "fin": 45.04,
+      "frase": 15,
+      "clave": false
+    }
+  ]
+}

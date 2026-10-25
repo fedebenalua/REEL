@@ -53,6 +53,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué ladra a la nada de noche (`proyectos/2026-10-25-perro-ladra-de-noche`).
 - Por qué se pone de norte a sur para hacer caca (`proyectos/2026-10-25-perro-norte-sur`).
 - Por qué entierra el hueso (`proyectos/2026-10-25-perro-entierra-hueso`).
+- Por qué te trae el juguete y no te lo suelta (`proyectos/2026-10-25-perro-trae-el-juguete`).
 
 ## Ideas pendientes
 
