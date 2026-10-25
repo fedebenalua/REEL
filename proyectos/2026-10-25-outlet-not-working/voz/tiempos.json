@@ -1,0 +1,1058 @@
+{
+  "firma": "c26d8ed72ce9",
+  "duracion": 48.08,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Outlet not working? Check this first.",
+      "clave": "outlet",
+      "inicio": 0,
+      "fin": 2.72
+    },
+    {
+      "n": 2,
+      "texto": "Your breakers can all look fine. The button that cut it is often in another room.",
+      "clave": "button",
+      "inicio": 2.8,
+      "fin": 7.52
+    },
+    {
+      "n": 3,
+      "texto": "A GFCI shuts off when a little current leaks, and it kills every outlet wired after it.",
+      "clave": "leaks",
+      "inicio": 7.6,
+      "fin": 13.2
+    },
+    {
+      "n": 4,
+      "texto": "Unplug everything there, and try a lamp you know works.",
+      "clave": "lamp",
+      "inicio": 13.28,
+      "fin": 16.48
+    },
+    {
+      "n": 5,
+      "texto": "If you see Test and Reset, press Reset until it clicks.",
+      "clave": "clicks",
+      "inicio": 16.56,
+      "fin": 20.64
+    },
+    {
+      "n": 6,
+      "texto": "No buttons? Check the bath, the kitchen, the garage, and near water. Press the one sticking out.",
+      "clave": "sticking",
+      "inicio": 20.72,
+      "fin": 26.96
+    },
+    {
+      "n": 7,
+      "texto": "Still dead? Unplug what's on it, push the breaker all the way off, then on.",
+      "clave": "breaker",
+      "inicio": 27.08,
+      "fin": 32
+    },
+    {
+      "n": 8,
+      "texto": "Don't open the outlet. If it's hot, black, or buzzing, or it will not stay on, leave the breaker off and call an electrician.",
+      "clave": "electrician",
+      "inicio": 32.08,
+      "fin": 39.84
+    },
+    {
+      "n": 9,
+      "texto": "That press takes ten seconds. Calling someone to press it can cost a full hour.",
+      "clave": "hour",
+      "inicio": 39.92,
+      "fin": 44.88
+    },
+    {
+      "n": 10,
+      "texto": "Send this to that friend whose outlet just died.",
+      "clave": "friend",
+      "inicio": 44.96,
+      "fin": 47.28
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Outlet",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "not",
+      "inicio": 0.52,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "working?",
+      "inicio": 0.84,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Check",
+      "inicio": 1.52,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "this",
+      "inicio": 1.8,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "first.",
+      "inicio": 2.12,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Your",
+      "inicio": 2.8,
+      "fin": 2.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "breakers",
+      "inicio": 3,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "can",
+      "inicio": 3.36,
+      "fin": 3.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "all",
+      "inicio": 3.6,
+      "fin": 3.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "look",
+      "inicio": 3.84,
+      "fin": 3.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fine.",
+      "inicio": 4.08,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "The",
+      "inicio": 4.8,
+      "fin": 4.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "button",
+      "inicio": 5,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "that",
+      "inicio": 5.16,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cut",
+      "inicio": 5.36,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 5.6,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 5.8,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "often",
+      "inicio": 6,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 6.28,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "another",
+      "inicio": 6.4,
+      "fin": 6.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "room.",
+      "inicio": 6.72,
+      "fin": 7.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "A",
+      "inicio": 7.6,
+      "fin": 7.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "GFCI",
+      "inicio": 7.76,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "shuts",
+      "inicio": 8.64,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "off",
+      "inicio": 9.04,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "when",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 9.4,
+      "fin": 9.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "little",
+      "inicio": 9.52,
+      "fin": 9.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "current",
+      "inicio": 9.92,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "leaks,",
+      "inicio": 10.16,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "and",
+      "inicio": 10.6,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "kills",
+      "inicio": 11,
+      "fin": 11.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "every",
+      "inicio": 11.28,
+      "fin": 11.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "outlet",
+      "inicio": 11.6,
+      "fin": 11.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "wired",
+      "inicio": 12,
+      "fin": 12.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "after",
+      "inicio": 12.32,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "it.",
+      "inicio": 12.64,
+      "fin": 13.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Unplug",
+      "inicio": 13.28,
+      "fin": 13.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "everything",
+      "inicio": 13.68,
+      "fin": 14.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "there,",
+      "inicio": 14.16,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 14.56,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "try",
+      "inicio": 14.76,
+      "fin": 14.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 14.933,
+      "fin": 14.987,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lamp",
+      "inicio": 15.04,
+      "fin": 15.28,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "you",
+      "inicio": 15.36,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "know",
+      "inicio": 15.56,
+      "fin": 15.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "works.",
+      "inicio": 15.88,
+      "fin": 16.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 16.56,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "you",
+      "inicio": 16.72,
+      "fin": 16.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "see",
+      "inicio": 16.96,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Test",
+      "inicio": 17.32,
+      "fin": 17.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 17.6,
+      "fin": 17.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Reset,",
+      "inicio": 17.76,
+      "fin": 18.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "press",
+      "inicio": 18.6,
+      "fin": 18.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Reset",
+      "inicio": 18.88,
+      "fin": 19.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "until",
+      "inicio": 19.4,
+      "fin": 19.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 19.6,
+      "fin": 19.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "clicks.",
+      "inicio": 19.76,
+      "fin": 20.64,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "No",
+      "inicio": 20.72,
+      "fin": 20.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "buttons?",
+      "inicio": 20.88,
+      "fin": 21.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Check",
+      "inicio": 21.8,
+      "fin": 21.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 21.96,
+      "fin": 22,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "bath,",
+      "inicio": 22.08,
+      "fin": 22.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 22.64,
+      "fin": 22.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "kitchen,",
+      "inicio": 22.76,
+      "fin": 23.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 23.32,
+      "fin": 23.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "garage,",
+      "inicio": 23.48,
+      "fin": 24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 24.12,
+      "fin": 24.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "near",
+      "inicio": 24.36,
+      "fin": 24.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "water.",
+      "inicio": 24.56,
+      "fin": 25.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Press",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 25.6,
+      "fin": 25.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "one",
+      "inicio": 25.76,
+      "fin": 25.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sticking",
+      "inicio": 25.92,
+      "fin": 26.24,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "out.",
+      "inicio": 26.32,
+      "fin": 26.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Still",
+      "inicio": 27.08,
+      "fin": 27.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dead?",
+      "inicio": 27.28,
+      "fin": 28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Unplug",
+      "inicio": 28.08,
+      "fin": 28.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "what's",
+      "inicio": 28.56,
+      "fin": 28.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 28.8,
+      "fin": 28.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "it,",
+      "inicio": 28.96,
+      "fin": 29.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "push",
+      "inicio": 29.36,
+      "fin": 29.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 29.52,
+      "fin": 29.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "breaker",
+      "inicio": 29.6,
+      "fin": 30,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "all",
+      "inicio": 30.08,
+      "fin": 30.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 30.28,
+      "fin": 30.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "way",
+      "inicio": 30.4,
+      "fin": 30.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "off,",
+      "inicio": 30.56,
+      "fin": 31.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "then",
+      "inicio": 31.16,
+      "fin": 31.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "on.",
+      "inicio": 31.36,
+      "fin": 32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Don't",
+      "inicio": 32.08,
+      "fin": 32.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "open",
+      "inicio": 32.48,
+      "fin": 32.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 32.76,
+      "fin": 32.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "outlet.",
+      "inicio": 32.88,
+      "fin": 33.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "If",
+      "inicio": 33.64,
+      "fin": 33.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "it's",
+      "inicio": 33.76,
+      "fin": 33.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hot,",
+      "inicio": 34,
+      "fin": 34.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "black,",
+      "inicio": 34.68,
+      "fin": 34.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "or",
+      "inicio": 35,
+      "fin": 35.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "buzzing,",
+      "inicio": 35.2,
+      "fin": 35.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "or",
+      "inicio": 35.76,
+      "fin": 35.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 35.92,
+      "fin": 35.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "will",
+      "inicio": 36,
+      "fin": 36.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "not",
+      "inicio": 36.16,
+      "fin": 36.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "stay",
+      "inicio": 36.32,
+      "fin": 36.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "on,",
+      "inicio": 36.64,
+      "fin": 37.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "leave",
+      "inicio": 37.32,
+      "fin": 37.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 37.48,
+      "fin": 37.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "breaker",
+      "inicio": 37.68,
+      "fin": 37.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "off",
+      "inicio": 38,
+      "fin": 38.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 38.28,
+      "fin": 38.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "call",
+      "inicio": 38.48,
+      "fin": 38.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "an",
+      "inicio": 38.68,
+      "fin": 38.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "electrician.",
+      "inicio": 38.8,
+      "fin": 39.84,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "That",
+      "inicio": 39.92,
+      "fin": 40,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "press",
+      "inicio": 40.08,
+      "fin": 40.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "takes",
+      "inicio": 40.4,
+      "fin": 40.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ten",
+      "inicio": 40.8,
+      "fin": 41.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "seconds.",
+      "inicio": 41.12,
+      "fin": 41.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Calling",
+      "inicio": 41.92,
+      "fin": 42.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "someone",
+      "inicio": 42.36,
+      "fin": 42.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 42.56,
+      "fin": 42.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "press",
+      "inicio": 42.76,
+      "fin": 42.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 42.96,
+      "fin": 43.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "can",
+      "inicio": 43.12,
+      "fin": 43.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cost",
+      "inicio": 43.28,
+      "fin": 43.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 43.52,
+      "fin": 43.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "full",
+      "inicio": 43.8,
+      "fin": 43.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hour.",
+      "inicio": 44,
+      "fin": 44.88,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Send",
+      "inicio": 44.96,
+      "fin": 45.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "this",
+      "inicio": 45.2,
+      "fin": 45.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "to",
+      "inicio": 45.36,
+      "fin": 45.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "that",
+      "inicio": 45.52,
+      "fin": 45.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "friend",
+      "inicio": 45.68,
+      "fin": 45.92,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "whose",
+      "inicio": 46.04,
+      "fin": 46.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "outlet",
+      "inicio": 46.24,
+      "fin": 46.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "just",
+      "inicio": 46.56,
+      "fin": 46.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "died.",
+      "inicio": 46.8,
+      "fin": 47.28,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

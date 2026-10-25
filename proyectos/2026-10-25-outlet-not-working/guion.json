@@ -1,0 +1,17 @@
+{
+  "titulo": "Outlet not working? Check this first",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Outlet not working? Check this first.", "clave": "outlet", "hook": true },
+    { "texto": "Your breakers can all look fine. The button that cut it is often in another room.", "clave": "button", "hook": true },
+    { "texto": "A GFCI shuts off when a little current leaks, and it kills every outlet wired after it.", "clave": "leaks", "dicho": "A G F C I shuts off when a little current leaks, and it kills every outlet wired after it." },
+    { "texto": "Unplug everything there, and try a lamp you know works.", "clave": "lamp" },
+    { "texto": "If you see Test and Reset, press Reset until it clicks.", "clave": "clicks" },
+    { "texto": "No buttons? Check the bath, the kitchen, the garage, and near water. Press the one sticking out.", "clave": "sticking" },
+    { "texto": "Still dead? Unplug what's on it, push the breaker all the way off, then on.", "clave": "breaker" },
+    { "texto": "Don't open the outlet. If it's hot, black, or buzzing, or it will not stay on, leave the breaker off and call an electrician.", "clave": "electrician" },
+    { "texto": "That press takes ten seconds. Calling someone to press it can cost a full hour.", "clave": "hour" },
+    { "texto": "Send this to that friend whose outlet just died.", "clave": "friend" }
+  ]
+}
