@@ -1,0 +1,17 @@
+{
+  "titulo": "El Mediterráneo se secó",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Sabías que el mar Mediterráneo llegó a secarse casi por completo?", "clave": "secarse", "hook": true },
+    { "texto": "Se cerró el paso al Atlántico, y el sol se quedó con el mar.", "clave": "cerró", "hook": true },
+    { "texto": "Hoy el océano entra por ese paso y repone lo que el sol se bebe.", "clave": "océano" },
+    { "texto": "Sin esa entrada, el mar baja medio metro cada año: una bañera.", "clave": "bañera" },
+    { "texto": "Hace unos seis millones de años, en el este se fue la mayor parte del agua y el nivel cayó más de un kilómetro y medio.", "clave": "kilómetro" },
+    { "texto": "Pero no hasta el polvo: en el fondo quedó un lago de sal de más de un kilómetro.", "clave": "lago" },
+    { "texto": "Esa sal cubriría España con una capa de casi dos kilómetros.", "clave": "España" },
+    { "texto": "Cuando el Atlántico volvió, hay quien calcula más de diez metros al día, aunque no todos lo ven tan rápido.", "clave": "diez" },
+    { "texto": "Así que no se vació del todo: dejó un lago de sal, y el océano lo llenó otra vez.", "clave": "llenó" },
+    { "texto": "Envíaselo a ese amigo que se baña ahí cada verano.", "clave": "amigo" }
+  ]
+}

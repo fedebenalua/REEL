@@ -129,4 +129,6 @@ y YouTube Shorts («La Curiosidad NO mató al gato»).
 
 ## Ya hechos
 
+1. ¿Sabías que el mar Mediterráneo llegó a secarse casi por completo?
+
 (La lista de lo programado está en `publicados-gato.json`.)

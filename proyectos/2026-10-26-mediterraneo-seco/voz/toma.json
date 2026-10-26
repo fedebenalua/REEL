@@ -1,0 +1,794 @@
+{
+  "firma": "a6477405487d",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.52,
+      "fin": 0.56
+    },
+    {
+      "texto": "el",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "mar",
+      "inicio": 0.72,
+      "fin": 0.88
+    },
+    {
+      "texto": "Mediterráneo",
+      "inicio": 0.96,
+      "fin": 1.6
+    },
+    {
+      "texto": "llegó",
+      "inicio": 1.68,
+      "fin": 1.92
+    },
+    {
+      "texto": "a",
+      "inicio": 1.947,
+      "fin": 1.973
+    },
+    {
+      "texto": "secarse",
+      "inicio": 2,
+      "fin": 2.48
+    },
+    {
+      "texto": "casi",
+      "inicio": 2.64,
+      "fin": 2.96
+    },
+    {
+      "texto": "por",
+      "inicio": 3.04,
+      "fin": 3.12
+    },
+    {
+      "texto": "completo?",
+      "inicio": 3.24,
+      "fin": 4.24
+    },
+    {
+      "texto": "Se",
+      "inicio": 4.28,
+      "fin": 4.32
+    },
+    {
+      "texto": "cerró",
+      "inicio": 4.4,
+      "fin": 4.64
+    },
+    {
+      "texto": "el",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "texto": "paso",
+      "inicio": 4.88,
+      "fin": 5.04
+    },
+    {
+      "texto": "al",
+      "inicio": 5.08,
+      "fin": 5.12
+    },
+    {
+      "texto": "Atlántico,",
+      "inicio": 5.24,
+      "fin": 6
+    },
+    {
+      "texto": "y",
+      "inicio": 6.04,
+      "fin": 6.08
+    },
+    {
+      "texto": "el",
+      "inicio": 6.12,
+      "fin": 6.16
+    },
+    {
+      "texto": "sol",
+      "inicio": 6.24,
+      "fin": 6.48
+    },
+    {
+      "texto": "se",
+      "inicio": 6.64,
+      "fin": 6.72
+    },
+    {
+      "texto": "quedó",
+      "inicio": 6.8,
+      "fin": 6.96
+    },
+    {
+      "texto": "con",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "el",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "texto": "mar.",
+      "inicio": 7.28,
+      "fin": 8.08
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 8.16,
+      "fin": 8.32
+    },
+    {
+      "texto": "el",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "texto": "océano",
+      "inicio": 8.48,
+      "fin": 8.8
+    },
+    {
+      "texto": "entra",
+      "inicio": 8.88,
+      "fin": 9.12
+    },
+    {
+      "texto": "por",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "ese",
+      "inicio": 9.36,
+      "fin": 9.52
+    },
+    {
+      "texto": "paso",
+      "inicio": 9.6,
+      "fin": 9.92
+    },
+    {
+      "texto": "y",
+      "inicio": 10,
+      "fin": 10.16
+    },
+    {
+      "texto": "repone",
+      "inicio": 10.28,
+      "fin": 10.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "texto": "que",
+      "inicio": 10.76,
+      "fin": 10.8
+    },
+    {
+      "texto": "el",
+      "inicio": 10.88,
+      "fin": 10.92
+    },
+    {
+      "texto": "sol",
+      "inicio": 10.96,
+      "fin": 11.12
+    },
+    {
+      "texto": "se",
+      "inicio": 11.2,
+      "fin": 11.28
+    },
+    {
+      "texto": "bebe.",
+      "inicio": 11.36,
+      "fin": 12.16
+    },
+    {
+      "texto": "Sin",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "texto": "esa",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "entrada,",
+      "inicio": 12.68,
+      "fin": 13.12
+    },
+    {
+      "texto": "el",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "mar",
+      "inicio": 13.28,
+      "fin": 13.44
+    },
+    {
+      "texto": "baja",
+      "inicio": 13.48,
+      "fin": 13.76
+    },
+    {
+      "texto": "medio",
+      "inicio": 13.92,
+      "fin": 14.24
+    },
+    {
+      "texto": "metro",
+      "inicio": 14.32,
+      "fin": 14.56
+    },
+    {
+      "texto": "cada",
+      "inicio": 14.64,
+      "fin": 14.8
+    },
+    {
+      "texto": "año:",
+      "inicio": 14.88,
+      "fin": 15.52
+    },
+    {
+      "texto": "una",
+      "inicio": 15.6,
+      "fin": 15.76
+    },
+    {
+      "texto": "bañera.",
+      "inicio": 15.84,
+      "fin": 16.68
+    },
+    {
+      "texto": "Hace",
+      "inicio": 17.12,
+      "fin": 17.36
+    },
+    {
+      "texto": "unos",
+      "inicio": 17.48,
+      "fin": 17.6
+    },
+    {
+      "texto": "seis",
+      "inicio": 17.68,
+      "fin": 17.84
+    },
+    {
+      "texto": "millones",
+      "inicio": 17.92,
+      "fin": 18.24
+    },
+    {
+      "texto": "de",
+      "inicio": 18.32,
+      "fin": 18.36
+    },
+    {
+      "texto": "años,",
+      "inicio": 18.4,
+      "fin": 18.96
+    },
+    {
+      "texto": "en",
+      "inicio": 19,
+      "fin": 19.04
+    },
+    {
+      "texto": "el",
+      "inicio": 19.12,
+      "fin": 19.16
+    },
+    {
+      "texto": "este",
+      "inicio": 19.2,
+      "fin": 19.52
+    },
+    {
+      "texto": "se",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "texto": "fue",
+      "inicio": 19.76,
+      "fin": 19.84
+    },
+    {
+      "texto": "la",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "texto": "mayor",
+      "inicio": 20.08,
+      "fin": 20.24
+    },
+    {
+      "texto": "parte",
+      "inicio": 20.4,
+      "fin": 20.6
+    },
+    {
+      "texto": "del",
+      "inicio": 20.64,
+      "fin": 20.8
+    },
+    {
+      "texto": "agua",
+      "inicio": 20.92,
+      "fin": 21.04
+    },
+    {
+      "texto": "y",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "texto": "el",
+      "inicio": 21.48,
+      "fin": 21.52
+    },
+    {
+      "texto": "nivel",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "texto": "cayó",
+      "inicio": 21.88,
+      "fin": 22.24
+    },
+    {
+      "texto": "más",
+      "inicio": 22.32,
+      "fin": 22.48
+    },
+    {
+      "texto": "de",
+      "inicio": 22.56,
+      "fin": 22.64
+    },
+    {
+      "texto": "un",
+      "inicio": 22.72,
+      "fin": 22.8
+    },
+    {
+      "texto": "kilómetro",
+      "inicio": 22.88,
+      "fin": 23.28
+    },
+    {
+      "texto": "y",
+      "inicio": 23.36,
+      "fin": 23.4
+    },
+    {
+      "texto": "medio.",
+      "inicio": 23.44,
+      "fin": 24.24
+    },
+    {
+      "texto": "Pero",
+      "inicio": 24.293,
+      "fin": 24.4
+    },
+    {
+      "texto": "no",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "texto": "hasta",
+      "inicio": 24.613,
+      "fin": 24.72
+    },
+    {
+      "texto": "el",
+      "inicio": 24.8,
+      "fin": 24.84
+    },
+    {
+      "texto": "polvo:",
+      "inicio": 24.88,
+      "fin": 25.6
+    },
+    {
+      "texto": "en",
+      "inicio": 25.64,
+      "fin": 25.68
+    },
+    {
+      "texto": "el",
+      "inicio": 25.72,
+      "fin": 25.76
+    },
+    {
+      "texto": "fondo",
+      "inicio": 25.84,
+      "fin": 26.16
+    },
+    {
+      "texto": "quedó",
+      "inicio": 26.24,
+      "fin": 26.48
+    },
+    {
+      "texto": "un",
+      "inicio": 26.52,
+      "fin": 26.56
+    },
+    {
+      "texto": "lago",
+      "inicio": 26.64,
+      "fin": 26.8
+    },
+    {
+      "texto": "de",
+      "inicio": 26.88,
+      "fin": 26.92
+    },
+    {
+      "texto": "sal",
+      "inicio": 26.96,
+      "fin": 27.2
+    },
+    {
+      "texto": "de",
+      "inicio": 27.28,
+      "fin": 27.36
+    },
+    {
+      "texto": "más",
+      "inicio": 27.44,
+      "fin": 27.6
+    },
+    {
+      "texto": "de",
+      "inicio": 27.68,
+      "fin": 27.76
+    },
+    {
+      "texto": "un",
+      "inicio": 27.8,
+      "fin": 27.84
+    },
+    {
+      "texto": "kilómetro.",
+      "inicio": 27.92,
+      "fin": 28.96
+    },
+    {
+      "texto": "Esa",
+      "inicio": 29,
+      "fin": 29.2
+    },
+    {
+      "texto": "sal",
+      "inicio": 29.32,
+      "fin": 29.44
+    },
+    {
+      "texto": "cubriría",
+      "inicio": 29.52,
+      "fin": 29.92
+    },
+    {
+      "texto": "España",
+      "inicio": 30,
+      "fin": 30.4
+    },
+    {
+      "texto": "con",
+      "inicio": 30.48,
+      "fin": 30.56
+    },
+    {
+      "texto": "una",
+      "inicio": 30.64,
+      "fin": 30.72
+    },
+    {
+      "texto": "capa",
+      "inicio": 30.8,
+      "fin": 31
+    },
+    {
+      "texto": "de",
+      "inicio": 31.04,
+      "fin": 31.2
+    },
+    {
+      "texto": "casi",
+      "inicio": 31.307,
+      "fin": 31.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 31.68,
+      "fin": 31.84
+    },
+    {
+      "texto": "kilómetros.",
+      "inicio": 31.92,
+      "fin": 33.2
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 33.24,
+      "fin": 33.44
+    },
+    {
+      "texto": "el",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "Atlántico",
+      "inicio": 33.6,
+      "fin": 34
+    },
+    {
+      "texto": "volvió,",
+      "inicio": 34.08,
+      "fin": 34.72
+    },
+    {
+      "texto": "hay",
+      "inicio": 34.8,
+      "fin": 34.88
+    },
+    {
+      "texto": "quien",
+      "inicio": 34.92,
+      "fin": 35.04
+    },
+    {
+      "texto": "calcula",
+      "inicio": 35.24,
+      "fin": 35.52
+    },
+    {
+      "texto": "más",
+      "inicio": 35.68,
+      "fin": 35.84
+    },
+    {
+      "texto": "de",
+      "inicio": 35.92,
+      "fin": 36
+    },
+    {
+      "texto": "diez",
+      "inicio": 36.08,
+      "fin": 36.32
+    },
+    {
+      "texto": "metros",
+      "inicio": 36.4,
+      "fin": 36.64
+    },
+    {
+      "texto": "al",
+      "inicio": 36.72,
+      "fin": 36.8
+    },
+    {
+      "texto": "día,",
+      "inicio": 36.88,
+      "fin": 37.36
+    },
+    {
+      "texto": "aunque",
+      "inicio": 37.4,
+      "fin": 37.68
+    },
+    {
+      "texto": "no",
+      "inicio": 37.84,
+      "fin": 37.92
+    },
+    {
+      "texto": "todos",
+      "inicio": 38,
+      "fin": 38.32
+    },
+    {
+      "texto": "lo",
+      "inicio": 38.36,
+      "fin": 38.4
+    },
+    {
+      "texto": "ven",
+      "inicio": 38.48,
+      "fin": 38.56
+    },
+    {
+      "texto": "tan",
+      "inicio": 38.64,
+      "fin": 38.72
+    },
+    {
+      "texto": "rápido.",
+      "inicio": 38.8,
+      "fin": 39.68
+    },
+    {
+      "texto": "Así",
+      "inicio": 39.76,
+      "fin": 39.88
+    },
+    {
+      "texto": "que",
+      "inicio": 39.92,
+      "fin": 40.08
+    },
+    {
+      "texto": "no",
+      "inicio": 40.32,
+      "fin": 40.4
+    },
+    {
+      "texto": "se",
+      "inicio": 40.48,
+      "fin": 40.56
+    },
+    {
+      "texto": "vació",
+      "inicio": 40.64,
+      "fin": 40.88
+    },
+    {
+      "texto": "del",
+      "inicio": 40.96,
+      "fin": 41.04
+    },
+    {
+      "texto": "todo:",
+      "inicio": 41.12,
+      "fin": 41.68
+    },
+    {
+      "texto": "dejó",
+      "inicio": 41.76,
+      "fin": 42
+    },
+    {
+      "texto": "un",
+      "inicio": 42.08,
+      "fin": 42.16
+    },
+    {
+      "texto": "lago",
+      "inicio": 42.2,
+      "fin": 42.4
+    },
+    {
+      "texto": "de",
+      "inicio": 42.48,
+      "fin": 42.52
+    },
+    {
+      "texto": "sal,",
+      "inicio": 42.56,
+      "fin": 43.12
+    },
+    {
+      "texto": "y",
+      "inicio": 43.16,
+      "fin": 43.2
+    },
+    {
+      "texto": "el",
+      "inicio": 43.24,
+      "fin": 43.28
+    },
+    {
+      "texto": "océano",
+      "inicio": 43.36,
+      "fin": 43.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 43.92,
+      "fin": 44
+    },
+    {
+      "texto": "llenó",
+      "inicio": 44.12,
+      "fin": 44.293
+    },
+    {
+      "texto": "otra",
+      "inicio": 44.347,
+      "fin": 44.48
+    },
+    {
+      "texto": "vez.",
+      "inicio": 44.6,
+      "fin": 45.28
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 45.36,
+      "fin": 45.84
+    },
+    {
+      "texto": "a",
+      "inicio": 45.88,
+      "fin": 45.92
+    },
+    {
+      "texto": "ese",
+      "inicio": 46,
+      "fin": 46.08
+    },
+    {
+      "texto": "amigo",
+      "inicio": 46.16,
+      "fin": 46.4
+    },
+    {
+      "texto": "que",
+      "inicio": 46.44,
+      "fin": 46.48
+    },
+    {
+      "texto": "se",
+      "inicio": 46.56,
+      "fin": 46.64
+    },
+    {
+      "texto": "baña",
+      "inicio": 46.72,
+      "fin": 46.88
+    },
+    {
+      "texto": "ahí",
+      "inicio": 46.96,
+      "fin": 47.08
+    },
+    {
+      "texto": "cada",
+      "inicio": 47.12,
+      "fin": 47.28
+    },
+    {
+      "texto": "verano.",
+      "inicio": 47.36,
+      "fin": 47.92
+    }
+  ]
+}
