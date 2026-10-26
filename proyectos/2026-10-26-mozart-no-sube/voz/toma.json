@@ -1,0 +1,784 @@
+{
+  "firma": "284a8acb46ed",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Diez",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "minutos",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "de",
+      "inicio": 0.68,
+      "fin": 0.72
+    },
+    {
+      "texto": "Mozart,",
+      "inicio": 0.8,
+      "fin": 1.44
+    },
+    {
+      "texto": "y",
+      "inicio": 1.48,
+      "fin": 1.52
+    },
+    {
+      "texto": "el",
+      "inicio": 1.56,
+      "fin": 1.6
+    },
+    {
+      "texto": "cociente",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "texto": "sube",
+      "inicio": 2.24,
+      "fin": 2.48
+    },
+    {
+      "texto": "ocho",
+      "inicio": 2.64,
+      "fin": 2.88
+    },
+    {
+      "texto": "puntos.",
+      "inicio": 2.96,
+      "fin": 3.64
+    },
+    {
+      "texto": "Lo",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "texto": "publicaron",
+      "inicio": 4.16,
+      "fin": 4.48
+    },
+    {
+      "texto": "en",
+      "inicio": 4.56,
+      "fin": 4.64
+    },
+    {
+      "texto": "una",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "texto": "revista",
+      "inicio": 4.88,
+      "fin": 5.2
+    },
+    {
+      "texto": "de",
+      "inicio": 5.28,
+      "fin": 5.32
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 5.36,
+      "fin": 5.76
+    },
+    {
+      "texto": "¿Qué",
+      "inicio": 6.16,
+      "fin": 6.24
+    },
+    {
+      "texto": "les",
+      "inicio": 6.32,
+      "fin": 6.4
+    },
+    {
+      "texto": "pusieron",
+      "inicio": 6.48,
+      "fin": 6.8
+    },
+    {
+      "texto": "delante,",
+      "inicio": 6.88,
+      "fin": 7.227
+    },
+    {
+      "texto": "en",
+      "inicio": 7.253,
+      "fin": 7.28
+    },
+    {
+      "texto": "realidad?",
+      "inicio": 7.36,
+      "fin": 8.32
+    },
+    {
+      "texto": "Treinta",
+      "inicio": 8.36,
+      "fin": 8.56
+    },
+    {
+      "texto": "y",
+      "inicio": 8.64,
+      "fin": 8.72
+    },
+    {
+      "texto": "seis",
+      "inicio": 8.76,
+      "fin": 8.88
+    },
+    {
+      "texto": "personas,",
+      "inicio": 8.96,
+      "fin": 9.68
+    },
+    {
+      "texto": "y",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "texto": "cada",
+      "inicio": 9.84,
+      "fin": 10
+    },
+    {
+      "texto": "una",
+      "inicio": 10.08,
+      "fin": 10.24
+    },
+    {
+      "texto": "pasó",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "por",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "texto": "las",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "texto": "tres.",
+      "inicio": 10.96,
+      "fin": 11.68
+    },
+    {
+      "texto": "Diez",
+      "inicio": 11.76,
+      "fin": 11.92
+    },
+    {
+      "texto": "minutos",
+      "inicio": 12,
+      "fin": 12.32
+    },
+    {
+      "texto": "de",
+      "inicio": 12.4,
+      "fin": 12.48
+    },
+    {
+      "texto": "una",
+      "inicio": 12.56,
+      "fin": 12.64
+    },
+    {
+      "texto": "sonata",
+      "inicio": 12.72,
+      "fin": 13.12
+    },
+    {
+      "texto": "a",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.28,
+      "fin": 13.36
+    },
+    {
+      "texto": "pianos.",
+      "inicio": 13.44,
+      "fin": 14.12
+    },
+    {
+      "texto": "Otros",
+      "inicio": 14.32,
+      "fin": 14.56
+    },
+    {
+      "texto": "diez,",
+      "inicio": 14.64,
+      "fin": 15.04
+    },
+    {
+      "texto": "una",
+      "inicio": 15.12,
+      "fin": 15.28
+    },
+    {
+      "texto": "voz",
+      "inicio": 15.36,
+      "fin": 15.52
+    },
+    {
+      "texto": "que",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "texto": "solo",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "decía:",
+      "inicio": 15.92,
+      "fin": 16.4
+    },
+    {
+      "texto": "relájate.",
+      "inicio": 16.8,
+      "fin": 17.52
+    },
+    {
+      "texto": "Y",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "texto": "otros",
+      "inicio": 18.2,
+      "fin": 18.32
+    },
+    {
+      "texto": "diez,",
+      "inicio": 18.4,
+      "fin": 18.8
+    },
+    {
+      "texto": "sentados",
+      "inicio": 18.96,
+      "fin": 19.28
+    },
+    {
+      "texto": "en",
+      "inicio": 19.36,
+      "fin": 19.44
+    },
+    {
+      "texto": "silencio.",
+      "inicio": 19.52,
+      "fin": 20
+    },
+    {
+      "texto": "Después,",
+      "inicio": 20.56,
+      "fin": 21.12
+    },
+    {
+      "texto": "un",
+      "inicio": 21.2,
+      "fin": 21.28
+    },
+    {
+      "texto": "folio:",
+      "inicio": 21.36,
+      "fin": 22.16
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.2,
+      "fin": 22.24
+    },
+    {
+      "texto": "doblas",
+      "inicio": 22.32,
+      "fin": 22.56
+    },
+    {
+      "texto": "en",
+      "inicio": 22.64,
+      "fin": 22.72
+    },
+    {
+      "texto": "la",
+      "inicio": 22.76,
+      "fin": 22.8
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 22.84,
+      "fin": 23.2
+    },
+    {
+      "texto": "y",
+      "inicio": 23.36,
+      "fin": 23.44
+    },
+    {
+      "texto": "adivinas",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "texto": "los",
+      "inicio": 23.96,
+      "fin": 24
+    },
+    {
+      "texto": "agujeros.",
+      "inicio": 24.08,
+      "fin": 24.88
+    },
+    {
+      "texto": "Ese",
+      "inicio": 25.12,
+      "fin": 25.36
+    },
+    {
+      "texto": "folio",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "texto": "salió",
+      "inicio": 25.8,
+      "fin": 26.16
+    },
+    {
+      "texto": "ocho",
+      "inicio": 26.24,
+      "fin": 26.48
+    },
+    {
+      "texto": "o",
+      "inicio": 26.64,
+      "fin": 26.72
+    },
+    {
+      "texto": "nueve",
+      "inicio": 26.8,
+      "fin": 26.96
+    },
+    {
+      "texto": "puntos",
+      "inicio": 27.12,
+      "fin": 27.36
+    },
+    {
+      "texto": "por",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "texto": "encima.",
+      "inicio": 27.6,
+      "fin": 28.4
+    },
+    {
+      "texto": "Ciento",
+      "inicio": 28.44,
+      "fin": 28.72
+    },
+    {
+      "texto": "diecinueve,",
+      "inicio": 28.8,
+      "fin": 29.68
+    },
+    {
+      "texto": "contra",
+      "inicio": 29.84,
+      "fin": 30
+    },
+    {
+      "texto": "ciento",
+      "inicio": 30.04,
+      "fin": 30.32
+    },
+    {
+      "texto": "diez",
+      "inicio": 30.4,
+      "fin": 30.6
+    },
+    {
+      "texto": "en",
+      "inicio": 30.64,
+      "fin": 30.72
+    },
+    {
+      "texto": "silencio.",
+      "inicio": 30.8,
+      "fin": 31.36
+    },
+    {
+      "texto": "A",
+      "inicio": 31.92,
+      "fin": 31.96
+    },
+    {
+      "texto": "los",
+      "inicio": 32,
+      "fin": 32.08
+    },
+    {
+      "texto": "quince",
+      "inicio": 32.12,
+      "fin": 32.32
+    },
+    {
+      "texto": "minutos,",
+      "inicio": 32.4,
+      "fin": 32.88
+    },
+    {
+      "texto": "el",
+      "inicio": 32.96,
+      "fin": 33.04
+    },
+    {
+      "texto": "salto",
+      "inicio": 33.12,
+      "fin": 33.44
+    },
+    {
+      "texto": "ya",
+      "inicio": 33.52,
+      "fin": 33.6
+    },
+    {
+      "texto": "no",
+      "inicio": 33.68,
+      "fin": 33.76
+    },
+    {
+      "texto": "estaba.",
+      "inicio": 33.84,
+      "fin": 34.24
+    },
+    {
+      "texto": "No",
+      "inicio": 34.64,
+      "fin": 34.72
+    },
+    {
+      "texto": "era",
+      "inicio": 34.8,
+      "fin": 34.88
+    },
+    {
+      "texto": "el",
+      "inicio": 34.92,
+      "fin": 34.96
+    },
+    {
+      "texto": "cociente",
+      "inicio": 35.04,
+      "fin": 35.36
+    },
+    {
+      "texto": "entero.",
+      "inicio": 35.52,
+      "fin": 35.84
+    },
+    {
+      "texto": "Eran",
+      "inicio": 36.16,
+      "fin": 36.4
+    },
+    {
+      "texto": "juegos",
+      "inicio": 36.56,
+      "fin": 36.88
+    },
+    {
+      "texto": "de",
+      "inicio": 36.92,
+      "fin": 36.96
+    },
+    {
+      "texto": "espacio.",
+      "inicio": 37.08,
+      "fin": 37.6
+    },
+    {
+      "texto": "Un",
+      "inicio": 38.08,
+      "fin": 38.16
+    },
+    {
+      "texto": "cuento",
+      "inicio": 38.24,
+      "fin": 38.48
+    },
+    {
+      "texto": "que",
+      "inicio": 38.52,
+      "fin": 38.56
+    },
+    {
+      "texto": "te",
+      "inicio": 38.64,
+      "fin": 38.68
+    },
+    {
+      "texto": "guste",
+      "inicio": 38.72,
+      "fin": 39.04
+    },
+    {
+      "texto": "hace",
+      "inicio": 39.12,
+      "fin": 39.36
+    },
+    {
+      "texto": "un",
+      "inicio": 39.4,
+      "fin": 39.44
+    },
+    {
+      "texto": "salto",
+      "inicio": 39.52,
+      "fin": 39.68
+    },
+    {
+      "texto": "parecido.",
+      "inicio": 39.76,
+      "fin": 40.32
+    },
+    {
+      "texto": "Casi",
+      "inicio": 40.72,
+      "fin": 40.96
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 41.04,
+      "fin": 41.48
+    },
+    {
+      "texto": "estudios,",
+      "inicio": 41.52,
+      "fin": 42.16
+    },
+    {
+      "texto": "y",
+      "inicio": 42.2,
+      "fin": 42.24
+    },
+    {
+      "texto": "más",
+      "inicio": 42.32,
+      "fin": 42.48
+    },
+    {
+      "texto": "de",
+      "inicio": 42.52,
+      "fin": 42.56
+    },
+    {
+      "texto": "tres",
+      "inicio": 42.72,
+      "fin": 42.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 43.04,
+      "fin": 43.12
+    },
+    {
+      "texto": "personas.",
+      "inicio": 43.28,
+      "fin": 43.92
+    },
+    {
+      "texto": "Mozart",
+      "inicio": 44.4,
+      "fin": 44.88
+    },
+    {
+      "texto": "apenas",
+      "inicio": 44.96,
+      "fin": 45.28
+    },
+    {
+      "texto": "se",
+      "inicio": 45.32,
+      "fin": 45.36
+    },
+    {
+      "texto": "separaba",
+      "inicio": 45.44,
+      "fin": 45.84
+    },
+    {
+      "texto": "de",
+      "inicio": 45.88,
+      "fin": 45.92
+    },
+    {
+      "texto": "otra",
+      "inicio": 46,
+      "fin": 46.16
+    },
+    {
+      "texto": "música.",
+      "inicio": 46.2,
+      "fin": 46.64
+    },
+    {
+      "texto": "Esos",
+      "inicio": 47.04,
+      "fin": 47.28
+    },
+    {
+      "texto": "ocho",
+      "inicio": 47.32,
+      "fin": 47.44
+    },
+    {
+      "texto": "puntos",
+      "inicio": 47.52,
+      "fin": 47.92
+    },
+    {
+      "texto": "eran",
+      "inicio": 48,
+      "fin": 48.24
+    },
+    {
+      "texto": "ese",
+      "inicio": 48.4,
+      "fin": 48.64
+    },
+    {
+      "texto": "juego,",
+      "inicio": 48.72,
+      "fin": 49.36
+    },
+    {
+      "texto": "un",
+      "inicio": 49.4,
+      "fin": 49.44
+    },
+    {
+      "texto": "cuarto",
+      "inicio": 49.6,
+      "fin": 49.84
+    },
+    {
+      "texto": "de",
+      "inicio": 49.92,
+      "fin": 50
+    },
+    {
+      "texto": "hora",
+      "inicio": 50.12,
+      "fin": 50.24
+    },
+    {
+      "texto": "y",
+      "inicio": 50.48,
+      "fin": 50.56
+    },
+    {
+      "texto": "el",
+      "inicio": 50.6,
+      "fin": 50.64
+    },
+    {
+      "texto": "ánimo.",
+      "inicio": 50.72,
+      "fin": 51.6
+    },
+    {
+      "texto": "Si",
+      "inicio": 51.64,
+      "fin": 51.68
+    },
+    {
+      "texto": "quieres",
+      "inicio": 51.76,
+      "fin": 51.92
+    },
+    {
+      "texto": "ver",
+      "inicio": 52,
+      "fin": 52.08
+    },
+    {
+      "texto": "tu",
+      "inicio": 52.16,
+      "fin": 52.24
+    },
+    {
+      "texto": "cociente,",
+      "inicio": 52.32,
+      "fin": 52.88
+    },
+    {
+      "texto": "está",
+      "inicio": 53,
+      "fin": 53.16
+    },
+    {
+      "texto": "en",
+      "inicio": 53.2,
+      "fin": 53.28
+    },
+    {
+      "texto": "la",
+      "inicio": 53.32,
+      "fin": 53.36
+    },
+    {
+      "texto": "app",
+      "inicio": 53.44,
+      "fin": 53.6
+    },
+    {
+      "texto": "del",
+      "inicio": 53.68,
+      "fin": 53.76
+    },
+    {
+      "texto": "enlace",
+      "inicio": 53.84,
+      "fin": 54.08
+    },
+    {
+      "texto": "de",
+      "inicio": 54.16,
+      "fin": 54.2
+    },
+    {
+      "texto": "la",
+      "inicio": 54.24,
+      "fin": 54.32
+    },
+    {
+      "texto": "bio.",
+      "inicio": 54.44,
+      "fin": 54.88
+    }
+  ]
+}
