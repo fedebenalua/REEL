@@ -1,0 +1,18 @@
+{
+  "titulo": "La palabra que nadie dijo",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Tu cabeza puede jurar que oyó una palabra que nadie dijo.", "clave": "jurar", "hook": true },
+    { "texto": "Te leen cama, descanso y despierto, y mucha gente escribe dormir.", "clave": "dormir", "hook": true },
+    { "texto": "Pero dormir no estaba. Nadie la pronunció.", "clave": "nadie", "hook": true },
+    { "texto": "En un aula, treinta y seis estudiantes oyeron listas así, y les pidieron que no inventaran.", "clave": "inventaran" },
+    { "texto": "Aun así, en cuatro de cada diez listas, escribieron la palabra que faltaba.", "clave": "faltaba" },
+    { "texto": "Una palabra cualquiera salía mucho menos: solo en una lista de cada siete.", "clave": "siete" },
+    { "texto": "Y al reconocerlas, la dieron por oída casi igual que las de verdad: ochenta y cuatro de cada cien, frente a ochenta y seis.", "clave": "igual" },
+    { "texto": "Porque esas palabras no eran cualquiera: todas tiraban de dormir.", "clave": "tiraban" },
+    { "texto": "Y la cabeza no distingue si la oyó o si solo se le vino.", "clave": "distingue" },
+    { "texto": "Así que no mientes: el recuerdo se arma, y a veces mete una de más.", "clave": "más" },
+    { "texto": "Envíaselo a ese amigo que jura que él se acuerda de todo.", "clave": "todo" }
+  ]
+}
