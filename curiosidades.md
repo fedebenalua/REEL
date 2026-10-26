@@ -60,6 +60,7 @@ Cuando se acaben las diez, se vuelve a las «Ideas pendientes» de abajo y a tem
 - Qué pasa en tu cuerpo si pasas 24 horas sin dormir (2026-10-25).
 - Por qué los wombats hacen caca en cubos (2026-10-25).
 - Por qué el cerebro ve caras en las nubes y en los enchufes (2026-10-26).
+- Por qué huele tan bien la primera lluvia: el petricor (2026-10-26).
 
 ## Ideas pendientes
 
