@@ -8,7 +8,7 @@
 //   proyectos/2026-10-22-perro-tira-correa/video/planos/04-atardecer.js   el parque al atardecer (parque(g, c, t, 1), ambiente)
 // Fotos de cómo tiene que verse: perros/muestra-*.jpg
 //
-// perro(g, { x, fase, marcha, pitch, t, cola, cuelloBaja, escala, pataAlta, bostezo, lamido, cava, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata, pataDel }
+// perro(g, { x, fase, marcha, pitch, t, cola, colaTuck, cuelloBaja, escala, pataAlta, bostezo, lamido, cava, cabeza: { ang, abre, ojo, oreja, olfato } }) → { collar, nariz, ingle, pata, pataDel }
 //   bostezo 0..1: abre la boca de verdad (mandíbula abajo, ojo entornado). ladra 0..1: un ladrido, boca abierta y ojo abierto. abre sigue siendo la lengua corta.
 //   lamido 0..1: un lametón a la punta. 0 escondida, a la mitad la lengua le cruza la trufa, y al final vuelve. Si hay lamido, no cuelga la lengua.
 //   Perro de lado (labrador), pie en y = 0, en cm del mundo (ponVista deja el lienzo en esas unidades). Todo sale de t.
@@ -16,6 +16,7 @@
 //   espalda 0..1: panza arriba, patas al aire (1 = de espaldas del todo; los valores de en medio no son una pose).
 //   escala: 1 es el labrador de siempre; pataAlta 0..1 levanta la trasera de este lado (1 ≈ 147° desde la vertical, por encima de la horizontal).
 //   agacha 0..1: grupa baja y patas traseras flexionadas, cola alta (la postura de hacer sus cosas, de lado). Úsala a 0 o 1.
+//   colaTuck 0..1: la cola se recoge hacia la barriga y deja de menearse (el culo metido al correr, o el miedo). 0 es la cola de siempre.
 //   cava 0..1: escarbando (1 = pecho bajo, traseras quietas, las de delante abren el hoyo al ritmo de fase). Úsala a 0 o 1.
 //   pataDel es la pata delantera de este lado, en el mundo: de ahí sale la tierra.
 //   Poses: sentado 0..1 (sentado, cabeza arriba, patas traseras plegadas) y tumbado 0..1 (esfinge, patas delante). Úsalas
@@ -411,6 +412,7 @@ function perroEspalda(g, o) {
 export function perro(g, o) {
   if ((o.espalda || 0) > 0.5) return perroEspalda(g, o);
   const { x, y = 0, dir = 1, fase = 0, marcha = 1, pitch = 0, t = 0 } = o, cab = o.cabeza || {}, cola = o.cola ?? 0.4;
+  const tuck = Math.min(1, Math.max(0, o.colaTuck || 0));
   const cava = Math.min(1, Math.max(0, o.cava || 0));
   const nb = Math.max(o.cuelloBaja || 0, cava * 0.92);
   const escala = o.escala ?? 1, alta = o.pataAlta || 0;
@@ -520,8 +522,8 @@ export function perro(g, o) {
   };
 
   // la cola, detrás: una pluma que sube y menea
-  { const w = Math.sin(t * 9) * 10 * cola + Math.sin(t * 4.3) * 3, base = [-36, -53];
-    const p1 = [-47 + 6 * ag, -58 - 6 * cola - 22 * ag], p2 = [-54 + w * 0.3 + 10 * ag, -57 - 15 + w * 0.6 - 4 * (1 - cola) - 28 * ag];
+  { const w = (Math.sin(t * 9) * 10 * cola + Math.sin(t * 4.3) * 3) * (1 - 0.85 * tuck), base = [-36, -53];
+    const p1 = [-47 + 6 * ag, -58 - 6 * cola - 22 * ag + 30 * tuck], p2 = [-54 + w * 0.3 + 10 * ag, -57 - 15 + w * 0.6 - 4 * (1 - cola) - 28 * ag + 46 * tuck];
     g.lineCap = "round"; g.lineJoin = "round";
     for (const [col, wd] of [[PELO.sombra, 7.6], [PELO.medio, 6.4], [PELO.luz, 2.2]]) { g.strokeStyle = col; g.lineWidth = wd; g.beginPath(); g.moveTo(base[0], base[1]); g.quadraticCurveTo(p1[0], p1[1], p2[0], p2[1]); g.stroke(); }
   }

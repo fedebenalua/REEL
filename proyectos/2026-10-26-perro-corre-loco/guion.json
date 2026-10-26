@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué tu perro se pone a correr como un loco",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro se pone a correr como un loco, sin venir a cuento?", "clave": "loco", "hook": true },
+    { "texto": "No está loco: se lo está pasando bien.", "clave": "bien", "hook": true },
+    { "texto": "Y no hay una causa concreta.", "clave": "causa", "hook": true },
+    { "texto": "Parece que suelta de golpe lo que lleva guardado.", "clave": "suelta" },
+    { "texto": "Sobre todo si ha pasado el día solo, sin nada que hacer.", "clave": "solo" },
+    { "texto": "O cuando llegas y se emociona.", "clave": "llegas" },
+    { "texto": "Pasa sobre todo de cachorro.", "clave": "cachorro" },
+    { "texto": "Y a algunos, toda la vida.", "clave": "vida" },
+    { "texto": "En el césped, se le deja.", "clave": "césped" },
+    { "texto": "Si va tenso y con miedo, eso ya es otra cosa.", "clave": "miedo" },
+    { "texto": "Envíaselo a ese amigo al que su perro da tres vueltas al sofá y se tumba como si nada.", "clave": "sofá" }
+  ]
+}

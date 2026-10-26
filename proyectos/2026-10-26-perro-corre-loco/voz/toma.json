@@ -1,0 +1,529 @@
+{
+  "firma": "f8010f07a05c",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "texto": "perro",
+      "inicio": 0.56,
+      "fin": 0.72
+    },
+    {
+      "texto": "se",
+      "inicio": 0.8,
+      "fin": 0.96
+    },
+    {
+      "texto": "pone",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "a",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "correr",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "texto": "como",
+      "inicio": 1.6,
+      "fin": 1.76
+    },
+    {
+      "texto": "un",
+      "inicio": 1.84,
+      "fin": 1.92
+    },
+    {
+      "texto": "loco,",
+      "inicio": 2.08,
+      "fin": 2.48
+    },
+    {
+      "texto": "sin",
+      "inicio": 2.56,
+      "fin": 2.72
+    },
+    {
+      "texto": "venir",
+      "inicio": 2.84,
+      "fin": 2.96
+    },
+    {
+      "texto": "a",
+      "inicio": 3,
+      "fin": 3.04
+    },
+    {
+      "texto": "cuento?",
+      "inicio": 3.08,
+      "fin": 3.92
+    },
+    {
+      "texto": "No",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "está",
+      "inicio": 4.16,
+      "fin": 4.32
+    },
+    {
+      "texto": "loco:",
+      "inicio": 4.4,
+      "fin": 4.96
+    },
+    {
+      "texto": "se",
+      "inicio": 5,
+      "fin": 5.04
+    },
+    {
+      "texto": "lo",
+      "inicio": 5.12,
+      "fin": 5.16
+    },
+    {
+      "texto": "está",
+      "inicio": 5.2,
+      "fin": 5.36
+    },
+    {
+      "texto": "pasando",
+      "inicio": 5.44,
+      "fin": 5.76
+    },
+    {
+      "texto": "bien.",
+      "inicio": 5.8,
+      "fin": 6.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 6.6,
+      "fin": 6.64
+    },
+    {
+      "texto": "no",
+      "inicio": 6.72,
+      "fin": 6.8
+    },
+    {
+      "texto": "hay",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "texto": "una",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "causa",
+      "inicio": 7.16,
+      "fin": 7.36
+    },
+    {
+      "texto": "concreta.",
+      "inicio": 7.44,
+      "fin": 8.24
+    },
+    {
+      "texto": "Parece",
+      "inicio": 8.293,
+      "fin": 8.56
+    },
+    {
+      "texto": "que",
+      "inicio": 8.64,
+      "fin": 8.72
+    },
+    {
+      "texto": "suelta",
+      "inicio": 8.8,
+      "fin": 9.12
+    },
+    {
+      "texto": "de",
+      "inicio": 9.16,
+      "fin": 9.2
+    },
+    {
+      "texto": "golpe",
+      "inicio": 9.28,
+      "fin": 9.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 9.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "que",
+      "inicio": 9.64,
+      "fin": 9.68
+    },
+    {
+      "texto": "lleva",
+      "inicio": 9.76,
+      "fin": 9.96
+    },
+    {
+      "texto": "guardado.",
+      "inicio": 10,
+      "fin": 10.96
+    },
+    {
+      "texto": "Sobre",
+      "inicio": 11,
+      "fin": 11.2
+    },
+    {
+      "texto": "todo",
+      "inicio": 11.28,
+      "fin": 11.44
+    },
+    {
+      "texto": "si",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "texto": "ha",
+      "inicio": 11.64,
+      "fin": 11.68
+    },
+    {
+      "texto": "pasado",
+      "inicio": 11.76,
+      "fin": 12
+    },
+    {
+      "texto": "el",
+      "inicio": 12.04,
+      "fin": 12.08
+    },
+    {
+      "texto": "día",
+      "inicio": 12.16,
+      "fin": 12.32
+    },
+    {
+      "texto": "solo,",
+      "inicio": 12.4,
+      "fin": 12.8
+    },
+    {
+      "texto": "sin",
+      "inicio": 12.88,
+      "fin": 12.96
+    },
+    {
+      "texto": "nada",
+      "inicio": 13.04,
+      "fin": 13.2
+    },
+    {
+      "texto": "que",
+      "inicio": 13.24,
+      "fin": 13.28
+    },
+    {
+      "texto": "hacer.",
+      "inicio": 13.387,
+      "fin": 14
+    },
+    {
+      "texto": "O",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "texto": "cuando",
+      "inicio": 14.12,
+      "fin": 14.32
+    },
+    {
+      "texto": "llegas",
+      "inicio": 14.4,
+      "fin": 14.72
+    },
+    {
+      "texto": "y",
+      "inicio": 14.8,
+      "fin": 14.84
+    },
+    {
+      "texto": "se",
+      "inicio": 14.88,
+      "fin": 14.96
+    },
+    {
+      "texto": "emociona.",
+      "inicio": 15.04,
+      "fin": 16
+    },
+    {
+      "texto": "Pasa",
+      "inicio": 16.08,
+      "fin": 16.24
+    },
+    {
+      "texto": "sobre",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "texto": "todo",
+      "inicio": 16.56,
+      "fin": 16.72
+    },
+    {
+      "texto": "de",
+      "inicio": 16.76,
+      "fin": 16.8
+    },
+    {
+      "texto": "cachorro.",
+      "inicio": 16.88,
+      "fin": 17.6
+    },
+    {
+      "texto": "Y",
+      "inicio": 17.68,
+      "fin": 17.76
+    },
+    {
+      "texto": "a",
+      "inicio": 17.8,
+      "fin": 17.84
+    },
+    {
+      "texto": "algunos,",
+      "inicio": 17.88,
+      "fin": 18.48
+    },
+    {
+      "texto": "toda",
+      "inicio": 18.52,
+      "fin": 18.72
+    },
+    {
+      "texto": "la",
+      "inicio": 18.76,
+      "fin": 18.8
+    },
+    {
+      "texto": "vida.",
+      "inicio": 18.88,
+      "fin": 19.68
+    },
+    {
+      "texto": "En",
+      "inicio": 19.72,
+      "fin": 19.76
+    },
+    {
+      "texto": "el",
+      "inicio": 19.84,
+      "fin": 19.92
+    },
+    {
+      "texto": "césped,",
+      "inicio": 19.96,
+      "fin": 20.48
+    },
+    {
+      "texto": "se",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "texto": "le",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "texto": "deja.",
+      "inicio": 20.8,
+      "fin": 21.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 21.52,
+      "fin": 21.6
+    },
+    {
+      "texto": "va",
+      "inicio": 21.64,
+      "fin": 21.68
+    },
+    {
+      "texto": "tenso",
+      "inicio": 21.76,
+      "fin": 22.08
+    },
+    {
+      "texto": "y",
+      "inicio": 22.12,
+      "fin": 22.16
+    },
+    {
+      "texto": "con",
+      "inicio": 22.24,
+      "fin": 22.32
+    },
+    {
+      "texto": "miedo,",
+      "inicio": 22.4,
+      "fin": 22.88
+    },
+    {
+      "texto": "eso",
+      "inicio": 23.04,
+      "fin": 23.2
+    },
+    {
+      "texto": "ya",
+      "inicio": 23.28,
+      "fin": 23.36
+    },
+    {
+      "texto": "es",
+      "inicio": 23.4,
+      "fin": 23.44
+    },
+    {
+      "texto": "otra",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "cosa.",
+      "inicio": 23.76,
+      "fin": 24.72
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 24.84,
+      "fin": 25.28
+    },
+    {
+      "texto": "a",
+      "inicio": 25.307,
+      "fin": 25.333
+    },
+    {
+      "texto": "ese",
+      "inicio": 25.36,
+      "fin": 25.52
+    },
+    {
+      "texto": "amigo",
+      "inicio": 25.6,
+      "fin": 25.84
+    },
+    {
+      "texto": "al",
+      "inicio": 25.88,
+      "fin": 25.92
+    },
+    {
+      "texto": "que",
+      "inicio": 26,
+      "fin": 26.04
+    },
+    {
+      "texto": "su",
+      "inicio": 26.08,
+      "fin": 26.24
+    },
+    {
+      "texto": "perro",
+      "inicio": 26.32,
+      "fin": 26.48
+    },
+    {
+      "texto": "da",
+      "inicio": 26.6,
+      "fin": 26.72
+    },
+    {
+      "texto": "tres",
+      "inicio": 26.84,
+      "fin": 26.96
+    },
+    {
+      "texto": "vueltas",
+      "inicio": 27.04,
+      "fin": 27.36
+    },
+    {
+      "texto": "al",
+      "inicio": 27.44,
+      "fin": 27.52
+    },
+    {
+      "texto": "sofá",
+      "inicio": 27.6,
+      "fin": 27.84
+    },
+    {
+      "texto": "y",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "texto": "se",
+      "inicio": 28.08,
+      "fin": 28.16
+    },
+    {
+      "texto": "tumba",
+      "inicio": 28.24,
+      "fin": 28.56
+    },
+    {
+      "texto": "como",
+      "inicio": 28.64,
+      "fin": 28.72
+    },
+    {
+      "texto": "si",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "texto": "nada.",
+      "inicio": 28.96,
+      "fin": 29.44
+    }
+  ]
+}

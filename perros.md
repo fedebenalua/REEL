@@ -55,6 +55,7 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué entierra el hueso (`proyectos/2026-10-25-perro-entierra-hueso`).
 - Por qué te trae el juguete y no te lo suelta (`proyectos/2026-10-25-perro-trae-el-juguete`).
 - Por qué tiene miedo a los petardos (`proyectos/2026-10-26-perro-miedo-petardos`).
+- Por qué se pone a correr como un loco (`proyectos/2026-10-26-perro-corre-loco`).
 
 ## Ideas pendientes
 
@@ -64,7 +65,6 @@ Cuenta de Instagram **@porestotuperro**. Vídeos de cosas curiosas que hacen los
 - Por qué inclinan la cabeza cuando les hablas.
 - Por qué ladran a la nada de noche.
 - Por qué entierran los huesos.
-- Por qué corren a lo loco de repente (la «zoomies»).
 - Por qué te traen el juguete y no te lo dan.
 - Por qué suspiran al echarse.
 - Por qué tienen miedo a los petardos.
