@@ -130,5 +130,6 @@ y YouTube Shorts («La Curiosidad NO mató al gato»).
 ## Ya hechos
 
 1. ¿Sabías que el mar Mediterráneo llegó a secarse casi por completo?
+2. ¿Por qué las cigarras pueden pasar tantos años bajo tierra?
 
 (La lista de lo programado está en `publicados-gato.json`.)
