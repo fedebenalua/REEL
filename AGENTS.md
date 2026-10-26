@@ -58,6 +58,11 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
   vídeo cada 6 horas, con su propia lista (`publicados-lacienciadiceque.json`). Siguen la lista de 100 títulos de
   `lacienciadiceque.md` en orden. No usan los otros perfiles, y los de los otros perfiles no se publican en estas
   cuentas.
+- Los vídeos de «La curiosidad no mató al gato» (Instagram @curiosidadnomatagato, la cuenta nueva; TikTok
+  @lacuriosidadnomatoalgat y YouTube @lcnmal; ver `gato.md`) se publican solo ahí, con
+  `node motor/publicar.mjs <vídeo> --perfil gato`: un vídeo cada 4 horas, con su propia lista (`publicados-gato.json`).
+  Siguen la lista de 100 títulos de `gato.md` en orden. No usan los otros perfiles, y los de los otros perfiles no se
+  publican en estas cuentas.
 - Si dice «a partir de ahora publica directamente», guárdalo en `preferencias.md` con sus palabras y deja de preguntar.
 
 ## La carpeta
