@@ -63,6 +63,11 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
   `node motor/publicar.mjs <vídeo> --perfil gato`: un vídeo cada 4 horas, con su propia lista (`publicados-gato.json`).
   Siguen la lista de 100 títulos de `gato.md` en orden. No usan los otros perfiles, y los de los otros perfiles no se
   publican en estas cuentas.
+- Los vídeos de «¿Qué pasaría si...?» (escenarios del futuro: catástrofes, clima, espacio e IA; Instagram
+  @estoesasiporque y TikTok @home.diagnosis.ai, las conexiones nuevas, y YouTube @estoestasiporque; ver `futuro.md`) se
+  publican solo ahí, con `node motor/publicar.mjs <vídeo> --perfil futuro`: un vídeo cada 6 horas, con su propia
+  lista (`publicados-futuro.json`). Siguen la lista de 100 títulos de `futuro.md` en orden. No usan los otros
+  perfiles, y los de los otros perfiles no se publican en estas cuentas.
 - Si dice «a partir de ahora publica directamente», guárdalo en `preferencias.md` con sus palabras y deja de preguntar.
 
 ## La carpeta
