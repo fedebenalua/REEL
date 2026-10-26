@@ -1,0 +1,1268 @@
+{
+  "firma": "535f51cdcf01",
+  "duracion": 59.52,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Te abren la cabeza, te tocan el cerebro, y tú sigues hablando.",
+      "clave": "cerebro",
+      "inicio": 0,
+      "fin": 4.32
+    },
+    {
+      "n": 2,
+      "texto": "Despierto, en una operación de verdad, y no gritas.",
+      "clave": "gritas",
+      "inicio": 4.64,
+      "fin": 7.96
+    },
+    {
+      "n": 3,
+      "texto": "En el dedo, un corte te hace saltar.",
+      "clave": "saltar",
+      "inicio": 8.24,
+      "fin": 10.4
+    },
+    {
+      "n": 4,
+      "texto": "La piel va llena de alarmas, y cada una avisa.",
+      "clave": "alarmas",
+      "inicio": 10.88,
+      "fin": 13.92
+    },
+    {
+      "n": 5,
+      "texto": "En el quirófano te despiertan a mitad, a propósito.",
+      "clave": "despiertan",
+      "inicio": 14.64,
+      "fin": 17.72
+    },
+    {
+      "n": 6,
+      "texto": "Te ponen dibujos: dices manzana, dices llave, y mueves la mano.",
+      "clave": "manzana",
+      "inicio": 18,
+      "fin": 22.56
+    },
+    {
+      "n": 7,
+      "texto": "Así ven qué parte del cerebro no pueden quitar.",
+      "clave": "quitar",
+      "inicio": 22.64,
+      "fin": 25.84
+    },
+    {
+      "n": 8,
+      "texto": "Si una chispa cae donde hablas, la palabra se queda a medias.",
+      "clave": "medias",
+      "inicio": 25.88,
+      "fin": 29.6
+    },
+    {
+      "n": 9,
+      "texto": "Solo mientras dura la chispa. Luego vuelve, y ahí no cortan.",
+      "clave": "vuelve",
+      "inicio": 29.72,
+      "fin": 33.68
+    },
+    {
+      "n": 10,
+      "texto": "Tú sigues tranquilo, hablando, sin un quejido.",
+      "clave": "tranquilo",
+      "inicio": 33.707,
+      "fin": 37.2
+    },
+    {
+      "n": 11,
+      "texto": "El mismo toque, en el brazo, te haría retirar la mano.",
+      "clave": "brazo",
+      "inicio": 37.28,
+      "fin": 40.72
+    },
+    {
+      "n": 12,
+      "texto": "El tejido del cerebro no tiene alarmas de dolor.",
+      "clave": "tejido",
+      "inicio": 40.76,
+      "fin": 43.68
+    },
+    {
+      "n": 13,
+      "texto": "La piel y la funda sí: eso se duerme.",
+      "clave": "funda",
+      "inicio": 43.72,
+      "fin": 47.28
+    },
+    {
+      "n": 14,
+      "texto": "Por dentro, el corte no avisa.",
+      "clave": "corte",
+      "inicio": 47.32,
+      "fin": 49.52
+    },
+    {
+      "n": 15,
+      "texto": "Un vasito estirado escuece un segundo, y no es el cerebro.",
+      "clave": "vasito",
+      "inicio": 49.6,
+      "fin": 53.44
+    },
+    {
+      "n": 16,
+      "texto": "El dolor de cabeza sale de la funda.",
+      "clave": "cabeza",
+      "inicio": 53.48,
+      "fin": 55.84
+    },
+    {
+      "n": 17,
+      "texto": "Envíaselo a ese amigo que cree que le duele el cerebro.",
+      "clave": "amigo",
+      "inicio": 55.96,
+      "fin": 58.72
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Te",
+      "inicio": 0,
+      "fin": 0.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "abren",
+      "inicio": 0.16,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 0.44,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cabeza,",
+      "inicio": 0.56,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 1.44,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tocan",
+      "inicio": 1.6,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.88,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cerebro,",
+      "inicio": 2,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 2.76,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tú",
+      "inicio": 2.88,
+      "fin": 3.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sigues",
+      "inicio": 3.2,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hablando.",
+      "inicio": 3.56,
+      "fin": 4.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Despierto,",
+      "inicio": 4.64,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 5.52,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 5.64,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "operación",
+      "inicio": 5.76,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 6.2,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "verdad,",
+      "inicio": 6.32,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 6.92,
+      "fin": 6.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 7.04,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gritas.",
+      "inicio": 7.2,
+      "fin": 7.96,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 8.24,
+      "fin": 8.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 8.36,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dedo,",
+      "inicio": 8.48,
+      "fin": 8.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 9.04,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "corte",
+      "inicio": 9.2,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 9.56,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 9.68,
+      "fin": 9.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "saltar.",
+      "inicio": 10,
+      "fin": 10.4,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "La",
+      "inicio": 10.88,
+      "fin": 10.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "piel",
+      "inicio": 11.04,
+      "fin": 11.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 11.36,
+      "fin": 11.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "llena",
+      "inicio": 11.52,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 11.84,
+      "fin": 11.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "alarmas,",
+      "inicio": 11.92,
+      "fin": 12.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 12.68,
+      "fin": 12.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 12.76,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 13.04,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "avisa.",
+      "inicio": 13.36,
+      "fin": 13.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 14.64,
+      "fin": 14.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 14.76,
+      "fin": 14.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "quirófano",
+      "inicio": 14.88,
+      "fin": 15.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 15.4,
+      "fin": 15.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "despiertan",
+      "inicio": 15.52,
+      "fin": 16,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "a",
+      "inicio": 16.027,
+      "fin": 16.053,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mitad,",
+      "inicio": 16.08,
+      "fin": 16.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 16.76,
+      "fin": 16.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "propósito.",
+      "inicio": 16.92,
+      "fin": 17.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Te",
+      "inicio": 18,
+      "fin": 18.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ponen",
+      "inicio": 18.16,
+      "fin": 18.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dibujos:",
+      "inicio": 18.36,
+      "fin": 19.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dices",
+      "inicio": 19.307,
+      "fin": 19.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "manzana,",
+      "inicio": 19.6,
+      "fin": 20.32,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "dices",
+      "inicio": 20.4,
+      "fin": 20.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "llave,",
+      "inicio": 20.72,
+      "fin": 21.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 21.24,
+      "fin": 21.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mueves",
+      "inicio": 21.36,
+      "fin": 21.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 21.68,
+      "fin": 21.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mano.",
+      "inicio": 21.76,
+      "fin": 22.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 22.64,
+      "fin": 22.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ven",
+      "inicio": 22.92,
+      "fin": 23.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 23.12,
+      "fin": 23.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 23.4,
+      "fin": 23.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 23.6,
+      "fin": 23.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 23.8,
+      "fin": 24.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 24.24,
+      "fin": 24.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pueden",
+      "inicio": 24.4,
+      "fin": 24.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "quitar.",
+      "inicio": 24.72,
+      "fin": 25.84,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.88,
+      "fin": 25.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 26,
+      "fin": 26.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "chispa",
+      "inicio": 26.16,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cae",
+      "inicio": 26.56,
+      "fin": 26.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "donde",
+      "inicio": 26.8,
+      "fin": 27.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hablas,",
+      "inicio": 27.12,
+      "fin": 27.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 27.68,
+      "fin": 27.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "palabra",
+      "inicio": 27.84,
+      "fin": 28.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 28.24,
+      "fin": 28.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 28.4,
+      "fin": 28.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 28.6,
+      "fin": 28.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "medias.",
+      "inicio": 28.72,
+      "fin": 29.6,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Solo",
+      "inicio": 29.72,
+      "fin": 29.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mientras",
+      "inicio": 29.92,
+      "fin": 30.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dura",
+      "inicio": 30.32,
+      "fin": 30.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 30.52,
+      "fin": 30.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "chispa.",
+      "inicio": 30.64,
+      "fin": 31.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Luego",
+      "inicio": 31.56,
+      "fin": 31.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "vuelve,",
+      "inicio": 31.84,
+      "fin": 32.32,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 32.4,
+      "fin": 32.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ahí",
+      "inicio": 32.56,
+      "fin": 32.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 32.72,
+      "fin": 32.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cortan.",
+      "inicio": 32.88,
+      "fin": 33.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Tú",
+      "inicio": 33.707,
+      "fin": 33.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sigues",
+      "inicio": 33.84,
+      "fin": 34.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "tranquilo,",
+      "inicio": 34.2,
+      "fin": 34.88,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "hablando,",
+      "inicio": 34.96,
+      "fin": 35.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 35.8,
+      "fin": 35.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 35.96,
+      "fin": 36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "quejido.",
+      "inicio": 36.08,
+      "fin": 37.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 37.28,
+      "fin": 37.36,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 37.44,
+      "fin": 37.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "toque,",
+      "inicio": 37.68,
+      "fin": 38.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 38.2,
+      "fin": 38.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 38.32,
+      "fin": 38.36,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "brazo,",
+      "inicio": 38.4,
+      "fin": 38.96,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "te",
+      "inicio": 39,
+      "fin": 39.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "haría",
+      "inicio": 39.08,
+      "fin": 39.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "retirar",
+      "inicio": 39.36,
+      "fin": 39.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 39.8,
+      "fin": 39.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "mano.",
+      "inicio": 39.92,
+      "fin": 40.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 40.76,
+      "fin": 40.8,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "tejido",
+      "inicio": 40.88,
+      "fin": 41.2,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "del",
+      "inicio": 41.28,
+      "fin": 41.36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 41.4,
+      "fin": 41.84,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 41.92,
+      "fin": 42,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 42.08,
+      "fin": 42.32,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "alarmas",
+      "inicio": 42.48,
+      "fin": 42.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.76,
+      "fin": 42.8,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "dolor.",
+      "inicio": 42.88,
+      "fin": 43.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 43.72,
+      "fin": 43.76,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "piel",
+      "inicio": 43.84,
+      "fin": 44.24,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 44.28,
+      "fin": 44.32,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 44.36,
+      "fin": 44.4,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "funda",
+      "inicio": 44.48,
+      "fin": 44.8,
+      "frase": 13,
+      "clave": true
+    },
+    {
+      "texto": "sí:",
+      "inicio": 45.04,
+      "fin": 45.68,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 45.84,
+      "fin": 46,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 46.08,
+      "fin": 46.16,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "duerme.",
+      "inicio": 46.24,
+      "fin": 47.28,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "Por",
+      "inicio": 47.32,
+      "fin": 47.36,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "dentro,",
+      "inicio": 47.44,
+      "fin": 47.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 47.96,
+      "fin": 48,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "corte",
+      "inicio": 48.16,
+      "fin": 48.4,
+      "frase": 14,
+      "clave": true
+    },
+    {
+      "texto": "no",
+      "inicio": 48.48,
+      "fin": 48.56,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "avisa.",
+      "inicio": 48.64,
+      "fin": 49.52,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "Un",
+      "inicio": 49.6,
+      "fin": 49.68,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "vasito",
+      "inicio": 49.76,
+      "fin": 50,
+      "frase": 15,
+      "clave": true
+    },
+    {
+      "texto": "estirado",
+      "inicio": 50.08,
+      "fin": 50.48,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "escuece",
+      "inicio": 50.6,
+      "fin": 50.96,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 51.04,
+      "fin": 51.12,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "segundo,",
+      "inicio": 51.2,
+      "fin": 51.84,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 51.88,
+      "fin": 51.92,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 52,
+      "fin": 52.08,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 52.16,
+      "fin": 52.32,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 52.36,
+      "fin": 52.4,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "cerebro.",
+      "inicio": 52.48,
+      "fin": 53.44,
+      "frase": 15,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 53.48,
+      "fin": 53.52,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "dolor",
+      "inicio": 53.56,
+      "fin": 53.76,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 53.84,
+      "fin": 53.92,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 54,
+      "fin": 54.32,
+      "frase": 16,
+      "clave": true
+    },
+    {
+      "texto": "sale",
+      "inicio": 54.48,
+      "fin": 54.72,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 54.8,
+      "fin": 54.84,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 54.88,
+      "fin": 54.96,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "funda.",
+      "inicio": 55.04,
+      "fin": 55.84,
+      "frase": 16,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 55.96,
+      "fin": 56.4,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 56.427,
+      "fin": 56.453,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 56.48,
+      "fin": 56.64,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 56.72,
+      "fin": 56.96,
+      "frase": 17,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 57.04,
+      "fin": 57.12,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "cree",
+      "inicio": 57.2,
+      "fin": 57.36,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 57.44,
+      "fin": 57.52,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 57.56,
+      "fin": 57.6,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "duele",
+      "inicio": 57.68,
+      "fin": 57.84,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 57.92,
+      "fin": 58,
+      "frase": 17,
+      "clave": false
+    },
+    {
+      "texto": "cerebro.",
+      "inicio": 58.04,
+      "fin": 58.72,
+      "frase": 17,
+      "clave": false
+    }
+  ]
+}

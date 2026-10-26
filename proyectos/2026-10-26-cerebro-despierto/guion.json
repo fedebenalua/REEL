@@ -1,0 +1,24 @@
+{
+  "titulo": "El cerebro despierto",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Te abren la cabeza, te tocan el cerebro, y tú sigues hablando.", "clave": "cerebro", "hook": true },
+    { "texto": "Despierto, en una operación de verdad, y no gritas.", "clave": "gritas", "hook": true },
+    { "texto": "En el dedo, un corte te hace saltar.", "clave": "saltar" },
+    { "texto": "La piel va llena de alarmas, y cada una avisa.", "clave": "alarmas" },
+    { "texto": "En el quirófano te despiertan a mitad, a propósito.", "clave": "despiertan" },
+    { "texto": "Te ponen dibujos: dices manzana, dices llave, y mueves la mano.", "clave": "manzana" },
+    { "texto": "Así ven qué parte del cerebro no pueden quitar.", "clave": "quitar" },
+    { "texto": "Si una chispa cae donde hablas, la palabra se queda a medias.", "clave": "medias" },
+    { "texto": "Solo mientras dura la chispa. Luego vuelve, y ahí no cortan.", "clave": "vuelve" },
+    { "texto": "Tú sigues tranquilo, hablando, sin un quejido.", "clave": "tranquilo" },
+    { "texto": "El mismo toque, en el brazo, te haría retirar la mano.", "clave": "brazo" },
+    { "texto": "El tejido del cerebro no tiene alarmas de dolor.", "clave": "tejido" },
+    { "texto": "La piel y la funda sí: eso se duerme.", "clave": "funda" },
+    { "texto": "Por dentro, el corte no avisa.", "clave": "corte" },
+    { "texto": "Un vasito estirado escuece un segundo, y no es el cerebro.", "clave": "vasito" },
+    { "texto": "El dolor de cabeza sale de la funda.", "clave": "cabeza" },
+    { "texto": "Envíaselo a ese amigo que cree que le duele el cerebro.", "clave": "amigo" }
+  ]
+}
