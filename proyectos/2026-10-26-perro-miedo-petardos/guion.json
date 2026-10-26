@@ -1,0 +1,21 @@
+{
+  "titulo": "Por qué tu perro tiene miedo a los petardos",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu perro tiene miedo a los petardos?", "clave": "petardos", "hook": true },
+    { "texto": "Casi la mitad da alguna señal.", "clave": "señal", "hook": true },
+    { "texto": "Y solo uno de cada cuatro lo llama miedo.", "clave": "cuatro", "hook": true },
+    { "texto": "No es miedo a todo.", "clave": "todo" },
+    { "texto": "El petardo, el trueno y el disparo van juntos.", "clave": "juntos" },
+    { "texto": "En los que lo tienen, casi la mitad empieza antes de cumplir el año.", "clave": "año" },
+    { "texto": "A la mañana siguiente, tres de cada cuatro ya está bien.", "clave": "bien" },
+    { "texto": "A unos pocos les dura semanas.", "clave": "semanas" },
+    { "texto": "Si nadie pide ayuda, a la mitad se le queda igual.", "clave": "igual" },
+    { "texto": "Tres de cada diez mejoran.", "clave": "mejoran" },
+    { "texto": "Y uno de cada cinco empeora.", "clave": "empeora" },
+    { "texto": "Si el ruido llega con algo bueno antes del miedo, baja mucho.", "clave": "bueno" },
+    { "texto": "Empezar cuando ya lo tiene no se notaba igual.", "clave": "notaba" },
+    { "texto": "Envíaselo a ese amigo al que su perro se mete debajo del sofá en cuanto oye un petardo.", "clave": "sofá" }
+  ]
+}
