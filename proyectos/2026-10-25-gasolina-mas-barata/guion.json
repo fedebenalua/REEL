@@ -1,0 +1,16 @@
+{
+  "titulo": "Gasolina más barata",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo puedes conseguir gasolina más barata?", "clave": "barata", "hook": true },
+    { "texto": "En tu misma ciudad, una gasolinera puede cobrarte veinte céntimos más por litro que otra.", "clave": "veinte", "hook": true },
+    { "texto": "En un depósito de cincuenta litros, son diez euros cada vez que llenas.", "clave": "diez" },
+    { "texto": "Primero: el Gobierno tiene un mapa gratis con el precio de cada gasolinera de España, y se actualiza cada cinco minutos.", "clave": "mapa" },
+    { "texto": "Segundo: huye de la autopista, que es donde más cara está.", "clave": "autopista" },
+    { "texto": "Tercero: las gasolineras sin empleados, donde pagas tú en la máquina, suelen ser las más baratas.", "clave": "máquina" },
+    { "texto": "Y repostar por la mañana, porque la gasolina está más fría, no sirve: está bajo tierra, a unos quince grados todo el día.", "clave": "quince" },
+    { "texto": "Así que no importa a qué hora la eches: importa dónde.", "clave": "dónde" },
+    { "texto": "Sígueme para más trucos, o envíaselo a ese amigo que siempre llena en la autopista.", "clave": "autopista" }
+  ]
+}

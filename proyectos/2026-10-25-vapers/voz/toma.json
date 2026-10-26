@@ -1,0 +1,794 @@
+{
+  "firma": "2faea596036f",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.44,
+      "fin": 0.48
+    },
+    {
+      "texto": "un",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "váper",
+      "inicio": 0.72,
+      "fin": 1.04
+    },
+    {
+      "texto": "puede",
+      "inicio": 1.08,
+      "fin": 1.28
+    },
+    {
+      "texto": "llevar",
+      "inicio": 1.36,
+      "fin": 1.52
+    },
+    {
+      "texto": "la",
+      "inicio": 1.6,
+      "fin": 1.68
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 1.76,
+      "fin": 2.16
+    },
+    {
+      "texto": "de",
+      "inicio": 2.24,
+      "fin": 2.4
+    },
+    {
+      "texto": "dos",
+      "inicio": 2.48,
+      "fin": 2.64
+    },
+    {
+      "texto": "paquetes",
+      "inicio": 2.72,
+      "fin": 3.12
+    },
+    {
+      "texto": "de",
+      "inicio": 3.16,
+      "fin": 3.2
+    },
+    {
+      "texto": "tabaco?",
+      "inicio": 3.28,
+      "fin": 4.08
+    },
+    {
+      "texto": "Y",
+      "inicio": 4.12,
+      "fin": 4.16
+    },
+    {
+      "texto": "eso",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "que",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "texto": "sale",
+      "inicio": 4.6,
+      "fin": 4.72
+    },
+    {
+      "texto": "no",
+      "inicio": 4.88,
+      "fin": 5.04
+    },
+    {
+      "texto": "es",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "texto": "vapor",
+      "inicio": 5.28,
+      "fin": 5.44
+    },
+    {
+      "texto": "de",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "texto": "agua:",
+      "inicio": 5.68,
+      "fin": 6.24
+    },
+    {
+      "texto": "es",
+      "inicio": 6.32,
+      "fin": 6.4
+    },
+    {
+      "texto": "un",
+      "inicio": 6.44,
+      "fin": 6.48
+    },
+    {
+      "texto": "líquido",
+      "inicio": 6.56,
+      "fin": 6.88
+    },
+    {
+      "texto": "frito",
+      "inicio": 6.96,
+      "fin": 7.28
+    },
+    {
+      "texto": "en",
+      "inicio": 7.36,
+      "fin": 7.44
+    },
+    {
+      "texto": "una",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "texto": "resistencia",
+      "inicio": 7.68,
+      "fin": 8.24
+    },
+    {
+      "texto": "de",
+      "inicio": 8.28,
+      "fin": 8.32
+    },
+    {
+      "texto": "metal.",
+      "inicio": 8.4,
+      "fin": 9.2
+    },
+    {
+      "texto": "Al",
+      "inicio": 9.24,
+      "fin": 9.28
+    },
+    {
+      "texto": "calentarse,",
+      "inicio": 9.36,
+      "fin": 10.08
+    },
+    {
+      "texto": "esa",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "texto": "resistencia",
+      "inicio": 10.4,
+      "fin": 10.96
+    },
+    {
+      "texto": "suelta",
+      "inicio": 11,
+      "fin": 11.36
+    },
+    {
+      "texto": "níquel,",
+      "inicio": 11.44,
+      "fin": 12.08
+    },
+    {
+      "texto": "cromo",
+      "inicio": 12.12,
+      "fin": 12.48
+    },
+    {
+      "texto": "y",
+      "inicio": 12.56,
+      "fin": 12.64
+    },
+    {
+      "texto": "plomo,",
+      "inicio": 12.72,
+      "fin": 13.28
+    },
+    {
+      "texto": "y",
+      "inicio": 13.32,
+      "fin": 13.36
+    },
+    {
+      "texto": "te",
+      "inicio": 13.4,
+      "fin": 13.44
+    },
+    {
+      "texto": "los",
+      "inicio": 13.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "tragas",
+      "inicio": 13.8,
+      "fin": 14
+    },
+    {
+      "texto": "en",
+      "inicio": 14.08,
+      "fin": 14.24
+    },
+    {
+      "texto": "cada",
+      "inicio": 14.32,
+      "fin": 14.48
+    },
+    {
+      "texto": "calada.",
+      "inicio": 14.56,
+      "fin": 15.44
+    },
+    {
+      "texto": "También",
+      "inicio": 15.52,
+      "fin": 15.76
+    },
+    {
+      "texto": "sale",
+      "inicio": 15.88,
+      "fin": 16
+    },
+    {
+      "texto": "formaldehído:",
+      "inicio": 16.12,
+      "fin": 17.04
+    },
+    {
+      "texto": "lo",
+      "inicio": 17.08,
+      "fin": 17.12
+    },
+    {
+      "texto": "mismo",
+      "inicio": 17.2,
+      "fin": 17.44
+    },
+    {
+      "texto": "que",
+      "inicio": 17.48,
+      "fin": 17.52
+    },
+    {
+      "texto": "se",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "texto": "usa",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "texto": "para",
+      "inicio": 18,
+      "fin": 18.08
+    },
+    {
+      "texto": "conservar",
+      "inicio": 18.16,
+      "fin": 18.56
+    },
+    {
+      "texto": "cadáveres.",
+      "inicio": 18.64,
+      "fin": 19.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.72,
+      "fin": 19.76
+    },
+    {
+      "texto": "la",
+      "inicio": 19.8,
+      "fin": 19.84
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 19.92,
+      "fin": 20.32
+    },
+    {
+      "texto": "llega",
+      "inicio": 20.4,
+      "fin": 20.587
+    },
+    {
+      "texto": "a",
+      "inicio": 20.613,
+      "fin": 20.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 20.72,
+      "fin": 20.8
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 20.84,
+      "fin": 21.2
+    },
+    {
+      "texto": "en",
+      "inicio": 21.28,
+      "fin": 21.36
+    },
+    {
+      "texto": "segundos,",
+      "inicio": 21.44,
+      "fin": 22.24
+    },
+    {
+      "texto": "por",
+      "inicio": 22.32,
+      "fin": 22.4
+    },
+    {
+      "texto": "eso",
+      "inicio": 22.52,
+      "fin": 22.64
+    },
+    {
+      "texto": "cada",
+      "inicio": 22.8,
+      "fin": 23.04
+    },
+    {
+      "texto": "calada",
+      "inicio": 23.12,
+      "fin": 23.44
+    },
+    {
+      "texto": "te",
+      "inicio": 23.52,
+      "fin": 23.6
+    },
+    {
+      "texto": "pide",
+      "inicio": 23.68,
+      "fin": 23.84
+    },
+    {
+      "texto": "la",
+      "inicio": 23.88,
+      "fin": 23.92
+    },
+    {
+      "texto": "siguiente.",
+      "inicio": 24,
+      "fin": 25.04
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.08,
+      "fin": 25.12
+    },
+    {
+      "texto": "tienes",
+      "inicio": 25.2,
+      "fin": 25.44
+    },
+    {
+      "texto": "menos",
+      "inicio": 25.52,
+      "fin": 25.68
+    },
+    {
+      "texto": "de",
+      "inicio": 25.72,
+      "fin": 25.76
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 25.8,
+      "fin": 26.56
+    },
+    {
+      "texto": "tu",
+      "inicio": 26.6,
+      "fin": 26.64
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 26.72,
+      "fin": 27.04
+    },
+    {
+      "texto": "aún",
+      "inicio": 27.12,
+      "fin": 27.28
+    },
+    {
+      "texto": "se",
+      "inicio": 27.36,
+      "fin": 27.44
+    },
+    {
+      "texto": "está",
+      "inicio": 27.52,
+      "fin": 27.64
+    },
+    {
+      "texto": "montando,",
+      "inicio": 27.68,
+      "fin": 28.48
+    },
+    {
+      "texto": "y",
+      "inicio": 28.52,
+      "fin": 28.56
+    },
+    {
+      "texto": "la",
+      "inicio": 28.6,
+      "fin": 28.64
+    },
+    {
+      "texto": "nicotina",
+      "inicio": 28.72,
+      "fin": 29.12
+    },
+    {
+      "texto": "cambia",
+      "inicio": 29.28,
+      "fin": 29.6
+    },
+    {
+      "texto": "cómo",
+      "inicio": 29.68,
+      "fin": 29.92
+    },
+    {
+      "texto": "se",
+      "inicio": 30,
+      "fin": 30.08
+    },
+    {
+      "texto": "conecta:",
+      "inicio": 30.12,
+      "fin": 30.8
+    },
+    {
+      "texto": "la",
+      "inicio": 30.88,
+      "fin": 30.92
+    },
+    {
+      "texto": "atención,",
+      "inicio": 30.96,
+      "fin": 31.76
+    },
+    {
+      "texto": "el",
+      "inicio": 31.8,
+      "fin": 31.84
+    },
+    {
+      "texto": "humor,",
+      "inicio": 31.92,
+      "fin": 32.48
+    },
+    {
+      "texto": "los",
+      "inicio": 32.56,
+      "fin": 32.64
+    },
+    {
+      "texto": "impulsos.",
+      "inicio": 32.72,
+      "fin": 33.64
+    },
+    {
+      "texto": "En",
+      "inicio": 33.92,
+      "fin": 34
+    },
+    {
+      "texto": "España,",
+      "inicio": 34.08,
+      "fin": 34.56
+    },
+    {
+      "texto": "la",
+      "inicio": 34.64,
+      "fin": 34.72
+    },
+    {
+      "texto": "mitad",
+      "inicio": 34.8,
+      "fin": 35.04
+    },
+    {
+      "texto": "de",
+      "inicio": 35.12,
+      "fin": 35.16
+    },
+    {
+      "texto": "los",
+      "inicio": 35.2,
+      "fin": 35.28
+    },
+    {
+      "texto": "chavales",
+      "inicio": 35.36,
+      "fin": 35.68
+    },
+    {
+      "texto": "de",
+      "inicio": 35.76,
+      "fin": 35.8
+    },
+    {
+      "texto": "catorce",
+      "inicio": 35.84,
+      "fin": 36.2
+    },
+    {
+      "texto": "a",
+      "inicio": 36.24,
+      "fin": 36.32
+    },
+    {
+      "texto": "dieciocho",
+      "inicio": 36.4,
+      "fin": 36.88
+    },
+    {
+      "texto": "ya",
+      "inicio": 37.04,
+      "fin": 37.12
+    },
+    {
+      "texto": "lo",
+      "inicio": 37.16,
+      "fin": 37.2
+    },
+    {
+      "texto": "ha",
+      "inicio": 37.28,
+      "fin": 37.32
+    },
+    {
+      "texto": "probado.",
+      "inicio": 37.36,
+      "fin": 38.24
+    },
+    {
+      "texto": "Y",
+      "inicio": 38.267,
+      "fin": 38.293
+    },
+    {
+      "texto": "quien",
+      "inicio": 38.32,
+      "fin": 38.48
+    },
+    {
+      "texto": "vapea",
+      "inicio": 38.587,
+      "fin": 38.88
+    },
+    {
+      "texto": "tiene",
+      "inicio": 38.96,
+      "fin": 39.2
+    },
+    {
+      "texto": "casi",
+      "inicio": 39.28,
+      "fin": 39.44
+    },
+    {
+      "texto": "el",
+      "inicio": 39.52,
+      "fin": 39.68
+    },
+    {
+      "texto": "triple",
+      "inicio": 39.72,
+      "fin": 40
+    },
+    {
+      "texto": "de",
+      "inicio": 40.08,
+      "fin": 40.16
+    },
+    {
+      "texto": "probabilidades",
+      "inicio": 40.24,
+      "fin": 40.88
+    },
+    {
+      "texto": "de",
+      "inicio": 40.92,
+      "fin": 40.96
+    },
+    {
+      "texto": "acabar",
+      "inicio": 41.04,
+      "fin": 41.28
+    },
+    {
+      "texto": "fumando",
+      "inicio": 41.36,
+      "fin": 41.68
+    },
+    {
+      "texto": "tabaco.",
+      "inicio": 41.76,
+      "fin": 42.64
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.72,
+      "fin": 42.88
+    },
+    {
+      "texto": "que",
+      "inicio": 42.96,
+      "fin": 43.04
+    },
+    {
+      "texto": "no",
+      "inicio": 43.2,
+      "fin": 43.36
+    },
+    {
+      "texto": "es",
+      "inicio": 43.44,
+      "fin": 43.6
+    },
+    {
+      "texto": "humo",
+      "inicio": 43.68,
+      "fin": 43.8
+    },
+    {
+      "texto": "de",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "texto": "sabores:",
+      "inicio": 43.96,
+      "fin": 44.72
+    },
+    {
+      "texto": "son",
+      "inicio": 44.84,
+      "fin": 44.96
+    },
+    {
+      "texto": "dos",
+      "inicio": 45.04,
+      "fin": 45.2
+    },
+    {
+      "texto": "paquetes",
+      "inicio": 45.28,
+      "fin": 45.68
+    },
+    {
+      "texto": "de",
+      "inicio": 45.72,
+      "fin": 45.76
+    },
+    {
+      "texto": "tabaco",
+      "inicio": 45.84,
+      "fin": 46.16
+    },
+    {
+      "texto": "con",
+      "inicio": 46.24,
+      "fin": 46.4
+    },
+    {
+      "texto": "metal",
+      "inicio": 46.56,
+      "fin": 46.72
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 46.8,
+      "fin": 47.68
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 47.72,
+      "fin": 48
+    },
+    {
+      "texto": "para",
+      "inicio": 48.08,
+      "fin": 48.24
+    },
+    {
+      "texto": "más,",
+      "inicio": 48.28,
+      "fin": 48.64
+    },
+    {
+      "texto": "o",
+      "inicio": 48.68,
+      "fin": 48.72
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 48.8,
+      "fin": 49.28
+    },
+    {
+      "texto": "a",
+      "inicio": 49.32,
+      "fin": 49.36
+    },
+    {
+      "texto": "ese",
+      "inicio": 49.44,
+      "fin": 49.52
+    },
+    {
+      "texto": "amigo",
+      "inicio": 49.6,
+      "fin": 49.84
+    },
+    {
+      "texto": "que",
+      "inicio": 49.92,
+      "fin": 50
+    },
+    {
+      "texto": "dice",
+      "inicio": 50.12,
+      "fin": 50.24
+    },
+    {
+      "texto": "que",
+      "inicio": 50.32,
+      "fin": 50.4
+    },
+    {
+      "texto": "solo",
+      "inicio": 50.56,
+      "fin": 50.8
+    },
+    {
+      "texto": "es",
+      "inicio": 50.88,
+      "fin": 50.96
+    },
+    {
+      "texto": "vapor.",
+      "inicio": 51,
+      "fin": 51.6
+    }
+  ]
+}
