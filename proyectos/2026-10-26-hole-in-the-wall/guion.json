@@ -1,0 +1,17 @@
+{
+  "titulo": "How to fix a hole in the wall",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "How do you fix a hole in the wall?", "clave": "hole", "hook": true },
+    { "texto": "That doorknob punched the drywall, and the filler falls straight through.", "clave": "through", "hook": true },
+    { "texto": "Peel a metal patch and press it on, past the torn edge.", "clave": "patch" },
+    { "texto": "Spread three thin coats of joint compound, and let each one dry.", "clave": "coats" },
+    { "texto": "A thick blob shrinks into a hump. The last coat goes on wide.", "clave": "wide" },
+    { "texto": "Sand it lightly, prime it, and paint the same color.", "clave": "prime" },
+    { "texto": "Skip the primer, and the patch shows through the paint.", "clave": "shows" },
+    { "texto": "A doorstop on the baseboard keeps the knob off the wall.", "clave": "doorstop" },
+    { "texto": "Bigger than six inches, or a wire in the hole? Don't saw. Call a pro.", "clave": "pro" },
+    { "texto": "Send this to that friend whose doorknob went through the wall.", "clave": "friend" }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "firma": "c7a6a2021afa",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "How",
+      "inicio": 0,
+      "fin": 0.24
+    },
+    {
+      "texto": "do",
+      "inicio": 0.28,
+      "fin": 0.32
+    },
+    {
+      "texto": "you",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "texto": "fix",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "a",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "texto": "hole",
+      "inicio": 0.88,
+      "fin": 1.12
+    },
+    {
+      "texto": "in",
+      "inicio": 1.16,
+      "fin": 1.2
+    },
+    {
+      "texto": "the",
+      "inicio": 1.24,
+      "fin": 1.28
+    },
+    {
+      "texto": "wall?",
+      "inicio": 1.36,
+      "fin": 2.08
+    },
+    {
+      "texto": "That",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "doorknob",
+      "inicio": 2.4,
+      "fin": 2.88
+    },
+    {
+      "texto": "punched",
+      "inicio": 2.92,
+      "fin": 3.2
+    },
+    {
+      "texto": "the",
+      "inicio": 3.28,
+      "fin": 3.36
+    },
+    {
+      "texto": "drywall,",
+      "inicio": 3.52,
+      "fin": 3.96
+    },
+    {
+      "texto": "and",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "the",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "filler",
+      "inicio": 4.32,
+      "fin": 4.56
+    },
+    {
+      "texto": "falls",
+      "inicio": 4.64,
+      "fin": 4.88
+    },
+    {
+      "texto": "straight",
+      "inicio": 5.04,
+      "fin": 5.2
+    },
+    {
+      "texto": "through.",
+      "inicio": 5.36,
+      "fin": 5.92
+    },
+    {
+      "texto": "Peel",
+      "inicio": 5.96,
+      "fin": 6.16
+    },
+    {
+      "texto": "a",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "texto": "metal",
+      "inicio": 6.32,
+      "fin": 6.56
+    },
+    {
+      "texto": "patch",
+      "inicio": 6.72,
+      "fin": 6.88
+    },
+    {
+      "texto": "and",
+      "inicio": 6.96,
+      "fin": 7.04
+    },
+    {
+      "texto": "press",
+      "inicio": 7.16,
+      "fin": 7.28
+    },
+    {
+      "texto": "it",
+      "inicio": 7.32,
+      "fin": 7.36
+    },
+    {
+      "texto": "on,",
+      "inicio": 7.44,
+      "fin": 7.92
+    },
+    {
+      "texto": "past",
+      "inicio": 8,
+      "fin": 8.08
+    },
+    {
+      "texto": "the",
+      "inicio": 8.16,
+      "fin": 8.24
+    },
+    {
+      "texto": "torn",
+      "inicio": 8.28,
+      "fin": 8.48
+    },
+    {
+      "texto": "edge.",
+      "inicio": 8.56,
+      "fin": 9.333
+    },
+    {
+      "texto": "Spread",
+      "inicio": 9.467,
+      "fin": 9.6
+    },
+    {
+      "texto": "three",
+      "inicio": 9.68,
+      "fin": 10
+    },
+    {
+      "texto": "thin",
+      "inicio": 10.12,
+      "fin": 10.24
+    },
+    {
+      "texto": "coats",
+      "inicio": 10.32,
+      "fin": 10.48
+    },
+    {
+      "texto": "of",
+      "inicio": 10.56,
+      "fin": 10.64
+    },
+    {
+      "texto": "joint",
+      "inicio": 10.72,
+      "fin": 10.96
+    },
+    {
+      "texto": "compound,",
+      "inicio": 11.24,
+      "fin": 11.56
+    },
+    {
+      "texto": "and",
+      "inicio": 11.6,
+      "fin": 11.68
+    },
+    {
+      "texto": "let",
+      "inicio": 11.8,
+      "fin": 11.92
+    },
+    {
+      "texto": "each",
+      "inicio": 12.04,
+      "fin": 12.16
+    },
+    {
+      "texto": "one",
+      "inicio": 12.24,
+      "fin": 12.32
+    },
+    {
+      "texto": "dry.",
+      "inicio": 12.4,
+      "fin": 13.12
+    },
+    {
+      "texto": "A",
+      "inicio": 13.2,
+      "fin": 13.28
+    },
+    {
+      "texto": "thick",
+      "inicio": 13.32,
+      "fin": 13.52
+    },
+    {
+      "texto": "blob",
+      "inicio": 13.6,
+      "fin": 14
+    },
+    {
+      "texto": "shrinks",
+      "inicio": 14.08,
+      "fin": 14.4
+    },
+    {
+      "texto": "into",
+      "inicio": 14.52,
+      "fin": 14.64
+    },
+    {
+      "texto": "a",
+      "inicio": 14.8,
+      "fin": 14.827
+    },
+    {
+      "texto": "hump.",
+      "inicio": 14.853,
+      "fin": 15.387
+    },
+    {
+      "texto": "The",
+      "inicio": 15.413,
+      "fin": 15.44
+    },
+    {
+      "texto": "last",
+      "inicio": 15.6,
+      "fin": 15.76
+    },
+    {
+      "texto": "coat",
+      "inicio": 15.88,
+      "fin": 16
+    },
+    {
+      "texto": "goes",
+      "inicio": 16.08,
+      "fin": 16.24
+    },
+    {
+      "texto": "on",
+      "inicio": 16.32,
+      "fin": 16.48
+    },
+    {
+      "texto": "wide.",
+      "inicio": 16.84,
+      "fin": 17.28
+    },
+    {
+      "texto": "Sand",
+      "inicio": 17.4,
+      "fin": 17.52
+    },
+    {
+      "texto": "it",
+      "inicio": 17.56,
+      "fin": 17.6
+    },
+    {
+      "texto": "lightly,",
+      "inicio": 17.68,
+      "fin": 18.32
+    },
+    {
+      "texto": "prime",
+      "inicio": 18.4,
+      "fin": 18.48
+    },
+    {
+      "texto": "it,",
+      "inicio": 18.56,
+      "fin": 18.853
+    },
+    {
+      "texto": "and",
+      "inicio": 18.907,
+      "fin": 18.96
+    },
+    {
+      "texto": "paint",
+      "inicio": 19.04,
+      "fin": 19.12
+    },
+    {
+      "texto": "the",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "texto": "same",
+      "inicio": 19.36,
+      "fin": 19.6
+    },
+    {
+      "texto": "color.",
+      "inicio": 19.92,
+      "fin": 20.32
+    },
+    {
+      "texto": "Skip",
+      "inicio": 20.44,
+      "fin": 20.56
+    },
+    {
+      "texto": "the",
+      "inicio": 20.64,
+      "fin": 20.72
+    },
+    {
+      "texto": "primer,",
+      "inicio": 20.96,
+      "fin": 21.227
+    },
+    {
+      "texto": "and",
+      "inicio": 21.253,
+      "fin": 21.28
+    },
+    {
+      "texto": "the",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "texto": "patch",
+      "inicio": 21.6,
+      "fin": 21.76
+    },
+    {
+      "texto": "shows",
+      "inicio": 21.88,
+      "fin": 22
+    },
+    {
+      "texto": "through",
+      "inicio": 22.08,
+      "fin": 22.16
+    },
+    {
+      "texto": "the",
+      "inicio": 22.2,
+      "fin": 22.24
+    },
+    {
+      "texto": "paint.",
+      "inicio": 22.32,
+      "fin": 23.013
+    },
+    {
+      "texto": "A",
+      "inicio": 23.067,
+      "fin": 23.12
+    },
+    {
+      "texto": "doorstop",
+      "inicio": 23.24,
+      "fin": 23.6
+    },
+    {
+      "texto": "on",
+      "inicio": 23.68,
+      "fin": 23.76
+    },
+    {
+      "texto": "the",
+      "inicio": 23.8,
+      "fin": 23.84
+    },
+    {
+      "texto": "baseboard",
+      "inicio": 23.92,
+      "fin": 24.4
+    },
+    {
+      "texto": "keeps",
+      "inicio": 24.48,
+      "fin": 24.64
+    },
+    {
+      "texto": "the",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "texto": "knob",
+      "inicio": 24.88,
+      "fin": 25.04
+    },
+    {
+      "texto": "off",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "the",
+      "inicio": 25.32,
+      "fin": 25.36
+    },
+    {
+      "texto": "wall.",
+      "inicio": 25.44,
+      "fin": 26.12
+    },
+    {
+      "texto": "Bigger",
+      "inicio": 26.16,
+      "fin": 26.32
+    },
+    {
+      "texto": "than",
+      "inicio": 26.4,
+      "fin": 26.56
+    },
+    {
+      "texto": "six",
+      "inicio": 26.64,
+      "fin": 26.72
+    },
+    {
+      "texto": "inches,",
+      "inicio": 26.8,
+      "fin": 27.32
+    },
+    {
+      "texto": "or",
+      "inicio": 27.36,
+      "fin": 27.6
+    },
+    {
+      "texto": "a",
+      "inicio": 27.68,
+      "fin": 27.76
+    },
+    {
+      "texto": "wire",
+      "inicio": 27.92,
+      "fin": 28.08
+    },
+    {
+      "texto": "in",
+      "inicio": 28.12,
+      "fin": 28.16
+    },
+    {
+      "texto": "the",
+      "inicio": 28.2,
+      "fin": 28.24
+    },
+    {
+      "texto": "hole?",
+      "inicio": 28.32,
+      "fin": 28.92
+    },
+    {
+      "texto": "Don't",
+      "inicio": 28.96,
+      "fin": 29.2
+    },
+    {
+      "texto": "saw.",
+      "inicio": 29.24,
+      "fin": 29.813
+    },
+    {
+      "texto": "Call",
+      "inicio": 29.867,
+      "fin": 29.92
+    },
+    {
+      "texto": "a",
+      "inicio": 29.96,
+      "fin": 30
+    },
+    {
+      "texto": "pro.",
+      "inicio": 30.08,
+      "fin": 30.88
+    },
+    {
+      "texto": "Send",
+      "inicio": 30.96,
+      "fin": 31.04
+    },
+    {
+      "texto": "this",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "texto": "to",
+      "inicio": 31.24,
+      "fin": 31.28
+    },
+    {
+      "texto": "that",
+      "inicio": 31.36,
+      "fin": 31.52
+    },
+    {
+      "texto": "friend",
+      "inicio": 31.64,
+      "fin": 31.76
+    },
+    {
+      "texto": "whose",
+      "inicio": 31.84,
+      "fin": 32.08
+    },
+    {
+      "texto": "doorknob",
+      "inicio": 32.12,
+      "fin": 32.48
+    },
+    {
+      "texto": "went",
+      "inicio": 32.56,
+      "fin": 32.72
+    },
+    {
+      "texto": "through",
+      "inicio": 32.76,
+      "fin": 32.8
+    },
+    {
+      "texto": "the",
+      "inicio": 32.88,
+      "fin": 32.96
+    },
+    {
+      "texto": "wall.",
+      "inicio": 33.12,
+      "fin": 33.44
+    }
+  ]
+}
