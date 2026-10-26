@@ -46,27 +46,27 @@ cada 6 horas.
 7. How to Fix a Squeaky Door in 30 Seconds, 2026-10-25
 8. Outlet Not Working? Check This First, 2026-10-25
 9. How to Fix a Clogged Toilet With No Plunger, 2026-10-25
+10. Why Is There a Wet Spot on My Ceiling?, 2026-10-26
 
 ## Ideas pendientes
 
-1. Why Is There a Wet Spot on My Ceiling?
-2. How to Fix a Hole in the Wall
-3. Why Does My Fridge Leak Water on the Floor?
-4. How to Stop a Window From Fogging Up Inside
-5. Dishwasher Smells Bad? Fix It Fast
-6. How to Fix a Running Toilet Flapper
-7. Why Does My Circuit Breaker Keep Tripping?
-8. How to Remove Hard Water Stains From Glass
-9. How to Fix a Sagging Cabinet Door
-10. Why Is My AC Blowing Warm Air?
-11. How to Fix a Stripped Screw Hole
-12. Why Do My Pipes Freeze, and How Do I Thaw Them?
-13. How to Remove Water Rings From Wood
-14. Why Does My House Smell Like Sewage?
-15. How to Fix a Loose Toilet Seat
-16. How to Get Rid of Fruit Flies in the Kitchen
-17. Why Is My Garbage Disposal Humming and Not Spinning?
-18. How to Unclog a Kitchen Sink in 3 Steps
-19. Why Does My Washing Machine Shake So Much?
-20. How to Fix a Wobbly Chair
-21. How to Remove Carpet Stains in Minutes
+1. How to Fix a Hole in the Wall
+2. Why Does My Fridge Leak Water on the Floor?
+3. How to Stop a Window From Fogging Up Inside
+4. Dishwasher Smells Bad? Fix It Fast
+5. How to Fix a Running Toilet Flapper
+6. Why Does My Circuit Breaker Keep Tripping?
+7. How to Remove Hard Water Stains From Glass
+8. How to Fix a Sagging Cabinet Door
+9. Why Is My AC Blowing Warm Air?
+10. How to Fix a Stripped Screw Hole
+11. Why Do My Pipes Freeze, and How Do I Thaw Them?
+12. How to Remove Water Rings From Wood
+13. Why Does My House Smell Like Sewage?
+14. How to Fix a Loose Toilet Seat
+15. How to Get Rid of Fruit Flies in the Kitchen
+16. Why Is My Garbage Disposal Humming and Not Spinning?
+17. How to Unclog a Kitchen Sink in 3 Steps
+18. Why Does My Washing Machine Shake So Much?
+19. How to Fix a Wobbly Chair
+20. How to Remove Carpet Stains in Minutes

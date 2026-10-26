@@ -1,0 +1,16 @@
+{
+  "titulo": "Why is there a wet spot on my ceiling?",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why is there a wet spot on my ceiling?", "clave": "ceiling", "hook": true },
+    { "texto": "That ring is where the water fell. It ran along the wood first.", "clave": "wood", "hook": true },
+    { "texto": "On a dry day, with the air conditioner on, slime has clogged its drain, and the pan is spilling.", "clave": "slime" },
+    { "texto": "Stay out from under a bulge. Water on a light? Don't touch the switch.", "clave": "bulge" },
+    { "texto": "Turn the air conditioner off. That stops new water.", "clave": "off" },
+    { "texto": "Outside, seal a shop vac on the little white pipe and pull the slime out.", "clave": "pull" },
+    { "texto": "Don't push it in with a hose. Later, half a cup of white vinegar down the line. Never with bleach.", "clave": "vinegar" },
+    { "texto": "Wet after rain, under a bathroom, or still sagging? Stay off the roof and call a pro.", "clave": "roof" },
+    { "texto": "Want the full step-by-step for any problem at home? Our tool is in the link in bio.", "clave": "bio" }
+  ]
+}

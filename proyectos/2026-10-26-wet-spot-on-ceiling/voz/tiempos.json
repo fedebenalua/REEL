@@ -1,0 +1,1002 @@
+{
+  "firma": "17bb8aaf4db4",
+  "duracion": 42.4,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Why is there a wet spot on my ceiling?",
+      "clave": "ceiling",
+      "inicio": 0,
+      "fin": 2.4
+    },
+    {
+      "n": 2,
+      "texto": "That ring is where the water fell. It ran along the wood first.",
+      "clave": "wood",
+      "inicio": 2.48,
+      "fin": 6.4
+    },
+    {
+      "n": 3,
+      "texto": "On a dry day, with the air conditioner on, slime has clogged its drain, and the pan is spilling.",
+      "clave": "slime",
+      "inicio": 6.48,
+      "fin": 12.24
+    },
+    {
+      "n": 4,
+      "texto": "Stay out from under a bulge. Water on a light? Don't touch the switch.",
+      "clave": "bulge",
+      "inicio": 12.36,
+      "fin": 16.76
+    },
+    {
+      "n": 5,
+      "texto": "Turn the air conditioner off. That stops new water.",
+      "clave": "off",
+      "inicio": 16.96,
+      "fin": 20.24
+    },
+    {
+      "n": 6,
+      "texto": "Outside, seal a shop vac on the little white pipe and pull the slime out.",
+      "clave": "pull",
+      "inicio": 20.52,
+      "fin": 24.8
+    },
+    {
+      "n": 7,
+      "texto": "Don't push it in with a hose. Later, half a cup of white vinegar down the line. Never with bleach.",
+      "clave": "vinegar",
+      "inicio": 24.84,
+      "fin": 31.12
+    },
+    {
+      "n": 8,
+      "texto": "Wet after rain, under a bathroom, or still sagging? Stay off the roof and call a pro.",
+      "clave": "roof",
+      "inicio": 31.2,
+      "fin": 36.8
+    },
+    {
+      "n": 9,
+      "texto": "Want the full step-by-step for any problem at home? Our tool is in the link in bio.",
+      "clave": "bio",
+      "inicio": 36.88,
+      "fin": 41.6
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Why",
+      "inicio": 0,
+      "fin": 0.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 0.24,
+      "fin": 0.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "there",
+      "inicio": 0.4,
+      "fin": 0.544,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 0.56,
+      "fin": 0.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "wet",
+      "inicio": 0.64,
+      "fin": 0.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "spot",
+      "inicio": 0.88,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 1.24,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "my",
+      "inicio": 1.36,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ceiling?",
+      "inicio": 1.6,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "That",
+      "inicio": 2.48,
+      "fin": 2.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ring",
+      "inicio": 2.72,
+      "fin": 2.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 3.04,
+      "fin": 3.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "where",
+      "inicio": 3.2,
+      "fin": 3.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 3.32,
+      "fin": 3.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "water",
+      "inicio": 3.44,
+      "fin": 3.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fell.",
+      "inicio": 3.76,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "It",
+      "inicio": 4.48,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ran",
+      "inicio": 4.64,
+      "fin": 4.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "along",
+      "inicio": 4.8,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 5.04,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "wood",
+      "inicio": 5.2,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "first.",
+      "inicio": 5.52,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "On",
+      "inicio": 6.48,
+      "fin": 6.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 6.6,
+      "fin": 6.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dry",
+      "inicio": 6.72,
+      "fin": 6.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "day,",
+      "inicio": 7.04,
+      "fin": 7.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "with",
+      "inicio": 7.52,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 7.64,
+      "fin": 7.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "air",
+      "inicio": 7.76,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "conditioner",
+      "inicio": 7.92,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "on,",
+      "inicio": 8.52,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "slime",
+      "inicio": 8.96,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "has",
+      "inicio": 9.44,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "clogged",
+      "inicio": 9.6,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "its",
+      "inicio": 10,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "drain,",
+      "inicio": 10.16,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 10.68,
+      "fin": 10.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 10.8,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pan",
+      "inicio": 11,
+      "fin": 11.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 11.2,
+      "fin": 11.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "spilling.",
+      "inicio": 11.36,
+      "fin": 12.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Stay",
+      "inicio": 12.36,
+      "fin": 12.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "out",
+      "inicio": 12.56,
+      "fin": 12.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "from",
+      "inicio": 12.8,
+      "fin": 12.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "under",
+      "inicio": 13,
+      "fin": 13.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 13.16,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "bulge.",
+      "inicio": 13.28,
+      "fin": 14.16,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Water",
+      "inicio": 14.24,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 14.52,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 14.64,
+      "fin": 14.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "light?",
+      "inicio": 14.72,
+      "fin": 15.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Don't",
+      "inicio": 15.44,
+      "fin": 15.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "touch",
+      "inicio": 15.8,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 15.96,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "switch.",
+      "inicio": 16.08,
+      "fin": 16.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Turn",
+      "inicio": 16.96,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 17.2,
+      "fin": 17.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "air",
+      "inicio": 17.36,
+      "fin": 17.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "conditioner",
+      "inicio": 17.52,
+      "fin": 18,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "off.",
+      "inicio": 18.08,
+      "fin": 18.64,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "That",
+      "inicio": 18.72,
+      "fin": 18.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "stops",
+      "inicio": 18.88,
+      "fin": 19.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "new",
+      "inicio": 19.28,
+      "fin": 19.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "water.",
+      "inicio": 19.44,
+      "fin": 20.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Outside,",
+      "inicio": 20.52,
+      "fin": 21.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "seal",
+      "inicio": 21.28,
+      "fin": 21.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 21.52,
+      "fin": 21.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "shop",
+      "inicio": 21.68,
+      "fin": 21.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "vac",
+      "inicio": 22,
+      "fin": 22.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "on",
+      "inicio": 22.24,
+      "fin": 22.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 22.36,
+      "fin": 22.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "little",
+      "inicio": 22.48,
+      "fin": 22.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "white",
+      "inicio": 22.72,
+      "fin": 22.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pipe",
+      "inicio": 23.12,
+      "fin": 23.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "and",
+      "inicio": 23.4,
+      "fin": 23.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "pull",
+      "inicio": 23.64,
+      "fin": 23.76,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "the",
+      "inicio": 23.84,
+      "fin": 23.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "slime",
+      "inicio": 24,
+      "fin": 24.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "out.",
+      "inicio": 24.32,
+      "fin": 24.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Don't",
+      "inicio": 24.84,
+      "fin": 25.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "push",
+      "inicio": 25.12,
+      "fin": 25.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "it",
+      "inicio": 25.28,
+      "fin": 25.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 25.36,
+      "fin": 25.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "with",
+      "inicio": 25.52,
+      "fin": 25.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.64,
+      "fin": 25.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hose.",
+      "inicio": 25.76,
+      "fin": 26.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Later,",
+      "inicio": 26.84,
+      "fin": 27.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "half",
+      "inicio": 27.48,
+      "fin": 27.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 27.64,
+      "fin": 27.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cup",
+      "inicio": 27.76,
+      "fin": 27.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "of",
+      "inicio": 27.92,
+      "fin": 28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "white",
+      "inicio": 28.08,
+      "fin": 28.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "vinegar",
+      "inicio": 28.32,
+      "fin": 28.64,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "down",
+      "inicio": 28.76,
+      "fin": 28.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 28.92,
+      "fin": 28.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "line.",
+      "inicio": 29.04,
+      "fin": 29.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Never",
+      "inicio": 29.68,
+      "fin": 30,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "with",
+      "inicio": 30.08,
+      "fin": 30.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "bleach.",
+      "inicio": 30.24,
+      "fin": 31.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Wet",
+      "inicio": 31.2,
+      "fin": 31.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "after",
+      "inicio": 31.48,
+      "fin": 31.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "rain,",
+      "inicio": 31.68,
+      "fin": 32.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "under",
+      "inicio": 32.36,
+      "fin": 32.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 32.52,
+      "fin": 32.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "bathroom,",
+      "inicio": 32.6,
+      "fin": 33.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "or",
+      "inicio": 33.2,
+      "fin": 33.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "still",
+      "inicio": 33.44,
+      "fin": 33.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "sagging?",
+      "inicio": 33.76,
+      "fin": 34.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Stay",
+      "inicio": 34.56,
+      "fin": 34.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "off",
+      "inicio": 34.88,
+      "fin": 34.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 35.04,
+      "fin": 35.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "roof",
+      "inicio": 35.2,
+      "fin": 35.44,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "and",
+      "inicio": 35.52,
+      "fin": 35.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "call",
+      "inicio": 35.68,
+      "fin": 35.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 35.92,
+      "fin": 36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pro.",
+      "inicio": 36.16,
+      "fin": 36.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Want",
+      "inicio": 36.88,
+      "fin": 36.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 37.04,
+      "fin": 37.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "full",
+      "inicio": 37.2,
+      "fin": 37.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "step-by-step",
+      "inicio": 37.44,
+      "fin": 38.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "for",
+      "inicio": 38.24,
+      "fin": 38.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "any",
+      "inicio": 38.4,
+      "fin": 38.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "problem",
+      "inicio": 38.64,
+      "fin": 38.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "at",
+      "inicio": 39,
+      "fin": 39.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "home?",
+      "inicio": 39.12,
+      "fin": 39.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Our",
+      "inicio": 39.8,
+      "fin": 39.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tool",
+      "inicio": 40.04,
+      "fin": 40.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "is",
+      "inicio": 40.24,
+      "fin": 40.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 40.4,
+      "fin": 40.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "the",
+      "inicio": 40.48,
+      "fin": 40.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "link",
+      "inicio": 40.56,
+      "fin": 40.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "in",
+      "inicio": 40.88,
+      "fin": 40.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "bio.",
+      "inicio": 41.12,
+      "fin": 41.6,
+      "frase": 9,
+      "clave": true
+    }
+  ]
+}
