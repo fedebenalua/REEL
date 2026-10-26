@@ -1,0 +1,17 @@
+{
+  "titulo": "Cleopatra, la Luna y las pirámides",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué Cleopatra vivió más cerca de la llegada del hombre a la Luna que de la construcción de las pirámides?", "clave": "Luna", "hook": true },
+    { "texto": "Suena a error, pero las cuentas salen.", "clave": "cuentas", "hook": true },
+    { "texto": "La Gran Pirámide se terminó hace unos 4.500 años.", "dicho": "La Gran Pirámide se terminó hace unos cuatro mil quinientos años.", "clave": "4.500" },
+    { "texto": "Cleopatra nació casi 2.500 años después.", "dicho": "Cleopatra nació casi dos mil quinientos años después.", "clave": "2.500" },
+    { "texto": "Y desde que murió hasta que Armstrong pisó la Luna, pasaron unos 2.000.", "dicho": "Y desde que murió hasta que Armstrong pisó la Luna, pasaron unos dos mil.", "clave": "2.000" },
+    { "texto": "Si toda esa historia cupiera en una cinta métrica, Cleopatra estaría en el centímetro 55: pasada la mitad.", "dicho": "Si toda esa historia cupiera en una cinta métrica, Cleopatra estaría en el centímetro cincuenta y cinco: pasada la mitad.", "clave": "55" },
+    { "texto": "¿Y cómo puede ser? Porque Egipto duró muchísimo: cuando ella reinaba, ya llevaba unos 3.000 años de faraones.", "dicho": "¿Y cómo puede ser? Porque Egipto duró muchísimo: cuando ella reinaba, ya llevaba unos tres mil años de faraones.", "clave": "faraones" },
+    { "texto": "Y ella vio la pirámide mejor que tú: aún estaba forrada de piedra blanca pulida, y brillaba al sol.", "clave": "brillaba" },
+    { "texto": "Así que, para Cleopatra, la pirámide era más antigua de lo que hoy es Cleopatra para ti.", "clave": "antigua" },
+    { "texto": "Envíaselo a ese amigo que cree que Cleopatra vio construir las pirámides.", "clave": "construir" }
+  ]
+}

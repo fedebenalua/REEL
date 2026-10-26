@@ -127,3 +127,4 @@ Cuando se acaben los 100, la automatización para: no se inventan temas para est
 (Número, título corto, carpeta de `salida/` y fecha. La lista de lo programado está en `publicados-lacienciadiceque.json`.)
 
 1. El cerebro borra los sueños — `salida/2026-10-26-por-que-el-cerebro-borra-los-suenos` — 2026-10-26
+2. Cleopatra, más cerca de la Luna que de las pirámides — `salida/2026-10-26-cleopatra-luna-piramides` — 2026-10-26

@@ -1,0 +1,1058 @@
+{
+  "firma": "5c4dd49d6b10",
+  "duracion": 51.04,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué Cleopatra vivió más cerca de la llegada del hombre a la Luna que de la construcción de las pirámides?",
+      "clave": "Luna",
+      "inicio": 0,
+      "fin": 5.56
+    },
+    {
+      "n": 2,
+      "texto": "Suena a error, pero las cuentas salen.",
+      "clave": "cuentas",
+      "inicio": 5.84,
+      "fin": 8.72
+    },
+    {
+      "n": 3,
+      "texto": "La Gran Pirámide se terminó hace unos 4.500 años.",
+      "clave": "4.500",
+      "inicio": 8.76,
+      "fin": 12.48
+    },
+    {
+      "n": 4,
+      "texto": "Cleopatra nació casi 2.500 años después.",
+      "clave": "2.500",
+      "inicio": 12.52,
+      "fin": 15.92
+    },
+    {
+      "n": 5,
+      "texto": "Y desde que murió hasta que Armstrong pisó la Luna, pasaron unos 2.000.",
+      "clave": "2.000",
+      "inicio": 15.947,
+      "fin": 20.32
+    },
+    {
+      "n": 6,
+      "texto": "Si toda esa historia cupiera en una cinta métrica, Cleopatra estaría en el centímetro 55: pasada la mitad.",
+      "clave": "55",
+      "inicio": 20.4,
+      "fin": 27.44
+    },
+    {
+      "n": 7,
+      "texto": "¿Y cómo puede ser? Porque Egipto duró muchísimo: cuando ella reinaba, ya llevaba unos 3.000 años de faraones.",
+      "clave": "faraones",
+      "inicio": 27.493,
+      "fin": 34.64
+    },
+    {
+      "n": 8,
+      "texto": "Y ella vio la pirámide mejor que tú: aún estaba forrada de piedra blanca pulida, y brillaba al sol.",
+      "clave": "brillaba",
+      "inicio": 34.68,
+      "fin": 40.72
+    },
+    {
+      "n": 9,
+      "texto": "Así que, para Cleopatra, la pirámide era más antigua de lo que hoy es Cleopatra para ti.",
+      "clave": "antigua",
+      "inicio": 40.8,
+      "fin": 46.24
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que cree que Cleopatra vio construir las pirámides.",
+      "clave": "construir",
+      "inicio": 46.36,
+      "fin": 50.24
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 0.4,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "vivió",
+      "inicio": 1,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 1.36,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cerca",
+      "inicio": 1.6,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.92,
+      "fin": 1.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2,
+      "fin": 2.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "llegada",
+      "inicio": 2.08,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 2.48,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "hombre",
+      "inicio": 2.64,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 2.84,
+      "fin": 2.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.92,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Luna",
+      "inicio": 3.04,
+      "fin": 3.28,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 3.44,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 3.6,
+      "fin": 3.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 3.68,
+      "fin": 3.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "construcción",
+      "inicio": 3.76,
+      "fin": 4.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.44,
+      "fin": 4.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 4.56,
+      "fin": 4.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "pirámides?",
+      "inicio": 4.72,
+      "fin": 5.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Suena",
+      "inicio": 5.84,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 6.24,
+      "fin": 6.373,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "error,",
+      "inicio": 6.507,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 6.96,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 7.28,
+      "fin": 7.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 7.52,
+      "fin": 7.76,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "salen.",
+      "inicio": 7.84,
+      "fin": 8.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 8.76,
+      "fin": 8.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Gran",
+      "inicio": 8.88,
+      "fin": 9.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Pirámide",
+      "inicio": 9.12,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 9.56,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "terminó",
+      "inicio": 9.68,
+      "fin": 10,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 10.04,
+      "fin": 10.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 10.32,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "4.500",
+      "inicio": 10.64,
+      "fin": 11.68,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "años.",
+      "inicio": 11.76,
+      "fin": 12.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 12.52,
+      "fin": 13.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "nació",
+      "inicio": 13.08,
+      "fin": 13.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 13.52,
+      "fin": 13.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "2.500",
+      "inicio": 13.76,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "años",
+      "inicio": 14.72,
+      "fin": 14.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "después.",
+      "inicio": 14.96,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.947,
+      "fin": 15.973,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 16,
+      "fin": 16.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 16.24,
+      "fin": 16.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "murió",
+      "inicio": 16.4,
+      "fin": 16.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 16.8,
+      "fin": 17.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 17.12,
+      "fin": 17.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Armstrong",
+      "inicio": 17.2,
+      "fin": 17.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "pisó",
+      "inicio": 17.72,
+      "fin": 17.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.92,
+      "fin": 17.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Luna,",
+      "inicio": 18,
+      "fin": 18.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "pasaron",
+      "inicio": 18.52,
+      "fin": 18.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 19.08,
+      "fin": 19.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "2.000.",
+      "inicio": 19.28,
+      "fin": 20.32,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.4,
+      "fin": 20.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "toda",
+      "inicio": 20.52,
+      "fin": 20.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 20.72,
+      "fin": 20.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "historia",
+      "inicio": 21,
+      "fin": 21.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cupiera",
+      "inicio": 21.4,
+      "fin": 21.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 21.72,
+      "fin": 21.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 21.84,
+      "fin": 21.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cinta",
+      "inicio": 22,
+      "fin": 22.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "métrica,",
+      "inicio": 22.32,
+      "fin": 22.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 23.013,
+      "fin": 23.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "estaría",
+      "inicio": 23.52,
+      "fin": 23.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 23.88,
+      "fin": 23.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 24,
+      "fin": 24.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "centímetro",
+      "inicio": 24.16,
+      "fin": 24.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "55:",
+      "inicio": 24.8,
+      "fin": 26.16,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "pasada",
+      "inicio": 26.24,
+      "fin": 26.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 26.52,
+      "fin": 26.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mitad.",
+      "inicio": 26.64,
+      "fin": 27.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 27.493,
+      "fin": 27.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cómo",
+      "inicio": 27.64,
+      "fin": 27.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 27.92,
+      "fin": 28.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ser?",
+      "inicio": 28.16,
+      "fin": 28.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Porque",
+      "inicio": 28.96,
+      "fin": 29.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Egipto",
+      "inicio": 29.16,
+      "fin": 29.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "duró",
+      "inicio": 29.6,
+      "fin": 29.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "muchísimo:",
+      "inicio": 29.84,
+      "fin": 30.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 30.84,
+      "fin": 31.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ella",
+      "inicio": 31.12,
+      "fin": 31.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "reinaba,",
+      "inicio": 31.28,
+      "fin": 31.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 31.88,
+      "fin": 31.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "llevaba",
+      "inicio": 32,
+      "fin": 32.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 32.48,
+      "fin": 32.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "3.000",
+      "inicio": 32.72,
+      "fin": 33.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "años",
+      "inicio": 33.2,
+      "fin": 33.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.48,
+      "fin": 33.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "faraones.",
+      "inicio": 33.6,
+      "fin": 34.64,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 34.68,
+      "fin": 34.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ella",
+      "inicio": 34.8,
+      "fin": 34.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "vio",
+      "inicio": 35.04,
+      "fin": 35.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 35.2,
+      "fin": 35.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pirámide",
+      "inicio": 35.36,
+      "fin": 35.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mejor",
+      "inicio": 35.76,
+      "fin": 35.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 36,
+      "fin": 36.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tú:",
+      "inicio": 36.16,
+      "fin": 36.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "aún",
+      "inicio": 36.72,
+      "fin": 36.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "estaba",
+      "inicio": 36.96,
+      "fin": 37.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "forrada",
+      "inicio": 37.36,
+      "fin": 37.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 37.76,
+      "fin": 37.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "piedra",
+      "inicio": 37.88,
+      "fin": 38.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "blanca",
+      "inicio": 38.16,
+      "fin": 38.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pulida,",
+      "inicio": 38.56,
+      "fin": 39.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 39.16,
+      "fin": 39.2,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "brillaba",
+      "inicio": 39.28,
+      "fin": 39.76,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "al",
+      "inicio": 39.84,
+      "fin": 39.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "sol.",
+      "inicio": 40,
+      "fin": 40.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 40.8,
+      "fin": 40.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que,",
+      "inicio": 41.04,
+      "fin": 41.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 41.36,
+      "fin": 41.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra,",
+      "inicio": 41.52,
+      "fin": 42.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 42.28,
+      "fin": 42.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pirámide",
+      "inicio": 42.4,
+      "fin": 42.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "era",
+      "inicio": 43,
+      "fin": 43.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 43.16,
+      "fin": 43.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "antigua",
+      "inicio": 43.36,
+      "fin": 43.84,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 43.88,
+      "fin": 43.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 44,
+      "fin": 44.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 44.08,
+      "fin": 44.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hoy",
+      "inicio": 44.28,
+      "fin": 44.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 44.48,
+      "fin": 44.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 44.64,
+      "fin": 45.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 45.28,
+      "fin": 45.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ti.",
+      "inicio": 45.52,
+      "fin": 46.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.36,
+      "fin": 46.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 46.84,
+      "fin": 46.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 46.96,
+      "fin": 47.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 47.12,
+      "fin": 47.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 47.44,
+      "fin": 47.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cree",
+      "inicio": 47.6,
+      "fin": 47.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 47.84,
+      "fin": 47.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 48,
+      "fin": 48.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "vio",
+      "inicio": 48.6,
+      "fin": 48.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "construir",
+      "inicio": 48.8,
+      "fin": 49.2,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "las",
+      "inicio": 49.28,
+      "fin": 49.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pirámides.",
+      "inicio": 49.44,
+      "fin": 50.24,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

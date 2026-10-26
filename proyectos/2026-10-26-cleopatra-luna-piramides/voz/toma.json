@@ -1,0 +1,754 @@
+{
+  "firma": "5c4dd49d6b10",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 0.4,
+      "fin": 0.96
+    },
+    {
+      "texto": "vivió",
+      "inicio": 1,
+      "fin": 1.28
+    },
+    {
+      "texto": "más",
+      "inicio": 1.36,
+      "fin": 1.52
+    },
+    {
+      "texto": "cerca",
+      "inicio": 1.6,
+      "fin": 1.84
+    },
+    {
+      "texto": "de",
+      "inicio": 1.92,
+      "fin": 1.96
+    },
+    {
+      "texto": "la",
+      "inicio": 2,
+      "fin": 2.04
+    },
+    {
+      "texto": "llegada",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "texto": "del",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "texto": "hombre",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "a",
+      "inicio": 2.84,
+      "fin": 2.88
+    },
+    {
+      "texto": "la",
+      "inicio": 2.92,
+      "fin": 2.96
+    },
+    {
+      "texto": "Luna",
+      "inicio": 3.04,
+      "fin": 3.28
+    },
+    {
+      "texto": "que",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "texto": "de",
+      "inicio": 3.6,
+      "fin": 3.64
+    },
+    {
+      "texto": "la",
+      "inicio": 3.68,
+      "fin": 3.72
+    },
+    {
+      "texto": "construcción",
+      "inicio": 3.76,
+      "fin": 4.4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.44,
+      "fin": 4.48
+    },
+    {
+      "texto": "las",
+      "inicio": 4.56,
+      "fin": 4.64
+    },
+    {
+      "texto": "pirámides?",
+      "inicio": 4.72,
+      "fin": 5.56
+    },
+    {
+      "texto": "Suena",
+      "inicio": 5.84,
+      "fin": 6.16
+    },
+    {
+      "texto": "a",
+      "inicio": 6.24,
+      "fin": 6.373
+    },
+    {
+      "texto": "error,",
+      "inicio": 6.507,
+      "fin": 6.88
+    },
+    {
+      "texto": "pero",
+      "inicio": 6.96,
+      "fin": 7.12
+    },
+    {
+      "texto": "las",
+      "inicio": 7.28,
+      "fin": 7.44
+    },
+    {
+      "texto": "cuentas",
+      "inicio": 7.52,
+      "fin": 7.76
+    },
+    {
+      "texto": "salen.",
+      "inicio": 7.84,
+      "fin": 8.72
+    },
+    {
+      "texto": "La",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "Gran",
+      "inicio": 8.88,
+      "fin": 9.04
+    },
+    {
+      "texto": "Pirámide",
+      "inicio": 9.12,
+      "fin": 9.52
+    },
+    {
+      "texto": "se",
+      "inicio": 9.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "terminó",
+      "inicio": 9.68,
+      "fin": 10
+    },
+    {
+      "texto": "hace",
+      "inicio": 10.04,
+      "fin": 10.24
+    },
+    {
+      "texto": "unos",
+      "inicio": 10.32,
+      "fin": 10.56
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 10.64,
+      "fin": 10.88
+    },
+    {
+      "texto": "mil",
+      "inicio": 10.96,
+      "fin": 11.04
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 11.2,
+      "fin": 11.68
+    },
+    {
+      "texto": "años.",
+      "inicio": 11.76,
+      "fin": 12.48
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 12.52,
+      "fin": 13.04
+    },
+    {
+      "texto": "nació",
+      "inicio": 13.08,
+      "fin": 13.44
+    },
+    {
+      "texto": "casi",
+      "inicio": 13.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "dos",
+      "inicio": 13.76,
+      "fin": 13.84
+    },
+    {
+      "texto": "mil",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "texto": "quinientos",
+      "inicio": 14.24,
+      "fin": 14.64
+    },
+    {
+      "texto": "años",
+      "inicio": 14.72,
+      "fin": 14.88
+    },
+    {
+      "texto": "después.",
+      "inicio": 14.96,
+      "fin": 15.92
+    },
+    {
+      "texto": "Y",
+      "inicio": 15.947,
+      "fin": 15.973
+    },
+    {
+      "texto": "desde",
+      "inicio": 16,
+      "fin": 16.2
+    },
+    {
+      "texto": "que",
+      "inicio": 16.24,
+      "fin": 16.32
+    },
+    {
+      "texto": "murió",
+      "inicio": 16.4,
+      "fin": 16.72
+    },
+    {
+      "texto": "hasta",
+      "inicio": 16.8,
+      "fin": 17.04
+    },
+    {
+      "texto": "que",
+      "inicio": 17.12,
+      "fin": 17.16
+    },
+    {
+      "texto": "Armstrong",
+      "inicio": 17.2,
+      "fin": 17.6
+    },
+    {
+      "texto": "pisó",
+      "inicio": 17.72,
+      "fin": 17.88
+    },
+    {
+      "texto": "la",
+      "inicio": 17.92,
+      "fin": 17.96
+    },
+    {
+      "texto": "Luna,",
+      "inicio": 18,
+      "fin": 18.4
+    },
+    {
+      "texto": "pasaron",
+      "inicio": 18.52,
+      "fin": 18.96
+    },
+    {
+      "texto": "unos",
+      "inicio": 19.08,
+      "fin": 19.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 19.28,
+      "fin": 19.36
+    },
+    {
+      "texto": "mil.",
+      "inicio": 19.52,
+      "fin": 20.32
+    },
+    {
+      "texto": "Si",
+      "inicio": 20.4,
+      "fin": 20.48
+    },
+    {
+      "texto": "toda",
+      "inicio": 20.52,
+      "fin": 20.64
+    },
+    {
+      "texto": "esa",
+      "inicio": 20.72,
+      "fin": 20.88
+    },
+    {
+      "texto": "historia",
+      "inicio": 21,
+      "fin": 21.28
+    },
+    {
+      "texto": "cupiera",
+      "inicio": 21.4,
+      "fin": 21.68
+    },
+    {
+      "texto": "en",
+      "inicio": 21.72,
+      "fin": 21.76
+    },
+    {
+      "texto": "una",
+      "inicio": 21.84,
+      "fin": 21.92
+    },
+    {
+      "texto": "cinta",
+      "inicio": 22,
+      "fin": 22.24
+    },
+    {
+      "texto": "métrica,",
+      "inicio": 22.32,
+      "fin": 22.96
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 23.013,
+      "fin": 23.44
+    },
+    {
+      "texto": "estaría",
+      "inicio": 23.52,
+      "fin": 23.84
+    },
+    {
+      "texto": "en",
+      "inicio": 23.88,
+      "fin": 23.92
+    },
+    {
+      "texto": "el",
+      "inicio": 24,
+      "fin": 24.08
+    },
+    {
+      "texto": "centímetro",
+      "inicio": 24.16,
+      "fin": 24.72
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 24.8,
+      "fin": 25.28
+    },
+    {
+      "texto": "y",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "texto": "cinco:",
+      "inicio": 25.52,
+      "fin": 26.16
+    },
+    {
+      "texto": "pasada",
+      "inicio": 26.24,
+      "fin": 26.48
+    },
+    {
+      "texto": "la",
+      "inicio": 26.52,
+      "fin": 26.56
+    },
+    {
+      "texto": "mitad.",
+      "inicio": 26.64,
+      "fin": 27.44
+    },
+    {
+      "texto": "¿Y",
+      "inicio": 27.493,
+      "fin": 27.6
+    },
+    {
+      "texto": "cómo",
+      "inicio": 27.64,
+      "fin": 27.84
+    },
+    {
+      "texto": "puede",
+      "inicio": 27.92,
+      "fin": 28.08
+    },
+    {
+      "texto": "ser?",
+      "inicio": 28.16,
+      "fin": 28.88
+    },
+    {
+      "texto": "Porque",
+      "inicio": 28.96,
+      "fin": 29.12
+    },
+    {
+      "texto": "Egipto",
+      "inicio": 29.16,
+      "fin": 29.52
+    },
+    {
+      "texto": "duró",
+      "inicio": 29.6,
+      "fin": 29.76
+    },
+    {
+      "texto": "muchísimo:",
+      "inicio": 29.84,
+      "fin": 30.8
+    },
+    {
+      "texto": "cuando",
+      "inicio": 30.84,
+      "fin": 31.04
+    },
+    {
+      "texto": "ella",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "texto": "reinaba,",
+      "inicio": 31.28,
+      "fin": 31.84
+    },
+    {
+      "texto": "ya",
+      "inicio": 31.88,
+      "fin": 31.92
+    },
+    {
+      "texto": "llevaba",
+      "inicio": 32,
+      "fin": 32.32
+    },
+    {
+      "texto": "unos",
+      "inicio": 32.48,
+      "fin": 32.64
+    },
+    {
+      "texto": "tres",
+      "inicio": 32.72,
+      "fin": 32.8
+    },
+    {
+      "texto": "mil",
+      "inicio": 32.96,
+      "fin": 33.12
+    },
+    {
+      "texto": "años",
+      "inicio": 33.2,
+      "fin": 33.44
+    },
+    {
+      "texto": "de",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "faraones.",
+      "inicio": 33.6,
+      "fin": 34.64
+    },
+    {
+      "texto": "Y",
+      "inicio": 34.68,
+      "fin": 34.72
+    },
+    {
+      "texto": "ella",
+      "inicio": 34.8,
+      "fin": 34.96
+    },
+    {
+      "texto": "vio",
+      "inicio": 35.04,
+      "fin": 35.12
+    },
+    {
+      "texto": "la",
+      "inicio": 35.2,
+      "fin": 35.28
+    },
+    {
+      "texto": "pirámide",
+      "inicio": 35.36,
+      "fin": 35.68
+    },
+    {
+      "texto": "mejor",
+      "inicio": 35.76,
+      "fin": 35.96
+    },
+    {
+      "texto": "que",
+      "inicio": 36,
+      "fin": 36.08
+    },
+    {
+      "texto": "tú:",
+      "inicio": 36.16,
+      "fin": 36.64
+    },
+    {
+      "texto": "aún",
+      "inicio": 36.72,
+      "fin": 36.88
+    },
+    {
+      "texto": "estaba",
+      "inicio": 36.96,
+      "fin": 37.28
+    },
+    {
+      "texto": "forrada",
+      "inicio": 37.36,
+      "fin": 37.68
+    },
+    {
+      "texto": "de",
+      "inicio": 37.76,
+      "fin": 37.84
+    },
+    {
+      "texto": "piedra",
+      "inicio": 37.88,
+      "fin": 38.08
+    },
+    {
+      "texto": "blanca",
+      "inicio": 38.16,
+      "fin": 38.48
+    },
+    {
+      "texto": "pulida,",
+      "inicio": 38.56,
+      "fin": 39.12
+    },
+    {
+      "texto": "y",
+      "inicio": 39.16,
+      "fin": 39.2
+    },
+    {
+      "texto": "brillaba",
+      "inicio": 39.28,
+      "fin": 39.76
+    },
+    {
+      "texto": "al",
+      "inicio": 39.84,
+      "fin": 39.92
+    },
+    {
+      "texto": "sol.",
+      "inicio": 40,
+      "fin": 40.72
+    },
+    {
+      "texto": "Así",
+      "inicio": 40.8,
+      "fin": 40.96
+    },
+    {
+      "texto": "que,",
+      "inicio": 41.04,
+      "fin": 41.28
+    },
+    {
+      "texto": "para",
+      "inicio": 41.36,
+      "fin": 41.44
+    },
+    {
+      "texto": "Cleopatra,",
+      "inicio": 41.52,
+      "fin": 42.24
+    },
+    {
+      "texto": "la",
+      "inicio": 42.28,
+      "fin": 42.32
+    },
+    {
+      "texto": "pirámide",
+      "inicio": 42.4,
+      "fin": 42.88
+    },
+    {
+      "texto": "era",
+      "inicio": 43,
+      "fin": 43.12
+    },
+    {
+      "texto": "más",
+      "inicio": 43.16,
+      "fin": 43.28
+    },
+    {
+      "texto": "antigua",
+      "inicio": 43.36,
+      "fin": 43.84
+    },
+    {
+      "texto": "de",
+      "inicio": 43.88,
+      "fin": 43.92
+    },
+    {
+      "texto": "lo",
+      "inicio": 44,
+      "fin": 44.04
+    },
+    {
+      "texto": "que",
+      "inicio": 44.08,
+      "fin": 44.24
+    },
+    {
+      "texto": "hoy",
+      "inicio": 44.28,
+      "fin": 44.4
+    },
+    {
+      "texto": "es",
+      "inicio": 44.48,
+      "fin": 44.56
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 44.64,
+      "fin": 45.2
+    },
+    {
+      "texto": "para",
+      "inicio": 45.28,
+      "fin": 45.44
+    },
+    {
+      "texto": "ti.",
+      "inicio": 45.52,
+      "fin": 46.24
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 46.36,
+      "fin": 46.8
+    },
+    {
+      "texto": "a",
+      "inicio": 46.84,
+      "fin": 46.88
+    },
+    {
+      "texto": "ese",
+      "inicio": 46.96,
+      "fin": 47.04
+    },
+    {
+      "texto": "amigo",
+      "inicio": 47.12,
+      "fin": 47.36
+    },
+    {
+      "texto": "que",
+      "inicio": 47.44,
+      "fin": 47.52
+    },
+    {
+      "texto": "cree",
+      "inicio": 47.6,
+      "fin": 47.76
+    },
+    {
+      "texto": "que",
+      "inicio": 47.84,
+      "fin": 47.92
+    },
+    {
+      "texto": "Cleopatra",
+      "inicio": 48,
+      "fin": 48.48
+    },
+    {
+      "texto": "vio",
+      "inicio": 48.6,
+      "fin": 48.72
+    },
+    {
+      "texto": "construir",
+      "inicio": 48.8,
+      "fin": 49.2
+    },
+    {
+      "texto": "las",
+      "inicio": 49.28,
+      "fin": 49.36
+    },
+    {
+      "texto": "pirámides.",
+      "inicio": 49.44,
+      "fin": 50.24
+    }
+  ]
+}
