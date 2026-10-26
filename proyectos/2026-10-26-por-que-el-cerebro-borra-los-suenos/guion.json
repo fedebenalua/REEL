@@ -1,0 +1,18 @@
+{
+  "titulo": "Por qué se te borran los sueños",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu cerebro borra casi todos tus sueños cuando despiertas?", "clave": "borra", "hook": true },
+    { "texto": "No es que los tire al abrir los ojos: mientras sueñas, casi no los apunta.", "clave": "apunta", "hook": true },
+    { "texto": "Si te despiertan con los ojos aún moviéndose, lo cuentas unas ocho de cada diez veces.", "clave": "ocho", "hook": true },
+    { "texto": "Por la mañana, de todos esos, suele quedarte solo el último.", "clave": "último" },
+    { "texto": "En esa fase se apaga la noradrenalina, la sustancia que ayuda a guardar lo que vives.", "clave": "noradrenalina" },
+    { "texto": "Es como escribir en el vaho del espejo del baño: se ve, y en cuanto entra el día, desaparece.", "clave": "vaho" },
+    { "texto": "Y la parte de delante del cerebro, la que archiva lo que acaba de pasar, se queda apagada.", "clave": "apagada" },
+    { "texto": "En ratones, apagar unas neuronas de esa fase hizo que guardaran mejor lo aprendido.", "clave": "ratones" },
+    { "texto": "Que hagan eso con tus sueños, todavía no se ha visto en personas.", "clave": "visto" },
+    { "texto": "Así que no se borraron al despertar: se vivieron sin tinta, y se van si no los coges.", "clave": "tinta" },
+    { "texto": "Envíaselo a ese amigo que dice que anoche no soñó nada.", "clave": "nada" }
+  ]
+}

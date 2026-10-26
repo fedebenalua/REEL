@@ -1,7 +1,7 @@
 # La ciencia dice que (@lacienciadiceque en Instagram y YouTube, @remote.control.al en TikTok)
 
 Curiosidades de ciencia, cuerpo, mente e historia, en español de España (voz, subtítulos, texto del post y hashtags).
-Un vídeo cada 6 horas (3 al día), en Instagram Reels (@lacienciadiceque), YouTube Shorts (@lacienciadiceque) y TikTok
+Un vídeo cada 6 horas (4 al día), en Instagram Reels (@lacienciadiceque), YouTube Shorts (@lacienciadiceque) y TikTok
 (@remote.control.al, «DrDatoNauta»).
 
 - Se publican solo en esas tres cuentas: `node motor/publicar.mjs <vídeo> --perfil lacienciadiceque` (el perfil está
@@ -125,3 +125,5 @@ Cuando se acaben los 100, la automatización para: no se inventan temas para est
 ## Ya hechos
 
 (Número, título corto, carpeta de `salida/` y fecha. La lista de lo programado está en `publicados-lacienciadiceque.json`.)
+
+1. El cerebro borra los sueños — `salida/2026-10-26-por-que-el-cerebro-borra-los-suenos` — 2026-10-26
