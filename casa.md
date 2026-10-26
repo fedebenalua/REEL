@@ -48,25 +48,25 @@ cada 6 horas.
 9. How to Fix a Clogged Toilet With No Plunger, 2026-10-25
 10. Why Is There a Wet Spot on My Ceiling?, 2026-10-26
 11. How to Fix a Hole in the Wall, 2026-10-26
+12. Why Does My Fridge Leak Water on the Floor?, 2026-10-26
 
 ## Ideas pendientes
 
-1. Why Does My Fridge Leak Water on the Floor?
-2. How to Stop a Window From Fogging Up Inside
-3. Dishwasher Smells Bad? Fix It Fast
-4. How to Fix a Running Toilet Flapper
-5. Why Does My Circuit Breaker Keep Tripping?
-6. How to Remove Hard Water Stains From Glass
-7. How to Fix a Sagging Cabinet Door
-8. Why Is My AC Blowing Warm Air?
-9. How to Fix a Stripped Screw Hole
-10. Why Do My Pipes Freeze, and How Do I Thaw Them?
-11. How to Remove Water Rings From Wood
-12. Why Does My House Smell Like Sewage?
-13. How to Fix a Loose Toilet Seat
-14. How to Get Rid of Fruit Flies in the Kitchen
-15. Why Is My Garbage Disposal Humming and Not Spinning?
-16. How to Unclog a Kitchen Sink in 3 Steps
-17. Why Does My Washing Machine Shake So Much?
-18. How to Fix a Wobbly Chair
-19. How to Remove Carpet Stains in Minutes
+1. How to Stop a Window From Fogging Up Inside
+2. Dishwasher Smells Bad? Fix It Fast
+3. How to Fix a Running Toilet Flapper
+4. Why Does My Circuit Breaker Keep Tripping?
+5. How to Remove Hard Water Stains From Glass
+6. How to Fix a Sagging Cabinet Door
+7. Why Is My AC Blowing Warm Air?
+8. How to Fix a Stripped Screw Hole
+9. Why Do My Pipes Freeze, and How Do I Thaw Them?
+10. How to Remove Water Rings From Wood
+11. Why Does My House Smell Like Sewage?
+12. How to Fix a Loose Toilet Seat
+13. How to Get Rid of Fruit Flies in the Kitchen
+14. Why Is My Garbage Disposal Humming and Not Spinning?
+15. How to Unclog a Kitchen Sink in 3 Steps
+16. Why Does My Washing Machine Shake So Much?
+17. How to Fix a Wobbly Chair
+18. How to Remove Carpet Stains in Minutes

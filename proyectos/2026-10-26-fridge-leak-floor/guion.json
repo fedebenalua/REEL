@@ -1,0 +1,19 @@
+{
+  "titulo": "Why does my fridge leak water on the floor?",
+  "idioma": "en",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Why is your fridge leaking water all over the floor?", "clave": "leaking", "hook": true },
+    { "texto": "That puddle comes back once or twice a day, right in front of the door.", "clave": "twice", "hook": true },
+    { "texto": "Defrost meltwater should slip down a tiny hole into a pan under the fridge.", "clave": "hole" },
+    { "texto": "Ice plugs that hole, so the water spills out the door instead.", "clave": "plugs" },
+    { "texto": "First, unplug it, then pull out the bottom basket.", "clave": "unplug" },
+    { "texto": "The hole is low on the back wall, dead center.", "clave": "center" },
+    { "texto": "No hole, or ice all over the back wall? Call a technician.", "clave": "technician" },
+    { "texto": "A leak behind the fridge is the water hose. Shut that valve.", "clave": "valve" },
+    { "texto": "Stir a little baking soda into two cups of hot tap water, not boiling.", "clave": "soda" },
+    { "texto": "A turkey baster shoots it in until you hear it splash in the pan underneath.", "clave": "splash" },
+    { "texto": "Flush it once or twice a year, or the repair gets pricey.", "clave": "year" },
+    { "texto": "Send this to that friend whose fridge keeps leaking on the floor.", "clave": "friend" }
+  ]
+}
