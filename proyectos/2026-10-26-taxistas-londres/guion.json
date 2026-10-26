@@ -1,0 +1,22 @@
+{
+  "titulo": "Los taxistas de Londres",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Para ser taxista en Londres tienes que saberte veinticinco mil calles de memoria.", "clave": "calles", "hook": true },
+    { "texto": "El examen puede durar cuatro años.", "clave": "años", "hook": true },
+    { "texto": "¿Qué le cambia por dentro a quien lo aprueba?", "clave": "dentro", "hook": true },
+    { "texto": "No vale mirar un mapa: te las preguntan de viva voz, una ruta detrás de otra.", "clave": "mapa" },
+    { "texto": "Antes de empezar, escanearon a setenta y nueve aprendices y a gente que no estudiaba.", "clave": "escanearon" },
+    { "texto": "El hipocampo, la pieza de los sitios, era igual en quien iba a aprobar y en los demás.", "clave": "igual" },
+    { "texto": "Ni el tamaño ni la memoria decían quién lo iba a conseguir.", "clave": "tamaño" },
+    { "texto": "Tres años después, el cerebro de quien no aprobó seguía igual.", "clave": "seguía" },
+    { "texto": "Quien aprobó había practicado el doble de horas cada semana.", "clave": "doble" },
+    { "texto": "Y aun así, el cerebro de quien aprobó ya no coincidía.", "clave": "coincidía" },
+    { "texto": "Solo a los treinta y nueve que aprobaron les creció la materia gris de atrás del hipocampo.", "clave": "creció" },
+    { "texto": "Por los dos lados, y en ningún otro sitio.", "clave": "lados" },
+    { "texto": "Un dibujo nuevo, media hora después, se les iba peor.", "clave": "dibujo" },
+    { "texto": "No nacieron así: esa parte se rehizo para guardar la ciudad.", "clave": "rehizo" },
+    { "texto": "Envíaselo a ese amigo que cree que de adulto el cerebro ya no cambia.", "clave": "amigo" }
+  ]
+}
