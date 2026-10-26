@@ -1,0 +1,24 @@
+{
+  "titulo": "Mozart y los ocho puntos",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "Diez minutos de Mozart, y el cociente sube ocho puntos.", "clave": "ocho", "hook": true },
+    { "texto": "Lo publicaron en una revista de verdad.", "clave": "revista", "hook": true },
+    { "texto": "¿Qué les pusieron delante, en realidad?", "clave": "delante", "hook": true },
+    { "texto": "Treinta y seis personas, y cada una pasó por las tres.", "clave": "seis" },
+    { "texto": "Diez minutos de una sonata a dos pianos.", "clave": "sonata" },
+    { "texto": "Otros diez, una voz que solo decía: relájate.", "clave": "relájate" },
+    { "texto": "Y otros diez, sentados en silencio.", "clave": "silencio" },
+    { "texto": "Después, un folio: lo doblas en la cabeza y adivinas los agujeros.", "clave": "folio" },
+    { "texto": "Ese folio salió ocho o nueve puntos por encima.", "clave": "encima" },
+    { "texto": "Ciento diecinueve, contra ciento diez en silencio.", "clave": "diecinueve" },
+    { "texto": "A los quince minutos, el salto ya no estaba.", "clave": "quince" },
+    { "texto": "No era el cociente entero. Eran juegos de espacio.", "clave": "espacio" },
+    { "texto": "Un cuento que te guste hace un salto parecido.", "clave": "cuento" },
+    { "texto": "Casi cuarenta estudios, y más de tres mil personas.", "clave": "cuarenta" },
+    { "texto": "Mozart apenas se separaba de otra música.", "clave": "apenas" },
+    { "texto": "Esos ocho puntos eran ese juego, un cuarto de hora y el ánimo.", "clave": "ánimo" },
+    { "texto": "Si quieres ver tu cociente, está en la app del enlace de la bio.", "clave": "cociente" }
+  ]
+}
