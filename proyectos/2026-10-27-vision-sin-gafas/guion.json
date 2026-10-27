@@ -1,0 +1,18 @@
+{
+  "titulo": "¿Cómo puedes mejorar momentáneamente tu visión sin utilizar gafas?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo puedes mejorar momentáneamente tu visión sin utilizar gafas?", "clave": "visión", "hook": true },
+    { "texto": "Sin gafas, lo borroso tendría que seguir borroso.", "clave": "borroso", "hook": true },
+    { "texto": "Mira por un agujero más fino que un grano de arroz, y las letras se ponen nítidas.", "clave": "nítidas" },
+    { "texto": "Si el ojo no enfoca, un puntito de luz llega a la retina hecho una mancha.", "clave": "mancha" },
+    { "texto": "El agujero tapa los rayos de los bordes, y la mancha se encoge hasta un punto.", "clave": "punto" },
+    { "texto": "En la consulta usan uno de un milímetro y dos décimas.", "clave": "décimas" },
+    { "texto": "Si ves mejor, casi siempre es el enfoque. Con mucha graduación, no basta.", "clave": "enfoque" },
+    { "texto": "Si no cambia, puede que el fallo esté en el propio ojo.", "clave": "ojo" },
+    { "texto": "Más pequeño, la luz se dobla en el borde y todo se oscurece.", "clave": "oscurece" },
+    { "texto": "No cura nada: quitas el agujero y vuelves a ver igual.", "clave": "igual" },
+    { "texto": "Envíaselo a ese amigo que entrecierra los ojos para leer la carta.", "clave": "amigo" }
+  ]
+}

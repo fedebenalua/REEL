@@ -1,0 +1,1051 @@
+{
+  "firma": "3fd54e1fc18b",
+  "duracion": 45.2,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Cómo puedes mejorar momentáneamente tu visión sin utilizar gafas?",
+      "clave": "visión",
+      "inicio": 0,
+      "fin": 3.92
+    },
+    {
+      "n": 2,
+      "texto": "Sin gafas, lo borroso tendría que seguir borroso.",
+      "clave": "borroso",
+      "inicio": 4.24,
+      "fin": 7.24
+    },
+    {
+      "n": 3,
+      "texto": "Mira por un agujero más fino que un grano de arroz, y las letras se ponen nítidas.",
+      "clave": "nítidas",
+      "inicio": 7.52,
+      "fin": 12.24
+    },
+    {
+      "n": 4,
+      "texto": "Si el ojo no enfoca, un puntito de luz llega a la retina hecho una mancha.",
+      "clave": "mancha",
+      "inicio": 12.56,
+      "fin": 16.84
+    },
+    {
+      "n": 5,
+      "texto": "El agujero tapa los rayos de los bordes, y la mancha se encoge hasta un punto.",
+      "clave": "punto",
+      "inicio": 17.12,
+      "fin": 21.64
+    },
+    {
+      "n": 6,
+      "texto": "En la consulta usan uno de un milímetro y dos décimas.",
+      "clave": "décimas",
+      "inicio": 21.92,
+      "fin": 24.88
+    },
+    {
+      "n": 7,
+      "texto": "Si ves mejor, casi siempre es el enfoque. Con mucha graduación, no basta.",
+      "clave": "enfoque",
+      "inicio": 25.44,
+      "fin": 30
+    },
+    {
+      "n": 8,
+      "texto": "Si no cambia, puede que el fallo esté en el propio ojo.",
+      "clave": "ojo",
+      "inicio": 30.4,
+      "fin": 33.6
+    },
+    {
+      "n": 9,
+      "texto": "Más pequeño, la luz se dobla en el borde y todo se oscurece.",
+      "clave": "oscurece",
+      "inicio": 33.64,
+      "fin": 37.32
+    },
+    {
+      "n": 10,
+      "texto": "No cura nada: quitas el agujero y vuelves a ver igual.",
+      "clave": "igual",
+      "inicio": 37.6,
+      "fin": 40.68
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que entrecierra los ojos para leer la carta.",
+      "clave": "amigo",
+      "inicio": 40.96,
+      "fin": 44.4
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Cómo",
+      "inicio": 0,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "puedes",
+      "inicio": 0.32,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mejorar",
+      "inicio": 0.64,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "momentáneamente",
+      "inicio": 1.04,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 1.92,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "visión",
+      "inicio": 2.2,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "sin",
+      "inicio": 2.48,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "utilizar",
+      "inicio": 2.72,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gafas?",
+      "inicio": 3.16,
+      "fin": 3.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Sin",
+      "inicio": 4.24,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gafas,",
+      "inicio": 4.48,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 5.04,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "borroso",
+      "inicio": 5.2,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "tendría",
+      "inicio": 5.68,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 6.08,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "seguir",
+      "inicio": 6.24,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "borroso.",
+      "inicio": 6.48,
+      "fin": 7.24,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Mira",
+      "inicio": 7.52,
+      "fin": 7.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 7.8,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 7.92,
+      "fin": 7.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "agujero",
+      "inicio": 8,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 8.48,
+      "fin": 8.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "fino",
+      "inicio": 8.8,
+      "fin": 9.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 9.12,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 9.24,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "grano",
+      "inicio": 9.36,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.64,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "arroz,",
+      "inicio": 9.76,
+      "fin": 10.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 10.28,
+      "fin": 10.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 10.4,
+      "fin": 10.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "letras",
+      "inicio": 10.56,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 10.96,
+      "fin": 11.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ponen",
+      "inicio": 11.12,
+      "fin": 11.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "nítidas.",
+      "inicio": 11.44,
+      "fin": 12.24,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 12.56,
+      "fin": 12.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 12.72,
+      "fin": 12.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ojo",
+      "inicio": 12.8,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 13.04,
+      "fin": 13.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "enfoca,",
+      "inicio": 13.2,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 13.88,
+      "fin": 13.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "puntito",
+      "inicio": 14,
+      "fin": 14.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 14.44,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 14.56,
+      "fin": 14.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 14.8,
+      "fin": 15,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 15.04,
+      "fin": 15.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 15.12,
+      "fin": 15.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "retina",
+      "inicio": 15.32,
+      "fin": 15.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "hecho",
+      "inicio": 15.68,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 16,
+      "fin": 16.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mancha.",
+      "inicio": 16.16,
+      "fin": 16.84,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 17.12,
+      "fin": 17.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "agujero",
+      "inicio": 17.28,
+      "fin": 17.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 17.76,
+      "fin": 18,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 18.08,
+      "fin": 18.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "rayos",
+      "inicio": 18.28,
+      "fin": 18.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 18.52,
+      "fin": 18.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 18.6,
+      "fin": 18.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "bordes,",
+      "inicio": 18.72,
+      "fin": 19.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 19.4,
+      "fin": 19.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 19.48,
+      "fin": 19.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mancha",
+      "inicio": 19.6,
+      "fin": 19.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 20,
+      "fin": 20.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "encoge",
+      "inicio": 20.2,
+      "fin": 20.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 20.6,
+      "fin": 20.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 20.88,
+      "fin": 20.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "punto.",
+      "inicio": 21.04,
+      "fin": 21.64,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 21.92,
+      "fin": 22,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 22.04,
+      "fin": 22.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "consulta",
+      "inicio": 22.16,
+      "fin": 22.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "usan",
+      "inicio": 22.72,
+      "fin": 23.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 23.12,
+      "fin": 23.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 23.28,
+      "fin": 23.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 23.4,
+      "fin": 23.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "milímetro",
+      "inicio": 23.52,
+      "fin": 24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 24.04,
+      "fin": 24.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 24.16,
+      "fin": 24.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "décimas.",
+      "inicio": 24.32,
+      "fin": 24.88,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Si",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ves",
+      "inicio": 25.6,
+      "fin": 25.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mejor,",
+      "inicio": 25.76,
+      "fin": 26.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 26.28,
+      "fin": 26.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 26.6,
+      "fin": 26.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 27.04,
+      "fin": 27.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.16,
+      "fin": 27.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "enfoque.",
+      "inicio": 27.28,
+      "fin": 27.76,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 28.16,
+      "fin": 28.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mucha",
+      "inicio": 28.36,
+      "fin": 28.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "graduación,",
+      "inicio": 28.64,
+      "fin": 29.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 29.44,
+      "fin": 29.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "basta.",
+      "inicio": 29.56,
+      "fin": 30,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 30.4,
+      "fin": 30.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 30.52,
+      "fin": 30.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cambia,",
+      "inicio": 30.64,
+      "fin": 31.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 31.16,
+      "fin": 31.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 31.4,
+      "fin": 31.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 31.52,
+      "fin": 31.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "fallo",
+      "inicio": 31.68,
+      "fin": 31.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "esté",
+      "inicio": 32,
+      "fin": 32.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 32.2,
+      "fin": 32.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 32.28,
+      "fin": 32.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "propio",
+      "inicio": 32.4,
+      "fin": 32.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ojo.",
+      "inicio": 32.8,
+      "fin": 33.6,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Más",
+      "inicio": 33.64,
+      "fin": 33.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pequeño,",
+      "inicio": 33.84,
+      "fin": 34.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 34.44,
+      "fin": 34.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 34.56,
+      "fin": 34.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 34.8,
+      "fin": 34.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dobla",
+      "inicio": 34.96,
+      "fin": 35.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 35.24,
+      "fin": 35.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 35.36,
+      "fin": 35.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "borde",
+      "inicio": 35.52,
+      "fin": 35.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 35.92,
+      "fin": 36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 36.08,
+      "fin": 36.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 36.4,
+      "fin": 36.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "oscurece.",
+      "inicio": 36.56,
+      "fin": 37.32,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "No",
+      "inicio": 37.6,
+      "fin": 37.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cura",
+      "inicio": 37.76,
+      "fin": 37.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "nada:",
+      "inicio": 38,
+      "fin": 38.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "quitas",
+      "inicio": 38.6,
+      "fin": 38.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 38.92,
+      "fin": 38.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "agujero",
+      "inicio": 39,
+      "fin": 39.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 39.48,
+      "fin": 39.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "vuelves",
+      "inicio": 39.6,
+      "fin": 39.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 39.92,
+      "fin": 39.973,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ver",
+      "inicio": 40.027,
+      "fin": 40.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "igual.",
+      "inicio": 40.12,
+      "fin": 40.68,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 40.96,
+      "fin": 41.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 41.48,
+      "fin": 41.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 41.6,
+      "fin": 41.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 41.76,
+      "fin": 42,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 42.08,
+      "fin": 42.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "entrecierra",
+      "inicio": 42.24,
+      "fin": 42.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 42.8,
+      "fin": 42.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ojos",
+      "inicio": 42.96,
+      "fin": 43.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 43.28,
+      "fin": 43.36,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "leer",
+      "inicio": 43.44,
+      "fin": 43.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.72,
+      "fin": 43.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "carta.",
+      "inicio": 43.84,
+      "fin": 44.4,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}
