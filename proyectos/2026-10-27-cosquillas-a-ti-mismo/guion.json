@@ -1,0 +1,18 @@
+{
+  "titulo": "¿Por qué no puedes hacerte cosquillas a ti mismo?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué no puedes hacerte cosquillas a ti mismo?", "clave": "cosquillas", "hook": true },
+    { "texto": "Ni siquiera si te cambias de cuerpo con otra persona.", "clave": "cuerpo", "hook": true },
+    { "texto": "Lo probaron con unas gafas que te hacían ver por los ojos de otro.", "clave": "gafas" },
+    { "texto": "Sentías su mano como si fuera tuya, y aun así, tus cosquillas no hacían nada.", "clave": "nada" },
+    { "texto": "La explicación más aceptada: tu cerebro se adelanta a cada movimiento y calcula lo que vas a notar.", "clave": "adelanta" },
+    { "texto": "Y lo que ya ve venir, lo siente más flojo: más o menos la mitad.", "clave": "mitad" },
+    { "texto": "Por eso los empujones se van de las manos.", "clave": "empujones" },
+    { "texto": "Unas parejas tenían que devolverse un apretón en el dedo, con la misma fuerza.", "clave": "misma" },
+    { "texto": "Pero el suyo lo sentían flojo, y apretaban un 38 % más en cada turno.", "dicho": "Pero el suyo lo sentían flojo, y apretaban un treinta y ocho por ciento más en cada turno.", "clave": "38" },
+    { "texto": "Así que tus cosquillas siguen ahí: tu cerebro solo apaga lo que haces tú.", "clave": "tú" },
+    { "texto": "Síguenos, o envíaselo a ese amigo que siempre dice que él no empezó.", "clave": "empezó" }
+  ]
+}
