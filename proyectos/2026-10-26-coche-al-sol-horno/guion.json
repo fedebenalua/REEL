@@ -1,0 +1,59 @@
+{
+  "titulo": "¿Por qué un coche aparcado al sol puede convertirse en un horno?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué un coche aparcado al sol puede convertirse en un horno?",
+      "clave": "horno",
+      "hook": true
+    },
+    {
+      "texto": "Fuera hace 22 grados, y dentro, en una hora, puede llegar a 47.",
+      "dicho": "Fuera hace veintidós grados, y dentro, en una hora, puede llegar a cuarenta y siete.",
+      "clave": "47",
+      "hook": true
+    },
+    {
+      "texto": "Todo empieza en el cristal: deja entrar la luz del sol.",
+      "clave": "luz"
+    },
+    {
+      "texto": "Esa luz cae sobre el salpicadero y los asientos, y los calienta muchísimo.",
+      "clave": "salpicadero"
+    },
+    {
+      "texto": "En Arizona midieron un salpicadero a 69 grados después de una hora al sol.",
+      "dicho": "En Arizona midieron un salpicadero a sesenta y nueve grados después de una hora al sol.",
+      "clave": "69"
+    },
+    {
+      "texto": "A esa temperatura, la clara de un huevo ya empieza a cuajarse.",
+      "clave": "huevo"
+    },
+    {
+      "texto": "Y ese calor ya no sale igual: el cristal lo frena, y el aire caliente se queda encerrado.",
+      "clave": "encerrado"
+    },
+    {
+      "texto": "Por eso sube tan rápido: la mayor parte llega en la primera media hora.",
+      "clave": "media"
+    },
+    {
+      "texto": "Y bajar un poco las ventanillas casi no cambia nada.",
+      "clave": "nada"
+    },
+    {
+      "texto": "De hecho, los hornos solares con los que se cocina son justo eso: una caja oscura con un cristal encima.",
+      "clave": "cristal"
+    },
+    {
+      "texto": "Así que tu coche no se parece a un horno: es un horno con ruedas.",
+      "clave": "ruedas"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que deja el coche al sol «solo cinco minutos».",
+      "clave": "minutos"
+    }
+  ]
+}
