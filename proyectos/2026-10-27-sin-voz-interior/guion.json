@@ -1,0 +1,22 @@
+{
+  "titulo": "¿Por qué algunas personas no tienen voz interior cuando piensan?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué algunas personas no tienen voz interior cuando piensan?", "clave": "voz", "hook": true },
+    { "texto": "Tú lees esta frase y la oyes por dentro.", "clave": "oyes", "hook": true },
+    { "texto": "Ellas no oyen nada.", "clave": "nada", "hook": true },
+    { "texto": "Unos psicólogos dieron a treinta personas un aparato que pitaba en cualquier momento del día.", "clave": "pitaba" },
+    { "texto": "Con cada pitido, apuntaban lo que tenían en la cabeza justo antes.", "clave": "antes" },
+    { "texto": "Uno se hablaba por dentro en tres de cada cuatro pitidos.", "clave": "tres" },
+    { "texto": "Y cinco, en ninguno.", "clave": "ninguno" },
+    { "texto": "En su cabeza había imágenes, sensaciones o ideas sin palabras.", "clave": "imágenes" },
+    { "texto": "Y se nota: les cuesta más saber si los nombres de dos dibujos riman.", "clave": "riman" },
+    { "texto": "Y recordar una lista de palabras.", "clave": "lista" },
+    { "texto": "Pero si hablan en voz alta, lo hacen igual de bien.", "clave": "alta" },
+    { "texto": "¿Por qué les pasa? Aún no se sabe.", "clave": "sabe" },
+    { "texto": "Puede que su cerebro use palabras sin oírlas, o que piense de otra forma.", "clave": "forma" },
+    { "texto": "Así que no es que no piensen: es que piensan en silencio.", "clave": "silencio" },
+    { "texto": "Síguenos, o envíaselo a ese amigo que no se calla ni por dentro.", "clave": "dentro" }
+  ]
+}

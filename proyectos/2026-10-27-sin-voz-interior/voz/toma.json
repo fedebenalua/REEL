@@ -1,0 +1,779 @@
+{
+  "firma": "140490aeb8f8",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "algunas",
+      "inicio": 0.32,
+      "fin": 0.64
+    },
+    {
+      "texto": "personas",
+      "inicio": 0.8,
+      "fin": 1.12
+    },
+    {
+      "texto": "no",
+      "inicio": 1.28,
+      "fin": 1.36
+    },
+    {
+      "texto": "tienen",
+      "inicio": 1.44,
+      "fin": 1.76
+    },
+    {
+      "texto": "voz",
+      "inicio": 1.84,
+      "fin": 2
+    },
+    {
+      "texto": "interior",
+      "inicio": 2.16,
+      "fin": 2.48
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.56,
+      "fin": 2.8
+    },
+    {
+      "texto": "piensan?",
+      "inicio": 2.88,
+      "fin": 3.36
+    },
+    {
+      "texto": "Tú",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "texto": "lees",
+      "inicio": 3.96,
+      "fin": 4.16
+    },
+    {
+      "texto": "esta",
+      "inicio": 4.24,
+      "fin": 4.4
+    },
+    {
+      "texto": "frase",
+      "inicio": 4.48,
+      "fin": 4.88
+    },
+    {
+      "texto": "y",
+      "inicio": 4.96,
+      "fin": 5
+    },
+    {
+      "texto": "la",
+      "inicio": 5.04,
+      "fin": 5.12
+    },
+    {
+      "texto": "oyes",
+      "inicio": 5.2,
+      "fin": 5.44
+    },
+    {
+      "texto": "por",
+      "inicio": 5.52,
+      "fin": 5.6
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 5.72,
+      "fin": 6.4
+    },
+    {
+      "texto": "Ellas",
+      "inicio": 6.52,
+      "fin": 6.88
+    },
+    {
+      "texto": "no",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "oyen",
+      "inicio": 7.2,
+      "fin": 7.52
+    },
+    {
+      "texto": "nada.",
+      "inicio": 7.6,
+      "fin": 8.4
+    },
+    {
+      "texto": "Unos",
+      "inicio": 8.48,
+      "fin": 8.64
+    },
+    {
+      "texto": "psicólogos",
+      "inicio": 8.68,
+      "fin": 9.2
+    },
+    {
+      "texto": "dieron",
+      "inicio": 9.24,
+      "fin": 9.52
+    },
+    {
+      "texto": "a",
+      "inicio": 9.6,
+      "fin": 9.68
+    },
+    {
+      "texto": "treinta",
+      "inicio": 9.72,
+      "fin": 9.92
+    },
+    {
+      "texto": "personas",
+      "inicio": 10,
+      "fin": 10.48
+    },
+    {
+      "texto": "un",
+      "inicio": 10.52,
+      "fin": 10.56
+    },
+    {
+      "texto": "aparato",
+      "inicio": 10.64,
+      "fin": 10.96
+    },
+    {
+      "texto": "que",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "texto": "pitaba",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "en",
+      "inicio": 11.6,
+      "fin": 11.68
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 11.76,
+      "fin": 12.08
+    },
+    {
+      "texto": "momento",
+      "inicio": 12.16,
+      "fin": 12.56
+    },
+    {
+      "texto": "del",
+      "inicio": 12.64,
+      "fin": 12.72
+    },
+    {
+      "texto": "día.",
+      "inicio": 12.84,
+      "fin": 13.44
+    },
+    {
+      "texto": "Con",
+      "inicio": 13.52,
+      "fin": 13.6
+    },
+    {
+      "texto": "cada",
+      "inicio": 13.653,
+      "fin": 13.76
+    },
+    {
+      "texto": "pitido,",
+      "inicio": 13.84,
+      "fin": 14.32
+    },
+    {
+      "texto": "apuntaban",
+      "inicio": 14.4,
+      "fin": 14.88
+    },
+    {
+      "texto": "lo",
+      "inicio": 14.92,
+      "fin": 14.96
+    },
+    {
+      "texto": "que",
+      "inicio": 15.04,
+      "fin": 15.12
+    },
+    {
+      "texto": "tenían",
+      "inicio": 15.2,
+      "fin": 15.44
+    },
+    {
+      "texto": "en",
+      "inicio": 15.48,
+      "fin": 15.52
+    },
+    {
+      "texto": "la",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 15.68,
+      "fin": 16
+    },
+    {
+      "texto": "justo",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "texto": "antes.",
+      "inicio": 16.6,
+      "fin": 17.36
+    },
+    {
+      "texto": "Uno",
+      "inicio": 17.44,
+      "fin": 17.6
+    },
+    {
+      "texto": "se",
+      "inicio": 17.76,
+      "fin": 17.84
+    },
+    {
+      "texto": "hablaba",
+      "inicio": 17.88,
+      "fin": 18.16
+    },
+    {
+      "texto": "por",
+      "inicio": 18.24,
+      "fin": 18.32
+    },
+    {
+      "texto": "dentro",
+      "inicio": 18.44,
+      "fin": 18.64
+    },
+    {
+      "texto": "en",
+      "inicio": 18.76,
+      "fin": 18.88
+    },
+    {
+      "texto": "tres",
+      "inicio": 19,
+      "fin": 19.12
+    },
+    {
+      "texto": "de",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "texto": "cada",
+      "inicio": 19.333,
+      "fin": 19.44
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "texto": "pitidos.",
+      "inicio": 19.96,
+      "fin": 20.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.84,
+      "fin": 20.88
+    },
+    {
+      "texto": "cinco,",
+      "inicio": 20.96,
+      "fin": 21.6
+    },
+    {
+      "texto": "en",
+      "inicio": 21.68,
+      "fin": 21.76
+    },
+    {
+      "texto": "ninguno.",
+      "inicio": 21.84,
+      "fin": 22.8
+    },
+    {
+      "texto": "En",
+      "inicio": 22.88,
+      "fin": 22.92
+    },
+    {
+      "texto": "su",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "texto": "cabeza",
+      "inicio": 23.12,
+      "fin": 23.44
+    },
+    {
+      "texto": "había",
+      "inicio": 23.52,
+      "fin": 23.68
+    },
+    {
+      "texto": "imágenes,",
+      "inicio": 23.76,
+      "fin": 24.44
+    },
+    {
+      "texto": "sensaciones",
+      "inicio": 24.48,
+      "fin": 25.28
+    },
+    {
+      "texto": "o",
+      "inicio": 25.36,
+      "fin": 25.44
+    },
+    {
+      "texto": "ideas",
+      "inicio": 25.52,
+      "fin": 25.84
+    },
+    {
+      "texto": "sin",
+      "inicio": 25.92,
+      "fin": 26
+    },
+    {
+      "texto": "palabras.",
+      "inicio": 26.08,
+      "fin": 26.88
+    },
+    {
+      "texto": "Y",
+      "inicio": 26.92,
+      "fin": 26.96
+    },
+    {
+      "texto": "se",
+      "inicio": 27.04,
+      "fin": 27.12
+    },
+    {
+      "texto": "nota:",
+      "inicio": 27.2,
+      "fin": 27.84
+    },
+    {
+      "texto": "les",
+      "inicio": 27.92,
+      "fin": 28
+    },
+    {
+      "texto": "cuesta",
+      "inicio": 28.04,
+      "fin": 28.32
+    },
+    {
+      "texto": "más",
+      "inicio": 28.4,
+      "fin": 28.56
+    },
+    {
+      "texto": "saber",
+      "inicio": 28.6,
+      "fin": 28.8
+    },
+    {
+      "texto": "si",
+      "inicio": 28.88,
+      "fin": 28.96
+    },
+    {
+      "texto": "los",
+      "inicio": 29.04,
+      "fin": 29.12
+    },
+    {
+      "texto": "nombres",
+      "inicio": 29.2,
+      "fin": 29.44
+    },
+    {
+      "texto": "de",
+      "inicio": 29.52,
+      "fin": 29.6
+    },
+    {
+      "texto": "dos",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "texto": "dibujos",
+      "inicio": 29.813,
+      "fin": 30.16
+    },
+    {
+      "texto": "riman.",
+      "inicio": 30.28,
+      "fin": 30.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 30.84,
+      "fin": 30.88
+    },
+    {
+      "texto": "recordar",
+      "inicio": 30.96,
+      "fin": 31.36
+    },
+    {
+      "texto": "una",
+      "inicio": 31.44,
+      "fin": 31.52
+    },
+    {
+      "texto": "lista",
+      "inicio": 31.6,
+      "fin": 31.84
+    },
+    {
+      "texto": "de",
+      "inicio": 31.92,
+      "fin": 32
+    },
+    {
+      "texto": "palabras.",
+      "inicio": 32.04,
+      "fin": 32.88
+    },
+    {
+      "texto": "Pero",
+      "inicio": 32.933,
+      "fin": 33.04
+    },
+    {
+      "texto": "si",
+      "inicio": 33.12,
+      "fin": 33.2
+    },
+    {
+      "texto": "hablan",
+      "inicio": 33.28,
+      "fin": 33.44
+    },
+    {
+      "texto": "en",
+      "inicio": 33.52,
+      "fin": 33.6
+    },
+    {
+      "texto": "voz",
+      "inicio": 33.64,
+      "fin": 33.76
+    },
+    {
+      "texto": "alta,",
+      "inicio": 33.92,
+      "fin": 34.24
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.28,
+      "fin": 34.32
+    },
+    {
+      "texto": "hacen",
+      "inicio": 34.4,
+      "fin": 34.64
+    },
+    {
+      "texto": "igual",
+      "inicio": 34.72,
+      "fin": 34.88
+    },
+    {
+      "texto": "de",
+      "inicio": 34.96,
+      "fin": 35
+    },
+    {
+      "texto": "bien.",
+      "inicio": 35.04,
+      "fin": 35.76
+    },
+    {
+      "texto": "¿Por",
+      "inicio": 35.813,
+      "fin": 35.92
+    },
+    {
+      "texto": "qué",
+      "inicio": 35.96,
+      "fin": 36
+    },
+    {
+      "texto": "les",
+      "inicio": 36.12,
+      "fin": 36.24
+    },
+    {
+      "texto": "pasa?",
+      "inicio": 36.347,
+      "fin": 37.04
+    },
+    {
+      "texto": "Aún",
+      "inicio": 37.12,
+      "fin": 37.28
+    },
+    {
+      "texto": "no",
+      "inicio": 37.36,
+      "fin": 37.44
+    },
+    {
+      "texto": "se",
+      "inicio": 37.52,
+      "fin": 37.6
+    },
+    {
+      "texto": "sabe.",
+      "inicio": 37.68,
+      "fin": 38.32
+    },
+    {
+      "texto": "Puede",
+      "inicio": 38.373,
+      "fin": 38.48
+    },
+    {
+      "texto": "que",
+      "inicio": 38.56,
+      "fin": 38.64
+    },
+    {
+      "texto": "su",
+      "inicio": 38.68,
+      "fin": 38.72
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 38.8,
+      "fin": 39.2
+    },
+    {
+      "texto": "use",
+      "inicio": 39.32,
+      "fin": 39.44
+    },
+    {
+      "texto": "palabras",
+      "inicio": 39.52,
+      "fin": 39.92
+    },
+    {
+      "texto": "sin",
+      "inicio": 40,
+      "fin": 40.08
+    },
+    {
+      "texto": "oírlas,",
+      "inicio": 40.12,
+      "fin": 40.72
+    },
+    {
+      "texto": "o",
+      "inicio": 40.76,
+      "fin": 40.8
+    },
+    {
+      "texto": "que",
+      "inicio": 40.88,
+      "fin": 41.04
+    },
+    {
+      "texto": "piense",
+      "inicio": 41.12,
+      "fin": 41.44
+    },
+    {
+      "texto": "de",
+      "inicio": 41.48,
+      "fin": 41.52
+    },
+    {
+      "texto": "otra",
+      "inicio": 41.6,
+      "fin": 41.76
+    },
+    {
+      "texto": "forma.",
+      "inicio": 41.84,
+      "fin": 42.48
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.56,
+      "fin": 42.68
+    },
+    {
+      "texto": "que",
+      "inicio": 42.72,
+      "fin": 42.88
+    },
+    {
+      "texto": "no",
+      "inicio": 43.12,
+      "fin": 43.2
+    },
+    {
+      "texto": "es",
+      "inicio": 43.28,
+      "fin": 43.36
+    },
+    {
+      "texto": "que",
+      "inicio": 43.4,
+      "fin": 43.44
+    },
+    {
+      "texto": "no",
+      "inicio": 43.52,
+      "fin": 43.6
+    },
+    {
+      "texto": "piensen:",
+      "inicio": 43.64,
+      "fin": 44.32
+    },
+    {
+      "texto": "es",
+      "inicio": 44.4,
+      "fin": 44.48
+    },
+    {
+      "texto": "que",
+      "inicio": 44.56,
+      "fin": 44.64
+    },
+    {
+      "texto": "piensan",
+      "inicio": 44.68,
+      "fin": 45.04
+    },
+    {
+      "texto": "en",
+      "inicio": 45.12,
+      "fin": 45.28
+    },
+    {
+      "texto": "silencio.",
+      "inicio": 45.36,
+      "fin": 46.4
+    },
+    {
+      "texto": "Síguenos,",
+      "inicio": 46.44,
+      "fin": 47.12
+    },
+    {
+      "texto": "o",
+      "inicio": 47.2,
+      "fin": 47.24
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 47.28,
+      "fin": 47.76
+    },
+    {
+      "texto": "a",
+      "inicio": 47.8,
+      "fin": 47.84
+    },
+    {
+      "texto": "ese",
+      "inicio": 47.92,
+      "fin": 48
+    },
+    {
+      "texto": "amigo",
+      "inicio": 48.08,
+      "fin": 48.32
+    },
+    {
+      "texto": "que",
+      "inicio": 48.4,
+      "fin": 48.48
+    },
+    {
+      "texto": "no",
+      "inicio": 48.56,
+      "fin": 48.64
+    },
+    {
+      "texto": "se",
+      "inicio": 48.72,
+      "fin": 48.88
+    },
+    {
+      "texto": "calla",
+      "inicio": 49,
+      "fin": 49.2
+    },
+    {
+      "texto": "ni",
+      "inicio": 49.28,
+      "fin": 49.44
+    },
+    {
+      "texto": "por",
+      "inicio": 49.52,
+      "fin": 49.6
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 49.68,
+      "fin": 50.24
+    }
+  ]
+}
