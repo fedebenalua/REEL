@@ -1,0 +1,1261 @@
+{
+  "firma": "f0fdc5bc062c",
+  "duracion": 60.48,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Qué pasaría si una tormenta solar dejara a toda la humanidad sin electricidad?",
+      "clave": "electricidad",
+      "inicio": 0,
+      "fin": 4.8
+    },
+    {
+      "n": 2,
+      "texto": "En 1859 ya pasó: el cielo se llenó de auroras y los telégrafos echaron chispas.",
+      "clave": "chispas",
+      "inicio": 4.88,
+      "fin": 11.6
+    },
+    {
+      "n": 3,
+      "texto": "La nube del Sol sacude el campo magnético de la Tierra, y eso mete corriente en los cables largos.",
+      "clave": "cables",
+      "inicio": 11.64,
+      "fin": 17.2
+    },
+    {
+      "n": 4,
+      "texto": "Hoy son los de la luz: esa corriente llega a los transformadores y los recalienta.",
+      "clave": "transformadores",
+      "inicio": 17.24,
+      "fin": 22.48
+    },
+    {
+      "n": 5,
+      "texto": "En 1989, Quebec se quedó a oscuras en menos de dos minutos: seis millones de personas.",
+      "clave": "Quebec",
+      "inicio": 22.56,
+      "fin": 29.36
+    },
+    {
+      "n": 6,
+      "texto": "Y en 2012, una nube igual de fuerte cruzó la órbita de la Tierra: nueve días antes, nos habría dado.",
+      "clave": "órbita",
+      "inicio": 29.4,
+      "fin": 35.84
+    },
+    {
+      "n": 7,
+      "texto": "¿Toda la humanidad a oscuras? Los estudios dicen que no: el peligro está sobre todo en las redes cerca de los polos.",
+      "clave": "polos",
+      "inicio": 36.16,
+      "fin": 42.96
+    },
+    {
+      "n": 8,
+      "texto": "Además, hay aviso: los satélites ven salir la nube horas o días antes, y las eléctricas se preparan.",
+      "clave": "aviso",
+      "inicio": 43.04,
+      "fin": 49.36
+    },
+    {
+      "n": 9,
+      "texto": "Así que lo más probable no es un mundo apagado: son apagones en algunas zonas, y auroras que veríamos desde España.",
+      "clave": "España",
+      "inicio": 49.44,
+      "fin": 56.8
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que guarda velas por si acaso.",
+      "clave": "velas",
+      "inicio": 56.92,
+      "fin": 59.68
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Qué",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "pasaría",
+      "inicio": 0.24,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 0.72,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 0.88,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tormenta",
+      "inicio": 1.04,
+      "fin": 1.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "solar",
+      "inicio": 1.52,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "dejara",
+      "inicio": 1.92,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 2.28,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "toda",
+      "inicio": 2.48,
+      "fin": 2.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 2.76,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "humanidad",
+      "inicio": 2.92,
+      "fin": 3.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 3.44,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "electricidad?",
+      "inicio": 3.6,
+      "fin": 4.8,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 4.88,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "1859",
+      "inicio": 5.04,
+      "fin": 6.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 6.64,
+      "fin": 6.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pasó:",
+      "inicio": 6.88,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 7.68,
+      "fin": 7.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cielo",
+      "inicio": 7.84,
+      "fin": 8.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 8.16,
+      "fin": 8.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "llenó",
+      "inicio": 8.32,
+      "fin": 8.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 8.52,
+      "fin": 8.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "auroras",
+      "inicio": 8.64,
+      "fin": 9.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 9.2,
+      "fin": 9.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 9.36,
+      "fin": 9.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "telégrafos",
+      "inicio": 9.52,
+      "fin": 10,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "echaron",
+      "inicio": 10.08,
+      "fin": 10.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "chispas.",
+      "inicio": 10.56,
+      "fin": 11.6,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "La",
+      "inicio": 11.64,
+      "fin": 11.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "nube",
+      "inicio": 11.76,
+      "fin": 11.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 12,
+      "fin": 12.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Sol",
+      "inicio": 12.16,
+      "fin": 12.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sacude",
+      "inicio": 12.4,
+      "fin": 12.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 12.8,
+      "fin": 12.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "campo",
+      "inicio": 13,
+      "fin": 13.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "magnético",
+      "inicio": 13.2,
+      "fin": 13.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.68,
+      "fin": 13.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13.76,
+      "fin": 13.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Tierra,",
+      "inicio": 13.84,
+      "fin": 14.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 14.56,
+      "fin": 14.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 14.8,
+      "fin": 14.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mete",
+      "inicio": 15.04,
+      "fin": 15.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "corriente",
+      "inicio": 15.28,
+      "fin": 15.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 15.72,
+      "fin": 15.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 15.84,
+      "fin": 15.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cables",
+      "inicio": 16,
+      "fin": 16.24,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "largos.",
+      "inicio": 16.32,
+      "fin": 17.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Hoy",
+      "inicio": 17.24,
+      "fin": 17.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 17.68,
+      "fin": 17.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 17.92,
+      "fin": 18,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 18.04,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.12,
+      "fin": 18.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "luz:",
+      "inicio": 18.24,
+      "fin": 18.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 19.04,
+      "fin": 19.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "corriente",
+      "inicio": 19.2,
+      "fin": 19.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 19.68,
+      "fin": 19.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 19.947,
+      "fin": 19.973,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 20,
+      "fin": 20.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "transformadores",
+      "inicio": 20.16,
+      "fin": 20.96,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 21.04,
+      "fin": 21.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 21.16,
+      "fin": 21.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "recalienta.",
+      "inicio": 21.28,
+      "fin": 22.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 22.56,
+      "fin": 22.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "1989,",
+      "inicio": 22.68,
+      "fin": 24.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Quebec",
+      "inicio": 24.32,
+      "fin": 24.64,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "se",
+      "inicio": 24.72,
+      "fin": 24.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "quedó",
+      "inicio": 24.853,
+      "fin": 25,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 25.04,
+      "fin": 25.093,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "oscuras",
+      "inicio": 25.147,
+      "fin": 25.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 25.52,
+      "fin": 25.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 25.76,
+      "fin": 25.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 26,
+      "fin": 26.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 26.16,
+      "fin": 26.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "minutos:",
+      "inicio": 26.4,
+      "fin": 27.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 27.36,
+      "fin": 27.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 27.76,
+      "fin": 28.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 28.2,
+      "fin": 28.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "personas.",
+      "inicio": 28.32,
+      "fin": 29.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 29.4,
+      "fin": 29.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 29.48,
+      "fin": 29.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "2012,",
+      "inicio": 29.6,
+      "fin": 30.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 30.56,
+      "fin": 30.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nube",
+      "inicio": 30.72,
+      "fin": 30.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "igual",
+      "inicio": 30.96,
+      "fin": 31.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 31.28,
+      "fin": 31.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "fuerte",
+      "inicio": 31.44,
+      "fin": 31.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cruzó",
+      "inicio": 31.76,
+      "fin": 32.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 32.12,
+      "fin": 32.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "órbita",
+      "inicio": 32.24,
+      "fin": 32.56,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 32.6,
+      "fin": 32.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 32.68,
+      "fin": 32.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Tierra:",
+      "inicio": 32.8,
+      "fin": 33.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nueve",
+      "inicio": 33.6,
+      "fin": 33.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "días",
+      "inicio": 33.92,
+      "fin": 34.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "antes,",
+      "inicio": 34.24,
+      "fin": 34.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 34.8,
+      "fin": 34.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "habría",
+      "inicio": 34.96,
+      "fin": 35.2,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dado.",
+      "inicio": 35.28,
+      "fin": 35.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "¿Toda",
+      "inicio": 36.16,
+      "fin": 36.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 36.44,
+      "fin": 36.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "humanidad",
+      "inicio": 36.6,
+      "fin": 36.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 37,
+      "fin": 37.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "oscuras?",
+      "inicio": 37.12,
+      "fin": 37.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Los",
+      "inicio": 38.16,
+      "fin": 38.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "estudios",
+      "inicio": 38.32,
+      "fin": 38.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dicen",
+      "inicio": 38.8,
+      "fin": 39.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 39.12,
+      "fin": 39.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no:",
+      "inicio": 39.2,
+      "fin": 39.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.84,
+      "fin": 39.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "peligro",
+      "inicio": 39.96,
+      "fin": 40.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "está",
+      "inicio": 40.4,
+      "fin": 40.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sobre",
+      "inicio": 40.6,
+      "fin": 40.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 40.88,
+      "fin": 41.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 41.12,
+      "fin": 41.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 41.28,
+      "fin": 41.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "redes",
+      "inicio": 41.44,
+      "fin": 41.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cerca",
+      "inicio": 41.76,
+      "fin": 41.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42,
+      "fin": 42.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 42.12,
+      "fin": 42.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "polos.",
+      "inicio": 42.24,
+      "fin": 42.96,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Además,",
+      "inicio": 43.04,
+      "fin": 43.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 43.68,
+      "fin": 43.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "aviso:",
+      "inicio": 43.84,
+      "fin": 44.56,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "los",
+      "inicio": 44.64,
+      "fin": 44.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "satélites",
+      "inicio": 44.8,
+      "fin": 45.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ven",
+      "inicio": 45.36,
+      "fin": 45.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "salir",
+      "inicio": 45.52,
+      "fin": 45.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 45.8,
+      "fin": 45.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nube",
+      "inicio": 45.92,
+      "fin": 46.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "horas",
+      "inicio": 46.24,
+      "fin": 46.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 46.64,
+      "fin": 46.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "días",
+      "inicio": 46.72,
+      "fin": 46.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "antes,",
+      "inicio": 47.04,
+      "fin": 47.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 47.56,
+      "fin": 47.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 47.68,
+      "fin": 47.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "eléctricas",
+      "inicio": 47.8,
+      "fin": 48.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 48.32,
+      "fin": 48.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "preparan.",
+      "inicio": 48.48,
+      "fin": 49.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 49.44,
+      "fin": 49.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 49.6,
+      "fin": 49.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 49.92,
+      "fin": 50,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 50.04,
+      "fin": 50.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "probable",
+      "inicio": 50.24,
+      "fin": 50.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 50.8,
+      "fin": 50.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 51.04,
+      "fin": 51.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 51.2,
+      "fin": 51.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mundo",
+      "inicio": 51.36,
+      "fin": 51.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "apagado:",
+      "inicio": 51.6,
+      "fin": 52.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "son",
+      "inicio": 52.4,
+      "fin": 52.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "apagones",
+      "inicio": 52.72,
+      "fin": 53.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 53.4,
+      "fin": 53.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "algunas",
+      "inicio": 53.52,
+      "fin": 53.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "zonas,",
+      "inicio": 53.92,
+      "fin": 54.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 54.44,
+      "fin": 54.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "auroras",
+      "inicio": 54.6,
+      "fin": 55.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 55.12,
+      "fin": 55.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "veríamos",
+      "inicio": 55.28,
+      "fin": 55.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 55.76,
+      "fin": 55.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "España.",
+      "inicio": 55.92,
+      "fin": 56.8,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 56.92,
+      "fin": 57.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 57.4,
+      "fin": 57.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 57.52,
+      "fin": 57.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 57.68,
+      "fin": 57.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 58,
+      "fin": 58.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "guarda",
+      "inicio": 58.16,
+      "fin": 58.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "velas",
+      "inicio": 58.48,
+      "fin": 58.72,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "por",
+      "inicio": 58.8,
+      "fin": 58.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 58.96,
+      "fin": 59.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "acaso.",
+      "inicio": 59.12,
+      "fin": 59.68,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

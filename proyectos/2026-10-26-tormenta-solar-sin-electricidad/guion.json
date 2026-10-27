@@ -1,0 +1,52 @@
+{
+  "titulo": "¿Qué pasaría si una tormenta solar dejara a toda la humanidad sin electricidad?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Qué pasaría si una tormenta solar dejara a toda la humanidad sin electricidad?",
+      "clave": "electricidad",
+      "hook": true
+    },
+    {
+      "texto": "En 1859 ya pasó: el cielo se llenó de auroras y los telégrafos echaron chispas.",
+      "dicho": "En mil ochocientos cincuenta y nueve ya pasó: el cielo se llenó de auroras y los telégrafos echaron chispas.",
+      "clave": "chispas",
+      "hook": true
+    },
+    {
+      "texto": "La nube del Sol sacude el campo magnético de la Tierra, y eso mete corriente en los cables largos.",
+      "clave": "cables"
+    },
+    {
+      "texto": "Hoy son los de la luz: esa corriente llega a los transformadores y los recalienta.",
+      "clave": "transformadores"
+    },
+    {
+      "texto": "En 1989, Quebec se quedó a oscuras en menos de dos minutos: seis millones de personas.",
+      "dicho": "En mil novecientos ochenta y nueve, Quebec se quedó a oscuras en menos de dos minutos: seis millones de personas.",
+      "clave": "Quebec"
+    },
+    {
+      "texto": "Y en 2012, una nube igual de fuerte cruzó la órbita de la Tierra: nueve días antes, nos habría dado.",
+      "dicho": "Y en dos mil doce, una nube igual de fuerte cruzó la órbita de la Tierra: nueve días antes, nos habría dado.",
+      "clave": "órbita"
+    },
+    {
+      "texto": "¿Toda la humanidad a oscuras? Los estudios dicen que no: el peligro está sobre todo en las redes cerca de los polos.",
+      "clave": "polos"
+    },
+    {
+      "texto": "Además, hay aviso: los satélites ven salir la nube horas o días antes, y las eléctricas se preparan.",
+      "clave": "aviso"
+    },
+    {
+      "texto": "Así que lo más probable no es un mundo apagado: son apagones en algunas zonas, y auroras que veríamos desde España.",
+      "clave": "España"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que guarda velas por si acaso.",
+      "clave": "velas"
+    }
+  ]
+}
