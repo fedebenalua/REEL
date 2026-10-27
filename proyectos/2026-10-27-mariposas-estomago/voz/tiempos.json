@@ -1,0 +1,1233 @@
+{
+  "firma": "3d964f2aebcd",
+  "duracion": 54.64,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué los humanos sentimos mariposas en el estómago cuando nos enamoramos?",
+      "clave": "mariposas",
+      "inicio": 0,
+      "fin": 4.24
+    },
+    {
+      "n": 2,
+      "texto": "No hay ninguna mariposa: es una alarma.",
+      "clave": "alarma",
+      "inicio": 4.32,
+      "fin": 7
+    },
+    {
+      "n": 3,
+      "texto": "La misma que te salta justo antes de hablar en público.",
+      "clave": "público",
+      "inicio": 7.28,
+      "fin": 10.4
+    },
+    {
+      "n": 4,
+      "texto": "El cuerpo suelta adrenalina y aparta la digestión, para darle la sangre a los músculos.",
+      "clave": "sangre",
+      "inicio": 10.44,
+      "fin": 15.44
+    },
+    {
+      "n": 5,
+      "texto": "Como si apagaras el fuego porque llaman a la puerta.",
+      "clave": "fuego",
+      "inicio": 15.52,
+      "fin": 18.16
+    },
+    {
+      "n": 6,
+      "texto": "Y en la tripa, esa alerta saca olas.",
+      "clave": "olas",
+      "inicio": 18.2,
+      "fin": 21.04
+    },
+    {
+      "n": 7,
+      "texto": "Esa sacudida es lo que llamas mariposas.",
+      "clave": "sacudida",
+      "inicio": 21.08,
+      "fin": 23.68
+    },
+    {
+      "n": 8,
+      "texto": "La tripa las hace sola, con cerca de ciento setenta millones de neuronas.",
+      "clave": "millones",
+      "inicio": 23.72,
+      "fin": 28.48
+    },
+    {
+      "n": 9,
+      "texto": "Tu médula espinal tiene unas doscientas veinte.",
+      "clave": "veinte",
+      "inicio": 28.56,
+      "fin": 31.44
+    },
+    {
+      "n": 10,
+      "texto": "En un estudio, veinticuatro personas llevaban menos de seis meses enamoradas.",
+      "clave": "seis",
+      "inicio": 31.48,
+      "fin": 36.08
+    },
+    {
+      "n": 11,
+      "texto": "Tenían un cuarenta por ciento más de cortisol, la hormona del estrés.",
+      "clave": "cuarenta",
+      "inicio": 36.16,
+      "fin": 40.16
+    },
+    {
+      "n": 12,
+      "texto": "Uno o dos años después, ya estaba igual que el de los demás.",
+      "clave": "años",
+      "inicio": 40.24,
+      "fin": 43.76
+    },
+    {
+      "n": 13,
+      "texto": "Así que no es el amor en el estómago: es el cuerpo en alerta, y esa alerta se pasa.",
+      "clave": "pasa",
+      "inicio": 43.84,
+      "fin": 49.84
+    },
+    {
+      "n": 14,
+      "texto": "Síguenos, o envíaselo a ese amigo al que se le encoge la tripa en cada cita.",
+      "clave": "cita",
+      "inicio": 49.92,
+      "fin": 53.84
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.32,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "humanos",
+      "inicio": 0.56,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sentimos",
+      "inicio": 0.92,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mariposas",
+      "inicio": 1.36,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 2,
+      "fin": 2.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 2.08,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "estómago",
+      "inicio": 2.28,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.72,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 3.04,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "enamoramos?",
+      "inicio": 3.2,
+      "fin": 4.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 4.32,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 4.44,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ninguna",
+      "inicio": 4.56,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mariposa:",
+      "inicio": 4.88,
+      "fin": 5.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 5.92,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 6.08,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "alarma.",
+      "inicio": 6.24,
+      "fin": 7,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "La",
+      "inicio": 7.28,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "misma",
+      "inicio": 7.44,
+      "fin": 7.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 7.68,
+      "fin": 7.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 7.8,
+      "fin": 7.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "salta",
+      "inicio": 7.92,
+      "fin": 8.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 8.32,
+      "fin": 8.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 8.72,
+      "fin": 8.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.04,
+      "fin": 9.067,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hablar",
+      "inicio": 9.093,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 9.36,
+      "fin": 9.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "público.",
+      "inicio": 9.493,
+      "fin": 10.4,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 10.44,
+      "fin": 10.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo",
+      "inicio": 10.56,
+      "fin": 10.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 10.92,
+      "fin": 11.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "adrenalina",
+      "inicio": 11.28,
+      "fin": 11.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 11.92,
+      "fin": 12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "aparta",
+      "inicio": 12.08,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 12.44,
+      "fin": 12.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "digestión,",
+      "inicio": 12.64,
+      "fin": 13.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 13.36,
+      "fin": 13.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "darle",
+      "inicio": 13.52,
+      "fin": 13.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 13.8,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sangre",
+      "inicio": 13.92,
+      "fin": 14.16,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "a",
+      "inicio": 14.24,
+      "fin": 14.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 14.32,
+      "fin": 14.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "músculos.",
+      "inicio": 14.48,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Como",
+      "inicio": 15.52,
+      "fin": 15.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 15.68,
+      "fin": 15.76,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "apagaras",
+      "inicio": 15.8,
+      "fin": 16.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 16.2,
+      "fin": 16.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "fuego",
+      "inicio": 16.32,
+      "fin": 16.56,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "porque",
+      "inicio": 16.64,
+      "fin": 16.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "llaman",
+      "inicio": 16.92,
+      "fin": 17.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 17.16,
+      "fin": 17.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 17.24,
+      "fin": 17.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "puerta.",
+      "inicio": 17.36,
+      "fin": 18.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 18.2,
+      "fin": 18.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 18.28,
+      "fin": 18.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.4,
+      "fin": 18.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tripa,",
+      "inicio": 18.48,
+      "fin": 19.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 19.16,
+      "fin": 19.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "alerta",
+      "inicio": 19.44,
+      "fin": 19.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "saca",
+      "inicio": 19.84,
+      "fin": 20.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "olas.",
+      "inicio": 20.36,
+      "fin": 21.04,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Esa",
+      "inicio": 21.08,
+      "fin": 21.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sacudida",
+      "inicio": 21.28,
+      "fin": 21.76,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "es",
+      "inicio": 21.84,
+      "fin": 22,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 22.04,
+      "fin": 22.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 22.12,
+      "fin": 22.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "llamas",
+      "inicio": 22.24,
+      "fin": 22.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mariposas.",
+      "inicio": 22.56,
+      "fin": 23.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 23.72,
+      "fin": 23.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tripa",
+      "inicio": 23.84,
+      "fin": 24.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 24.32,
+      "fin": 24.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 24.533,
+      "fin": 24.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "sola,",
+      "inicio": 24.72,
+      "fin": 25.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 25.36,
+      "fin": 25.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cerca",
+      "inicio": 25.52,
+      "fin": 25.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.76,
+      "fin": 25.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 26,
+      "fin": 26.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "setenta",
+      "inicio": 26.48,
+      "fin": 26.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 27.04,
+      "fin": 27.36,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 27.44,
+      "fin": 27.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "neuronas.",
+      "inicio": 27.52,
+      "fin": 28.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Tu",
+      "inicio": 28.56,
+      "fin": 28.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "médula",
+      "inicio": 28.72,
+      "fin": 28.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "espinal",
+      "inicio": 28.96,
+      "fin": 29.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 29.36,
+      "fin": 29.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "unas",
+      "inicio": 29.6,
+      "fin": 29.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "doscientas",
+      "inicio": 29.88,
+      "fin": 30.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "veinte.",
+      "inicio": 30.32,
+      "fin": 31.44,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 31.48,
+      "fin": 31.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 31.6,
+      "fin": 31.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "estudio,",
+      "inicio": 31.68,
+      "fin": 32.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "veinticuatro",
+      "inicio": 32.32,
+      "fin": 32.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "personas",
+      "inicio": 32.96,
+      "fin": 33.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "llevaban",
+      "inicio": 33.413,
+      "fin": 33.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 33.84,
+      "fin": 34.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 34.16,
+      "fin": 34.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 34.32,
+      "fin": 34.56,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "meses",
+      "inicio": 34.72,
+      "fin": 34.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "enamoradas.",
+      "inicio": 35.04,
+      "fin": 36.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Tenían",
+      "inicio": 36.16,
+      "fin": 36.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 36.48,
+      "fin": 36.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 36.64,
+      "fin": 37.04,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "por",
+      "inicio": 37.12,
+      "fin": 37.2,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 37.28,
+      "fin": 37.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 37.6,
+      "fin": 37.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 37.76,
+      "fin": 37.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "cortisol,",
+      "inicio": 37.88,
+      "fin": 38.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 38.6,
+      "fin": 38.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "hormona",
+      "inicio": 38.72,
+      "fin": 38.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 39.04,
+      "fin": 39.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "estrés.",
+      "inicio": 39.2,
+      "fin": 40.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Uno",
+      "inicio": 40.24,
+      "fin": 40.4,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 40.48,
+      "fin": 40.52,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 40.56,
+      "fin": 40.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "años",
+      "inicio": 40.8,
+      "fin": 40.96,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "después,",
+      "inicio": 41.04,
+      "fin": 41.6,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 41.68,
+      "fin": 41.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "estaba",
+      "inicio": 41.84,
+      "fin": 42.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "igual",
+      "inicio": 42.16,
+      "fin": 42.4,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.44,
+      "fin": 42.48,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 42.52,
+      "fin": 42.56,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.64,
+      "fin": 42.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 42.72,
+      "fin": 42.8,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "demás.",
+      "inicio": 42.88,
+      "fin": 43.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 43.84,
+      "fin": 44,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 44.08,
+      "fin": 44.16,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 44.32,
+      "fin": 44.48,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 44.6,
+      "fin": 44.72,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 44.76,
+      "fin": 44.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "amor",
+      "inicio": 44.88,
+      "fin": 45.04,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 45.12,
+      "fin": 45.2,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 45.24,
+      "fin": 45.28,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "estómago:",
+      "inicio": 45.36,
+      "fin": 46.08,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 46.16,
+      "fin": 46.24,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 46.32,
+      "fin": 46.4,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo",
+      "inicio": 46.48,
+      "fin": 46.8,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 46.84,
+      "fin": 46.88,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "alerta,",
+      "inicio": 46.96,
+      "fin": 47.68,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 47.76,
+      "fin": 47.84,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "esa",
+      "inicio": 47.92,
+      "fin": 48,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "alerta",
+      "inicio": 48.08,
+      "fin": 48.48,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 48.64,
+      "fin": 48.72,
+      "frase": 13,
+      "clave": false
+    },
+    {
+      "texto": "pasa.",
+      "inicio": 48.8,
+      "fin": 49.84,
+      "frase": 13,
+      "clave": true
+    },
+    {
+      "texto": "Síguenos,",
+      "inicio": 49.92,
+      "fin": 50.56,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 50.6,
+      "fin": 50.64,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 50.72,
+      "fin": 51.2,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 51.24,
+      "fin": 51.28,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 51.36,
+      "fin": 51.44,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 51.52,
+      "fin": 51.76,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 51.84,
+      "fin": 51.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 51.96,
+      "fin": 52,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 52.04,
+      "fin": 52.08,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 52.12,
+      "fin": 52.16,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "encoge",
+      "inicio": 52.24,
+      "fin": 52.48,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 52.56,
+      "fin": 52.64,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "tripa",
+      "inicio": 52.76,
+      "fin": 52.92,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 52.96,
+      "fin": 53.04,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 53.093,
+      "fin": 53.2,
+      "frase": 14,
+      "clave": false
+    },
+    {
+      "texto": "cita.",
+      "inicio": 53.28,
+      "fin": 53.84,
+      "frase": 14,
+      "clave": true
+    }
+  ]
+}

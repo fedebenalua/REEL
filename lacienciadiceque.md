@@ -131,3 +131,4 @@ Cuando se acaben los 100, la automatización para: no se inventan temas para est
 4. Sin voz interior (piensan en silencio) — `salida/2026-10-27-sin-voz-interior` — 2026-10-27
 5. Dos narices (ilusión de Aristóteles) — `salida/2026-10-26-dos-narices-aristoteles` — 2026-10-27
 6. Una promesa de cada partido para el 29N — `salida/2026-10-27-una-promesa-cada-partido-29n` — 2026-10-27
+7. Mariposas en el estómago (es una alarma) — `salida/2026-10-27-mariposas-estomago` — 2026-10-27

@@ -1,0 +1,21 @@
+{
+  "titulo": "¿Por qué los humanos sentimos mariposas en el estómago cuando nos enamoramos?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué los humanos sentimos mariposas en el estómago cuando nos enamoramos?", "clave": "mariposas", "hook": true },
+    { "texto": "No hay ninguna mariposa: es una alarma.", "clave": "alarma", "hook": true },
+    { "texto": "La misma que te salta justo antes de hablar en público.", "clave": "público" },
+    { "texto": "El cuerpo suelta adrenalina y aparta la digestión, para darle la sangre a los músculos.", "clave": "sangre" },
+    { "texto": "Como si apagaras el fuego porque llaman a la puerta.", "clave": "fuego" },
+    { "texto": "Y en la tripa, esa alerta saca olas.", "clave": "olas" },
+    { "texto": "Esa sacudida es lo que llamas mariposas.", "clave": "sacudida" },
+    { "texto": "La tripa las hace sola, con cerca de ciento setenta millones de neuronas.", "clave": "millones" },
+    { "texto": "Tu médula espinal tiene unas doscientas veinte.", "clave": "veinte" },
+    { "texto": "En un estudio, veinticuatro personas llevaban menos de seis meses enamoradas.", "clave": "seis" },
+    { "texto": "Tenían un cuarenta por ciento más de cortisol, la hormona del estrés.", "clave": "cuarenta" },
+    { "texto": "Uno o dos años después, ya estaba igual que el de los demás.", "clave": "años" },
+    { "texto": "Así que no es el amor en el estómago: es el cuerpo en alerta, y esa alerta se pasa.", "clave": "pasa" },
+    { "texto": "Síguenos, o envíaselo a ese amigo al que se le encoge la tripa en cada cita.", "clave": "cita" }
+  ]
+}
