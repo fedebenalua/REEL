@@ -1,0 +1,1149 @@
+{
+  "firma": "cfdd825188ac",
+  "duracion": 53.44,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué septiembre significa siete si es el noveno mes del año?",
+      "clave": "siete",
+      "inicio": 0,
+      "fin": 3.64
+    },
+    {
+      "n": 2,
+      "texto": "Y no es el único: octubre es ocho, noviembre nueve y diciembre diez.",
+      "clave": "diez",
+      "inicio": 3.84,
+      "fin": 8.88
+    },
+    {
+      "n": 3,
+      "texto": "Todos fallan justo por dos, y la culpa es de los romanos.",
+      "clave": "romanos",
+      "inicio": 9.04,
+      "fin": 12.68
+    },
+    {
+      "n": 4,
+      "texto": "Para ellos, el año empezaba en marzo, con la primavera.",
+      "clave": "marzo",
+      "inicio": 12.96,
+      "fin": 15.76
+    },
+    {
+      "n": 5,
+      "texto": "Cuenta siete desde marzo y caes justo en septiembre.",
+      "clave": "septiembre",
+      "inicio": 16.24,
+      "fin": 19.36
+    },
+    {
+      "n": 6,
+      "texto": "Y según contaban ellos, al principio el año tenía solo diez meses: el invierno ni se contaba.",
+      "clave": "invierno",
+      "inicio": 19.92,
+      "fin": 25.36
+    },
+    {
+      "n": 7,
+      "texto": "Luego metieron enero y febrero, y el año pasó a empezar en enero.",
+      "clave": "enero",
+      "inicio": 25.84,
+      "fin": 29.44
+    },
+    {
+      "n": 8,
+      "texto": "Pero los nombres se quedaron igual: todos se corrieron dos puestos, y septiembre acabó el noveno.",
+      "clave": "noveno",
+      "inicio": 29.92,
+      "fin": 35.44
+    },
+    {
+      "n": 9,
+      "texto": "Y julio y agosto también eran números: el quinto y el sexto.",
+      "clave": "números",
+      "inicio": 35.92,
+      "fin": 39.6
+    },
+    {
+      "n": 10,
+      "texto": "Hasta que les cambiaron el nombre por Julio César y Augusto.",
+      "clave": "César",
+      "inicio": 40,
+      "fin": 43.36
+    },
+    {
+      "n": 11,
+      "texto": "Así que septiembre no se equivoca: sigue contando desde marzo, como hace más de dos mil años.",
+      "clave": "marzo",
+      "inicio": 43.92,
+      "fin": 49.44
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a ese amigo que cumple años en septiembre.",
+      "clave": "amigo",
+      "inicio": 49.84,
+      "fin": 52.64
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 0.32,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "significa",
+      "inicio": 1,
+      "fin": 1.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 1.52,
+      "fin": 1.92,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "si",
+      "inicio": 2,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 2.24,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 2.36,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "noveno",
+      "inicio": 2.48,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mes",
+      "inicio": 2.88,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 3.04,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "año?",
+      "inicio": 3.2,
+      "fin": 3.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 3.84,
+      "fin": 3.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 4,
+      "fin": 4.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 4.12,
+      "fin": 4.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "único:",
+      "inicio": 4.4,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "octubre",
+      "inicio": 5.16,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 5.6,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ocho,",
+      "inicio": 5.76,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "noviembre",
+      "inicio": 6.32,
+      "fin": 6.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "nueve",
+      "inicio": 6.8,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 7.36,
+      "fin": 7.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "diciembre",
+      "inicio": 7.44,
+      "fin": 7.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "diez.",
+      "inicio": 8,
+      "fin": 8.88,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Todos",
+      "inicio": 9.04,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "fallan",
+      "inicio": 9.28,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 9.6,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 10,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dos,",
+      "inicio": 10.16,
+      "fin": 10.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 10.76,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 10.84,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "culpa",
+      "inicio": 10.96,
+      "fin": 11.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 11.52,
+      "fin": 11.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 11.68,
+      "fin": 11.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 11.76,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "romanos.",
+      "inicio": 11.92,
+      "fin": 12.68,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Para",
+      "inicio": 12.96,
+      "fin": 13.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ellos,",
+      "inicio": 13.2,
+      "fin": 13.573,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 13.627,
+      "fin": 13.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "año",
+      "inicio": 13.72,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "empezaba",
+      "inicio": 13.92,
+      "fin": 14.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.36,
+      "fin": 14.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "marzo,",
+      "inicio": 14.48,
+      "fin": 14.96,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "con",
+      "inicio": 15,
+      "fin": 15.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 15.12,
+      "fin": 15.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "primavera.",
+      "inicio": 15.2,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Cuenta",
+      "inicio": 16.24,
+      "fin": 16.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "siete",
+      "inicio": 16.68,
+      "fin": 16.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 17.04,
+      "fin": 17.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "marzo",
+      "inicio": 17.28,
+      "fin": 17.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 17.84,
+      "fin": 17.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "caes",
+      "inicio": 18,
+      "fin": 18.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 18.32,
+      "fin": 18.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 18.64,
+      "fin": 18.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "septiembre.",
+      "inicio": 18.8,
+      "fin": 19.36,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 19.92,
+      "fin": 19.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "según",
+      "inicio": 20,
+      "fin": 20.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "contaban",
+      "inicio": 20.36,
+      "fin": 20.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ellos,",
+      "inicio": 20.72,
+      "fin": 21.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 21.2,
+      "fin": 21.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "principio",
+      "inicio": 21.32,
+      "fin": 21.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 21.84,
+      "fin": 21.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "año",
+      "inicio": 21.96,
+      "fin": 22.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tenía",
+      "inicio": 22.24,
+      "fin": 22.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 22.56,
+      "fin": 22.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 22.88,
+      "fin": 23.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "meses:",
+      "inicio": 23.2,
+      "fin": 23.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 23.88,
+      "fin": 23.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "invierno",
+      "inicio": 24,
+      "fin": 24.4,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "ni",
+      "inicio": 24.56,
+      "fin": 24.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 24.72,
+      "fin": 24.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "contaba.",
+      "inicio": 24.92,
+      "fin": 25.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Luego",
+      "inicio": 25.84,
+      "fin": 26.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "metieron",
+      "inicio": 26.24,
+      "fin": 26.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "enero",
+      "inicio": 26.68,
+      "fin": 26.88,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 26.907,
+      "fin": 26.933,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "febrero,",
+      "inicio": 26.96,
+      "fin": 27.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 27.64,
+      "fin": 27.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 27.72,
+      "fin": 27.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "año",
+      "inicio": 27.84,
+      "fin": 28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pasó",
+      "inicio": 28.08,
+      "fin": 28.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 28.36,
+      "fin": 28.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "empezar",
+      "inicio": 28.44,
+      "fin": 28.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 28.88,
+      "fin": 28.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "enero.",
+      "inicio": 29.04,
+      "fin": 29.44,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Pero",
+      "inicio": 29.92,
+      "fin": 30.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 30.16,
+      "fin": 30.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nombres",
+      "inicio": 30.32,
+      "fin": 30.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 30.68,
+      "fin": 30.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "quedaron",
+      "inicio": 30.8,
+      "fin": 31.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "igual:",
+      "inicio": 31.16,
+      "fin": 31.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 32,
+      "fin": 32.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 32.24,
+      "fin": 32.32,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "corrieron",
+      "inicio": 32.36,
+      "fin": 32.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 32.88,
+      "fin": 33.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "puestos,",
+      "inicio": 33.12,
+      "fin": 33.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 33.8,
+      "fin": 33.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 33.92,
+      "fin": 34.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "acabó",
+      "inicio": 34.48,
+      "fin": 34.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 34.84,
+      "fin": 34.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "noveno.",
+      "inicio": 34.96,
+      "fin": 35.44,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Y",
+      "inicio": 35.92,
+      "fin": 36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "julio",
+      "inicio": 36.08,
+      "fin": 36.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 36.36,
+      "fin": 36.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "agosto",
+      "inicio": 36.48,
+      "fin": 36.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "también",
+      "inicio": 36.88,
+      "fin": 37.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "eran",
+      "inicio": 37.28,
+      "fin": 37.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "números:",
+      "inicio": 37.52,
+      "fin": 38.16,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 38.2,
+      "fin": 38.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "quinto",
+      "inicio": 38.4,
+      "fin": 38.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 38.88,
+      "fin": 38.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39,
+      "fin": 39.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sexto.",
+      "inicio": 39.12,
+      "fin": 39.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Hasta",
+      "inicio": 40,
+      "fin": 40.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 40.24,
+      "fin": 40.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "les",
+      "inicio": 40.4,
+      "fin": 40.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cambiaron",
+      "inicio": 40.56,
+      "fin": 40.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 40.92,
+      "fin": 40.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "nombre",
+      "inicio": 41.04,
+      "fin": 41.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 41.44,
+      "fin": 41.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Julio",
+      "inicio": 41.76,
+      "fin": 42,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "César",
+      "inicio": 42.08,
+      "fin": 42.48,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 42.64,
+      "fin": 42.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Augusto.",
+      "inicio": 42.72,
+      "fin": 43.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 43.92,
+      "fin": 44.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 44.16,
+      "fin": 44.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "septiembre",
+      "inicio": 44.4,
+      "fin": 44.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 45.04,
+      "fin": 45.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 45.2,
+      "fin": 45.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "equivoca:",
+      "inicio": 45.36,
+      "fin": 46.16,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 46.24,
+      "fin": 46.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "contando",
+      "inicio": 46.52,
+      "fin": 46.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 46.96,
+      "fin": 47.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "marzo,",
+      "inicio": 47.2,
+      "fin": 47.6,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "como",
+      "inicio": 47.72,
+      "fin": 47.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 47.92,
+      "fin": 48.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 48.16,
+      "fin": 48.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 48.4,
+      "fin": 48.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 48.56,
+      "fin": 48.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 48.8,
+      "fin": 48.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "años.",
+      "inicio": 49.04,
+      "fin": 49.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 49.84,
+      "fin": 50.4,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 50.44,
+      "fin": 50.48,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.56,
+      "fin": 50.64,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.72,
+      "fin": 50.96,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 51.04,
+      "fin": 51.12,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "cumple",
+      "inicio": 51.2,
+      "fin": 51.36,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "años",
+      "inicio": 51.44,
+      "fin": 51.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 51.72,
+      "fin": 51.76,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "septiembre.",
+      "inicio": 51.84,
+      "fin": 52.64,
+      "frase": 12,
+      "clave": false
+    }
+  ]
+}

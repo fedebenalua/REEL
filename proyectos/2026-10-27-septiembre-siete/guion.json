@@ -1,0 +1,19 @@
+{
+  "titulo": "¿Por qué septiembre significa siete si es el noveno mes del año?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué septiembre significa siete si es el noveno mes del año?", "clave": "siete", "hook": true },
+    { "texto": "Y no es el único: octubre es ocho, noviembre nueve y diciembre diez.", "clave": "diez", "hook": true },
+    { "texto": "Todos fallan justo por dos, y la culpa es de los romanos.", "clave": "romanos" },
+    { "texto": "Para ellos, el año empezaba en marzo, con la primavera.", "clave": "marzo" },
+    { "texto": "Cuenta siete desde marzo y caes justo en septiembre.", "clave": "septiembre" },
+    { "texto": "Y según contaban ellos, al principio el año tenía solo diez meses: el invierno ni se contaba.", "clave": "invierno" },
+    { "texto": "Luego metieron enero y febrero, y el año pasó a empezar en enero.", "clave": "enero" },
+    { "texto": "Pero los nombres se quedaron igual: todos se corrieron dos puestos, y septiembre acabó el noveno.", "clave": "noveno" },
+    { "texto": "Y julio y agosto también eran números: el quinto y el sexto.", "clave": "números" },
+    { "texto": "Hasta que les cambiaron el nombre por Julio César y Augusto.", "clave": "César" },
+    { "texto": "Así que septiembre no se equivoca: sigue contando desde marzo, como hace más de dos mil años.", "clave": "marzo" },
+    { "texto": "Envíaselo a ese amigo que cumple años en septiembre.", "clave": "amigo" }
+  ]
+}

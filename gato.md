@@ -133,5 +133,6 @@ y YouTube Shorts («La Curiosidad NO mató al gato»).
 2. ¿Por qué las cigarras pueden pasar tantos años bajo tierra?
 3. ¿Por qué un coche aparcado al sol puede convertirse en un horno?
 4. ¿Por qué existen baldosas amarillas con relieve en las calles de casi todas las ciudades?
+5. ¿Por qué septiembre significa siete si es el noveno mes del año?
 
 (La lista de lo programado está en `publicados-gato.json`.)
