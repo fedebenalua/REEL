@@ -159,6 +159,7 @@ const plataformas = [];
 if (cfg.cuentas.tiktok) plataformas.push({ platform: "tiktok", accountId: cfg.cuentas.tiktok });
 if (cfg.cuentas.instagram) plataformas.push({ platform: "instagram", accountId: cfg.cuentas.instagram });
 if (cfg.cuentas.youtube) plataformas.push({ platform: "youtube", accountId: cfg.cuentas.youtube, platformSpecificData: { title: titulo, visibility: "public", madeForKids: false } });
+if (cfg.cuentas.twitter) plataformas.push({ platform: "twitter", accountId: cfg.cuentas.twitter });
 
 // ---- subir los archivos a Zernio
 async function subir(ruta, tipo) {

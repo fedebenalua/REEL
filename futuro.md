@@ -1,13 +1,13 @@
-# ¿Qué pasaría si...? (@estoesasiporque en Instagram, @home.diagnosis.ai en TikTok, @estoestasiporque en YouTube)
+# ¿Qué pasaría si...? (@estoesasiporque en Instagram y X, @home.diagnosis.ai en TikTok, @estoestasiporque en YouTube)
 
 Escenarios del futuro: catástrofes naturales, clima, espacio, ciencia e inteligencia artificial. En español de España
-(voz, subtítulos, texto del post y hashtags). Un vídeo cada 6 horas en Instagram Reels, TikTok y YouTube Shorts.
+(voz, subtítulos, texto del post y hashtags). Un vídeo cada 6 horas en Instagram Reels, TikTok, YouTube Shorts y X.
 
-- Se publican solo en esas tres cuentas: `node motor/publicar.mjs <vídeo> --perfil futuro` (el perfil está en
+- Se publican solo en esas cuatro cuentas: `node motor/publicar.mjs <vídeo> --perfil futuro` (el perfil está en
   `zernio.json`; la lista de lo programado, en `publicados-futuro.json`). En Zernio hay dos Instagram @estoesasiporque y
   dos TikTok @home.diagnosis.ai: este perfil usa las conexiones nuevas (`6adfd29d30c6c850815c44f2` y
-  `6adfd263941f50ab4e330085`). No se publican en las cuentas de los otros perfiles, y los de esos perfiles no se
-  publican aquí.
+  `6adfd263941f50ab4e330085`) y X @estoesasiporque (`6ae123cf0e97c7615c86accb`). No se publican en las cuentas de los
+  otros perfiles, y los de esos perfiles no se publican aquí.
 - El primer vídeo se publica en cuanto está hecho. Los siguientes los programa la herramienta, 6 horas después del
   último.
 - Se hacen en el orden de la lista, de arriba abajo: el siguiente es el primer número que no está en «Ya hechos».

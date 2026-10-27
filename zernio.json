@@ -47,7 +47,12 @@
       }
     },
     "lacienciadiceque": {
-      "horasDelDia": [9, 16, 19, 22],
+      "horasDelDia": [
+        9,
+        16,
+        19,
+        22
+      ],
       "cuentas": {
         "tiktok": "6adf4e475643291b531df35e",
         "instagram": "6ade00697eb9b75b0dfeab1e",
@@ -67,7 +72,8 @@
       "cuentas": {
         "tiktok": "6adfd263941f50ab4e330085",
         "instagram": "6adfd29d30c6c850815c44f2",
-        "youtube": "6adfd1f7afeebcabaf31b813"
+        "youtube": "6adfd1f7afeebcabaf31b813",
+        "twitter": "6ae123cf0e97c7615c86accb"
       }
     }
   }
