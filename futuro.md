@@ -132,3 +132,4 @@ Escenarios del futuro: catástrofes naturales, clima, espacio, ciencia e intelig
 (La lista de lo programado está en `publicados-futuro.json`.)
 
 1. ¿Qué pasaría si una tormenta solar dejara a toda la humanidad sin electricidad?
+2. ¿Podría una inteligencia artificial llegar a ser más inteligente que todos los humanos juntos?

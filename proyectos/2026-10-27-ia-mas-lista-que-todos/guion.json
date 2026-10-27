@@ -1,0 +1,55 @@
+{
+  "titulo": "¿Podría una inteligencia artificial llegar a ser más inteligente que todos los humanos juntos?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Podría una inteligencia artificial llegar a ser más inteligente que todos los humanos juntos?",
+      "clave": "juntos",
+      "hook": true
+    },
+    {
+      "texto": "Ya nos gana al ajedrez desde 1997, y al go desde 2016.",
+      "dicho": "Ya nos gana al ajedrez desde mil novecientos noventa y siete, y al go desde dos mil dieciséis.",
+      "clave": "ajedrez",
+      "hook": true
+    },
+    {
+      "texto": "Pero aquellas máquinas solo sabían hacer eso: la del ajedrez no sabría ni freír un huevo.",
+      "clave": "huevo"
+    },
+    {
+      "texto": "Las de ahora hablan de casi todo, y en 2025 una sacó nota de medalla de oro en la Olimpiada de Matemáticas.",
+      "dicho": "Las de ahora hablan de casi todo, y en dos mil veinticinco una sacó nota de medalla de oro en la Olimpiada de Matemáticas.",
+      "clave": "oro"
+    },
+    {
+      "texto": "Eso sí: un centro de datos de IA gasta lo que cien mil casas; tu cerebro, lo que una bombilla.",
+      "dicho": "Eso sí: un centro de datos de i a gasta lo que cien mil casas; tu cerebro, lo que una bombilla.",
+      "clave": "bombilla"
+    },
+    {
+      "texto": "Casi 3.000 expertos dan, de media, un cincuenta por ciento a que hacia 2047 hagan cualquier tarea mejor que nosotros.",
+      "dicho": "Casi tres mil expertos dan, de media, un cincuenta por ciento a que hacia dos mil cuarenta y siete hagan cualquier tarea mejor que nosotros.",
+      "clave": "2047"
+    },
+    {
+      "texto": "Pero no se ponen de acuerdo. Y más listas que todos juntos... eso ya es especulación.",
+      "clave": "especulación"
+    },
+    {
+      "texto": "Mientras, ya hay leyes, como la europea, y pruebas a las IA más potentes antes de soltarlas.",
+      "dicho": "Mientras, ya hay leyes, como la europea, y pruebas a las i a más potentes antes de soltarlas.",
+      "clave": "pruebas"
+    },
+    {
+      "texto": "Así que hoy ninguna es más lista que todos juntos, y la pregunta sigue abierta.",
+      "clave": "abierta"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que ya se lo pregunta todo a la IA.",
+      "dicho": "Envíaselo a ese amigo que ya se lo pregunta todo a la i a.",
+      "clave": "IA"
+    }
+  ]
+}

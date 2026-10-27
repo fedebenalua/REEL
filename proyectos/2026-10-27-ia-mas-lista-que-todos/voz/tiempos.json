@@ -1,0 +1,1233 @@
+{
+  "firma": "295e3864ca04",
+  "duracion": 58.96,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Podría una inteligencia artificial llegar a ser más inteligente que todos los humanos juntos?",
+      "clave": "juntos",
+      "inicio": 0,
+      "fin": 5.52
+    },
+    {
+      "n": 2,
+      "texto": "Ya nos gana al ajedrez desde 1997, y al go desde 2016.",
+      "clave": "ajedrez",
+      "inicio": 5.84,
+      "fin": 11.52
+    },
+    {
+      "n": 3,
+      "texto": "Pero aquellas máquinas solo sabían hacer eso: la del ajedrez no sabría ni freír un huevo.",
+      "clave": "huevo",
+      "inicio": 11.573,
+      "fin": 16.64
+    },
+    {
+      "n": 4,
+      "texto": "Las de ahora hablan de casi todo, y en 2025 una sacó nota de medalla de oro en la Olimpiada de Matemáticas.",
+      "clave": "oro",
+      "inicio": 16.72,
+      "fin": 23.52
+    },
+    {
+      "n": 5,
+      "texto": "Eso sí: un centro de datos de IA gasta lo que cien mil casas; tu cerebro, lo que una bombilla.",
+      "clave": "bombilla",
+      "inicio": 23.76,
+      "fin": 29.76
+    },
+    {
+      "n": 6,
+      "texto": "Casi 3.000 expertos dan, de media, un cincuenta por ciento a que hacia 2047 hagan cualquier tarea mejor que nosotros.",
+      "clave": "2047",
+      "inicio": 30.24,
+      "fin": 38.48
+    },
+    {
+      "n": 7,
+      "texto": "Pero no se ponen de acuerdo. Y más listas que todos juntos... eso ya es especulación.",
+      "clave": "especulación",
+      "inicio": 38.533,
+      "fin": 43.68
+    },
+    {
+      "n": 8,
+      "texto": "Mientras, ya hay leyes, como la europea, y pruebas a las IA más potentes antes de soltarlas.",
+      "clave": "pruebas",
+      "inicio": 44.24,
+      "fin": 50
+    },
+    {
+      "n": 9,
+      "texto": "Así que hoy ninguna es más lista que todos juntos, y la pregunta sigue abierta.",
+      "clave": "abierta",
+      "inicio": 50.08,
+      "fin": 54.48
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que ya se lo pregunta todo a la IA.",
+      "clave": "IA",
+      "inicio": 54.96,
+      "fin": 58.16
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Podría",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 0.64,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "artificial",
+      "inicio": 1.28,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "llegar",
+      "inicio": 1.92,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 2.2,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "ser",
+      "inicio": 2.32,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 2.64,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "inteligente",
+      "inicio": 2.88,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 3.6,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 4,
+      "fin": 4.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "humanos",
+      "inicio": 4.48,
+      "fin": 4.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "juntos?",
+      "inicio": 4.76,
+      "fin": 5.52,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Ya",
+      "inicio": 5.84,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "nos",
+      "inicio": 6,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gana",
+      "inicio": 6.12,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 6.36,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ajedrez",
+      "inicio": 6.48,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "desde",
+      "inicio": 6.96,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "1997,",
+      "inicio": 7.2,
+      "fin": 8.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 8.4,
+      "fin": 8.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 9.28,
+      "fin": 9.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "go",
+      "inicio": 9.48,
+      "fin": 9.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 9.76,
+      "fin": 10,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "2016.",
+      "inicio": 10.08,
+      "fin": 11.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 11.573,
+      "fin": 11.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "aquellas",
+      "inicio": 11.76,
+      "fin": 12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "máquinas",
+      "inicio": 12.08,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 12.64,
+      "fin": 12.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sabían",
+      "inicio": 12.88,
+      "fin": 13.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hacer",
+      "inicio": 13.24,
+      "fin": 13.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "eso:",
+      "inicio": 13.56,
+      "fin": 14.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.12,
+      "fin": 14.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 14.24,
+      "fin": 14.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ajedrez",
+      "inicio": 14.36,
+      "fin": 14.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 14.88,
+      "fin": 14.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "sabría",
+      "inicio": 15,
+      "fin": 15.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 15.32,
+      "fin": 15.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "freír",
+      "inicio": 15.44,
+      "fin": 15.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 15.72,
+      "fin": 15.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "huevo.",
+      "inicio": 15.84,
+      "fin": 16.64,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Las",
+      "inicio": 16.72,
+      "fin": 16.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 16.84,
+      "fin": 16.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ahora",
+      "inicio": 16.96,
+      "fin": 17.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "hablan",
+      "inicio": 17.36,
+      "fin": 17.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 17.76,
+      "fin": 17.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 17.92,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "todo,",
+      "inicio": 18.16,
+      "fin": 18.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 18.76,
+      "fin": 18.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 18.84,
+      "fin": 18.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "2025",
+      "inicio": 18.96,
+      "fin": 19.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 20,
+      "fin": 20.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sacó",
+      "inicio": 20.24,
+      "fin": 20.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "nota",
+      "inicio": 20.56,
+      "fin": 20.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.88,
+      "fin": 20.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "medalla",
+      "inicio": 21.04,
+      "fin": 21.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 21.4,
+      "fin": 21.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "oro",
+      "inicio": 21.52,
+      "fin": 21.68,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 21.72,
+      "fin": 21.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 21.84,
+      "fin": 21.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Olimpiada",
+      "inicio": 21.92,
+      "fin": 22.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.48,
+      "fin": 22.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Matemáticas.",
+      "inicio": 22.56,
+      "fin": 23.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Eso",
+      "inicio": 23.76,
+      "fin": 24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "sí:",
+      "inicio": 24.04,
+      "fin": 24.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 24.64,
+      "fin": 24.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "centro",
+      "inicio": 24.8,
+      "fin": 25.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.12,
+      "fin": 25.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "datos",
+      "inicio": 25.36,
+      "fin": 25.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.56,
+      "fin": 25.6,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "IA",
+      "inicio": 25.68,
+      "fin": 25.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 26.16,
+      "fin": 26.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 26.48,
+      "fin": 26.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 26.6,
+      "fin": 26.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cien",
+      "inicio": 26.8,
+      "fin": 26.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 27.12,
+      "fin": 27.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "casas;",
+      "inicio": 27.28,
+      "fin": 28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 28.08,
+      "fin": 28.16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cerebro,",
+      "inicio": 28.2,
+      "fin": 28.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 28.84,
+      "fin": 28.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 28.96,
+      "fin": 29.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 29.12,
+      "fin": 29.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "bombilla.",
+      "inicio": 29.32,
+      "fin": 29.76,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Casi",
+      "inicio": 30.24,
+      "fin": 30.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "3.000",
+      "inicio": 30.56,
+      "fin": 30.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "expertos",
+      "inicio": 31.04,
+      "fin": 31.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dan,",
+      "inicio": 31.68,
+      "fin": 32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 32.04,
+      "fin": 32.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "media,",
+      "inicio": 32.16,
+      "fin": 32.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 32.8,
+      "fin": 32.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 33,
+      "fin": 33.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 33.44,
+      "fin": 33.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ciento",
+      "inicio": 33.68,
+      "fin": 33.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 34,
+      "fin": 34.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 34.16,
+      "fin": 34.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "hacia",
+      "inicio": 34.32,
+      "fin": 34.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "2047",
+      "inicio": 34.56,
+      "fin": 35.52,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "hagan",
+      "inicio": 35.92,
+      "fin": 36.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cualquier",
+      "inicio": 36.24,
+      "fin": 36.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tarea",
+      "inicio": 36.8,
+      "fin": 37.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "mejor",
+      "inicio": 37.2,
+      "fin": 37.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 37.44,
+      "fin": 37.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "nosotros.",
+      "inicio": 37.64,
+      "fin": 38.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 38.533,
+      "fin": 38.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 38.72,
+      "fin": 38.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 38.88,
+      "fin": 38.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ponen",
+      "inicio": 39.04,
+      "fin": 39.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 39.24,
+      "fin": 39.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "acuerdo.",
+      "inicio": 39.36,
+      "fin": 39.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 40.24,
+      "fin": 40.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 40.36,
+      "fin": 40.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "listas",
+      "inicio": 40.56,
+      "fin": 40.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 40.96,
+      "fin": 41.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 41.2,
+      "fin": 41.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "juntos...",
+      "inicio": 41.4,
+      "fin": 42.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 42.4,
+      "fin": 42.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 42.64,
+      "fin": 42.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 42.84,
+      "fin": 42.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "especulación.",
+      "inicio": 42.96,
+      "fin": 43.68,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Mientras,",
+      "inicio": 44.24,
+      "fin": 44.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 44.92,
+      "fin": 44.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 45.04,
+      "fin": 45.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "leyes,",
+      "inicio": 45.2,
+      "fin": 45.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 45.76,
+      "fin": 45.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 45.88,
+      "fin": 45.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "europea,",
+      "inicio": 46,
+      "fin": 46.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 46.76,
+      "fin": 46.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "pruebas",
+      "inicio": 46.88,
+      "fin": 47.2,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "a",
+      "inicio": 47.24,
+      "fin": 47.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 47.4,
+      "fin": 47.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "IA",
+      "inicio": 47.56,
+      "fin": 47.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 47.8,
+      "fin": 47.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "potentes",
+      "inicio": 48,
+      "fin": 48.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 48.56,
+      "fin": 48.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 48.84,
+      "fin": 48.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "soltarlas.",
+      "inicio": 48.96,
+      "fin": 50,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 50.08,
+      "fin": 50.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 50.24,
+      "fin": 50.32,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "hoy",
+      "inicio": 50.4,
+      "fin": 50.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ninguna",
+      "inicio": 50.8,
+      "fin": 51.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 51.28,
+      "fin": 51.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 51.44,
+      "fin": 51.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lista",
+      "inicio": 51.6,
+      "fin": 51.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 51.92,
+      "fin": 52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 52.12,
+      "fin": 52.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "juntos,",
+      "inicio": 52.32,
+      "fin": 52.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 53,
+      "fin": 53.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 53.08,
+      "fin": 53.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 53.2,
+      "fin": 53.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 53.76,
+      "fin": 53.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "abierta.",
+      "inicio": 54,
+      "fin": 54.48,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 54.96,
+      "fin": 55.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 55.48,
+      "fin": 55.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 55.6,
+      "fin": 55.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 55.76,
+      "fin": 56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 56.08,
+      "fin": 56.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 56.24,
+      "fin": 56.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 56.4,
+      "fin": 56.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 56.52,
+      "fin": 56.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 56.64,
+      "fin": 56.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 57.12,
+      "fin": 57.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 57.4,
+      "fin": 57.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 57.52,
+      "fin": 57.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "IA.",
+      "inicio": 57.68,
+      "fin": 58.16,
+      "frase": 10,
+      "clave": true
+    }
+  ]
+}
