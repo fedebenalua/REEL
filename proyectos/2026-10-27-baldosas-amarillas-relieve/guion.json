@@ -1,0 +1,63 @@
+{
+  "titulo": "¿Por qué existen baldosas amarillas con relieve en las calles?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué existen baldosas amarillas con relieve en las calles de casi todas las ciudades?",
+      "clave": "relieve",
+      "hook": true
+    },
+    {
+      "texto": "No son adorno: son un mapa que se lee con los pies.",
+      "clave": "pies",
+      "hook": true
+    },
+    {
+      "texto": "Los botones dicen «para»: delante tienes un paso de peatones.",
+      "clave": "para"
+    },
+    {
+      "texto": "Las rayas dicen «sigue»: por aquí puedes caminar seguro.",
+      "clave": "sigue"
+    },
+    {
+      "texto": "Y el relieve mide solo cuatro milímetros, menos que dos monedas apiladas, pero se nota con la suela.",
+      "clave": "suela"
+    },
+    {
+      "texto": "Las inventó en Japón Seiichi Miyake, para un amigo que se estaba quedando ciego.",
+      "clave": "ciego",
+      "dicho": "Las inventó en Japón Seíchi Miyake, para un amigo que se estaba quedando ciego."
+    },
+    {
+      "texto": "Su amigo notaba con los zapatos dónde acababa la tierra y empezaba el musgo.",
+      "clave": "musgo"
+    },
+    {
+      "texto": "Las primeras se pusieron en 1967, delante de una escuela para ciegos, y eran grises.",
+      "clave": "grises",
+      "dicho": "Las primeras se pusieron en mil novecientos sesenta y siete, delante de una escuela para ciegos, y eran grises."
+    },
+    {
+      "texto": "¿Y el amarillo? Casi nadie lo ve todo negro: ocho de cada diez afiliados a la ONCE conservan algo de vista.",
+      "clave": "vista"
+    },
+    {
+      "texto": "Y sobre una acera gris, el amarillo salta a la vista.",
+      "clave": "salta"
+    },
+    {
+      "texto": "Aunque en España la ley no exige el amarillo: exige que contraste con el suelo.",
+      "clave": "contraste"
+    },
+    {
+      "texto": "Así que esa baldosa que pisas sin mirar le dice a otro por dónde ir.",
+      "clave": "ir"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que las pisa cada día sin saber lo que dicen.",
+      "clave": "dicen"
+    }
+  ]
+}
