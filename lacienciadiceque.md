@@ -129,3 +129,4 @@ Cuando se acaben los 100, la automatización para: no se inventan temas para est
 2. Cleopatra, más cerca de la Luna que de las pirámides — `salida/2026-10-26-cleopatra-luna-piramides` — 2026-10-26
 3. Cosquillas a ti mismo (ni cambiándote de cuerpo) — `salida/2026-10-27-cosquillas-a-ti-mismo` — 2026-10-27
 4. Sin voz interior (piensan en silencio) — `salida/2026-10-27-sin-voz-interior` — 2026-10-27
+5. Dos narices (ilusión de Aristóteles) — `salida/2026-10-26-dos-narices-aristoteles` — 2026-10-27
