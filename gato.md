@@ -131,5 +131,6 @@ y YouTube Shorts («La Curiosidad NO mató al gato»).
 
 1. ¿Sabías que el mar Mediterráneo llegó a secarse casi por completo?
 2. ¿Por qué las cigarras pueden pasar tantos años bajo tierra?
+3. ¿Por qué un coche aparcado al sol puede convertirse en un horno?
 
 (La lista de lo programado está en `publicados-gato.json`.)
