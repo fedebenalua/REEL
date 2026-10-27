@@ -54,10 +54,10 @@ El nivel es el de los ejemplos: `ejemplo/estrella-verde/estrella-verde.mp4` y `e
   (`publicados-casa.json`). Cada 5 vídeos, el cierre manda al «link in bio» (la herramienta paso a paso). No usan los
   otros perfiles, y los de los otros perfiles no se publican en estas cuentas.
 - Los vídeos de «La ciencia dice que» (Instagram y YouTube @lacienciadiceque, TikTok @remote.control.al; ver
-  `lacienciadiceque.md`) se publican solo ahí, con `node motor/publicar.mjs <vídeo> --perfil lacienciadiceque`: un
-  vídeo cada 6 horas, con su propia lista (`publicados-lacienciadiceque.json`). Siguen la lista de 100 títulos de
-  `lacienciadiceque.md` en orden. No usan los otros perfiles, y los de los otros perfiles no se publican en estas
-  cuentas.
+  `lacienciadiceque.md`) se publican solo ahí, con `node motor/publicar.mjs <vídeo> --perfil lacienciadiceque`: a las
+  9:00, 16:00, 19:00 y 22:00 (hora de España), con su propia lista (`publicados-lacienciadiceque.json`). Siguen la
+  lista de 100 títulos de `lacienciadiceque.md` en orden. No usan los otros perfiles, y los de los otros perfiles no
+  se publican en estas cuentas.
 - Los vídeos de «La curiosidad no mató al gato» (Instagram @curiosidadnomatagato, la cuenta nueva; TikTok
   @lacuriosidadnomatoalgat y YouTube @lcnmal; ver `gato.md`) se publican solo ahí, con
   `node motor/publicar.mjs <vídeo> --perfil gato`: un vídeo cada 4 horas, con su propia lista (`publicados-gato.json`).

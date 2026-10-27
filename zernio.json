@@ -47,7 +47,7 @@
       }
     },
     "lacienciadiceque": {
-      "horas": 6,
+      "horasDelDia": [9, 16, 19, 22],
       "cuentas": {
         "tiktok": "6adf4e475643291b531df35e",
         "instagram": "6ade00697eb9b75b0dfeab1e",

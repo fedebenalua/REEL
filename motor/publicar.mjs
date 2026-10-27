@@ -102,19 +102,52 @@ let cfg = cfgBase;
 if (PERFIL) {
   const pf = cfgBase?.perfiles?.[PERFIL];
   if (!pf?.cuentas) fallo(`No hay perfil «${PERFIL}» en zernio.json.`);
-  cfg = { zona: cfgBase.zona, horas: pf.horas ?? cfgBase.horas, cuentas: pf.cuentas };
+  cfg = { zona: cfgBase.zona, horas: pf.horas ?? cfgBase.horas, horasDelDia: pf.horasDelDia, cuentas: pf.cuentas };
 }
 if (!cfg?.cuentas || !Object.keys(cfg.cuentas).length) fallo("Falta zernio.json con las cuentas. Mira: node motor/publicar.mjs cuentas");
 const horas = cfg.horas ?? 12, zona = cfg.zona ?? "Europe/Madrid";
+const huecos = Array.isArray(cfg.horasDelDia) && cfg.horasDelDia.length ? cfg.horasDelDia : null;
+
+function partesZona(ms, tz) {
+  const f = new Intl.DateTimeFormat("en-GB", {
+    timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hourCycle: "h23",
+  });
+  const o = Object.fromEntries(f.formatToParts(new Date(ms)).filter((p) => p.type !== "literal").map((p) => [p.type, p.value]));
+  return { y: +o.year, m: +o.month, d: +o.day, h: +o.hour, min: +o.minute };
+}
+function utcEnZona(y, m, d, h, min, tz) {
+  let guess = Date.UTC(y, m - 1, d, h, min, 0);
+  for (let i = 0; i < 4; i++) {
+    const p = partesZona(guess, tz);
+    guess += Date.UTC(y, m - 1, d, h, min) - Date.UTC(p.y, p.m - 1, p.d, p.h, p.min);
+  }
+  return guess;
+}
+function siguienteHueco(desde, tz, horasDia) {
+  const p = partesZona(desde, tz);
+  let mejor = Infinity;
+  for (let add = 0; add < 4; add++) {
+    const x = new Date(Date.UTC(p.y, p.m - 1, p.d + add));
+    const y = x.getUTCFullYear(), m = x.getUTCMonth() + 1, d = x.getUTCDate();
+    for (const h of horasDia) {
+      const t = utcEnZona(y, m, d, h, 0, tz);
+      if (t > desde && t < mejor) mejor = t;
+    }
+  }
+  if (!Number.isFinite(mejor)) fallo("No hay hueco de publicación.");
+  return mejor;
+}
 
 // ---- no repetir
 const hechos = leer(PUBLICADOS, []);
 if (hechos.some((e) => e.video === nombre) && !op["otra-vez"]) fallo(`«${nombre}» ya está programado o publicado (publicados.json). Con --otra-vez se repite.`);
 
-// ---- cuándo: 12 h después del último programado; si ya pasó, ahora
+// ---- cuándo: el siguiente hueco del perfil, o N horas después del último
 const ahora = Date.now();
 const ultimo = Math.max(0, ...hechos.map((e) => Date.parse(e.programadoPara)));
-const cuando = Math.max(ahora + 2 * 60_000, ultimo ? ultimo + horas * 3600_000 : 0);
+const suelo = Math.max(ahora + 2 * 60_000, ultimo || 0);
+const cuando = huecos ? siguienteHueco(suelo, zona, huecos) : Math.max(suelo, ultimo ? ultimo + horas * 3600_000 : 0);
 const ya = op.ahora || cuando <= ahora + 3 * 60_000;
 const hora = (t) => new Date(t).toLocaleString("es-ES", { timeZone: zona, dateStyle: "short", timeStyle: "short" });
 

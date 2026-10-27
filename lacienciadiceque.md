@@ -1,14 +1,13 @@
 # La ciencia dice que (@lacienciadiceque en Instagram y YouTube, @remote.control.al en TikTok)
 
 Curiosidades de ciencia, cuerpo, mente e historia, en español de España (voz, subtítulos, texto del post y hashtags).
-Un vídeo cada 6 horas (4 al día), en Instagram Reels (@lacienciadiceque), YouTube Shorts (@lacienciadiceque) y TikTok
-(@remote.control.al, «DrDatoNauta»).
+Cuatro vídeos al día, a las 9:00, 16:00, 19:00 y 22:00 (hora de España), en Instagram Reels (@lacienciadiceque),
+YouTube Shorts (@lacienciadiceque) y TikTok (@remote.control.al, «DrDatoNauta»).
 
 - Se publican solo en esas tres cuentas: `node motor/publicar.mjs <vídeo> --perfil lacienciadiceque` (el perfil está
   en `zernio.json`; la lista de lo programado, en `publicados-lacienciadiceque.json`). No se publican en las cuentas de
   los otros perfiles, y los de esos perfiles no se publican aquí.
-- El primer vídeo de la lista se publica en cuanto está hecho (`--ahora`). Los siguientes los programa la herramienta,
-  6 horas después del último.
+- Cada vídeo se programa a la siguiente de estas horas de España: 9:00, 16:00, 19:00 o 22:00. Sin `--ahora`.
 - Se hacen en el orden de la lista, de arriba abajo: el siguiente es el primer número que no está en «Ya hechos».
 - El hook es la pregunta tal cual, dicha como la diría quien mira.
 - Algunos títulos se parecen a uno anterior de la lista (recordar casi todo, recuerdos falsos, sentir que te miran,
