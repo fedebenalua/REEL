@@ -1,0 +1,18 @@
+{
+  "titulo": "Un asteroide del tamaño de una ciudad",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Qué ocurriría si un asteroide del tamaño de una ciudad impactara contra la Tierra?", "clave": "ciudad", "hook": true },
+    { "texto": "Ya ocurrió: hace sesenta y seis millones de años, en Yucatán.", "clave": "ocurrió", "hook": true },
+    { "texto": "Una roca de unos diez kilómetros, lo que mide una ciudad, abrió un cráter de unos doscientos.", "clave": "diez" },
+    { "texto": "Desaparecieron tres de cada cuatro especies, incluidos los dinosaurios que no eran aves.", "clave": "tres" },
+    { "texto": "El polvo, el azufre y el hollín taparon el sol.", "clave": "sol" },
+    { "texto": "Los estudios no coinciden: unos hablan de meses a oscuras, y otro de casi dos años sin que las plantas hicieran comida.", "clave": "coinciden" },
+    { "texto": "En esto sí: sin luz, las plantas paran, y se cae lo que come de ellas.", "clave": "plantas" },
+    { "texto": "La NASA ya tiene cerca del noventa y cinco por ciento de las de más de un kilómetro, y ninguna amenaza ahora.", "clave": "ninguna", "dicho": "La nasa ya tiene cerca del noventa y cinco por ciento de las de más de un kilómetro, y ninguna amenaza ahora." },
+    { "texto": "En dos mil veintidós, una nave chocó contra una pequeña y le cambió la órbita.", "clave": "órbita" },
+    { "texto": "Así que no es una profecía: es un golpe que ya vimos, y las grandes las vemos venir.", "clave": "venir" },
+    { "texto": "Envíaselo a ese amigo que cada asteroide lo cuenta como el último día.", "clave": "amigo" }
+  ]
+}
