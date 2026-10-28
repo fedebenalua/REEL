@@ -1,0 +1,17 @@
+{
+  "titulo": "¿Cómo puede una empresa experimentar con las personas sin que estas lo sepan?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Cómo puede una empresa experimentar con las personas sin que estas lo sepan?", "clave": "sepan", "hook": true },
+    { "texto": "Tu cuenta te sortea sin avisar: a ti el botón azul, y a la otra mitad el mismo en verde.", "clave": "verde" },
+    { "texto": "Solo ves el tuyo, así que no tienes con qué comparar.", "clave": "comparar" },
+    { "texto": "Y no preguntan qué opinas: cuentan los toques y lo que escribes.", "clave": "toques" },
+    { "texto": "El único aviso es una frase de las condiciones, y si eso vale como un sí, está discutido.", "clave": "discutido" },
+    { "texto": "Facebook lo hizo una semana de 2012, con 689.003 personas.", "clave": "personas", "dicho": "Facebook lo hizo una semana de dos mil doce, con seiscientas ochenta y nueve mil tres personas." },
+    { "texto": "No inventó tristeza: escondió del muro publicaciones alegres, que seguían en el perfil.", "clave": "escondió" },
+    { "texto": "Quien las vio menos escribió un 0,1 % menos de palabras alegres, y se discute si el ánimo cambió.", "clave": "ánimo", "dicho": "Quien las vio menos escribió un cero coma uno por ciento menos de palabras alegres, y se discute si el ánimo cambió." },
+    { "texto": "Así que pueden hacerlo: nunca ves la otra pantalla, y el aviso iba enterrado en las condiciones.", "clave": "pantalla" },
+    { "texto": "Envíaselo a ese amigo que cree que su pantalla es igual que la de todo el mundo.", "clave": "amigo" }
+  ]
+}
