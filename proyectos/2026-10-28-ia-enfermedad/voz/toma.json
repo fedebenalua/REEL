@@ -1,0 +1,769 @@
+{
+  "firma": "be03c3ba0dec",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Podría",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "una",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 0.64,
+      "fin": 1.2
+    },
+    {
+      "texto": "artificial",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "texto": "crear",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "una",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "enfermedad",
+      "inicio": 2.4,
+      "fin": 2.96
+    },
+    {
+      "texto": "peligrosa?",
+      "inicio": 3.04,
+      "fin": 3.6
+    },
+    {
+      "texto": "En",
+      "inicio": 4.24,
+      "fin": 4.32
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.56,
+      "fin": 4.6
+    },
+    {
+      "texto": "veintidós,",
+      "inicio": 4.64,
+      "fin": 5.44
+    },
+    {
+      "texto": "un",
+      "inicio": 5.48,
+      "fin": 5.52
+    },
+    {
+      "texto": "programa",
+      "inicio": 5.6,
+      "fin": 5.92
+    },
+    {
+      "texto": "de",
+      "inicio": 5.96,
+      "fin": 6
+    },
+    {
+      "texto": "medicinas",
+      "inicio": 6.08,
+      "fin": 6.56
+    },
+    {
+      "texto": "propuso",
+      "inicio": 6.64,
+      "fin": 7.04
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 7.12,
+      "fin": 7.6
+    },
+    {
+      "texto": "mil",
+      "inicio": 7.68,
+      "fin": 7.76
+    },
+    {
+      "texto": "moléculas",
+      "inicio": 7.84,
+      "fin": 8.4
+    },
+    {
+      "texto": "que",
+      "inicio": 8.48,
+      "fin": 8.56
+    },
+    {
+      "texto": "puntuó",
+      "inicio": 8.667,
+      "fin": 8.96
+    },
+    {
+      "texto": "como",
+      "inicio": 9.08,
+      "fin": 9.2
+    },
+    {
+      "texto": "tóxicas,",
+      "inicio": 9.28,
+      "fin": 10.08
+    },
+    {
+      "texto": "en",
+      "inicio": 10.2,
+      "fin": 10.32
+    },
+    {
+      "texto": "menos",
+      "inicio": 10.4,
+      "fin": 10.64
+    },
+    {
+      "texto": "de",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "texto": "seis",
+      "inicio": 10.88,
+      "fin": 11.12
+    },
+    {
+      "texto": "horas.",
+      "inicio": 11.2,
+      "fin": 12.08
+    },
+    {
+      "texto": "No",
+      "inicio": 12.16,
+      "fin": 12.24
+    },
+    {
+      "texto": "fabricó",
+      "inicio": 12.4,
+      "fin": 12.64
+    },
+    {
+      "texto": "ni",
+      "inicio": 12.72,
+      "fin": 12.88
+    },
+    {
+      "texto": "una.",
+      "inicio": 13,
+      "fin": 13.68
+    },
+    {
+      "texto": "Se",
+      "inicio": 13.72,
+      "fin": 13.76
+    },
+    {
+      "texto": "quedó",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "texto": "en",
+      "inicio": 14.04,
+      "fin": 14.08
+    },
+    {
+      "texto": "la",
+      "inicio": 14.12,
+      "fin": 14.16
+    },
+    {
+      "texto": "pantalla,",
+      "inicio": 14.24,
+      "fin": 14.8
+    },
+    {
+      "texto": "como",
+      "inicio": 14.92,
+      "fin": 15.04
+    },
+    {
+      "texto": "una",
+      "inicio": 15.12,
+      "fin": 15.2
+    },
+    {
+      "texto": "foto",
+      "inicio": 15.28,
+      "fin": 15.52
+    },
+    {
+      "texto": "de",
+      "inicio": 15.56,
+      "fin": 15.6
+    },
+    {
+      "texto": "un",
+      "inicio": 15.64,
+      "fin": 15.68
+    },
+    {
+      "texto": "incendio",
+      "inicio": 15.8,
+      "fin": 16.16
+    },
+    {
+      "texto": "que",
+      "inicio": 16.24,
+      "fin": 16.32
+    },
+    {
+      "texto": "no",
+      "inicio": 16.4,
+      "fin": 16.48
+    },
+    {
+      "texto": "quema.",
+      "inicio": 16.56,
+      "fin": 17.44
+    },
+    {
+      "texto": "Una",
+      "inicio": 17.52,
+      "fin": 17.6
+    },
+    {
+      "texto": "enfermedad",
+      "inicio": 17.68,
+      "fin": 18.32
+    },
+    {
+      "texto": "es",
+      "inicio": 18.4,
+      "fin": 18.48
+    },
+    {
+      "texto": "un",
+      "inicio": 18.56,
+      "fin": 18.64
+    },
+    {
+      "texto": "germen",
+      "inicio": 18.72,
+      "fin": 19.04
+    },
+    {
+      "texto": "que",
+      "inicio": 19.12,
+      "fin": 19.2
+    },
+    {
+      "texto": "salta",
+      "inicio": 19.28,
+      "fin": 19.52
+    },
+    {
+      "texto": "de",
+      "inicio": 19.6,
+      "fin": 19.68
+    },
+    {
+      "texto": "persona",
+      "inicio": 19.88,
+      "fin": 20.08
+    },
+    {
+      "texto": "a",
+      "inicio": 20.12,
+      "fin": 20.16
+    },
+    {
+      "texto": "persona,",
+      "inicio": 20.24,
+      "fin": 20.88
+    },
+    {
+      "texto": "y",
+      "inicio": 20.96,
+      "fin": 21.04
+    },
+    {
+      "texto": "eso",
+      "inicio": 21.2,
+      "fin": 21.36
+    },
+    {
+      "texto": "no",
+      "inicio": 21.6,
+      "fin": 21.68
+    },
+    {
+      "texto": "sale",
+      "inicio": 21.76,
+      "fin": 22
+    },
+    {
+      "texto": "de",
+      "inicio": 22.04,
+      "fin": 22.08
+    },
+    {
+      "texto": "una",
+      "inicio": 22.16,
+      "fin": 22.24
+    },
+    {
+      "texto": "pantalla.",
+      "inicio": 22.32,
+      "fin": 22.8
+    },
+    {
+      "texto": "En",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "texto": "dos",
+      "inicio": 23.6,
+      "fin": 23.68
+    },
+    {
+      "texto": "mil",
+      "inicio": 23.76,
+      "fin": 23.8
+    },
+    {
+      "texto": "veinticuatro,",
+      "inicio": 23.84,
+      "fin": 24.64
+    },
+    {
+      "texto": "un",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "texto": "estudio",
+      "inicio": 24.88,
+      "fin": 25.2
+    },
+    {
+      "texto": "no",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "texto": "vio",
+      "inicio": 25.56,
+      "fin": 25.68
+    },
+    {
+      "texto": "que",
+      "inicio": 25.76,
+      "fin": 25.84
+    },
+    {
+      "texto": "un",
+      "inicio": 25.88,
+      "fin": 25.92
+    },
+    {
+      "texto": "chat",
+      "inicio": 26,
+      "fin": 26.24
+    },
+    {
+      "texto": "hiciera",
+      "inicio": 26.32,
+      "fin": 26.56
+    },
+    {
+      "texto": "esos",
+      "inicio": 26.64,
+      "fin": 26.8
+    },
+    {
+      "texto": "planes",
+      "inicio": 26.88,
+      "fin": 27.2
+    },
+    {
+      "texto": "más",
+      "inicio": 27.28,
+      "fin": 27.44
+    },
+    {
+      "texto": "viables",
+      "inicio": 27.48,
+      "fin": 27.84
+    },
+    {
+      "texto": "que",
+      "inicio": 27.88,
+      "fin": 27.92
+    },
+    {
+      "texto": "internet.",
+      "inicio": 28,
+      "fin": 28.8
+    },
+    {
+      "texto": "Y",
+      "inicio": 28.84,
+      "fin": 28.88
+    },
+    {
+      "texto": "avisó:",
+      "inicio": 29.04,
+      "fin": 29.36
+    },
+    {
+      "texto": "esto",
+      "inicio": 29.76,
+      "fin": 30.08
+    },
+    {
+      "texto": "cambia",
+      "inicio": 30.24,
+      "fin": 30.56
+    },
+    {
+      "texto": "deprisa.",
+      "inicio": 30.64,
+      "fin": 31.68
+    },
+    {
+      "texto": "En",
+      "inicio": 31.76,
+      "fin": 31.84
+    },
+    {
+      "texto": "dos",
+      "inicio": 31.88,
+      "fin": 31.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 32,
+      "fin": 32.08
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 32.12,
+      "fin": 32.88
+    },
+    {
+      "texto": "el",
+      "inicio": 32.96,
+      "fin": 33.04
+    },
+    {
+      "texto": "nist",
+      "inicio": 33.12,
+      "fin": 33.52
+    },
+    {
+      "texto": "lo",
+      "inicio": 33.6,
+      "fin": 33.68
+    },
+    {
+      "texto": "probó",
+      "inicio": 33.76,
+      "fin": 33.92
+    },
+    {
+      "texto": "con",
+      "inicio": 34,
+      "fin": 34.08
+    },
+    {
+      "texto": "proteínas",
+      "inicio": 34.16,
+      "fin": 34.56
+    },
+    {
+      "texto": "inofensivas:",
+      "inicio": 34.64,
+      "fin": 35.68
+    },
+    {
+      "texto": "hace",
+      "inicio": 35.72,
+      "fin": 35.92
+    },
+    {
+      "texto": "falta",
+      "inicio": 36,
+      "fin": 36.16
+    },
+    {
+      "texto": "tiempo,",
+      "inicio": 36.24,
+      "fin": 36.8
+    },
+    {
+      "texto": "gente",
+      "inicio": 36.84,
+      "fin": 37.04
+    },
+    {
+      "texto": "formada",
+      "inicio": 37.12,
+      "fin": 37.6
+    },
+    {
+      "texto": "y",
+      "inicio": 37.76,
+      "fin": 37.84
+    },
+    {
+      "texto": "un",
+      "inicio": 37.88,
+      "fin": 37.92
+    },
+    {
+      "texto": "laboratorio.",
+      "inicio": 38,
+      "fin": 39.12
+    },
+    {
+      "texto": "Quien",
+      "inicio": 39.16,
+      "fin": 39.28
+    },
+    {
+      "texto": "fabrica",
+      "inicio": 39.36,
+      "fin": 39.68
+    },
+    {
+      "texto": "el",
+      "inicio": 39.76,
+      "fin": 39.84
+    },
+    {
+      "texto": "a",
+      "inicio": 40,
+      "fin": 40.16
+    },
+    {
+      "texto": "de",
+      "inicio": 40.4,
+      "fin": 40.48
+    },
+    {
+      "texto": "ene",
+      "inicio": 40.56,
+      "fin": 40.8
+    },
+    {
+      "texto": "lo",
+      "inicio": 40.96,
+      "fin": 41.04
+    },
+    {
+      "texto": "revisa:",
+      "inicio": 41.12,
+      "fin": 41.84
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.92,
+      "fin": 42
+    },
+    {
+      "texto": "mira",
+      "inicio": 42.053,
+      "fin": 42.16
+    },
+    {
+      "texto": "una",
+      "inicio": 42.24,
+      "fin": 42.4
+    },
+    {
+      "texto": "persona",
+      "inicio": 42.64,
+      "fin": 42.88
+    },
+    {
+      "texto": "y",
+      "inicio": 42.96,
+      "fin": 43.04
+    },
+    {
+      "texto": "puede",
+      "inicio": 43.08,
+      "fin": 43.28
+    },
+    {
+      "texto": "decir",
+      "inicio": 43.36,
+      "fin": 43.6
+    },
+    {
+      "texto": "que",
+      "inicio": 43.68,
+      "fin": 43.76
+    },
+    {
+      "texto": "no.",
+      "inicio": 43.84,
+      "fin": 44.48
+    },
+    {
+      "texto": "Así",
+      "inicio": 44.56,
+      "fin": 44.72
+    },
+    {
+      "texto": "que,",
+      "inicio": 44.8,
+      "fin": 45.04
+    },
+    {
+      "texto": "de",
+      "inicio": 45.08,
+      "fin": 45.12
+    },
+    {
+      "texto": "momento,",
+      "inicio": 45.2,
+      "fin": 45.76
+    },
+    {
+      "texto": "puede",
+      "inicio": 45.84,
+      "fin": 46
+    },
+    {
+      "texto": "señalar",
+      "inicio": 46.08,
+      "fin": 46.4
+    },
+    {
+      "texto": "un",
+      "inicio": 46.44,
+      "fin": 46.48
+    },
+    {
+      "texto": "veneno.",
+      "inicio": 46.56,
+      "fin": 47.28
+    },
+    {
+      "texto": "Crear",
+      "inicio": 47.4,
+      "fin": 47.52
+    },
+    {
+      "texto": "la",
+      "inicio": 47.6,
+      "fin": 47.64
+    },
+    {
+      "texto": "enfermedad,",
+      "inicio": 47.68,
+      "fin": 48.56
+    },
+    {
+      "texto": "no.",
+      "inicio": 48.64,
+      "fin": 49.44
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 49.56,
+      "fin": 50
+    },
+    {
+      "texto": "a",
+      "inicio": 50.04,
+      "fin": 50.08
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.16,
+      "fin": 50.24
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.32,
+      "fin": 50.56
+    },
+    {
+      "texto": "que",
+      "inicio": 50.64,
+      "fin": 50.72
+    },
+    {
+      "texto": "cree",
+      "inicio": 50.76,
+      "fin": 50.88
+    },
+    {
+      "texto": "que",
+      "inicio": 50.96,
+      "fin": 51.04
+    },
+    {
+      "texto": "una",
+      "inicio": 51.12,
+      "fin": 51.2
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 51.28,
+      "fin": 51.76
+    },
+    {
+      "texto": "artificial",
+      "inicio": 51.84,
+      "fin": 52.4
+    },
+    {
+      "texto": "suelta",
+      "inicio": 52.48,
+      "fin": 52.72
+    },
+    {
+      "texto": "una",
+      "inicio": 52.8,
+      "fin": 52.96
+    },
+    {
+      "texto": "pandemia",
+      "inicio": 53.013,
+      "fin": 53.44
+    },
+    {
+      "texto": "ella",
+      "inicio": 53.56,
+      "fin": 53.68
+    },
+    {
+      "texto": "sola.",
+      "inicio": 53.76,
+      "fin": 54.24
+    }
+  ]
+}

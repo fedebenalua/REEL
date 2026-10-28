@@ -1,0 +1,1121 @@
+{
+  "firma": "be03c3ba0dec",
+  "duracion": 55.04,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Podría una inteligencia artificial crear una enfermedad peligrosa?",
+      "clave": "peligrosa",
+      "inicio": 0,
+      "fin": 3.6
+    },
+    {
+      "n": 2,
+      "texto": "En dos mil veintidós, un programa de medicinas propuso cuarenta mil moléculas que puntuó como tóxicas, en menos de seis horas.",
+      "clave": "tóxicas",
+      "inicio": 4.24,
+      "fin": 12.08
+    },
+    {
+      "n": 3,
+      "texto": "No fabricó ni una. Se quedó en la pantalla, como una foto de un incendio que no quema.",
+      "clave": "quema",
+      "inicio": 12.16,
+      "fin": 17.44
+    },
+    {
+      "n": 4,
+      "texto": "Una enfermedad es un germen que salta de persona a persona, y eso no sale de una pantalla.",
+      "clave": "salta",
+      "inicio": 17.52,
+      "fin": 22.8
+    },
+    {
+      "n": 5,
+      "texto": "En dos mil veinticuatro, un estudio no vio que un chat hiciera esos planes más viables que internet.",
+      "clave": "viables",
+      "inicio": 23.44,
+      "fin": 28.8
+    },
+    {
+      "n": 6,
+      "texto": "Y avisó: esto cambia deprisa.",
+      "clave": "deprisa",
+      "inicio": 28.84,
+      "fin": 31.68
+    },
+    {
+      "n": 7,
+      "texto": "En dos mil veinticinco, el NIST lo probó con proteínas inofensivas: hace falta tiempo, gente formada y un laboratorio.",
+      "clave": "laboratorio",
+      "inicio": 31.76,
+      "fin": 39.12
+    },
+    {
+      "n": 8,
+      "texto": "Quien fabrica el ADN lo revisa: lo mira una persona y puede decir que no.",
+      "clave": "no",
+      "inicio": 39.16,
+      "fin": 44.48
+    },
+    {
+      "n": 9,
+      "texto": "Así que, de momento, puede señalar un veneno. Crear la enfermedad, no.",
+      "clave": "veneno",
+      "inicio": 44.56,
+      "fin": 49.44
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que cree que una inteligencia artificial suelta una pandemia ella sola.",
+      "clave": "amigo",
+      "inicio": 49.56,
+      "fin": 54.24
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Podría",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 0.64,
+      "fin": 1.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "artificial",
+      "inicio": 1.28,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "crear",
+      "inicio": 1.92,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 2.28,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "enfermedad",
+      "inicio": 2.4,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "peligrosa?",
+      "inicio": 3.04,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 4.24,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 4.4,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 4.56,
+      "fin": 4.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "veintidós,",
+      "inicio": 4.64,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 5.48,
+      "fin": 5.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "programa",
+      "inicio": 5.6,
+      "fin": 5.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.96,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "medicinas",
+      "inicio": 6.08,
+      "fin": 6.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "propuso",
+      "inicio": 6.64,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 7.12,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 7.68,
+      "fin": 7.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "moléculas",
+      "inicio": 7.84,
+      "fin": 8.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 8.48,
+      "fin": 8.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "puntuó",
+      "inicio": 8.667,
+      "fin": 8.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 9.08,
+      "fin": 9.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tóxicas,",
+      "inicio": 9.28,
+      "fin": 10.08,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 10.2,
+      "fin": 10.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "menos",
+      "inicio": 10.4,
+      "fin": 10.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "seis",
+      "inicio": 10.88,
+      "fin": 11.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 11.2,
+      "fin": 12.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 12.16,
+      "fin": 12.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "fabricó",
+      "inicio": 12.4,
+      "fin": 12.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 12.72,
+      "fin": 12.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una.",
+      "inicio": 13,
+      "fin": 13.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Se",
+      "inicio": 13.72,
+      "fin": 13.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "quedó",
+      "inicio": 13.84,
+      "fin": 14,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 14.04,
+      "fin": 14.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 14.12,
+      "fin": 14.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pantalla,",
+      "inicio": 14.24,
+      "fin": 14.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 14.92,
+      "fin": 15.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 15.12,
+      "fin": 15.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "foto",
+      "inicio": 15.28,
+      "fin": 15.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 15.56,
+      "fin": 15.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 15.64,
+      "fin": 15.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "incendio",
+      "inicio": 15.8,
+      "fin": 16.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 16.24,
+      "fin": 16.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 16.4,
+      "fin": 16.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "quema.",
+      "inicio": 16.56,
+      "fin": 17.44,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "Una",
+      "inicio": 17.52,
+      "fin": 17.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "enfermedad",
+      "inicio": 17.68,
+      "fin": 18.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 18.4,
+      "fin": 18.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 18.56,
+      "fin": 18.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "germen",
+      "inicio": 18.72,
+      "fin": 19.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 19.12,
+      "fin": 19.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "salta",
+      "inicio": 19.28,
+      "fin": 19.52,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 19.6,
+      "fin": 19.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "persona",
+      "inicio": 19.88,
+      "fin": 20.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 20.12,
+      "fin": 20.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "persona,",
+      "inicio": 20.24,
+      "fin": 20.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 20.96,
+      "fin": 21.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 21.2,
+      "fin": 21.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 21.6,
+      "fin": 21.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sale",
+      "inicio": 21.76,
+      "fin": 22,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.04,
+      "fin": 22.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 22.16,
+      "fin": 22.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pantalla.",
+      "inicio": 22.32,
+      "fin": 22.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 23.44,
+      "fin": 23.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 23.6,
+      "fin": 23.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 23.76,
+      "fin": 23.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "veinticuatro,",
+      "inicio": 23.84,
+      "fin": 24.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 24.72,
+      "fin": 24.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "estudio",
+      "inicio": 24.88,
+      "fin": 25.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 25.28,
+      "fin": 25.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "vio",
+      "inicio": 25.56,
+      "fin": 25.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 25.76,
+      "fin": 25.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 25.88,
+      "fin": 25.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "chat",
+      "inicio": 26,
+      "fin": 26.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hiciera",
+      "inicio": 26.32,
+      "fin": 26.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 26.64,
+      "fin": 26.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "planes",
+      "inicio": 26.88,
+      "fin": 27.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 27.28,
+      "fin": 27.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "viables",
+      "inicio": 27.48,
+      "fin": 27.84,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 27.88,
+      "fin": 27.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "internet.",
+      "inicio": 28,
+      "fin": 28.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 28.84,
+      "fin": 28.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "avisó:",
+      "inicio": 29.04,
+      "fin": 29.36,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "esto",
+      "inicio": 29.76,
+      "fin": 30.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cambia",
+      "inicio": 30.24,
+      "fin": 30.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "deprisa.",
+      "inicio": 30.64,
+      "fin": 31.68,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "En",
+      "inicio": 31.76,
+      "fin": 31.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 31.88,
+      "fin": 31.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 32,
+      "fin": 32.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "veinticinco,",
+      "inicio": 32.12,
+      "fin": 32.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 32.96,
+      "fin": 33.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "NIST",
+      "inicio": 33.12,
+      "fin": 33.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 33.6,
+      "fin": 33.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "probó",
+      "inicio": 33.76,
+      "fin": 33.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 34,
+      "fin": 34.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "proteínas",
+      "inicio": 34.16,
+      "fin": 34.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "inofensivas:",
+      "inicio": 34.64,
+      "fin": 35.68,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hace",
+      "inicio": 35.72,
+      "fin": 35.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "falta",
+      "inicio": 36,
+      "fin": 36.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tiempo,",
+      "inicio": 36.24,
+      "fin": 36.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 36.84,
+      "fin": 37.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "formada",
+      "inicio": 37.12,
+      "fin": 37.6,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 37.76,
+      "fin": 37.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 37.88,
+      "fin": 37.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "laboratorio.",
+      "inicio": 38,
+      "fin": 39.12,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Quien",
+      "inicio": 39.16,
+      "fin": 39.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "fabrica",
+      "inicio": 39.36,
+      "fin": 39.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.76,
+      "fin": 39.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ADN",
+      "inicio": 40,
+      "fin": 40.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 40.96,
+      "fin": 41.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "revisa:",
+      "inicio": 41.12,
+      "fin": 41.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.92,
+      "fin": 42,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mira",
+      "inicio": 42.053,
+      "fin": 42.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 42.24,
+      "fin": 42.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "persona",
+      "inicio": 42.64,
+      "fin": 42.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 42.96,
+      "fin": 43.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 43.08,
+      "fin": 43.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "decir",
+      "inicio": 43.36,
+      "fin": 43.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 43.68,
+      "fin": 43.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "no.",
+      "inicio": 43.84,
+      "fin": 44.48,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "Así",
+      "inicio": 44.56,
+      "fin": 44.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que,",
+      "inicio": 44.8,
+      "fin": 45.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 45.08,
+      "fin": 45.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "momento,",
+      "inicio": 45.2,
+      "fin": 45.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 45.84,
+      "fin": 46,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "señalar",
+      "inicio": 46.08,
+      "fin": 46.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 46.44,
+      "fin": 46.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "veneno.",
+      "inicio": 46.56,
+      "fin": 47.28,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "Crear",
+      "inicio": 47.4,
+      "fin": 47.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 47.6,
+      "fin": 47.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "enfermedad,",
+      "inicio": 47.68,
+      "fin": 48.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no.",
+      "inicio": 48.64,
+      "fin": 49.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 49.56,
+      "fin": 50,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 50.04,
+      "fin": 50.08,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.16,
+      "fin": 50.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.32,
+      "fin": 50.56,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 50.64,
+      "fin": 50.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cree",
+      "inicio": 50.76,
+      "fin": 50.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 50.96,
+      "fin": 51.04,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 51.12,
+      "fin": 51.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "inteligencia",
+      "inicio": 51.28,
+      "fin": 51.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "artificial",
+      "inicio": 51.84,
+      "fin": 52.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 52.48,
+      "fin": 52.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 52.8,
+      "fin": 52.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "pandemia",
+      "inicio": 53.013,
+      "fin": 53.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ella",
+      "inicio": 53.56,
+      "fin": 53.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "sola.",
+      "inicio": 53.76,
+      "fin": 54.24,
+      "frase": 10,
+      "clave": false
+    }
+  ]
+}

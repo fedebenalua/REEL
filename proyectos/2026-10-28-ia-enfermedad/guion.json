@@ -1,0 +1,51 @@
+{
+  "titulo": "¿Podría una IA crear una enfermedad?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Podría una inteligencia artificial crear una enfermedad peligrosa?",
+      "clave": "peligrosa",
+      "hook": true
+    },
+    {
+      "texto": "En dos mil veintidós, un programa de medicinas propuso cuarenta mil moléculas que puntuó como tóxicas, en menos de seis horas.",
+      "clave": "tóxicas",
+      "hook": true
+    },
+    {
+      "texto": "No fabricó ni una. Se quedó en la pantalla, como una foto de un incendio que no quema.",
+      "clave": "quema"
+    },
+    {
+      "texto": "Una enfermedad es un germen que salta de persona a persona, y eso no sale de una pantalla.",
+      "clave": "salta"
+    },
+    {
+      "texto": "En dos mil veinticuatro, un estudio no vio que un chat hiciera esos planes más viables que internet.",
+      "clave": "viables"
+    },
+    {
+      "texto": "Y avisó: esto cambia deprisa.",
+      "clave": "deprisa"
+    },
+    {
+      "texto": "En dos mil veinticinco, el NIST lo probó con proteínas inofensivas: hace falta tiempo, gente formada y un laboratorio.",
+      "clave": "laboratorio",
+      "dicho": "En dos mil veinticinco, el nist lo probó con proteínas inofensivas: hace falta tiempo, gente formada y un laboratorio."
+    },
+    {
+      "texto": "Quien fabrica el ADN lo revisa: lo mira una persona y puede decir que no.",
+      "clave": "no",
+      "dicho": "Quien fabrica el a de ene lo revisa: lo mira una persona y puede decir que no."
+    },
+    {
+      "texto": "Así que, de momento, puede señalar un veneno. Crear la enfermedad, no.",
+      "clave": "veneno"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que cree que una inteligencia artificial suelta una pandemia ella sola.",
+      "clave": "amigo"
+    }
+  ]
+}

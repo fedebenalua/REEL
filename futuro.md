@@ -136,3 +136,4 @@ Escenarios del futuro: catástrofes naturales, clima, espacio, ciencia e intelig
 3. ¿Qué ocurriría si un asteroide del tamaño de una ciudad impactara contra la Tierra?
 4. ¿Podrían los robots sustituir la mayoría de los trabajos humanos en los próximos 30 años?
 5. ¿Qué pasaría si el campo magnético de la Tierra desapareciera?
+6. ¿Podría una inteligencia artificial crear una enfermedad peligrosa?
