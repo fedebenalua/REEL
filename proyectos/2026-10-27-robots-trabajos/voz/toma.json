@@ -1,0 +1,799 @@
+{
+  "firma": "703543f4e3cb",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Podrían",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "los",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "robots",
+      "inicio": 0.8,
+      "fin": 1.04
+    },
+    {
+      "texto": "sustituir",
+      "inicio": 1.2,
+      "fin": 1.68
+    },
+    {
+      "texto": "la",
+      "inicio": 1.76,
+      "fin": 1.84
+    },
+    {
+      "texto": "mayoría",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "de",
+      "inicio": 2.28,
+      "fin": 2.32
+    },
+    {
+      "texto": "los",
+      "inicio": 2.4,
+      "fin": 2.48
+    },
+    {
+      "texto": "trabajos",
+      "inicio": 2.52,
+      "fin": 2.88
+    },
+    {
+      "texto": "humanos",
+      "inicio": 2.96,
+      "fin": 3.36
+    },
+    {
+      "texto": "en",
+      "inicio": 3.44,
+      "fin": 3.52
+    },
+    {
+      "texto": "los",
+      "inicio": 3.6,
+      "fin": 3.68
+    },
+    {
+      "texto": "próximos",
+      "inicio": 3.76,
+      "fin": 4.24
+    },
+    {
+      "texto": "treinta",
+      "inicio": 4.32,
+      "fin": 4.64
+    },
+    {
+      "texto": "años?",
+      "inicio": 4.72,
+      "fin": 5.44
+    },
+    {
+      "texto": "En",
+      "inicio": 5.76,
+      "fin": 5.84
+    },
+    {
+      "texto": "las",
+      "inicio": 5.92,
+      "fin": 6
+    },
+    {
+      "texto": "fábricas",
+      "inicio": 6.04,
+      "fin": 6.56
+    },
+    {
+      "texto": "ya",
+      "inicio": 6.64,
+      "fin": 6.72
+    },
+    {
+      "texto": "hay",
+      "inicio": 6.8,
+      "fin": 7.04
+    },
+    {
+      "texto": "cinco",
+      "inicio": 7.12,
+      "fin": 7.36
+    },
+    {
+      "texto": "millones",
+      "inicio": 7.44,
+      "fin": 7.84
+    },
+    {
+      "texto": "de",
+      "inicio": 7.88,
+      "fin": 7.92
+    },
+    {
+      "texto": "robots,",
+      "inicio": 8,
+      "fin": 8.64
+    },
+    {
+      "texto": "y",
+      "inicio": 8.68,
+      "fin": 8.72
+    },
+    {
+      "texto": "la",
+      "inicio": 8.76,
+      "fin": 8.8
+    },
+    {
+      "texto": "gente",
+      "inicio": 8.88,
+      "fin": 9.2
+    },
+    {
+      "texto": "sigue",
+      "inicio": 9.28,
+      "fin": 9.52
+    },
+    {
+      "texto": "a",
+      "inicio": 9.56,
+      "fin": 9.6
+    },
+    {
+      "texto": "su",
+      "inicio": 9.64,
+      "fin": 9.68
+    },
+    {
+      "texto": "lado.",
+      "inicio": 9.76,
+      "fin": 10.56
+    },
+    {
+      "texto": "En",
+      "inicio": 10.6,
+      "fin": 10.64
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "texto": "mil",
+      "inicio": 10.88,
+      "fin": 10.96
+    },
+    {
+      "texto": "trece,",
+      "inicio": 11.04,
+      "fin": 11.52
+    },
+    {
+      "texto": "Oxford",
+      "inicio": 11.6,
+      "fin": 12
+    },
+    {
+      "texto": "dijo",
+      "inicio": 12.04,
+      "fin": 12.24
+    },
+    {
+      "texto": "que",
+      "inicio": 12.32,
+      "fin": 12.48
+    },
+    {
+      "texto": "casi",
+      "inicio": 12.56,
+      "fin": 12.8
+    },
+    {
+      "texto": "la",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "texto": "mitad",
+      "inicio": 12.96,
+      "fin": 13.2
+    },
+    {
+      "texto": "de",
+      "inicio": 13.24,
+      "fin": 13.28
+    },
+    {
+      "texto": "los",
+      "inicio": 13.36,
+      "fin": 13.44
+    },
+    {
+      "texto": "empleos",
+      "inicio": 13.52,
+      "fin": 13.92
+    },
+    {
+      "texto": "de",
+      "inicio": 13.96,
+      "fin": 14
+    },
+    {
+      "texto": "Estados",
+      "inicio": 14.12,
+      "fin": 14.4
+    },
+    {
+      "texto": "Unidos",
+      "inicio": 14.48,
+      "fin": 14.8
+    },
+    {
+      "texto": "se",
+      "inicio": 14.96,
+      "fin": 15.12
+    },
+    {
+      "texto": "podía",
+      "inicio": 15.2,
+      "fin": 15.44
+    },
+    {
+      "texto": "automatizar.",
+      "inicio": 15.56,
+      "fin": 16.64
+    },
+    {
+      "texto": "No",
+      "inicio": 16.72,
+      "fin": 16.88
+    },
+    {
+      "texto": "era",
+      "inicio": 16.96,
+      "fin": 17.12
+    },
+    {
+      "texto": "una",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "texto": "predicción:",
+      "inicio": 17.36,
+      "fin": 18.24
+    },
+    {
+      "texto": "era",
+      "inicio": 18.32,
+      "fin": 18.4
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.48,
+      "fin": 18.56
+    },
+    {
+      "texto": "que",
+      "inicio": 18.64,
+      "fin": 18.72
+    },
+    {
+      "texto": "una",
+      "inicio": 18.8,
+      "fin": 18.88
+    },
+    {
+      "texto": "máquina",
+      "inicio": 18.96,
+      "fin": 19.36
+    },
+    {
+      "texto": "podría",
+      "inicio": 19.44,
+      "fin": 19.84
+    },
+    {
+      "texto": "hacer.",
+      "inicio": 19.88,
+      "fin": 20.8
+    },
+    {
+      "texto": "La",
+      "inicio": 20.88,
+      "fin": 20.96
+    },
+    {
+      "texto": "ocde",
+      "inicio": 21.12,
+      "fin": 21.84
+    },
+    {
+      "texto": "miró",
+      "inicio": 21.92,
+      "fin": 22.12
+    },
+    {
+      "texto": "las",
+      "inicio": 22.16,
+      "fin": 22.24
+    },
+    {
+      "texto": "tareas,",
+      "inicio": 22.32,
+      "fin": 22.96
+    },
+    {
+      "texto": "y",
+      "inicio": 23,
+      "fin": 23.04
+    },
+    {
+      "texto": "el",
+      "inicio": 23.08,
+      "fin": 23.12
+    },
+    {
+      "texto": "riesgo",
+      "inicio": 23.2,
+      "fin": 23.52
+    },
+    {
+      "texto": "alto",
+      "inicio": 23.6,
+      "fin": 23.84
+    },
+    {
+      "texto": "bajó",
+      "inicio": 23.88,
+      "fin": 24.24
+    },
+    {
+      "texto": "a",
+      "inicio": 24.32,
+      "fin": 24.4
+    },
+    {
+      "texto": "uno",
+      "inicio": 24.48,
+      "fin": 24.64
+    },
+    {
+      "texto": "de",
+      "inicio": 24.72,
+      "fin": 24.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 24.853,
+      "fin": 24.96
+    },
+    {
+      "texto": "siete.",
+      "inicio": 25.04,
+      "fin": 26
+    },
+    {
+      "texto": "Otro",
+      "inicio": 26.04,
+      "fin": 26.24
+    },
+    {
+      "texto": "tercio",
+      "inicio": 26.36,
+      "fin": 26.64
+    },
+    {
+      "texto": "no",
+      "inicio": 26.72,
+      "fin": 26.88
+    },
+    {
+      "texto": "desaparece:",
+      "inicio": 26.96,
+      "fin": 27.84
+    },
+    {
+      "texto": "cambia",
+      "inicio": 27.92,
+      "fin": 28.16
+    },
+    {
+      "texto": "el",
+      "inicio": 28.24,
+      "fin": 28.28
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 28.32,
+      "fin": 28.72
+    },
+    {
+      "texto": "por",
+      "inicio": 28.8,
+      "fin": 28.88
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 29,
+      "fin": 29.76
+    },
+    {
+      "texto": "Ya",
+      "inicio": 29.84,
+      "fin": 29.92
+    },
+    {
+      "texto": "pasó",
+      "inicio": 30,
+      "fin": 30.16
+    },
+    {
+      "texto": "con",
+      "inicio": 30.24,
+      "fin": 30.32
+    },
+    {
+      "texto": "el",
+      "inicio": 30.36,
+      "fin": 30.4
+    },
+    {
+      "texto": "cajero:",
+      "inicio": 30.48,
+      "fin": 31.12
+    },
+    {
+      "texto": "llegó",
+      "inicio": 31.173,
+      "fin": 31.36
+    },
+    {
+      "texto": "la",
+      "inicio": 31.4,
+      "fin": 31.44
+    },
+    {
+      "texto": "máquina,",
+      "inicio": 31.52,
+      "fin": 32
+    },
+    {
+      "texto": "y",
+      "inicio": 32.04,
+      "fin": 32.08
+    },
+    {
+      "texto": "la",
+      "inicio": 32.12,
+      "fin": 32.16
+    },
+    {
+      "texto": "persona",
+      "inicio": 32.24,
+      "fin": 32.64
+    },
+    {
+      "texto": "siguió",
+      "inicio": 32.72,
+      "fin": 33.04
+    },
+    {
+      "texto": "en",
+      "inicio": 33.08,
+      "fin": 33.12
+    },
+    {
+      "texto": "la",
+      "inicio": 33.16,
+      "fin": 33.2
+    },
+    {
+      "texto": "ventanilla.",
+      "inicio": 33.32,
+      "fin": 34.4
+    },
+    {
+      "texto": "Hasta",
+      "inicio": 34.453,
+      "fin": 34.56
+    },
+    {
+      "texto": "dos",
+      "inicio": 34.64,
+      "fin": 34.72
+    },
+    {
+      "texto": "mil",
+      "inicio": 34.8,
+      "fin": 34.88
+    },
+    {
+      "texto": "treinta,",
+      "inicio": 34.96,
+      "fin": 35.52
+    },
+    {
+      "texto": "el",
+      "inicio": 35.56,
+      "fin": 35.6
+    },
+    {
+      "texto": "Foro",
+      "inicio": 35.68,
+      "fin": 35.92
+    },
+    {
+      "texto": "espera",
+      "inicio": 36.04,
+      "fin": 36.24
+    },
+    {
+      "texto": "más",
+      "inicio": 36.4,
+      "fin": 36.56
+    },
+    {
+      "texto": "empleos",
+      "inicio": 36.72,
+      "fin": 36.96
+    },
+    {
+      "texto": "nuevos",
+      "inicio": 37.12,
+      "fin": 37.44
+    },
+    {
+      "texto": "que",
+      "inicio": 37.52,
+      "fin": 37.6
+    },
+    {
+      "texto": "perdidos,",
+      "inicio": 37.68,
+      "fin": 38.24
+    },
+    {
+      "texto": "contando",
+      "inicio": 38.32,
+      "fin": 38.72
+    },
+    {
+      "texto": "todas",
+      "inicio": 38.88,
+      "fin": 39.12
+    },
+    {
+      "texto": "las",
+      "inicio": 39.2,
+      "fin": 39.28
+    },
+    {
+      "texto": "tendencias.",
+      "inicio": 39.36,
+      "fin": 40.48
+    },
+    {
+      "texto": "Los",
+      "inicio": 40.56,
+      "fin": 40.64
+    },
+    {
+      "texto": "treinta",
+      "inicio": 40.72,
+      "fin": 40.96
+    },
+    {
+      "texto": "años",
+      "inicio": 41.04,
+      "fin": 41.2
+    },
+    {
+      "texto": "enteros",
+      "inicio": 41.28,
+      "fin": 41.76
+    },
+    {
+      "texto": "nadie",
+      "inicio": 41.92,
+      "fin": 42.16
+    },
+    {
+      "texto": "los",
+      "inicio": 42.24,
+      "fin": 42.4
+    },
+    {
+      "texto": "ha",
+      "inicio": 42.44,
+      "fin": 42.48
+    },
+    {
+      "texto": "medido:",
+      "inicio": 42.56,
+      "fin": 43.12
+    },
+    {
+      "texto": "eso",
+      "inicio": 43.2,
+      "fin": 43.44
+    },
+    {
+      "texto": "es",
+      "inicio": 43.6,
+      "fin": 43.68
+    },
+    {
+      "texto": "especulación.",
+      "inicio": 43.76,
+      "fin": 44.88
+    },
+    {
+      "texto": "La",
+      "inicio": 44.92,
+      "fin": 44.96
+    },
+    {
+      "texto": "mayoría",
+      "inicio": 45.04,
+      "fin": 45.36
+    },
+    {
+      "texto": "de",
+      "inicio": 45.4,
+      "fin": 45.44
+    },
+    {
+      "texto": "los",
+      "inicio": 45.52,
+      "fin": 45.6
+    },
+    {
+      "texto": "trabajos",
+      "inicio": 45.64,
+      "fin": 46.16
+    },
+    {
+      "texto": "no",
+      "inicio": 46.32,
+      "fin": 46.4
+    },
+    {
+      "texto": "desaparece.",
+      "inicio": 46.48,
+      "fin": 47.44
+    },
+    {
+      "texto": "El",
+      "inicio": 47.48,
+      "fin": 47.52
+    },
+    {
+      "texto": "robot",
+      "inicio": 47.6,
+      "fin": 48
+    },
+    {
+      "texto": "se",
+      "inicio": 48.08,
+      "fin": 48.16
+    },
+    {
+      "texto": "queda",
+      "inicio": 48.24,
+      "fin": 48.4
+    },
+    {
+      "texto": "con",
+      "inicio": 48.48,
+      "fin": 48.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 48.6,
+      "fin": 48.64
+    },
+    {
+      "texto": "que",
+      "inicio": 48.72,
+      "fin": 48.8
+    },
+    {
+      "texto": "se",
+      "inicio": 48.84,
+      "fin": 48.88
+    },
+    {
+      "texto": "repite.",
+      "inicio": 48.96,
+      "fin": 49.92
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 50,
+      "fin": 50.48
+    },
+    {
+      "texto": "a",
+      "inicio": 50.52,
+      "fin": 50.56
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.64,
+      "fin": 50.72
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.8,
+      "fin": 51.04
+    },
+    {
+      "texto": "que",
+      "inicio": 51.12,
+      "fin": 51.28
+    },
+    {
+      "texto": "ya",
+      "inicio": 51.36,
+      "fin": 51.44
+    },
+    {
+      "texto": "se",
+      "inicio": 51.52,
+      "fin": 51.6
+    },
+    {
+      "texto": "ve",
+      "inicio": 51.68,
+      "fin": 51.76
+    },
+    {
+      "texto": "en",
+      "inicio": 51.8,
+      "fin": 51.84
+    },
+    {
+      "texto": "el",
+      "inicio": 51.92,
+      "fin": 52
+    },
+    {
+      "texto": "paro",
+      "inicio": 52.08,
+      "fin": 52.32
+    },
+    {
+      "texto": "por",
+      "inicio": 52.4,
+      "fin": 52.48
+    },
+    {
+      "texto": "un",
+      "inicio": 52.52,
+      "fin": 52.56
+    },
+    {
+      "texto": "robot.",
+      "inicio": 52.64,
+      "fin": 53.28
+    }
+  ]
+}

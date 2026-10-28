@@ -1,0 +1,1184 @@
+{
+  "firma": "703543f4e3cb",
+  "duracion": 54.08,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Podrían los robots sustituir la mayoría de los trabajos humanos en los próximos treinta años?",
+      "clave": "mayoría",
+      "inicio": 0,
+      "fin": 5.44
+    },
+    {
+      "n": 2,
+      "texto": "En las fábricas ya hay cinco millones de robots, y la gente sigue a su lado.",
+      "clave": "millones",
+      "inicio": 5.76,
+      "fin": 10.56
+    },
+    {
+      "n": 3,
+      "texto": "En dos mil trece, Oxford dijo que casi la mitad de los empleos de Estados Unidos se podía automatizar.",
+      "clave": "mitad",
+      "inicio": 10.6,
+      "fin": 16.64
+    },
+    {
+      "n": 4,
+      "texto": "No era una predicción: era lo que una máquina podría hacer.",
+      "clave": "podría",
+      "inicio": 16.72,
+      "fin": 20.8
+    },
+    {
+      "n": 5,
+      "texto": "La OCDE miró las tareas, y el riesgo alto bajó a uno de cada siete.",
+      "clave": "siete",
+      "inicio": 20.88,
+      "fin": 26
+    },
+    {
+      "n": 6,
+      "texto": "Otro tercio no desaparece: cambia el trabajo por dentro.",
+      "clave": "dentro",
+      "inicio": 26.04,
+      "fin": 29.76
+    },
+    {
+      "n": 7,
+      "texto": "Ya pasó con el cajero: llegó la máquina, y la persona siguió en la ventanilla.",
+      "clave": "ventanilla",
+      "inicio": 29.84,
+      "fin": 34.4
+    },
+    {
+      "n": 8,
+      "texto": "Hasta dos mil treinta, el Foro espera más empleos nuevos que perdidos, contando todas las tendencias.",
+      "clave": "nuevos",
+      "inicio": 34.453,
+      "fin": 40.48
+    },
+    {
+      "n": 9,
+      "texto": "Los treinta años enteros nadie los ha medido: eso es especulación.",
+      "clave": "especulación",
+      "inicio": 40.56,
+      "fin": 44.88
+    },
+    {
+      "n": 10,
+      "texto": "La mayoría de los trabajos no desaparece. El robot se queda con lo que se repite.",
+      "clave": "repite",
+      "inicio": 44.92,
+      "fin": 49.92
+    },
+    {
+      "n": 11,
+      "texto": "Envíaselo a ese amigo que ya se ve en el paro por un robot.",
+      "clave": "amigo",
+      "inicio": 50,
+      "fin": 53.28
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Podrían",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "robots",
+      "inicio": 0.8,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sustituir",
+      "inicio": 1.2,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.76,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mayoría",
+      "inicio": 1.92,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 2.28,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 2.4,
+      "fin": 2.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "trabajos",
+      "inicio": 2.52,
+      "fin": 2.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "humanos",
+      "inicio": 2.96,
+      "fin": 3.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 3.44,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 3.6,
+      "fin": 3.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "próximos",
+      "inicio": 3.76,
+      "fin": 4.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "treinta",
+      "inicio": 4.32,
+      "fin": 4.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "años?",
+      "inicio": 4.72,
+      "fin": 5.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 5.76,
+      "fin": 5.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 5.92,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fábricas",
+      "inicio": 6.04,
+      "fin": 6.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 6.64,
+      "fin": 6.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "hay",
+      "inicio": 6.8,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cinco",
+      "inicio": 7.12,
+      "fin": 7.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "millones",
+      "inicio": 7.44,
+      "fin": 7.84,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 7.88,
+      "fin": 7.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "robots,",
+      "inicio": 8,
+      "fin": 8.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 8.68,
+      "fin": 8.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 8.76,
+      "fin": 8.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gente",
+      "inicio": 8.88,
+      "fin": 9.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 9.28,
+      "fin": 9.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 9.56,
+      "fin": 9.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 9.64,
+      "fin": 9.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "lado.",
+      "inicio": 9.76,
+      "fin": 10.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 10.6,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 10.88,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "trece,",
+      "inicio": 11.04,
+      "fin": 11.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Oxford",
+      "inicio": 11.6,
+      "fin": 12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dijo",
+      "inicio": 12.04,
+      "fin": 12.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 12.32,
+      "fin": 12.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 12.56,
+      "fin": 12.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 12.84,
+      "fin": 12.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mitad",
+      "inicio": 12.96,
+      "fin": 13.2,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 13.24,
+      "fin": 13.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 13.36,
+      "fin": 13.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "empleos",
+      "inicio": 13.52,
+      "fin": 13.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.96,
+      "fin": 14,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Estados",
+      "inicio": 14.12,
+      "fin": 14.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Unidos",
+      "inicio": 14.48,
+      "fin": 14.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 14.96,
+      "fin": 15.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "podía",
+      "inicio": 15.2,
+      "fin": 15.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "automatizar.",
+      "inicio": 15.56,
+      "fin": 16.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "No",
+      "inicio": 16.72,
+      "fin": 16.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "era",
+      "inicio": 16.96,
+      "fin": 17.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 17.2,
+      "fin": 17.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "predicción:",
+      "inicio": 17.36,
+      "fin": 18.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "era",
+      "inicio": 18.32,
+      "fin": 18.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 18.48,
+      "fin": 18.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 18.64,
+      "fin": 18.72,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 18.8,
+      "fin": 18.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "máquina",
+      "inicio": 18.96,
+      "fin": 19.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "podría",
+      "inicio": 19.44,
+      "fin": 19.84,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "hacer.",
+      "inicio": 19.88,
+      "fin": 20.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 20.88,
+      "fin": 20.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "OCDE",
+      "inicio": 21.12,
+      "fin": 21.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "miró",
+      "inicio": 21.92,
+      "fin": 22.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 22.16,
+      "fin": 22.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "tareas,",
+      "inicio": 22.32,
+      "fin": 22.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 23,
+      "fin": 23.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 23.08,
+      "fin": 23.12,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "riesgo",
+      "inicio": 23.2,
+      "fin": 23.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "alto",
+      "inicio": 23.6,
+      "fin": 23.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "bajó",
+      "inicio": 23.88,
+      "fin": 24.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 24.32,
+      "fin": 24.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 24.48,
+      "fin": 24.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 24.72,
+      "fin": 24.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cada",
+      "inicio": 24.853,
+      "fin": 24.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "siete.",
+      "inicio": 25.04,
+      "fin": 26,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "Otro",
+      "inicio": 26.04,
+      "fin": 26.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tercio",
+      "inicio": 26.36,
+      "fin": 26.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 26.72,
+      "fin": 26.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "desaparece:",
+      "inicio": 26.96,
+      "fin": 27.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "cambia",
+      "inicio": 27.92,
+      "fin": 28.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 28.24,
+      "fin": 28.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "trabajo",
+      "inicio": 28.32,
+      "fin": 28.72,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 28.8,
+      "fin": 28.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "dentro.",
+      "inicio": 29,
+      "fin": 29.76,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "Ya",
+      "inicio": 29.84,
+      "fin": 29.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pasó",
+      "inicio": 30,
+      "fin": 30.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 30.24,
+      "fin": 30.32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 30.36,
+      "fin": 30.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cajero:",
+      "inicio": 30.48,
+      "fin": 31.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "llegó",
+      "inicio": 31.173,
+      "fin": 31.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 31.4,
+      "fin": 31.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "máquina,",
+      "inicio": 31.52,
+      "fin": 32,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 32.04,
+      "fin": 32.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 32.12,
+      "fin": 32.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "persona",
+      "inicio": 32.24,
+      "fin": 32.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "siguió",
+      "inicio": 32.72,
+      "fin": 33.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 33.08,
+      "fin": 33.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 33.16,
+      "fin": 33.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ventanilla.",
+      "inicio": 33.32,
+      "fin": 34.4,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "Hasta",
+      "inicio": 34.453,
+      "fin": 34.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 34.64,
+      "fin": 34.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mil",
+      "inicio": 34.8,
+      "fin": 34.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "treinta,",
+      "inicio": 34.96,
+      "fin": 35.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 35.56,
+      "fin": 35.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Foro",
+      "inicio": 35.68,
+      "fin": 35.92,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "espera",
+      "inicio": 36.04,
+      "fin": 36.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 36.4,
+      "fin": 36.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "empleos",
+      "inicio": 36.72,
+      "fin": 36.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "nuevos",
+      "inicio": 37.12,
+      "fin": 37.44,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 37.52,
+      "fin": 37.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "perdidos,",
+      "inicio": 37.68,
+      "fin": 38.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "contando",
+      "inicio": 38.32,
+      "fin": 38.72,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "todas",
+      "inicio": 38.88,
+      "fin": 39.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 39.2,
+      "fin": 39.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tendencias.",
+      "inicio": 39.36,
+      "fin": 40.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Los",
+      "inicio": 40.56,
+      "fin": 40.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "treinta",
+      "inicio": 40.72,
+      "fin": 40.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "años",
+      "inicio": 41.04,
+      "fin": 41.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "enteros",
+      "inicio": 41.28,
+      "fin": 41.76,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "nadie",
+      "inicio": 41.92,
+      "fin": 42.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 42.24,
+      "fin": 42.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ha",
+      "inicio": 42.44,
+      "fin": 42.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "medido:",
+      "inicio": 42.56,
+      "fin": 43.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 43.2,
+      "fin": 43.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 43.6,
+      "fin": 43.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "especulación.",
+      "inicio": 43.76,
+      "fin": 44.88,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "La",
+      "inicio": 44.92,
+      "fin": 44.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "mayoría",
+      "inicio": 45.04,
+      "fin": 45.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 45.4,
+      "fin": 45.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 45.52,
+      "fin": 45.6,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "trabajos",
+      "inicio": 45.64,
+      "fin": 46.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 46.32,
+      "fin": 46.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "desaparece.",
+      "inicio": 46.48,
+      "fin": 47.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 47.48,
+      "fin": 47.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "robot",
+      "inicio": 47.6,
+      "fin": 48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 48.08,
+      "fin": 48.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 48.24,
+      "fin": 48.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 48.48,
+      "fin": 48.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 48.6,
+      "fin": 48.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 48.72,
+      "fin": 48.8,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 48.84,
+      "fin": 48.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "repite.",
+      "inicio": 48.96,
+      "fin": 49.92,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 50,
+      "fin": 50.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 50.52,
+      "fin": 50.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 50.64,
+      "fin": 50.72,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 50.8,
+      "fin": 51.04,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 51.12,
+      "fin": 51.28,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 51.36,
+      "fin": 51.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 51.52,
+      "fin": 51.6,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ve",
+      "inicio": 51.68,
+      "fin": 51.76,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 51.8,
+      "fin": 51.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 51.92,
+      "fin": 52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "paro",
+      "inicio": 52.08,
+      "fin": 52.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 52.4,
+      "fin": 52.48,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 52.52,
+      "fin": 52.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "robot.",
+      "inicio": 52.64,
+      "fin": 53.28,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

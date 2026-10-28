@@ -1,0 +1,26 @@
+# ¿Podrían los robots sustituir la mayoría de los trabajos humanos en los próximos 30 años?
+
+Pedido el 2026-10-27. Lista del creador, futuro.md, número 4.
+
+## Lo que cuenta, en una frase
+
+En las fábricas ya hay millones de robots y la gente sigue a su lado; el «casi la mitad» de Oxford era lo que una máquina podría hacer, no los puestos que se cierran; al mirar las tareas, la OCDE baja el riesgo alto a uno de cada siete y otro tercio cambia por dentro; hasta 2030 las empresas esperan más empleos nuevos que perdidos, y los treinta años enteros nadie los ha medido.
+
+## Los datos, cada uno con su fuente
+
+- **Lo sorprendente:** la pregunta suena a que se acaba el trabajo. Lo que ya ha pasado es lo contrario en la fábrica: a finales de 2025 había 5.079.078 robots industriales en funcionamiento en el mundo, un 9 % más que el año anterior. La Federación Internacional de Robótica lo resume como cinco millones. — World Robotics 2026, resumen ejecutivo: https://ifr.org/img/worldrobotics/Executive_Summary_WR_2026_-_Industrial_Robots.pdf y nota del 24 de septiembre de 2026: https://ifr.org/news/five-million-robots-now-operate-in-factories-globally/
+- **La regla que rompe:** en 2013, Frey y Osborne (Oxford) estimaron que alrededor del 47 % del empleo de Estados Unidos estaba en ocupaciones con alta probabilidad de informatización (por encima de 0,7). No era un calendario de despidos. Ellos mismos escribieron que medían cuántos empleos se pueden sustituir «desde el punto de vista de la capacidad técnica, a lo largo de un número de años que no precisan», y que no intentaban calcular cuántos empleos se automatizarían de verdad. — https://www.robots.ox.ac.uk/~mosb/public/pdf/63/Frey%20and%20Osborne%20-%202013%20-%20The%20future%20of%20employment%20how%20susceptible%20are%20jobs.pdf y la aclaración posterior: https://www.oxfordmartin.ox.ac.uk/blog/automation-and-the-future-of-work-understanding-the-numbers
+- **El mecanismo, paso a paso:**
+  1. Un empleo es un montón de tareas, no un bloque. Si se mira el puesto entero, sale el 47 % de Estados Unidos.
+  2. Si se mira lo que hace cada persona dentro de ese puesto, la cifra baja. Nedelkoska y Quintini (OCDE, 2018), con PIAAC en 32 países: alrededor del 14 % de los empleos es altamente automatizable (probabilidad superior al 70 %). Otro 32 % tiene un riesgo de entre el 50 % y el 70 %: no desaparece, cambia la forma de hacerlo. — https://doi.org/10.1787/2e2f4eea-en
+  3. Eso ya se vio con el cajero automático. Bessen (FMI, Finanzas y Desarrollo, marzo de 2015): la máquina se quedó con sacar dinero y los ingresos; en el mercado urbano de Estados Unidos, los cajeros por sucursal bajaron de 20 a 13 entre 1988 y 2004, pero las sucursales subieron un 43 % y el puesto no desapareció. Lo que quedó valía más: hablar con el cliente. Entonces había más de 400.000 cajeros automáticos en Estados Unidos. Es la historia de aquella llegada, no un censo de ventanillas en 2026. — https://www.imf.org/external/pubs/ft/fandd/2015/03/bessen.htm
+- **Las cifras que se dicen:**
+  - Cinco millones de robots industriales ya en las fábricas (IFR, stock de 2025: 5,08 millones).
+  - Casi la mitad de los empleos de Estados Unidos, en el estudio de 2013 (el 47 %).
+  - Uno de cada siete: el 14 % de la OCDE es 1/7,1. «Uno de cada siete» redondea hacia lo honesto, y es el promedio de esos países, no una cifra de España.
+  - Otro tercio: el 32 % con riesgo medio, el que cambia por dentro.
+  - Hasta 2030, no hasta dentro de treinta años. El Foro Económico Mundial (Future of Jobs 2025), juntando lo que dicen más de mil empresas con datos de empleo de la OIT, estima 170 millones de empleos nuevos y 92 millones que se desplazan, saldo de 78 millones más. Es una previsión de las empresas sobre un trozo del empleo formal (unos 1.180 millones de trabajadores del conjunto que estudian), por todas las tendencias juntas, no una cuenta cerrada ni solo de robots. Dentro de esa cuenta, la robótica y los sistemas autónomos son lo que más empleo quita en neto (unos 5 millones menos). El vídeo no dice ese segundo cinco: se confundiría con los cinco millones de máquinas, y la frase que sí se dice es la que no mezcla las dos cosas: más empleos nuevos que perdidos, contando todas las tendencias. — https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/2-jobs-outlook/
+- **Comparación de casa:** el cajero automático y la ventanilla del banco.
+- **Lo que es especulación:** ningún estudio de esta lista ha medido «la mayoría de los trabajos humanos, dentro de treinta años». Oxford avisó que no predecía los puestos que se cierran. La OCDE mide exposición técnica, no un calendario. El Foro mira hasta 2030. Decir que en treinta años un robot se queda con la mayoría es el salto que el vídeo señala como especulación.
+
+Fuera, para no liar cifras: el 9 % de Arntz, Gregory y Zierahn (2016) en Estados Unidos (otra cuenta, por tareas, anterior a la de la OCDE); los 300 millones de Goldman Sachs, que son empleo expuesto y se leen mal como empleos destruidos; el 3,3 % de empleo mundial en el gradiente más alto de exposición a IA generativa (OIT, 2025), que es otra tecnología y otra escala. El vídeo es de robots y de los números que la gente repite.

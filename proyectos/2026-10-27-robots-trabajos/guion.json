@@ -1,0 +1,54 @@
+{
+  "titulo": "Robots y la mayoría de los trabajos",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Podrían los robots sustituir la mayoría de los trabajos humanos en los próximos treinta años?",
+      "clave": "mayoría",
+      "hook": true
+    },
+    {
+      "texto": "En las fábricas ya hay cinco millones de robots, y la gente sigue a su lado.",
+      "clave": "millones",
+      "hook": true
+    },
+    {
+      "texto": "En dos mil trece, Oxford dijo que casi la mitad de los empleos de Estados Unidos se podía automatizar.",
+      "clave": "mitad"
+    },
+    {
+      "texto": "No era una predicción: era lo que una máquina podría hacer.",
+      "clave": "podría"
+    },
+    {
+      "texto": "La OCDE miró las tareas, y el riesgo alto bajó a uno de cada siete.",
+      "clave": "siete",
+      "dicho": "La ocde miró las tareas, y el riesgo alto bajó a uno de cada siete."
+    },
+    {
+      "texto": "Otro tercio no desaparece: cambia el trabajo por dentro.",
+      "clave": "dentro"
+    },
+    {
+      "texto": "Ya pasó con el cajero: llegó la máquina, y la persona siguió en la ventanilla.",
+      "clave": "ventanilla"
+    },
+    {
+      "texto": "Hasta dos mil treinta, el Foro espera más empleos nuevos que perdidos, contando todas las tendencias.",
+      "clave": "nuevos"
+    },
+    {
+      "texto": "Los treinta años enteros nadie los ha medido: eso es especulación.",
+      "clave": "especulación"
+    },
+    {
+      "texto": "La mayoría de los trabajos no desaparece. El robot se queda con lo que se repite.",
+      "clave": "repite"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que ya se ve en el paro por un robot.",
+      "clave": "amigo"
+    }
+  ]
+}
