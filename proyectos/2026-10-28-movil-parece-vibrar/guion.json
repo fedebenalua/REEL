@@ -1,0 +1,19 @@
+{
+  "titulo": "¿Por qué tu móvil parece vibrar en el bolsillo cuando en realidad no ha vibrado?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué tu móvil parece vibrar en el bolsillo cuando en realidad no ha vibrado?", "clave": "vibrar", "hook": true },
+    { "texto": "Lo sacas, y la pantalla sigue apagada.", "clave": "apagada", "hook": true },
+    { "texto": "En un estudio de un hospital, le pasaba al sesenta y ocho por ciento.", "clave": "ocho" },
+    { "texto": "En otro, con estudiantes, al ochenta y nueve por ciento.", "clave": "nueve" },
+    { "texto": "De media, una vez cada dos semanas.", "clave": "semanas" },
+    { "texto": "El bolsillo no está quieto: roza la tela, y un músculo pega un salto.", "clave": "salto" },
+    { "texto": "El cerebro espera el aviso, y puede tomar eso por el móvil.", "clave": "aviso" },
+    { "texto": "Como una madre que cree oír al bebé, y el bebé duerme.", "clave": "bebé" },
+    { "texto": "En ese hospital, cuantas más horas lo llevaban encima, más les pasaba.", "clave": "horas" },
+    { "texto": "Y en los dos estudios, a casi todos les daba igual o solo un poco.", "clave": "igual" },
+    { "texto": "Así que el móvil no vibró: tu cerebro puso el aviso que estaba esperando.", "clave": "cerebro" },
+    { "texto": "Síguenos, o envíaselo a ese amigo que saca el móvil y no hay nada.", "clave": "amigo" }
+  ]
+}

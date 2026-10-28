@@ -1,0 +1,744 @@
+{
+  "firma": "b3b98d199d49",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "tu",
+      "inicio": 0.32,
+      "fin": 0.4
+    },
+    {
+      "texto": "móvil",
+      "inicio": 0.48,
+      "fin": 0.72
+    },
+    {
+      "texto": "parece",
+      "inicio": 0.8,
+      "fin": 1.04
+    },
+    {
+      "texto": "vibrar",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "texto": "en",
+      "inicio": 1.48,
+      "fin": 1.52
+    },
+    {
+      "texto": "el",
+      "inicio": 1.56,
+      "fin": 1.6
+    },
+    {
+      "texto": "bolsillo",
+      "inicio": 1.68,
+      "fin": 2.16
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.24,
+      "fin": 2.48
+    },
+    {
+      "texto": "en",
+      "inicio": 2.56,
+      "fin": 2.64
+    },
+    {
+      "texto": "realidad",
+      "inicio": 2.76,
+      "fin": 3.2
+    },
+    {
+      "texto": "no",
+      "inicio": 3.24,
+      "fin": 3.28
+    },
+    {
+      "texto": "ha",
+      "inicio": 3.32,
+      "fin": 3.36
+    },
+    {
+      "texto": "vibrado?",
+      "inicio": 3.44,
+      "fin": 4.32
+    },
+    {
+      "texto": "Lo",
+      "inicio": 4.36,
+      "fin": 4.4
+    },
+    {
+      "texto": "sacas,",
+      "inicio": 4.48,
+      "fin": 5.12
+    },
+    {
+      "texto": "y",
+      "inicio": 5.16,
+      "fin": 5.2
+    },
+    {
+      "texto": "la",
+      "inicio": 5.24,
+      "fin": 5.28
+    },
+    {
+      "texto": "pantalla",
+      "inicio": 5.36,
+      "fin": 5.76
+    },
+    {
+      "texto": "sigue",
+      "inicio": 5.88,
+      "fin": 6.08
+    },
+    {
+      "texto": "apagada.",
+      "inicio": 6.16,
+      "fin": 7.12
+    },
+    {
+      "texto": "En",
+      "inicio": 7.16,
+      "fin": 7.2
+    },
+    {
+      "texto": "un",
+      "inicio": 7.28,
+      "fin": 7.32
+    },
+    {
+      "texto": "estudio",
+      "inicio": 7.36,
+      "fin": 7.68
+    },
+    {
+      "texto": "de",
+      "inicio": 7.72,
+      "fin": 7.76
+    },
+    {
+      "texto": "un",
+      "inicio": 7.84,
+      "fin": 7.92
+    },
+    {
+      "texto": "hospital,",
+      "inicio": 8.16,
+      "fin": 8.48
+    },
+    {
+      "texto": "le",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "texto": "pasaba",
+      "inicio": 8.72,
+      "fin": 8.96
+    },
+    {
+      "texto": "al",
+      "inicio": 9.04,
+      "fin": 9.12
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 9.2,
+      "fin": 9.6
+    },
+    {
+      "texto": "y",
+      "inicio": 9.68,
+      "fin": 9.72
+    },
+    {
+      "texto": "ocho",
+      "inicio": 9.76,
+      "fin": 9.92
+    },
+    {
+      "texto": "por",
+      "inicio": 10,
+      "fin": 10.16
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 10.267,
+      "fin": 10.96
+    },
+    {
+      "texto": "En",
+      "inicio": 11.04,
+      "fin": 11.12
+    },
+    {
+      "texto": "otro,",
+      "inicio": 11.2,
+      "fin": 11.52
+    },
+    {
+      "texto": "con",
+      "inicio": 11.56,
+      "fin": 11.6
+    },
+    {
+      "texto": "estudiantes,",
+      "inicio": 11.68,
+      "fin": 12.48
+    },
+    {
+      "texto": "al",
+      "inicio": 12.52,
+      "fin": 12.56
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 12.64,
+      "fin": 13.04
+    },
+    {
+      "texto": "y",
+      "inicio": 13.12,
+      "fin": 13.2
+    },
+    {
+      "texto": "nueve",
+      "inicio": 13.24,
+      "fin": 13.44
+    },
+    {
+      "texto": "por",
+      "inicio": 13.52,
+      "fin": 13.68
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 13.787,
+      "fin": 14.56
+    },
+    {
+      "texto": "De",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "media,",
+      "inicio": 14.8,
+      "fin": 15.12
+    },
+    {
+      "texto": "una",
+      "inicio": 15.24,
+      "fin": 15.36
+    },
+    {
+      "texto": "vez",
+      "inicio": 15.48,
+      "fin": 15.6
+    },
+    {
+      "texto": "cada",
+      "inicio": 15.68,
+      "fin": 15.84
+    },
+    {
+      "texto": "dos",
+      "inicio": 16,
+      "fin": 16.08
+    },
+    {
+      "texto": "semanas.",
+      "inicio": 16.16,
+      "fin": 17.2
+    },
+    {
+      "texto": "El",
+      "inicio": 17.24,
+      "fin": 17.28
+    },
+    {
+      "texto": "bolsillo",
+      "inicio": 17.32,
+      "fin": 17.76
+    },
+    {
+      "texto": "no",
+      "inicio": 17.84,
+      "fin": 17.92
+    },
+    {
+      "texto": "está",
+      "inicio": 18,
+      "fin": 18.16
+    },
+    {
+      "texto": "quieto:",
+      "inicio": 18.24,
+      "fin": 18.88
+    },
+    {
+      "texto": "roza",
+      "inicio": 18.96,
+      "fin": 19.2
+    },
+    {
+      "texto": "la",
+      "inicio": 19.24,
+      "fin": 19.28
+    },
+    {
+      "texto": "tela,",
+      "inicio": 19.36,
+      "fin": 19.76
+    },
+    {
+      "texto": "y",
+      "inicio": 19.8,
+      "fin": 19.84
+    },
+    {
+      "texto": "un",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "texto": "músculo",
+      "inicio": 20.053,
+      "fin": 20.4
+    },
+    {
+      "texto": "pega",
+      "inicio": 20.56,
+      "fin": 20.72
+    },
+    {
+      "texto": "un",
+      "inicio": 20.8,
+      "fin": 20.84
+    },
+    {
+      "texto": "salto.",
+      "inicio": 20.88,
+      "fin": 21.76
+    },
+    {
+      "texto": "El",
+      "inicio": 21.8,
+      "fin": 21.84
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 21.92,
+      "fin": 22.32
+    },
+    {
+      "texto": "espera",
+      "inicio": 22.52,
+      "fin": 22.76
+    },
+    {
+      "texto": "el",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "texto": "aviso,",
+      "inicio": 22.92,
+      "fin": 23.44
+    },
+    {
+      "texto": "y",
+      "inicio": 23.48,
+      "fin": 23.52
+    },
+    {
+      "texto": "puede",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "tomar",
+      "inicio": 23.84,
+      "fin": 24.08
+    },
+    {
+      "texto": "eso",
+      "inicio": 24.2,
+      "fin": 24.32
+    },
+    {
+      "texto": "por",
+      "inicio": 24.4,
+      "fin": 24.48
+    },
+    {
+      "texto": "el",
+      "inicio": 24.52,
+      "fin": 24.56
+    },
+    {
+      "texto": "móvil.",
+      "inicio": 24.64,
+      "fin": 25.44
+    },
+    {
+      "texto": "Como",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "texto": "una",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "texto": "madre",
+      "inicio": 25.84,
+      "fin": 26.08
+    },
+    {
+      "texto": "que",
+      "inicio": 26.16,
+      "fin": 26.32
+    },
+    {
+      "texto": "cree",
+      "inicio": 26.36,
+      "fin": 26.56
+    },
+    {
+      "texto": "oír",
+      "inicio": 26.6,
+      "fin": 26.8
+    },
+    {
+      "texto": "al",
+      "inicio": 26.84,
+      "fin": 26.88
+    },
+    {
+      "texto": "bebé,",
+      "inicio": 26.96,
+      "fin": 27.44
+    },
+    {
+      "texto": "y",
+      "inicio": 27.48,
+      "fin": 27.52
+    },
+    {
+      "texto": "el",
+      "inicio": 27.6,
+      "fin": 27.64
+    },
+    {
+      "texto": "bebé",
+      "inicio": 27.68,
+      "fin": 27.88
+    },
+    {
+      "texto": "duerme.",
+      "inicio": 27.92,
+      "fin": 28.96
+    },
+    {
+      "texto": "En",
+      "inicio": 29,
+      "fin": 29.04
+    },
+    {
+      "texto": "ese",
+      "inicio": 29.12,
+      "fin": 29.2
+    },
+    {
+      "texto": "hospital,",
+      "inicio": 29.4,
+      "fin": 29.84
+    },
+    {
+      "texto": "cuantas",
+      "inicio": 29.88,
+      "fin": 30.24
+    },
+    {
+      "texto": "más",
+      "inicio": 30.32,
+      "fin": 30.48
+    },
+    {
+      "texto": "horas",
+      "inicio": 30.56,
+      "fin": 30.72
+    },
+    {
+      "texto": "lo",
+      "inicio": 30.8,
+      "fin": 30.88
+    },
+    {
+      "texto": "llevaban",
+      "inicio": 30.933,
+      "fin": 31.2
+    },
+    {
+      "texto": "encima,",
+      "inicio": 31.32,
+      "fin": 31.84
+    },
+    {
+      "texto": "más",
+      "inicio": 31.92,
+      "fin": 32.08
+    },
+    {
+      "texto": "les",
+      "inicio": 32.16,
+      "fin": 32.24
+    },
+    {
+      "texto": "pasaba.",
+      "inicio": 32.32,
+      "fin": 33.12
+    },
+    {
+      "texto": "Y",
+      "inicio": 33.16,
+      "fin": 33.2
+    },
+    {
+      "texto": "en",
+      "inicio": 33.24,
+      "fin": 33.28
+    },
+    {
+      "texto": "los",
+      "inicio": 33.36,
+      "fin": 33.44
+    },
+    {
+      "texto": "dos",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "estudios,",
+      "inicio": 33.6,
+      "fin": 34.24
+    },
+    {
+      "texto": "a",
+      "inicio": 34.28,
+      "fin": 34.32
+    },
+    {
+      "texto": "casi",
+      "inicio": 34.4,
+      "fin": 34.64
+    },
+    {
+      "texto": "todos",
+      "inicio": 34.72,
+      "fin": 35.04
+    },
+    {
+      "texto": "les",
+      "inicio": 35.12,
+      "fin": 35.2
+    },
+    {
+      "texto": "daba",
+      "inicio": 35.28,
+      "fin": 35.44
+    },
+    {
+      "texto": "igual",
+      "inicio": 35.52,
+      "fin": 35.76
+    },
+    {
+      "texto": "o",
+      "inicio": 35.92,
+      "fin": 36
+    },
+    {
+      "texto": "solo",
+      "inicio": 36.08,
+      "fin": 36.24
+    },
+    {
+      "texto": "un",
+      "inicio": 36.32,
+      "fin": 36.4
+    },
+    {
+      "texto": "poco.",
+      "inicio": 36.48,
+      "fin": 37.2
+    },
+    {
+      "texto": "Así",
+      "inicio": 37.28,
+      "fin": 37.4
+    },
+    {
+      "texto": "que",
+      "inicio": 37.44,
+      "fin": 37.68
+    },
+    {
+      "texto": "el",
+      "inicio": 37.76,
+      "fin": 37.84
+    },
+    {
+      "texto": "móvil",
+      "inicio": 37.92,
+      "fin": 38.24
+    },
+    {
+      "texto": "no",
+      "inicio": 38.32,
+      "fin": 38.4
+    },
+    {
+      "texto": "vibró:",
+      "inicio": 38.48,
+      "fin": 39.12
+    },
+    {
+      "texto": "tu",
+      "inicio": 39.2,
+      "fin": 39.28
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 39.36,
+      "fin": 39.76
+    },
+    {
+      "texto": "puso",
+      "inicio": 39.84,
+      "fin": 40.08
+    },
+    {
+      "texto": "el",
+      "inicio": 40.12,
+      "fin": 40.16
+    },
+    {
+      "texto": "aviso",
+      "inicio": 40.24,
+      "fin": 40.48
+    },
+    {
+      "texto": "que",
+      "inicio": 40.56,
+      "fin": 40.64
+    },
+    {
+      "texto": "estaba",
+      "inicio": 40.72,
+      "fin": 40.96
+    },
+    {
+      "texto": "esperando.",
+      "inicio": 41.08,
+      "fin": 42
+    },
+    {
+      "texto": "Síguenos,",
+      "inicio": 42.04,
+      "fin": 42.72
+    },
+    {
+      "texto": "o",
+      "inicio": 42.8,
+      "fin": 42.88
+    },
+    {
+      "texto": "envíaselo",
+      "inicio": 43,
+      "fin": 43.44
+    },
+    {
+      "texto": "a",
+      "inicio": 43.48,
+      "fin": 43.52
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.6,
+      "fin": 43.68
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.76,
+      "fin": 44
+    },
+    {
+      "texto": "que",
+      "inicio": 44.08,
+      "fin": 44.16
+    },
+    {
+      "texto": "saca",
+      "inicio": 44.24,
+      "fin": 44.48
+    },
+    {
+      "texto": "el",
+      "inicio": 44.52,
+      "fin": 44.56
+    },
+    {
+      "texto": "móvil",
+      "inicio": 44.64,
+      "fin": 44.96
+    },
+    {
+      "texto": "y",
+      "inicio": 45.12,
+      "fin": 45.2
+    },
+    {
+      "texto": "no",
+      "inicio": 45.28,
+      "fin": 45.36
+    },
+    {
+      "texto": "hay",
+      "inicio": 45.44,
+      "fin": 45.52
+    },
+    {
+      "texto": "nada.",
+      "inicio": 45.6,
+      "fin": 46.08
+    }
+  ]
+}
