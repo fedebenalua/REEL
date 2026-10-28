@@ -1,0 +1,18 @@
+{
+  "titulo": "¿Por qué un simple nombre puede provocar una confusión histórica enorme?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué un simple nombre puede provocar una confusión histórica enorme?", "clave": "nombre", "hook": true },
+    { "texto": "Colón llegó primero, y murió creyendo que aquello era Asia.", "clave": "Asia", "hook": true },
+    { "texto": "Al año siguiente, un mapa de Lorena separa esa tierra de Asia y le escribe América.", "clave": "América" },
+    { "texto": "América sale de Amerigo: un nombre de pila, en femenino, como Europa y como Asia.", "clave": "Amerigo" },
+    { "texto": "Él seguía vivo, y lo más probable es que nunca viera ese nombre.", "clave": "vivo" },
+    { "texto": "El libro lo llama el descubridor por un viaje de mil cuatrocientos noventa y siete que muchos historiadores dan por falso.", "clave": "falso" },
+    { "texto": "Quién escribió esa frase se discute. El nombre, en el mapa, no.", "clave": "discute" },
+    { "texto": "Años después, en sus mapas nuevos, ese nombre ya no está. Tarde: él mismo había contado mil copias.", "clave": "tarde" },
+    { "texto": "Otras manos lo copian, y Mercator lo pone en el norte y en el sur.", "clave": "Mercator" },
+    { "texto": "Así que el continente se quedó con un nombre de pila que su propio mapa ya no quería.", "clave": "pila" },
+    { "texto": "Envíaselo a ese amigo que cree que América la nombró Colón.", "clave": "amigo" }
+  ]
+}

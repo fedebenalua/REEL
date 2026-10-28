@@ -1,0 +1,814 @@
+{
+  "firma": "615acbffe69d",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32
+    },
+    {
+      "texto": "un",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "texto": "simple",
+      "inicio": 0.64,
+      "fin": 0.88
+    },
+    {
+      "texto": "nombre",
+      "inicio": 0.88,
+      "fin": 1.2
+    },
+    {
+      "texto": "puede",
+      "inicio": 1.28,
+      "fin": 1.52
+    },
+    {
+      "texto": "provocar",
+      "inicio": 1.6,
+      "fin": 1.84
+    },
+    {
+      "texto": "una",
+      "inicio": 1.92,
+      "fin": 2
+    },
+    {
+      "texto": "confusión",
+      "inicio": 2.08,
+      "fin": 2.56
+    },
+    {
+      "texto": "histórica",
+      "inicio": 2.68,
+      "fin": 3.12
+    },
+    {
+      "texto": "enorme?",
+      "inicio": 3.24,
+      "fin": 3.96
+    },
+    {
+      "texto": "Colón",
+      "inicio": 4.24,
+      "fin": 4.56
+    },
+    {
+      "texto": "llegó",
+      "inicio": 4.6,
+      "fin": 4.88
+    },
+    {
+      "texto": "primero,",
+      "inicio": 4.96,
+      "fin": 5.6
+    },
+    {
+      "texto": "y",
+      "inicio": 5.64,
+      "fin": 5.68
+    },
+    {
+      "texto": "murió",
+      "inicio": 5.72,
+      "fin": 6
+    },
+    {
+      "texto": "creyendo",
+      "inicio": 6.08,
+      "fin": 6.48
+    },
+    {
+      "texto": "que",
+      "inicio": 6.56,
+      "fin": 6.64
+    },
+    {
+      "texto": "aquello",
+      "inicio": 6.72,
+      "fin": 6.96
+    },
+    {
+      "texto": "era",
+      "inicio": 7.04,
+      "fin": 7.12
+    },
+    {
+      "texto": "Asia.",
+      "inicio": 7.2,
+      "fin": 8
+    },
+    {
+      "texto": "Al",
+      "inicio": 8.08,
+      "fin": 8.16
+    },
+    {
+      "texto": "año",
+      "inicio": 8.2,
+      "fin": 8.32
+    },
+    {
+      "texto": "siguiente,",
+      "inicio": 8.4,
+      "fin": 9.04
+    },
+    {
+      "texto": "un",
+      "inicio": 9.12,
+      "fin": 9.2
+    },
+    {
+      "texto": "mapa",
+      "inicio": 9.28,
+      "fin": 9.44
+    },
+    {
+      "texto": "de",
+      "inicio": 9.48,
+      "fin": 9.52
+    },
+    {
+      "texto": "Lorena",
+      "inicio": 9.56,
+      "fin": 9.92
+    },
+    {
+      "texto": "separa",
+      "inicio": 10.04,
+      "fin": 10.32
+    },
+    {
+      "texto": "esa",
+      "inicio": 10.44,
+      "fin": 10.56
+    },
+    {
+      "texto": "tierra",
+      "inicio": 10.64,
+      "fin": 10.96
+    },
+    {
+      "texto": "de",
+      "inicio": 11,
+      "fin": 11.04
+    },
+    {
+      "texto": "Asia",
+      "inicio": 11.12,
+      "fin": 11.44
+    },
+    {
+      "texto": "y",
+      "inicio": 11.52,
+      "fin": 11.6
+    },
+    {
+      "texto": "le",
+      "inicio": 11.68,
+      "fin": 11.76
+    },
+    {
+      "texto": "escribe",
+      "inicio": 11.84,
+      "fin": 12.24
+    },
+    {
+      "texto": "América.",
+      "inicio": 12.48,
+      "fin": 13.52
+    },
+    {
+      "texto": "América",
+      "inicio": 13.6,
+      "fin": 14
+    },
+    {
+      "texto": "sale",
+      "inicio": 14.08,
+      "fin": 14.32
+    },
+    {
+      "texto": "de",
+      "inicio": 14.4,
+      "fin": 14.48
+    },
+    {
+      "texto": "Amerigo:",
+      "inicio": 14.64,
+      "fin": 15.52
+    },
+    {
+      "texto": "un",
+      "inicio": 15.6,
+      "fin": 15.68
+    },
+    {
+      "texto": "nombre",
+      "inicio": 15.8,
+      "fin": 15.92
+    },
+    {
+      "texto": "de",
+      "inicio": 16,
+      "fin": 16.08
+    },
+    {
+      "texto": "pila,",
+      "inicio": 16.16,
+      "fin": 16.48
+    },
+    {
+      "texto": "en",
+      "inicio": 16.52,
+      "fin": 16.56
+    },
+    {
+      "texto": "femenino,",
+      "inicio": 16.64,
+      "fin": 17.2
+    },
+    {
+      "texto": "como",
+      "inicio": 17.28,
+      "fin": 17.52
+    },
+    {
+      "texto": "Europa",
+      "inicio": 17.6,
+      "fin": 18.08
+    },
+    {
+      "texto": "y",
+      "inicio": 18.16,
+      "fin": 18.24
+    },
+    {
+      "texto": "como",
+      "inicio": 18.32,
+      "fin": 18.48
+    },
+    {
+      "texto": "Asia.",
+      "inicio": 18.56,
+      "fin": 19.36
+    },
+    {
+      "texto": "Él",
+      "inicio": 19.4,
+      "fin": 19.52
+    },
+    {
+      "texto": "seguía",
+      "inicio": 19.6,
+      "fin": 19.84
+    },
+    {
+      "texto": "vivo,",
+      "inicio": 19.92,
+      "fin": 20.48
+    },
+    {
+      "texto": "y",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "texto": "lo",
+      "inicio": 20.6,
+      "fin": 20.64
+    },
+    {
+      "texto": "más",
+      "inicio": 20.68,
+      "fin": 20.8
+    },
+    {
+      "texto": "probable",
+      "inicio": 20.88,
+      "fin": 21.28
+    },
+    {
+      "texto": "es",
+      "inicio": 21.36,
+      "fin": 21.44
+    },
+    {
+      "texto": "que",
+      "inicio": 21.52,
+      "fin": 21.6
+    },
+    {
+      "texto": "nunca",
+      "inicio": 21.76,
+      "fin": 22
+    },
+    {
+      "texto": "viera",
+      "inicio": 22.08,
+      "fin": 22.32
+    },
+    {
+      "texto": "ese",
+      "inicio": 22.4,
+      "fin": 22.48
+    },
+    {
+      "texto": "nombre.",
+      "inicio": 22.56,
+      "fin": 23.16
+    },
+    {
+      "texto": "El",
+      "inicio": 23.44,
+      "fin": 23.52
+    },
+    {
+      "texto": "libro",
+      "inicio": 23.6,
+      "fin": 23.76
+    },
+    {
+      "texto": "lo",
+      "inicio": 23.84,
+      "fin": 23.92
+    },
+    {
+      "texto": "llama",
+      "inicio": 23.96,
+      "fin": 24.16
+    },
+    {
+      "texto": "el",
+      "inicio": 24.2,
+      "fin": 24.24
+    },
+    {
+      "texto": "descubridor",
+      "inicio": 24.32,
+      "fin": 25.04
+    },
+    {
+      "texto": "por",
+      "inicio": 25.12,
+      "fin": 25.28
+    },
+    {
+      "texto": "un",
+      "inicio": 25.32,
+      "fin": 25.36
+    },
+    {
+      "texto": "viaje",
+      "inicio": 25.44,
+      "fin": 25.76
+    },
+    {
+      "texto": "de",
+      "inicio": 25.84,
+      "fin": 25.92
+    },
+    {
+      "texto": "mil",
+      "inicio": 26,
+      "fin": 26.08
+    },
+    {
+      "texto": "cuatrocientos",
+      "inicio": 26.16,
+      "fin": 26.8
+    },
+    {
+      "texto": "noventa",
+      "inicio": 26.84,
+      "fin": 27.12
+    },
+    {
+      "texto": "y",
+      "inicio": 27.2,
+      "fin": 27.24
+    },
+    {
+      "texto": "siete",
+      "inicio": 27.28,
+      "fin": 27.52
+    },
+    {
+      "texto": "que",
+      "inicio": 27.68,
+      "fin": 27.84
+    },
+    {
+      "texto": "muchos",
+      "inicio": 27.92,
+      "fin": 28.16
+    },
+    {
+      "texto": "historiadores",
+      "inicio": 28.24,
+      "fin": 28.8
+    },
+    {
+      "texto": "dan",
+      "inicio": 28.88,
+      "fin": 28.96
+    },
+    {
+      "texto": "por",
+      "inicio": 29.04,
+      "fin": 29.12
+    },
+    {
+      "texto": "falso.",
+      "inicio": 29.2,
+      "fin": 30
+    },
+    {
+      "texto": "Quién",
+      "inicio": 30.04,
+      "fin": 30.16
+    },
+    {
+      "texto": "escribió",
+      "inicio": 30.24,
+      "fin": 30.64
+    },
+    {
+      "texto": "esa",
+      "inicio": 30.72,
+      "fin": 30.8
+    },
+    {
+      "texto": "frase",
+      "inicio": 30.88,
+      "fin": 31.2
+    },
+    {
+      "texto": "se",
+      "inicio": 31.28,
+      "fin": 31.36
+    },
+    {
+      "texto": "discute.",
+      "inicio": 31.44,
+      "fin": 32.24
+    },
+    {
+      "texto": "El",
+      "inicio": 32.32,
+      "fin": 32.4
+    },
+    {
+      "texto": "nombre,",
+      "inicio": 32.6,
+      "fin": 32.96
+    },
+    {
+      "texto": "en",
+      "inicio": 33,
+      "fin": 33.04
+    },
+    {
+      "texto": "el",
+      "inicio": 33.12,
+      "fin": 33.16
+    },
+    {
+      "texto": "mapa,",
+      "inicio": 33.2,
+      "fin": 33.76
+    },
+    {
+      "texto": "no.",
+      "inicio": 33.84,
+      "fin": 34.08
+    },
+    {
+      "texto": "Años",
+      "inicio": 34.48,
+      "fin": 34.72
+    },
+    {
+      "texto": "después,",
+      "inicio": 34.8,
+      "fin": 35.36
+    },
+    {
+      "texto": "en",
+      "inicio": 35.4,
+      "fin": 35.44
+    },
+    {
+      "texto": "sus",
+      "inicio": 35.52,
+      "fin": 35.6
+    },
+    {
+      "texto": "mapas",
+      "inicio": 35.68,
+      "fin": 35.92
+    },
+    {
+      "texto": "nuevos,",
+      "inicio": 36,
+      "fin": 36.56
+    },
+    {
+      "texto": "ese",
+      "inicio": 36.68,
+      "fin": 36.8
+    },
+    {
+      "texto": "nombre",
+      "inicio": 36.96,
+      "fin": 37.12
+    },
+    {
+      "texto": "ya",
+      "inicio": 37.2,
+      "fin": 37.36
+    },
+    {
+      "texto": "no",
+      "inicio": 37.4,
+      "fin": 37.44
+    },
+    {
+      "texto": "está.",
+      "inicio": 37.52,
+      "fin": 38.24
+    },
+    {
+      "texto": "Tarde:",
+      "inicio": 38.28,
+      "fin": 39.04
+    },
+    {
+      "texto": "él",
+      "inicio": 39.12,
+      "fin": 39.2
+    },
+    {
+      "texto": "mismo",
+      "inicio": 39.28,
+      "fin": 39.52
+    },
+    {
+      "texto": "había",
+      "inicio": 39.6,
+      "fin": 39.76
+    },
+    {
+      "texto": "contado",
+      "inicio": 39.84,
+      "fin": 40.24
+    },
+    {
+      "texto": "mil",
+      "inicio": 40.4,
+      "fin": 40.56
+    },
+    {
+      "texto": "copias.",
+      "inicio": 40.64,
+      "fin": 41.32
+    },
+    {
+      "texto": "Otras",
+      "inicio": 41.52,
+      "fin": 41.76
+    },
+    {
+      "texto": "manos",
+      "inicio": 41.84,
+      "fin": 42
+    },
+    {
+      "texto": "lo",
+      "inicio": 42.08,
+      "fin": 42.16
+    },
+    {
+      "texto": "copian,",
+      "inicio": 42.28,
+      "fin": 42.8
+    },
+    {
+      "texto": "y",
+      "inicio": 42.84,
+      "fin": 42.88
+    },
+    {
+      "texto": "Mercator",
+      "inicio": 43,
+      "fin": 43.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 43.52,
+      "fin": 43.6
+    },
+    {
+      "texto": "pone",
+      "inicio": 43.72,
+      "fin": 43.84
+    },
+    {
+      "texto": "en",
+      "inicio": 43.88,
+      "fin": 43.92
+    },
+    {
+      "texto": "el",
+      "inicio": 44,
+      "fin": 44.08
+    },
+    {
+      "texto": "norte",
+      "inicio": 44.16,
+      "fin": 44.48
+    },
+    {
+      "texto": "y",
+      "inicio": 44.64,
+      "fin": 44.68
+    },
+    {
+      "texto": "en",
+      "inicio": 44.72,
+      "fin": 44.8
+    },
+    {
+      "texto": "el",
+      "inicio": 44.84,
+      "fin": 44.88
+    },
+    {
+      "texto": "sur.",
+      "inicio": 44.96,
+      "fin": 45.52
+    },
+    {
+      "texto": "Así",
+      "inicio": 45.6,
+      "fin": 45.72
+    },
+    {
+      "texto": "que",
+      "inicio": 45.76,
+      "fin": 45.84
+    },
+    {
+      "texto": "el",
+      "inicio": 45.88,
+      "fin": 45.92
+    },
+    {
+      "texto": "continente",
+      "inicio": 46,
+      "fin": 46.64
+    },
+    {
+      "texto": "se",
+      "inicio": 46.72,
+      "fin": 46.8
+    },
+    {
+      "texto": "quedó",
+      "inicio": 46.88,
+      "fin": 47.04
+    },
+    {
+      "texto": "con",
+      "inicio": 47.12,
+      "fin": 47.2
+    },
+    {
+      "texto": "un",
+      "inicio": 47.28,
+      "fin": 47.36
+    },
+    {
+      "texto": "nombre",
+      "inicio": 47.48,
+      "fin": 47.6
+    },
+    {
+      "texto": "de",
+      "inicio": 47.68,
+      "fin": 47.76
+    },
+    {
+      "texto": "pila",
+      "inicio": 47.84,
+      "fin": 48.08
+    },
+    {
+      "texto": "que",
+      "inicio": 48.16,
+      "fin": 48.24
+    },
+    {
+      "texto": "su",
+      "inicio": 48.36,
+      "fin": 48.48
+    },
+    {
+      "texto": "propio",
+      "inicio": 48.6,
+      "fin": 48.8
+    },
+    {
+      "texto": "mapa",
+      "inicio": 48.92,
+      "fin": 49.12
+    },
+    {
+      "texto": "ya",
+      "inicio": 49.28,
+      "fin": 49.36
+    },
+    {
+      "texto": "no",
+      "inicio": 49.44,
+      "fin": 49.52
+    },
+    {
+      "texto": "quería.",
+      "inicio": 49.6,
+      "fin": 50.4
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 50.52,
+      "fin": 50.96
+    },
+    {
+      "texto": "a",
+      "inicio": 51,
+      "fin": 51.04
+    },
+    {
+      "texto": "ese",
+      "inicio": 51.12,
+      "fin": 51.2
+    },
+    {
+      "texto": "amigo",
+      "inicio": 51.28,
+      "fin": 51.52
+    },
+    {
+      "texto": "que",
+      "inicio": 51.6,
+      "fin": 51.68
+    },
+    {
+      "texto": "cree",
+      "inicio": 51.76,
+      "fin": 51.92
+    },
+    {
+      "texto": "que",
+      "inicio": 51.96,
+      "fin": 52
+    },
+    {
+      "texto": "América",
+      "inicio": 52.08,
+      "fin": 52.48
+    },
+    {
+      "texto": "la",
+      "inicio": 52.56,
+      "fin": 52.64
+    },
+    {
+      "texto": "nombró",
+      "inicio": 52.72,
+      "fin": 52.92
+    },
+    {
+      "texto": "Colón.",
+      "inicio": 52.96,
+      "fin": 53.6
+    }
+  ]
+}
