@@ -1,0 +1,19 @@
+{
+  "titulo": "¿Por qué algunas personas pueden recordar casi todos los días de su vida?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué algunas personas pueden recordar casi todos los días de su vida?", "clave": "días", "hook": true },
+    { "texto": "Les dices una fecha, y sueltan el día de la semana y qué hicieron.", "clave": "fecha", "hook": true },
+    { "texto": "No desde la cuna: sobre todo a partir de los diez o los catorce.", "clave": "catorce", "hook": true },
+    { "texto": "En dos mil seis, sin avisar, una mujer escribió veinticuatro Pascuas en diez minutos.", "clave": "Pascuas" },
+    { "texto": "Se equivocó en una, dos días antes. Dos años después, ninguna.", "clave": "ninguna" },
+    { "texto": "En dos mil doce, once personas y diez fechas al azar.", "clave": "once" },
+    { "texto": "Acertaban el día de la semana el noventa y siete por ciento de las veces.", "clave": "siete" },
+    { "texto": "Los demás, en esa prueba, una de cada siete: como al azar.", "clave": "azar" },
+    { "texto": "Y en la mayoría de pruebas del laboratorio, igual que cualquiera.", "clave": "laboratorio" },
+    { "texto": "El escáner vio diferencias, pero nadie ha demostrado que esa sea la causa.", "clave": "causa" },
+    { "texto": "Así que no guardan el mundo: guardan sus días, y aún no se sabe por qué.", "clave": "días" },
+    { "texto": "Síguenos, o envíaselo a ese amigo que no se acuerda de lo que cenó ayer.", "clave": "amigo" }
+  ]
+}

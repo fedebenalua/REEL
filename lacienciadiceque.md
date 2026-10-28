@@ -133,3 +133,4 @@ Cuando se acaben los 100, la automatización para: no se inventan temas para est
 6. Una promesa de cada partido para el 29N — `salida/2026-10-27-una-promesa-cada-partido-29n` — 2026-10-27
 7. Mariposas en el estómago (es una alarma) — `salida/2026-10-27-mariposas-estomago` — 2026-10-27
 8. El móvil que parece vibrar — `salida/2026-10-28-movil-parece-vibrar` — 2026-10-28
+9. Recordar casi todos los días — `salida/2026-10-28-dias-de-su-vida` — 2026-10-28
