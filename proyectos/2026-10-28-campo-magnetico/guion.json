@@ -1,0 +1,19 @@
+{
+  "titulo": "¿Qué pasaría si el campo magnético desapareciera?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Qué pasaría si el campo magnético de la Tierra desapareciera?", "clave": "desapareciera", "hook": true },
+    { "texto": "El aire no saldría volando.", "clave": "volando", "hook": true },
+    { "texto": "Lo sujeta la gravedad: encima de ti pesa como diez metros de agua.", "clave": "agua" },
+    { "texto": "Lo que sí se iría es el escudo que aparta el viento del Sol.", "clave": "escudo" },
+    { "texto": "Hace cuarenta y un mil años ese escudo bajó a un cinco por ciento.", "clave": "cinco" },
+    { "texto": "Las auroras bajaron de los polos hacia el ecuador.", "clave": "ecuador" },
+    { "texto": "Y los humanos seguían aquí.", "clave": "aquí" },
+    { "texto": "Hoy, sobre el Atlántico sur, el campo ya está flojo y los satélites fallan más.", "clave": "satélites" },
+    { "texto": "Si se apagara del todo, la brújula de tu móvil no encontraría el norte.", "clave": "norte" },
+    { "texto": "Las partículas del Sol llegarían hasta los aviones, y el aire de debajo las pararía antes del suelo.", "clave": "aviones" },
+    { "texto": "Así que el aire se queda. Se pierde el norte, y el escudo de lo que vuela.", "clave": "queda" },
+    { "texto": "Envíaselo a ese amigo que cree que sin el imán nos quedaríamos sin aire.", "clave": "aire" }
+  ]
+}

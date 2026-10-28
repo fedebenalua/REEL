@@ -1,0 +1,754 @@
+{
+  "firma": "b56b7c25c243",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Qué",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "pasaría",
+      "inicio": 0.24,
+      "fin": 0.64
+    },
+    {
+      "texto": "si",
+      "inicio": 0.72,
+      "fin": 0.8
+    },
+    {
+      "texto": "el",
+      "inicio": 0.88,
+      "fin": 0.96
+    },
+    {
+      "texto": "campo",
+      "inicio": 1.12,
+      "fin": 1.28
+    },
+    {
+      "texto": "magnético",
+      "inicio": 1.32,
+      "fin": 1.84
+    },
+    {
+      "texto": "de",
+      "inicio": 1.88,
+      "fin": 1.92
+    },
+    {
+      "texto": "la",
+      "inicio": 1.96,
+      "fin": 2
+    },
+    {
+      "texto": "Tierra",
+      "inicio": 2.08,
+      "fin": 2.4
+    },
+    {
+      "texto": "desapareciera?",
+      "inicio": 2.48,
+      "fin": 3.52
+    },
+    {
+      "texto": "El",
+      "inicio": 3.84,
+      "fin": 3.92
+    },
+    {
+      "texto": "aire",
+      "inicio": 4,
+      "fin": 4.24
+    },
+    {
+      "texto": "no",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "texto": "saldría",
+      "inicio": 4.56,
+      "fin": 4.88
+    },
+    {
+      "texto": "volando.",
+      "inicio": 4.96,
+      "fin": 5.44
+    },
+    {
+      "texto": "Lo",
+      "inicio": 5.76,
+      "fin": 5.92
+    },
+    {
+      "texto": "sujeta",
+      "inicio": 5.973,
+      "fin": 6.24
+    },
+    {
+      "texto": "la",
+      "inicio": 6.28,
+      "fin": 6.32
+    },
+    {
+      "texto": "gravedad:",
+      "inicio": 6.4,
+      "fin": 7.2
+    },
+    {
+      "texto": "encima",
+      "inicio": 7.32,
+      "fin": 7.6
+    },
+    {
+      "texto": "de",
+      "inicio": 7.64,
+      "fin": 7.68
+    },
+    {
+      "texto": "ti",
+      "inicio": 7.76,
+      "fin": 7.92
+    },
+    {
+      "texto": "pesa",
+      "inicio": 8.04,
+      "fin": 8.24
+    },
+    {
+      "texto": "como",
+      "inicio": 8.32,
+      "fin": 8.48
+    },
+    {
+      "texto": "diez",
+      "inicio": 8.56,
+      "fin": 8.8
+    },
+    {
+      "texto": "metros",
+      "inicio": 8.88,
+      "fin": 9.2
+    },
+    {
+      "texto": "de",
+      "inicio": 9.24,
+      "fin": 9.28
+    },
+    {
+      "texto": "agua.",
+      "inicio": 9.36,
+      "fin": 9.68
+    },
+    {
+      "texto": "Lo",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "texto": "que",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "texto": "sí",
+      "inicio": 10.52,
+      "fin": 10.64
+    },
+    {
+      "texto": "se",
+      "inicio": 10.68,
+      "fin": 10.72
+    },
+    {
+      "texto": "iría",
+      "inicio": 10.8,
+      "fin": 11.12
+    },
+    {
+      "texto": "es",
+      "inicio": 11.2,
+      "fin": 11.36
+    },
+    {
+      "texto": "el",
+      "inicio": 11.4,
+      "fin": 11.44
+    },
+    {
+      "texto": "escudo",
+      "inicio": 11.52,
+      "fin": 11.84
+    },
+    {
+      "texto": "que",
+      "inicio": 11.88,
+      "fin": 11.92
+    },
+    {
+      "texto": "aparta",
+      "inicio": 12,
+      "fin": 12.32
+    },
+    {
+      "texto": "el",
+      "inicio": 12.36,
+      "fin": 12.4
+    },
+    {
+      "texto": "viento",
+      "inicio": 12.44,
+      "fin": 12.72
+    },
+    {
+      "texto": "del",
+      "inicio": 12.8,
+      "fin": 12.88
+    },
+    {
+      "texto": "Sol.",
+      "inicio": 12.96,
+      "fin": 13.28
+    },
+    {
+      "texto": "Hace",
+      "inicio": 13.84,
+      "fin": 14
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 14.16,
+      "fin": 14.52
+    },
+    {
+      "texto": "y",
+      "inicio": 14.56,
+      "fin": 14.64
+    },
+    {
+      "texto": "un",
+      "inicio": 14.68,
+      "fin": 14.72
+    },
+    {
+      "texto": "mil",
+      "inicio": 14.8,
+      "fin": 14.96
+    },
+    {
+      "texto": "años",
+      "inicio": 15.04,
+      "fin": 15.36
+    },
+    {
+      "texto": "ese",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "texto": "escudo",
+      "inicio": 15.68,
+      "fin": 16
+    },
+    {
+      "texto": "bajó",
+      "inicio": 16.053,
+      "fin": 16.32
+    },
+    {
+      "texto": "a",
+      "inicio": 16.36,
+      "fin": 16.4
+    },
+    {
+      "texto": "un",
+      "inicio": 16.48,
+      "fin": 16.56
+    },
+    {
+      "texto": "cinco",
+      "inicio": 16.72,
+      "fin": 16.96
+    },
+    {
+      "texto": "por",
+      "inicio": 17.04,
+      "fin": 17.12
+    },
+    {
+      "texto": "ciento.",
+      "inicio": 17.2,
+      "fin": 18.08
+    },
+    {
+      "texto": "Las",
+      "inicio": 18.12,
+      "fin": 18.16
+    },
+    {
+      "texto": "auroras",
+      "inicio": 18.24,
+      "fin": 18.64
+    },
+    {
+      "texto": "bajaron",
+      "inicio": 18.68,
+      "fin": 19.04
+    },
+    {
+      "texto": "de",
+      "inicio": 19.08,
+      "fin": 19.12
+    },
+    {
+      "texto": "los",
+      "inicio": 19.2,
+      "fin": 19.28
+    },
+    {
+      "texto": "polos",
+      "inicio": 19.36,
+      "fin": 19.6
+    },
+    {
+      "texto": "hacia",
+      "inicio": 19.68,
+      "fin": 19.84
+    },
+    {
+      "texto": "el",
+      "inicio": 19.88,
+      "fin": 19.92
+    },
+    {
+      "texto": "ecuador.",
+      "inicio": 19.96,
+      "fin": 20.4
+    },
+    {
+      "texto": "Y",
+      "inicio": 20.88,
+      "fin": 20.96
+    },
+    {
+      "texto": "los",
+      "inicio": 21.04,
+      "fin": 21.12
+    },
+    {
+      "texto": "humanos",
+      "inicio": 21.24,
+      "fin": 21.52
+    },
+    {
+      "texto": "seguían",
+      "inicio": 21.6,
+      "fin": 21.92
+    },
+    {
+      "texto": "aquí.",
+      "inicio": 22,
+      "fin": 22.32
+    },
+    {
+      "texto": "Hoy,",
+      "inicio": 22.88,
+      "fin": 23.28
+    },
+    {
+      "texto": "sobre",
+      "inicio": 23.36,
+      "fin": 23.52
+    },
+    {
+      "texto": "el",
+      "inicio": 23.56,
+      "fin": 23.6
+    },
+    {
+      "texto": "Atlántico",
+      "inicio": 23.68,
+      "fin": 24.08
+    },
+    {
+      "texto": "sur,",
+      "inicio": 24.16,
+      "fin": 24.56
+    },
+    {
+      "texto": "el",
+      "inicio": 24.6,
+      "fin": 24.64
+    },
+    {
+      "texto": "campo",
+      "inicio": 24.72,
+      "fin": 25.04
+    },
+    {
+      "texto": "ya",
+      "inicio": 25.12,
+      "fin": 25.2
+    },
+    {
+      "texto": "está",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "texto": "flojo",
+      "inicio": 25.52,
+      "fin": 25.84
+    },
+    {
+      "texto": "y",
+      "inicio": 26,
+      "fin": 26.08
+    },
+    {
+      "texto": "los",
+      "inicio": 26.16,
+      "fin": 26.24
+    },
+    {
+      "texto": "satélites",
+      "inicio": 26.32,
+      "fin": 26.72
+    },
+    {
+      "texto": "fallan",
+      "inicio": 26.8,
+      "fin": 27.04
+    },
+    {
+      "texto": "más.",
+      "inicio": 27.12,
+      "fin": 27.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 28,
+      "fin": 28.08
+    },
+    {
+      "texto": "se",
+      "inicio": 28.12,
+      "fin": 28.16
+    },
+    {
+      "texto": "apagara",
+      "inicio": 28.24,
+      "fin": 28.56
+    },
+    {
+      "texto": "del",
+      "inicio": 28.64,
+      "fin": 28.72
+    },
+    {
+      "texto": "todo,",
+      "inicio": 28.8,
+      "fin": 29.2
+    },
+    {
+      "texto": "la",
+      "inicio": 29.24,
+      "fin": 29.28
+    },
+    {
+      "texto": "brújula",
+      "inicio": 29.36,
+      "fin": 29.68
+    },
+    {
+      "texto": "de",
+      "inicio": 29.72,
+      "fin": 29.76
+    },
+    {
+      "texto": "tu",
+      "inicio": 29.84,
+      "fin": 29.92
+    },
+    {
+      "texto": "móvil",
+      "inicio": 30,
+      "fin": 30.24
+    },
+    {
+      "texto": "no",
+      "inicio": 30.32,
+      "fin": 30.4
+    },
+    {
+      "texto": "encontraría",
+      "inicio": 30.48,
+      "fin": 30.96
+    },
+    {
+      "texto": "el",
+      "inicio": 31,
+      "fin": 31.04
+    },
+    {
+      "texto": "norte.",
+      "inicio": 31.12,
+      "fin": 31.52
+    },
+    {
+      "texto": "Las",
+      "inicio": 32,
+      "fin": 32.08
+    },
+    {
+      "texto": "partículas",
+      "inicio": 32.16,
+      "fin": 32.64
+    },
+    {
+      "texto": "del",
+      "inicio": 32.68,
+      "fin": 32.72
+    },
+    {
+      "texto": "Sol",
+      "inicio": 32.88,
+      "fin": 33.04
+    },
+    {
+      "texto": "llegarían",
+      "inicio": 33.12,
+      "fin": 33.52
+    },
+    {
+      "texto": "hasta",
+      "inicio": 33.6,
+      "fin": 33.76
+    },
+    {
+      "texto": "los",
+      "inicio": 33.84,
+      "fin": 33.92
+    },
+    {
+      "texto": "aviones,",
+      "inicio": 34,
+      "fin": 34.56
+    },
+    {
+      "texto": "y",
+      "inicio": 34.6,
+      "fin": 34.64
+    },
+    {
+      "texto": "el",
+      "inicio": 34.72,
+      "fin": 34.8
+    },
+    {
+      "texto": "aire",
+      "inicio": 34.92,
+      "fin": 35.04
+    },
+    {
+      "texto": "de",
+      "inicio": 35.08,
+      "fin": 35.12
+    },
+    {
+      "texto": "debajo",
+      "inicio": 35.2,
+      "fin": 35.52
+    },
+    {
+      "texto": "las",
+      "inicio": 35.6,
+      "fin": 35.76
+    },
+    {
+      "texto": "pararía",
+      "inicio": 35.84,
+      "fin": 36.24
+    },
+    {
+      "texto": "antes",
+      "inicio": 36.4,
+      "fin": 36.56
+    },
+    {
+      "texto": "del",
+      "inicio": 36.64,
+      "fin": 36.72
+    },
+    {
+      "texto": "suelo.",
+      "inicio": 36.8,
+      "fin": 37.12
+    },
+    {
+      "texto": "Así",
+      "inicio": 37.68,
+      "fin": 37.84
+    },
+    {
+      "texto": "que",
+      "inicio": 37.92,
+      "fin": 38
+    },
+    {
+      "texto": "el",
+      "inicio": 38.24,
+      "fin": 38.32
+    },
+    {
+      "texto": "aire",
+      "inicio": 38.4,
+      "fin": 38.64
+    },
+    {
+      "texto": "se",
+      "inicio": 38.72,
+      "fin": 38.8
+    },
+    {
+      "texto": "queda.",
+      "inicio": 38.88,
+      "fin": 39.32
+    },
+    {
+      "texto": "Se",
+      "inicio": 39.52,
+      "fin": 39.6
+    },
+    {
+      "texto": "pierde",
+      "inicio": 39.68,
+      "fin": 39.92
+    },
+    {
+      "texto": "el",
+      "inicio": 39.96,
+      "fin": 40
+    },
+    {
+      "texto": "norte,",
+      "inicio": 40.08,
+      "fin": 40.56
+    },
+    {
+      "texto": "y",
+      "inicio": 40.6,
+      "fin": 40.64
+    },
+    {
+      "texto": "el",
+      "inicio": 40.68,
+      "fin": 40.72
+    },
+    {
+      "texto": "escudo",
+      "inicio": 40.8,
+      "fin": 41.12
+    },
+    {
+      "texto": "de",
+      "inicio": 41.2,
+      "fin": 41.28
+    },
+    {
+      "texto": "lo",
+      "inicio": 41.32,
+      "fin": 41.36
+    },
+    {
+      "texto": "que",
+      "inicio": 41.4,
+      "fin": 41.44
+    },
+    {
+      "texto": "vuela.",
+      "inicio": 41.52,
+      "fin": 41.84
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 42.4,
+      "fin": 42.88
+    },
+    {
+      "texto": "a",
+      "inicio": 42.92,
+      "fin": 42.96
+    },
+    {
+      "texto": "ese",
+      "inicio": 43.04,
+      "fin": 43.12
+    },
+    {
+      "texto": "amigo",
+      "inicio": 43.2,
+      "fin": 43.44
+    },
+    {
+      "texto": "que",
+      "inicio": 43.48,
+      "fin": 43.52
+    },
+    {
+      "texto": "cree",
+      "inicio": 43.6,
+      "fin": 43.76
+    },
+    {
+      "texto": "que",
+      "inicio": 43.84,
+      "fin": 43.92
+    },
+    {
+      "texto": "sin",
+      "inicio": 44,
+      "fin": 44.16
+    },
+    {
+      "texto": "el",
+      "inicio": 44.2,
+      "fin": 44.24
+    },
+    {
+      "texto": "imán",
+      "inicio": 44.32,
+      "fin": 44.56
+    },
+    {
+      "texto": "nos",
+      "inicio": 44.64,
+      "fin": 44.72
+    },
+    {
+      "texto": "quedaríamos",
+      "inicio": 44.76,
+      "fin": 45.28
+    },
+    {
+      "texto": "sin",
+      "inicio": 45.36,
+      "fin": 45.44
+    },
+    {
+      "texto": "aire.",
+      "inicio": 45.6,
+      "fin": 46
+    }
+  ]
+}
