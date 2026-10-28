@@ -135,5 +135,6 @@ y YouTube Shorts («La Curiosidad NO mató al gato»).
 4. ¿Por qué existen baldosas amarillas con relieve en las calles de casi todas las ciudades?
 5. ¿Por qué septiembre significa siete si es el noveno mes del año?
 6. ¿Cómo puedes mejorar momentáneamente tu visión sin utilizar gafas?
+7. ¿Por qué los coches cambian tanto de temperatura cuando están aparcados?
 
 (La lista de lo programado está en `publicados-gato.json`.)

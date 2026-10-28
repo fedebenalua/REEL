@@ -1,0 +1,17 @@
+{
+  "titulo": "¿Por qué los coches cambian tanto de temperatura cuando están aparcados?",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    { "texto": "¿Por qué los coches cambian tanto de temperatura cuando están aparcados?", "clave": "temperatura", "hook": true },
+    { "texto": "El aire de fuera casi no se mueve, y el coche se va a los dos extremos.", "clave": "extremos", "hook": true },
+    { "texto": "De noche, con el cielo despejado, el cristal suelta calor hacia el espacio y el cielo le devuelve poco.", "clave": "espacio" },
+    { "texto": "Se queda unos dos o tres grados por debajo del aire, y puede helarse aunque el termómetro siga justo por encima de cero.", "clave": "helarse" },
+    { "texto": "Es el mismo truco con el que en Persia hacían hielo en el desierto: una bandeja abierta al cielo.", "clave": "hielo" },
+    { "texto": "Si aparcas bajo un tejadillo, la escarcha no sale: el tejado le devuelve ese calor.", "clave": "tejadillo" },
+    { "texto": "Y si sopla el viento, el aire lo abriga y el cristal tampoco se hiela.", "clave": "viento" },
+    { "texto": "De día, el sol entra por ese mismo cristal y el habitáculo se va al otro extremo.", "clave": "habitáculo" },
+    { "texto": "Así que no es que el tiempo dé esos bandazos: es el coche, aparcado, sin casi nada que lo abrigue.", "clave": "bandazos" },
+    { "texto": "Envíaselo a ese amigo que rasca el hielo y luego no puede ni tocar el volante.", "clave": "volante" }
+  ]
+}

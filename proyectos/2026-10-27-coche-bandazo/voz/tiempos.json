@@ -1,0 +1,1282 @@
+{
+  "firma": "f66c7ea9b292",
+  "duracion": 53.36,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué los coches cambian tanto de temperatura cuando están aparcados?",
+      "clave": "temperatura",
+      "inicio": 0,
+      "fin": 3.92
+    },
+    {
+      "n": 2,
+      "texto": "El aire de fuera casi no se mueve, y el coche se va a los dos extremos.",
+      "clave": "extremos",
+      "inicio": 4,
+      "fin": 8.4
+    },
+    {
+      "n": 3,
+      "texto": "De noche, con el cielo despejado, el cristal suelta calor hacia el espacio y el cielo le devuelve poco.",
+      "clave": "espacio",
+      "inicio": 8.48,
+      "fin": 14.48
+    },
+    {
+      "n": 4,
+      "texto": "Se queda unos dos o tres grados por debajo del aire, y puede helarse aunque el termómetro siga justo por encima de cero.",
+      "clave": "helarse",
+      "inicio": 14.52,
+      "fin": 21.52
+    },
+    {
+      "n": 5,
+      "texto": "Es el mismo truco con el que en Persia hacían hielo en el desierto: una bandeja abierta al cielo.",
+      "clave": "hielo",
+      "inicio": 21.6,
+      "fin": 27.44
+    },
+    {
+      "n": 6,
+      "texto": "Si aparcas bajo un tejadillo, la escarcha no sale: el tejado le devuelve ese calor.",
+      "clave": "tejadillo",
+      "inicio": 27.48,
+      "fin": 32.56
+    },
+    {
+      "n": 7,
+      "texto": "Y si sopla el viento, el aire lo abriga y el cristal tampoco se hiela.",
+      "clave": "viento",
+      "inicio": 32.6,
+      "fin": 37.04
+    },
+    {
+      "n": 8,
+      "texto": "De día, el sol entra por ese mismo cristal y el habitáculo se va al otro extremo.",
+      "clave": "habitáculo",
+      "inicio": 37.08,
+      "fin": 42
+    },
+    {
+      "n": 9,
+      "texto": "Así que no es que el tiempo dé esos bandazos: es el coche, aparcado, sin casi nada que lo abrigue.",
+      "clave": "bandazos",
+      "inicio": 42.08,
+      "fin": 48.56
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que rasca el hielo y luego no puede ni tocar el volante.",
+      "clave": "volante",
+      "inicio": 48.68,
+      "fin": 52.56
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.4,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "coches",
+      "inicio": 0.56,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cambian",
+      "inicio": 0.84,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tanto",
+      "inicio": 1.387,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 1.64,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "temperatura",
+      "inicio": 1.76,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.36,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "están",
+      "inicio": 2.64,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "aparcados?",
+      "inicio": 2.84,
+      "fin": 3.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "El",
+      "inicio": 4,
+      "fin": 4.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 4.16,
+      "fin": 4.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 4.32,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fuera",
+      "inicio": 4.44,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 4.907,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 5.2,
+      "fin": 5.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 5.36,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "mueve,",
+      "inicio": 5.52,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 6.12,
+      "fin": 6.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 6.2,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "coche",
+      "inicio": 6.32,
+      "fin": 6.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 6.72,
+      "fin": 6.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 6.88,
+      "fin": 6.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 7,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 7.12,
+      "fin": 7.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.28,
+      "fin": 7.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "extremos.",
+      "inicio": 7.48,
+      "fin": 8.4,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "De",
+      "inicio": 8.48,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "noche,",
+      "inicio": 8.64,
+      "fin": 9.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 9.08,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 9.2,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cielo",
+      "inicio": 9.36,
+      "fin": 9.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "despejado,",
+      "inicio": 9.6,
+      "fin": 10.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 10.48,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cristal",
+      "inicio": 10.64,
+      "fin": 11.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "suelta",
+      "inicio": 11.12,
+      "fin": 11.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "calor",
+      "inicio": 11.44,
+      "fin": 11.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "hacia",
+      "inicio": 11.733,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 11.92,
+      "fin": 11.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "espacio",
+      "inicio": 12,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 12.6,
+      "fin": 12.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 12.68,
+      "fin": 12.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cielo",
+      "inicio": 12.88,
+      "fin": 13.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 13.16,
+      "fin": 13.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 13.28,
+      "fin": 13.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "poco.",
+      "inicio": 13.787,
+      "fin": 14.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Se",
+      "inicio": 14.52,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "queda",
+      "inicio": 14.64,
+      "fin": 14.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "unos",
+      "inicio": 15.08,
+      "fin": 15.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 15.44,
+      "fin": 15.6,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "o",
+      "inicio": 15.68,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "tres",
+      "inicio": 15.84,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grados",
+      "inicio": 16,
+      "fin": 16.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 16.4,
+      "fin": 16.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "debajo",
+      "inicio": 16.56,
+      "fin": 16.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 16.88,
+      "fin": 16.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "aire,",
+      "inicio": 17.08,
+      "fin": 17.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 17.6,
+      "fin": 17.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 17.76,
+      "fin": 17.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "helarse",
+      "inicio": 18,
+      "fin": 18.4,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "aunque",
+      "inicio": 18.44,
+      "fin": 18.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 18.72,
+      "fin": 18.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "termómetro",
+      "inicio": 18.88,
+      "fin": 19.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "siga",
+      "inicio": 19.467,
+      "fin": 19.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "justo",
+      "inicio": 19.8,
+      "fin": 20,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 20.08,
+      "fin": 20.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "encima",
+      "inicio": 20.28,
+      "fin": 20.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 20.56,
+      "fin": 20.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "cero.",
+      "inicio": 20.72,
+      "fin": 21.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Es",
+      "inicio": 21.6,
+      "fin": 21.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 21.76,
+      "fin": 21.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 21.92,
+      "fin": 22.08,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "truco",
+      "inicio": 22.16,
+      "fin": 22.4,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 22.48,
+      "fin": 22.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 22.68,
+      "fin": 22.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 22.8,
+      "fin": 22.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 22.96,
+      "fin": 23.04,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Persia",
+      "inicio": 23.12,
+      "fin": 23.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hacían",
+      "inicio": 23.52,
+      "fin": 23.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hielo",
+      "inicio": 23.96,
+      "fin": 24.16,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "en",
+      "inicio": 24.2,
+      "fin": 24.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 24.28,
+      "fin": 24.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "desierto:",
+      "inicio": 24.4,
+      "fin": 25.2,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 25.28,
+      "fin": 25.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "bandeja",
+      "inicio": 25.56,
+      "fin": 25.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "abierta",
+      "inicio": 26,
+      "fin": 26.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 26.4,
+      "fin": 26.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cielo.",
+      "inicio": 26.56,
+      "fin": 27.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Si",
+      "inicio": 27.48,
+      "fin": 27.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "aparcas",
+      "inicio": 27.6,
+      "fin": 27.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "bajo",
+      "inicio": 28,
+      "fin": 28.16,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 28.2,
+      "fin": 28.24,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tejadillo,",
+      "inicio": 28.32,
+      "fin": 28.96,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 29,
+      "fin": 29.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "escarcha",
+      "inicio": 29.12,
+      "fin": 29.52,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 29.68,
+      "fin": 29.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sale:",
+      "inicio": 29.84,
+      "fin": 30.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 30.52,
+      "fin": 30.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tejado",
+      "inicio": 30.64,
+      "fin": 30.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "le",
+      "inicio": 31,
+      "fin": 31.04,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 31.12,
+      "fin": 31.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 31.72,
+      "fin": 31.84,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "calor.",
+      "inicio": 31.92,
+      "fin": 32.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 32.6,
+      "fin": 32.64,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 32.72,
+      "fin": 32.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "sopla",
+      "inicio": 32.84,
+      "fin": 33.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 33.12,
+      "fin": 33.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "viento,",
+      "inicio": 33.2,
+      "fin": 33.68,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 33.76,
+      "fin": 33.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 33.96,
+      "fin": 34.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.12,
+      "fin": 34.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "abriga",
+      "inicio": 34.2,
+      "fin": 34.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 34.64,
+      "fin": 34.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 34.76,
+      "fin": 34.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cristal",
+      "inicio": 34.88,
+      "fin": 35.2,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tampoco",
+      "inicio": 35.36,
+      "fin": 35.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 35.92,
+      "fin": 36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "hiela.",
+      "inicio": 36.04,
+      "fin": 37.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "De",
+      "inicio": 37.08,
+      "fin": 37.12,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "día,",
+      "inicio": 37.24,
+      "fin": 37.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 37.68,
+      "fin": 37.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "sol",
+      "inicio": 37.84,
+      "fin": 38,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "entra",
+      "inicio": 38.08,
+      "fin": 38.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 38.32,
+      "fin": 38.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 38.48,
+      "fin": 38.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "mismo",
+      "inicio": 38.72,
+      "fin": 38.88,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cristal",
+      "inicio": 38.96,
+      "fin": 39.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 39.52,
+      "fin": 39.6,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 39.64,
+      "fin": 39.68,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "habitáculo",
+      "inicio": 39.76,
+      "fin": 40.24,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "se",
+      "inicio": 40.32,
+      "fin": 40.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "va",
+      "inicio": 40.48,
+      "fin": 40.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 40.68,
+      "fin": 40.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "otro",
+      "inicio": 40.84,
+      "fin": 40.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "extremo.",
+      "inicio": 41.04,
+      "fin": 42,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.08,
+      "fin": 42.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.24,
+      "fin": 42.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 42.56,
+      "fin": 42.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 42.68,
+      "fin": 42.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.8,
+      "fin": 42.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 42.92,
+      "fin": 42.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 43.12,
+      "fin": 43.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "dé",
+      "inicio": 43.52,
+      "fin": 43.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "esos",
+      "inicio": 43.76,
+      "fin": 43.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "bandazos:",
+      "inicio": 44.04,
+      "fin": 44.8,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "es",
+      "inicio": 44.88,
+      "fin": 44.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 45,
+      "fin": 45.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "coche,",
+      "inicio": 45.12,
+      "fin": 45.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "aparcado,",
+      "inicio": 45.76,
+      "fin": 46.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 46.6,
+      "fin": 46.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "casi",
+      "inicio": 46.76,
+      "fin": 47.04,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "nada",
+      "inicio": 47.12,
+      "fin": 47.36,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 47.4,
+      "fin": 47.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 47.52,
+      "fin": 47.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "abrigue.",
+      "inicio": 47.64,
+      "fin": 48.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 48.68,
+      "fin": 49.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 49.16,
+      "fin": 49.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 49.28,
+      "fin": 49.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 49.44,
+      "fin": 49.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 49.76,
+      "fin": 49.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "rasca",
+      "inicio": 49.92,
+      "fin": 50.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 50.2,
+      "fin": 50.24,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "hielo",
+      "inicio": 50.28,
+      "fin": 50.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 50.6,
+      "fin": 50.64,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "luego",
+      "inicio": 50.72,
+      "fin": 50.96,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 51.04,
+      "fin": 51.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 51.16,
+      "fin": 51.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ni",
+      "inicio": 51.4,
+      "fin": 51.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "tocar",
+      "inicio": 51.52,
+      "fin": 51.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 51.8,
+      "fin": 51.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "volante.",
+      "inicio": 51.92,
+      "fin": 52.56,
+      "frase": 10,
+      "clave": true
+    }
+  ]
+}

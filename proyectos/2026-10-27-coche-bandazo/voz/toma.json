@@ -1,0 +1,874 @@
+{
+  "firma": "f66c7ea9b292",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "851ejYcv2BoNPjrkw93G",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32
+    },
+    {
+      "texto": "los",
+      "inicio": 0.4,
+      "fin": 0.48
+    },
+    {
+      "texto": "coches",
+      "inicio": 0.56,
+      "fin": 0.8
+    },
+    {
+      "texto": "cambian",
+      "inicio": 0.84,
+      "fin": 1.28
+    },
+    {
+      "texto": "tanto",
+      "inicio": 1.387,
+      "fin": 1.6
+    },
+    {
+      "texto": "de",
+      "inicio": 1.64,
+      "fin": 1.68
+    },
+    {
+      "texto": "temperatura",
+      "inicio": 1.76,
+      "fin": 2.32
+    },
+    {
+      "texto": "cuando",
+      "inicio": 2.36,
+      "fin": 2.56
+    },
+    {
+      "texto": "están",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "aparcados?",
+      "inicio": 2.84,
+      "fin": 3.92
+    },
+    {
+      "texto": "El",
+      "inicio": 4,
+      "fin": 4.08
+    },
+    {
+      "texto": "aire",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "de",
+      "inicio": 4.32,
+      "fin": 4.4
+    },
+    {
+      "texto": "fuera",
+      "inicio": 4.44,
+      "fin": 4.8
+    },
+    {
+      "texto": "casi",
+      "inicio": 4.907,
+      "fin": 5.12
+    },
+    {
+      "texto": "no",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "texto": "se",
+      "inicio": 5.36,
+      "fin": 5.44
+    },
+    {
+      "texto": "mueve,",
+      "inicio": 5.52,
+      "fin": 6.08
+    },
+    {
+      "texto": "y",
+      "inicio": 6.12,
+      "fin": 6.16
+    },
+    {
+      "texto": "el",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "texto": "coche",
+      "inicio": 6.32,
+      "fin": 6.64
+    },
+    {
+      "texto": "se",
+      "inicio": 6.72,
+      "fin": 6.8
+    },
+    {
+      "texto": "va",
+      "inicio": 6.88,
+      "fin": 6.96
+    },
+    {
+      "texto": "a",
+      "inicio": 7,
+      "fin": 7.04
+    },
+    {
+      "texto": "los",
+      "inicio": 7.12,
+      "fin": 7.2
+    },
+    {
+      "texto": "dos",
+      "inicio": 7.28,
+      "fin": 7.36
+    },
+    {
+      "texto": "extremos.",
+      "inicio": 7.48,
+      "fin": 8.4
+    },
+    {
+      "texto": "De",
+      "inicio": 8.48,
+      "fin": 8.56
+    },
+    {
+      "texto": "noche,",
+      "inicio": 8.64,
+      "fin": 9.04
+    },
+    {
+      "texto": "con",
+      "inicio": 9.08,
+      "fin": 9.12
+    },
+    {
+      "texto": "el",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "cielo",
+      "inicio": 9.36,
+      "fin": 9.52
+    },
+    {
+      "texto": "despejado,",
+      "inicio": 9.6,
+      "fin": 10.4
+    },
+    {
+      "texto": "el",
+      "inicio": 10.48,
+      "fin": 10.56
+    },
+    {
+      "texto": "cristal",
+      "inicio": 10.64,
+      "fin": 11.04
+    },
+    {
+      "texto": "suelta",
+      "inicio": 11.12,
+      "fin": 11.36
+    },
+    {
+      "texto": "calor",
+      "inicio": 11.44,
+      "fin": 11.68
+    },
+    {
+      "texto": "hacia",
+      "inicio": 11.733,
+      "fin": 11.84
+    },
+    {
+      "texto": "el",
+      "inicio": 11.92,
+      "fin": 11.96
+    },
+    {
+      "texto": "espacio",
+      "inicio": 12,
+      "fin": 12.56
+    },
+    {
+      "texto": "y",
+      "inicio": 12.6,
+      "fin": 12.64
+    },
+    {
+      "texto": "el",
+      "inicio": 12.68,
+      "fin": 12.72
+    },
+    {
+      "texto": "cielo",
+      "inicio": 12.88,
+      "fin": 13.12
+    },
+    {
+      "texto": "le",
+      "inicio": 13.16,
+      "fin": 13.2
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 13.28,
+      "fin": 13.68
+    },
+    {
+      "texto": "poco.",
+      "inicio": 13.787,
+      "fin": 14.48
+    },
+    {
+      "texto": "Se",
+      "inicio": 14.52,
+      "fin": 14.56
+    },
+    {
+      "texto": "queda",
+      "inicio": 14.64,
+      "fin": 14.88
+    },
+    {
+      "texto": "unos",
+      "inicio": 15.08,
+      "fin": 15.28
+    },
+    {
+      "texto": "dos",
+      "inicio": 15.44,
+      "fin": 15.6
+    },
+    {
+      "texto": "o",
+      "inicio": 15.68,
+      "fin": 15.76
+    },
+    {
+      "texto": "tres",
+      "inicio": 15.84,
+      "fin": 15.92
+    },
+    {
+      "texto": "grados",
+      "inicio": 16,
+      "fin": 16.32
+    },
+    {
+      "texto": "por",
+      "inicio": 16.4,
+      "fin": 16.48
+    },
+    {
+      "texto": "debajo",
+      "inicio": 16.56,
+      "fin": 16.8
+    },
+    {
+      "texto": "del",
+      "inicio": 16.88,
+      "fin": 16.96
+    },
+    {
+      "texto": "aire,",
+      "inicio": 17.08,
+      "fin": 17.52
+    },
+    {
+      "texto": "y",
+      "inicio": 17.6,
+      "fin": 17.68
+    },
+    {
+      "texto": "puede",
+      "inicio": 17.76,
+      "fin": 17.92
+    },
+    {
+      "texto": "helarse",
+      "inicio": 18,
+      "fin": 18.4
+    },
+    {
+      "texto": "aunque",
+      "inicio": 18.44,
+      "fin": 18.64
+    },
+    {
+      "texto": "el",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "termómetro",
+      "inicio": 18.88,
+      "fin": 19.36
+    },
+    {
+      "texto": "siga",
+      "inicio": 19.467,
+      "fin": 19.68
+    },
+    {
+      "texto": "justo",
+      "inicio": 19.8,
+      "fin": 20
+    },
+    {
+      "texto": "por",
+      "inicio": 20.08,
+      "fin": 20.16
+    },
+    {
+      "texto": "encima",
+      "inicio": 20.28,
+      "fin": 20.48
+    },
+    {
+      "texto": "de",
+      "inicio": 20.56,
+      "fin": 20.64
+    },
+    {
+      "texto": "cero.",
+      "inicio": 20.72,
+      "fin": 21.52
+    },
+    {
+      "texto": "Es",
+      "inicio": 21.6,
+      "fin": 21.68
+    },
+    {
+      "texto": "el",
+      "inicio": 21.76,
+      "fin": 21.84
+    },
+    {
+      "texto": "mismo",
+      "inicio": 21.92,
+      "fin": 22.08
+    },
+    {
+      "texto": "truco",
+      "inicio": 22.16,
+      "fin": 22.4
+    },
+    {
+      "texto": "con",
+      "inicio": 22.48,
+      "fin": 22.64
+    },
+    {
+      "texto": "el",
+      "inicio": 22.68,
+      "fin": 22.72
+    },
+    {
+      "texto": "que",
+      "inicio": 22.8,
+      "fin": 22.88
+    },
+    {
+      "texto": "en",
+      "inicio": 22.96,
+      "fin": 23.04
+    },
+    {
+      "texto": "Persia",
+      "inicio": 23.12,
+      "fin": 23.44
+    },
+    {
+      "texto": "hacían",
+      "inicio": 23.52,
+      "fin": 23.92
+    },
+    {
+      "texto": "hielo",
+      "inicio": 23.96,
+      "fin": 24.16
+    },
+    {
+      "texto": "en",
+      "inicio": 24.2,
+      "fin": 24.24
+    },
+    {
+      "texto": "el",
+      "inicio": 24.28,
+      "fin": 24.32
+    },
+    {
+      "texto": "desierto:",
+      "inicio": 24.4,
+      "fin": 25.2
+    },
+    {
+      "texto": "una",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "texto": "bandeja",
+      "inicio": 25.56,
+      "fin": 25.92
+    },
+    {
+      "texto": "abierta",
+      "inicio": 26,
+      "fin": 26.36
+    },
+    {
+      "texto": "al",
+      "inicio": 26.4,
+      "fin": 26.48
+    },
+    {
+      "texto": "cielo.",
+      "inicio": 26.56,
+      "fin": 27.44
+    },
+    {
+      "texto": "Si",
+      "inicio": 27.48,
+      "fin": 27.52
+    },
+    {
+      "texto": "aparcas",
+      "inicio": 27.6,
+      "fin": 27.92
+    },
+    {
+      "texto": "bajo",
+      "inicio": 28,
+      "fin": 28.16
+    },
+    {
+      "texto": "un",
+      "inicio": 28.2,
+      "fin": 28.24
+    },
+    {
+      "texto": "tejadillo,",
+      "inicio": 28.32,
+      "fin": 28.96
+    },
+    {
+      "texto": "la",
+      "inicio": 29,
+      "fin": 29.04
+    },
+    {
+      "texto": "escarcha",
+      "inicio": 29.12,
+      "fin": 29.52
+    },
+    {
+      "texto": "no",
+      "inicio": 29.68,
+      "fin": 29.76
+    },
+    {
+      "texto": "sale:",
+      "inicio": 29.84,
+      "fin": 30.48
+    },
+    {
+      "texto": "el",
+      "inicio": 30.52,
+      "fin": 30.56
+    },
+    {
+      "texto": "tejado",
+      "inicio": 30.64,
+      "fin": 30.96
+    },
+    {
+      "texto": "le",
+      "inicio": 31,
+      "fin": 31.04
+    },
+    {
+      "texto": "devuelve",
+      "inicio": 31.12,
+      "fin": 31.6
+    },
+    {
+      "texto": "ese",
+      "inicio": 31.72,
+      "fin": 31.84
+    },
+    {
+      "texto": "calor.",
+      "inicio": 31.92,
+      "fin": 32.56
+    },
+    {
+      "texto": "Y",
+      "inicio": 32.6,
+      "fin": 32.64
+    },
+    {
+      "texto": "si",
+      "inicio": 32.72,
+      "fin": 32.8
+    },
+    {
+      "texto": "sopla",
+      "inicio": 32.84,
+      "fin": 33.04
+    },
+    {
+      "texto": "el",
+      "inicio": 33.12,
+      "fin": 33.16
+    },
+    {
+      "texto": "viento,",
+      "inicio": 33.2,
+      "fin": 33.68
+    },
+    {
+      "texto": "el",
+      "inicio": 33.76,
+      "fin": 33.84
+    },
+    {
+      "texto": "aire",
+      "inicio": 33.96,
+      "fin": 34.08
+    },
+    {
+      "texto": "lo",
+      "inicio": 34.12,
+      "fin": 34.16
+    },
+    {
+      "texto": "abriga",
+      "inicio": 34.2,
+      "fin": 34.48
+    },
+    {
+      "texto": "y",
+      "inicio": 34.64,
+      "fin": 34.72
+    },
+    {
+      "texto": "el",
+      "inicio": 34.76,
+      "fin": 34.8
+    },
+    {
+      "texto": "cristal",
+      "inicio": 34.88,
+      "fin": 35.2
+    },
+    {
+      "texto": "tampoco",
+      "inicio": 35.36,
+      "fin": 35.84
+    },
+    {
+      "texto": "se",
+      "inicio": 35.92,
+      "fin": 36
+    },
+    {
+      "texto": "hiela.",
+      "inicio": 36.04,
+      "fin": 37.04
+    },
+    {
+      "texto": "De",
+      "inicio": 37.08,
+      "fin": 37.12
+    },
+    {
+      "texto": "día,",
+      "inicio": 37.24,
+      "fin": 37.6
+    },
+    {
+      "texto": "el",
+      "inicio": 37.68,
+      "fin": 37.76
+    },
+    {
+      "texto": "sol",
+      "inicio": 37.84,
+      "fin": 38
+    },
+    {
+      "texto": "entra",
+      "inicio": 38.08,
+      "fin": 38.24
+    },
+    {
+      "texto": "por",
+      "inicio": 38.32,
+      "fin": 38.4
+    },
+    {
+      "texto": "ese",
+      "inicio": 38.48,
+      "fin": 38.64
+    },
+    {
+      "texto": "mismo",
+      "inicio": 38.72,
+      "fin": 38.88
+    },
+    {
+      "texto": "cristal",
+      "inicio": 38.96,
+      "fin": 39.36
+    },
+    {
+      "texto": "y",
+      "inicio": 39.52,
+      "fin": 39.6
+    },
+    {
+      "texto": "el",
+      "inicio": 39.64,
+      "fin": 39.68
+    },
+    {
+      "texto": "habitáculo",
+      "inicio": 39.76,
+      "fin": 40.24
+    },
+    {
+      "texto": "se",
+      "inicio": 40.32,
+      "fin": 40.4
+    },
+    {
+      "texto": "va",
+      "inicio": 40.48,
+      "fin": 40.56
+    },
+    {
+      "texto": "al",
+      "inicio": 40.68,
+      "fin": 40.8
+    },
+    {
+      "texto": "otro",
+      "inicio": 40.84,
+      "fin": 40.96
+    },
+    {
+      "texto": "extremo.",
+      "inicio": 41.04,
+      "fin": 42
+    },
+    {
+      "texto": "Así",
+      "inicio": 42.08,
+      "fin": 42.2
+    },
+    {
+      "texto": "que",
+      "inicio": 42.24,
+      "fin": 42.4
+    },
+    {
+      "texto": "no",
+      "inicio": 42.56,
+      "fin": 42.64
+    },
+    {
+      "texto": "es",
+      "inicio": 42.68,
+      "fin": 42.72
+    },
+    {
+      "texto": "que",
+      "inicio": 42.8,
+      "fin": 42.88
+    },
+    {
+      "texto": "el",
+      "inicio": 42.92,
+      "fin": 42.96
+    },
+    {
+      "texto": "tiempo",
+      "inicio": 43.12,
+      "fin": 43.44
+    },
+    {
+      "texto": "dé",
+      "inicio": 43.52,
+      "fin": 43.68
+    },
+    {
+      "texto": "esos",
+      "inicio": 43.76,
+      "fin": 43.92
+    },
+    {
+      "texto": "bandazos:",
+      "inicio": 44.04,
+      "fin": 44.8
+    },
+    {
+      "texto": "es",
+      "inicio": 44.88,
+      "fin": 44.96
+    },
+    {
+      "texto": "el",
+      "inicio": 45,
+      "fin": 45.04
+    },
+    {
+      "texto": "coche,",
+      "inicio": 45.12,
+      "fin": 45.68
+    },
+    {
+      "texto": "aparcado,",
+      "inicio": 45.76,
+      "fin": 46.48
+    },
+    {
+      "texto": "sin",
+      "inicio": 46.6,
+      "fin": 46.72
+    },
+    {
+      "texto": "casi",
+      "inicio": 46.76,
+      "fin": 47.04
+    },
+    {
+      "texto": "nada",
+      "inicio": 47.12,
+      "fin": 47.36
+    },
+    {
+      "texto": "que",
+      "inicio": 47.4,
+      "fin": 47.44
+    },
+    {
+      "texto": "lo",
+      "inicio": 47.52,
+      "fin": 47.6
+    },
+    {
+      "texto": "abrigue.",
+      "inicio": 47.64,
+      "fin": 48.56
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 48.68,
+      "fin": 49.12
+    },
+    {
+      "texto": "a",
+      "inicio": 49.16,
+      "fin": 49.2
+    },
+    {
+      "texto": "ese",
+      "inicio": 49.28,
+      "fin": 49.36
+    },
+    {
+      "texto": "amigo",
+      "inicio": 49.44,
+      "fin": 49.68
+    },
+    {
+      "texto": "que",
+      "inicio": 49.76,
+      "fin": 49.84
+    },
+    {
+      "texto": "rasca",
+      "inicio": 49.92,
+      "fin": 50.16
+    },
+    {
+      "texto": "el",
+      "inicio": 50.2,
+      "fin": 50.24
+    },
+    {
+      "texto": "hielo",
+      "inicio": 50.28,
+      "fin": 50.56
+    },
+    {
+      "texto": "y",
+      "inicio": 50.6,
+      "fin": 50.64
+    },
+    {
+      "texto": "luego",
+      "inicio": 50.72,
+      "fin": 50.96
+    },
+    {
+      "texto": "no",
+      "inicio": 51.04,
+      "fin": 51.12
+    },
+    {
+      "texto": "puede",
+      "inicio": 51.16,
+      "fin": 51.36
+    },
+    {
+      "texto": "ni",
+      "inicio": 51.4,
+      "fin": 51.44
+    },
+    {
+      "texto": "tocar",
+      "inicio": 51.52,
+      "fin": 51.76
+    },
+    {
+      "texto": "el",
+      "inicio": 51.8,
+      "fin": 51.84
+    },
+    {
+      "texto": "volante.",
+      "inicio": 51.92,
+      "fin": 52.56
+    }
+  ]
+}
