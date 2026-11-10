@@ -492,25 +492,217 @@
         ${tips.map((x) => `<div class="plan-item"><span class="emo">${x.e}</span><div><h3>${x.h}</h3><p>${x.p}</p></div></div>`).join("")}
       </div>
       <div class="offer">
-        <h3>Empieza hoy tu primera semana</h3>
-        <p class="sub" style="margin:0">Todo listo en la app Brío, ajustado a ti.</p>
-        <ul><li>Menú semanal con lista de la compra</li><li>Vídeos de entreno guiados</li><li>Seguimiento de peso y hábitos</li></ul>
+        <h3>Empieza hoy tu plan</h3>
+        <p class="sub" style="margin:0">Todo esto te espera en tu zona Brío, ajustado a tus respuestas.</p>
+        <ul><li>Retos de 21 y 28 días con tareas diarias</li><li>Guías de nutrición, entreno, sueño y antojos</li><li>Seguimiento de peso, rachas y progreso</li></ul>
         <button class="cta" id="start">Quiero empezar</button>
       </div>
       <button class="restart" id="restart">Repetir el test</button>
     `);
-    $screen.querySelector("#start").addEventListener("click", () => {
-      const t = document.createElement("div");
-      t.className = "toast";
-      t.textContent = "¡Genial! Te hemos enviado tu plan por email (demo).";
-      document.body.appendChild(t);
-      setTimeout(() => t.remove(), 2600);
-    });
+    $screen.querySelector("#start").addEventListener("click", () => renderPaywall());
     $screen.querySelector("#restart").addEventListener("click", () => {
       Object.keys(A).forEach((k) => delete A[k]);
       go(-1);
     });
   }
 
-  go(-1);
+  // ---------- Paywall & checkout ----------
+  let configPromise;
+  const getConfig = () => (configPromise ??= fetch("/api/config").then((r) => {
+    if (!r.ok) throw new Error("config");
+    return r.json();
+  }).catch((e) => { configPromise = undefined; throw e; }));
+  const money = (cents, currency) => (cents / 100).toLocaleString("es-ES", { style: "currency", currency });
+  let chosenPlan = null;
+
+  function metricAnswers() {
+    const out = { ...A };
+    delete out.name; delete out.email; delete out.height; delete out.weight; delete out.target;
+    if (A.height) out.heightCm = Math.round(cmOf(A.height));
+    if (A.weight) out.weightKg = Math.round(kgOf(A.weight) * 10) / 10;
+    if (A.target) out.targetKg = Math.round(kgOf(A.target) * 10) / 10;
+    return out;
+  }
+
+  function chromeFor(back) {
+    $progressWrap.hidden = true;
+    $stepCount.textContent = "";
+    $back.hidden = !back;
+  }
+
+  async function renderPaywall() {
+    idx = steps.length;
+    mount(`<div class="loading screen" style="padding:0"><div class="spinner"></div></div>`);
+    chromeFor(Boolean(A.weight));
+    let cfg;
+    try { cfg = await getConfig(); }
+    catch { return renderPayError("No hemos podido cargar los planes. Revisa tu conexión e inténtalo de nuevo.", true); }
+    const plans = cfg.plans;
+    chosenPlan ??= plans.find((p) => p.popular) || plans[0];
+    const hasData = A.weight && A.target;
+    const d = hasData ? planData() : null;
+    mount(`
+      <div class="q-head" style="margin-bottom:0">
+        <h2>${A.name ? `${esc(A.name)}, tu` : "Tu"} plan está listo</h2>
+        <p class="sub">Elige cuánto tiempo quieres tener acceso a tu zona Brío.</p>
+      </div>
+      ${hasData ? `<div class="pw-recap"><div><small>Ahora</small><b>${fmtW(d.w)}</b></div><span class="arrow">→</span><div><small>Tu meta</small><b style="color:var(--teal-2)">${fmtW(d.t)}</b></div></div>` : ""}
+      <div class="plans" role="radiogroup" aria-label="Planes">
+        ${plans.map((p) => `
+          <button class="plan ${p.id === chosenPlan.id ? "selected" : ""}" role="radio" aria-checked="${p.id === chosenPlan.id}" data-id="${p.id}">
+            ${p.popular ? '<span class="badge">La más elegida</span>' : ""}
+            <span class="check"></span>
+            <span><h3>${p.name}</h3><div class="total">${p.listCents ? `<s>${money(p.listCents, cfg.currency)}</s>` : ""}${money(p.priceCents, cfg.currency)}${p.note ? ` · ${p.note}` : ""}</div></span>
+            <span class="perday"><b>${money(Math.floor(p.priceCents / p.days), cfg.currency)}</b><span>al día</span></span>
+          </button>`).join("")}
+      </div>
+      <ul class="includes">
+        <li><span>🏆</span>Retos de 21 y 28 días con tareas para cada día</li>
+        <li><span>📚</span>Guías de nutrición, entreno en casa, sueño y antojos</li>
+        <li><span>📈</span>Seguimiento de peso, rachas y progreso</li>
+        <li><span>🎯</span>Todo adaptado a tus respuestas del test</li>
+      </ul>
+      <div class="cta-wrap">
+        <button class="cta" id="cont">Continuar</button>
+        <p class="legal">Pago único con tarjeta a través de Square. No se renueva automáticamente: al terminar el periodo eliges si quieres seguir.</p>
+      </div>
+    `);
+    chromeFor(Boolean(A.weight));
+    $screen.querySelectorAll(".plan").forEach((b) => b.addEventListener("click", () => {
+      chosenPlan = plans.find((p) => p.id === b.dataset.id);
+      $screen.querySelectorAll(".plan").forEach((x) => { x.classList.toggle("selected", x === b); x.setAttribute("aria-checked", x === b); });
+    }));
+    $screen.querySelector("#cont").addEventListener("click", () => renderCheckout());
+  }
+
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      if (document.querySelector(`script[src="${src}"]`)) return resolve();
+      const s = document.createElement("script");
+      s.src = src; s.onload = resolve; s.onerror = () => reject(new Error("sdk"));
+      document.head.appendChild(s);
+    });
+  }
+
+  async function renderCheckout() {
+    const cfg = await getConfig();
+    const plan = chosenPlan;
+    const sq = cfg.square;
+    const testCards = sq.demo || sq.environment === "sandbox";
+    mount(`
+      <div class="q-head" style="margin-bottom:14px"><h2>Pago seguro</h2></div>
+      <div class="summary"><div><small>Plan Brío</small><b style="font-size:18px">${plan.name}</b></div><b>${money(plan.priceCents, cfg.currency)}</b></div>
+      <label class="label" for="pname">Nombre</label>
+      <input class="text-field" id="pname" type="text" autocomplete="given-name" placeholder="Tu nombre" value="${esc(A.name || "")}" />
+      <label class="label" for="pmail">Email (aquí te llega el recibo)</label>
+      <input class="text-field" id="pmail" type="email" inputmode="email" autocomplete="email" placeholder="tu@email.com" value="${esc(A.email || "")}" />
+      <span class="label">Tarjeta</span>
+      ${sq.demo ? `<div class="demo-card"><input id="dnum" inputmode="numeric" value="4111 1111 1111 1111" aria-label="Número de tarjeta" /><input value="12/29" aria-label="Caducidad" /><input value="111" aria-label="CVV" /></div>` : `<div class="card-box" id="card-container"></div>`}
+      <div id="perr"></div>
+      ${testCards ? `<div class="hint test-cards"><span class="ic">🧪</span><span>${sq.demo ? "<b>Modo demo</b> (Square sin configurar): no se cobra nada." : "<b>Square sandbox</b>: no se cobra nada."} Tarjeta de prueba <code>4111 1111 1111 1111</code>, CVV <code>111</code>, cualquier fecha futura y código postal. ${sq.demo ? "Para simular un rechazo usa <code>4000 0000 0000 0002</code>." : ""}</span></div>` : ""}
+      <div class="cta-wrap">
+        <button class="cta" id="pay" disabled>Pagar ${money(plan.priceCents, cfg.currency)}</button>
+        <div class="secure">🔒 Pago cifrado procesado por Square. Brío no guarda los datos de tu tarjeta.</div>
+      </div>
+    `);
+    chromeFor(true);
+    $back.onclick = null;
+    const $pay = $screen.querySelector("#pay");
+    const $err = $screen.querySelector("#perr");
+    const showErr = (m) => { $err.innerHTML = m ? `<div class="hint warn"><span class="ic">✋</span><span>${esc(m)}</span></div>` : ""; };
+    let card = null;
+    if (sq.demo) {
+      $pay.disabled = false;
+    } else if (!sq.configured) {
+      return renderPayError("Los pagos todavía no están activados en esta web. Vuelve a intentarlo más tarde.", false);
+    } else {
+      try {
+        await loadScript(sq.environment === "production" ? "https://web.squarecdn.com/v1/square.js" : "https://sandbox.web.squarecdn.com/v1/square.js");
+        const payments = window.Square.payments(sq.applicationId, sq.locationId);
+        card = await payments.card();
+        await card.attach("#card-container");
+        $pay.disabled = false;
+      } catch {
+        return renderPayError("No hemos podido cargar el formulario de pago. Recarga la página e inténtalo de nuevo.", false);
+      }
+    }
+    $pay.addEventListener("click", async () => {
+      const email = $screen.querySelector("#pmail").value.trim();
+      const name = $screen.querySelector("#pname").value.trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return showErr("Escribe un email válido para recibir tu acceso.");
+      showErr("");
+      $pay.disabled = true; $pay.textContent = "Procesando…";
+      try {
+        let sourceId;
+        if (sq.demo) {
+          sourceId = $screen.querySelector("#dnum").value.replace(/\s/g, "") === "4000000000000002" ? "demo-fail" : "demo-ok";
+        } else {
+          const result = await card.tokenize({
+            amount: (plan.priceCents / 100).toFixed(2),
+            currencyCode: cfg.currency,
+            intent: "CHARGE",
+            customerInitiated: true,
+            sellerKeyedIn: false,
+            billingContact: { email, givenName: name || undefined },
+          });
+          if (result.status !== "OK") {
+            $pay.disabled = false; $pay.textContent = `Pagar ${money(plan.priceCents, cfg.currency)}`;
+            return showErr("Revisa los datos de la tarjeta.");
+          }
+          sourceId = result.token;
+        }
+        A.email = email; A.name = name || A.name;
+        const res = await fetch("/api/pay", {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({ planId: plan.id, sourceId, email, name, answers: metricAnswers() }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) return renderPayError(data.error || "No hemos podido completar el pago.", true);
+        renderPaySuccess(data);
+      } catch {
+        renderPayError("Se ha cortado la conexión durante el pago. Si te llega un recibo, entra con tu email; si no, vuelve a intentarlo.", true);
+      }
+    });
+  }
+
+  function renderPaySuccess(data) {
+    localStorage.setItem("brio_token", data.token);
+    mount(`
+      <div class="inter screen" style="padding:0">
+        <div class="state-icon">✅</div>
+        <h2>¡Pago completado!</h2>
+        <p class="sub">Ya tienes tu ${esc(data.plan)} hasta el ${new Date(data.expiresAt).toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" })}.</p>
+        <div class="code-box"><small>Tu código de acceso</small><b id="code">${esc(data.accessCode)}</b><button id="copy">Copiar código</button></div>
+        <p class="fine" style="margin-top:6px">Guárdalo: con tu email (${esc(data.email)}) y este código entras en tu zona desde cualquier dispositivo.</p>
+        ${data.receiptUrl && /^https:\/\//.test(data.receiptUrl) ? `<a class="restart" href="${esc(data.receiptUrl)}" target="_blank" rel="noopener">Ver recibo de Square</a>` : ""}
+      </div>
+      <div class="cta-wrap"><a class="cta" href="/socios/">Entrar en mi zona Brío</a></div>
+    `);
+    chromeFor(false);
+    $screen.querySelector("#copy").addEventListener("click", async (e) => {
+      try { await navigator.clipboard.writeText(data.accessCode); e.target.textContent = "¡Copiado!"; } catch { e.target.textContent = "Cópialo a mano"; }
+    });
+  }
+
+  function renderPayError(message, canRetry) {
+    mount(`
+      <div class="inter screen" style="padding:0">
+        <div class="state-icon warn">⚠️</div>
+        <h2>No se ha completado el pago</h2>
+        <p class="sub">${esc(message)}</p>
+        <p class="fine">No se ha hecho ningún cargo en tu tarjeta.</p>
+      </div>
+      <div class="cta-wrap">
+        ${canRetry ? '<button class="cta" id="retry">Volver a intentarlo</button>' : ""}
+        <button class="restart" id="plans">Elegir otro plan</button>
+      </div>
+    `);
+    chromeFor(false);
+    $screen.querySelector("#retry")?.addEventListener("click", () => renderCheckout());
+    $screen.querySelector("#plans").addEventListener("click", () => renderPaywall());
+  }
+
+  if (location.hash === "#planes") renderPaywall();
+  else go(-1);
 })();
