@@ -5,6 +5,7 @@
   const $progress = document.getElementById("progress");
   const $stepCount = document.getElementById("stepCount");
 
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
   const state = { units: "metric", answers: {} };
   const A = state.answers;
 
@@ -392,8 +393,8 @@
         <h2>¡Tu plan está listo! ¿A dónde te lo enviamos?</h2>
         <p class="sub">Te mandamos el resumen y tus primeras recetas. Nada de spam.</p>
       </div>
-      <input class="text-field" id="name" type="text" placeholder="Tu nombre" autocomplete="given-name" value="${A.name || ""}" />
-      <input class="text-field" id="mail" type="email" placeholder="tu@email.com" autocomplete="email" inputmode="email" value="${A.email || ""}" />
+      <input class="text-field" id="name" type="text" placeholder="Tu nombre" autocomplete="given-name" value="${esc(A.name || "")}" />
+      <input class="text-field" id="mail" type="email" placeholder="tu@email.com" autocomplete="email" inputmode="email" value="${esc(A.email || "")}" />
       <div class="privacy"><span>🔒</span><span>Tus datos se quedan en tu dispositivo: esta demo no envía nada a ningún servidor.</span></div>
       <div class="cta-wrap"><button class="cta" id="cont" disabled>Ver mi plan</button></div>
     `);
@@ -465,7 +466,7 @@
     if (habits.includes("noche") || habits.includes("dulce")) tips.push({ e: "🌙", h: "Plan anti-antojos", p: "Cenas saciantes y alternativas dulces que no rompen tu progreso." });
     if (habits.includes("estres")) tips.push({ e: "🧘", h: "Pausas de 3 minutos", p: "Respiraciones guiadas para cuando el estrés te empuje a la nevera." });
     if (Number(A.sleep) <= 6) tips.push({ e: "😴", h: "Rutina de descanso", p: "Dormir mejor regula el hambre. Te ayudamos a ganar 30 minutos de sueño." });
-    const hello = A.name ? `${A.name}, ` : "";
+    const hello = A.name ? `${esc(A.name)}, ` : "";
     const eventTxt = { vacaciones: "para tus vacaciones", boda: "para esa celebración", cumple: "para tu cumpleaños", deporte: "para tu reto deportivo" }[A.event] || "";
 
     mount(`
