@@ -308,7 +308,19 @@
       </div>
       <h3 class="section-t">Retos</h3>
       <div class="plan-list">${challenges.map((c) => `<a class="ch-card link" href="#/reto/${c.id}" style="--c:${c.color}"><div class="ch-top"><div><small>${c.days} días</small><h3>${esc(c.title)}</h3></div>${ringSvg(pct(c), c.color)}</div><div class="bar"><span style="width:${pct(c)}%"></span></div></a>`).join("")}</div>
+      <h3 class="section-t">Tu acceso</h3>
+      <div class="bmi" id="access">
+        <p class="sub" style="margin:0">Entras con <b>${esc(me.email)}</b> y tu código de acceso. Si lo has perdido, crea uno nuevo: el anterior dejará de funcionar.</p>
+        <button class="cta dark" id="newcode" style="margin-top:12px">Crear nuevo código</button>
+      </div>
     `, { tab: "progreso" });
+    $screen.querySelector("#newcode").addEventListener("click", async () => {
+      if (!confirm("¿Crear un código nuevo? El anterior dejará de funcionar.")) return;
+      try {
+        const { accessCode } = await api("code", {});
+        $screen.querySelector("#access").innerHTML = `<div class="code-box" style="margin:0"><small>Tu nuevo código de acceso</small><b>${esc(accessCode)}</b></div><p class="fine">Guárdalo: lo necesitarás para entrar desde otro dispositivo.</p>`;
+      } catch (e) { toast(e.message); }
+    });
     $screen.querySelector("#save").addEventListener("click", async () => {
       const kg = parseFloat($screen.querySelector("#kg").value.replace(",", "."));
       try {

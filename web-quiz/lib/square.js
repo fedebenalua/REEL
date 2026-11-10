@@ -1,14 +1,26 @@
-import { randomUUID } from "node:crypto";
-
 const env = () => (process.env.SQUARE_ENVIRONMENT?.trim().toLowerCase() === "production" ? "production" : "sandbox");
 
-export function squareConfig() {
+const LOOPBACK = new Set(["127.0.0.1", "localhost", "[::1]"]);
+
+// Demo payments only exist inside scripts/dev-server.mjs: it sets the in-process flag,
+// refuses to start with a database or Square token, and only listens on loopback.
+function demoAllowed(request) {
+  if (globalThis.__BRIO_LOCAL_DEV_SERVER__ !== true) return false;
+  if (process.env.DATABASE_URL?.trim() || process.env.SQUARE_ACCESS_TOKEN?.trim()) return false;
+  try {
+    return LOOPBACK.has(new URL(request.url).hostname);
+  } catch {
+    return false;
+  }
+}
+
+export function squareConfig(request) {
   const environment = env();
   const applicationId = process.env.SQUARE_APPLICATION_ID?.trim() || "";
   const locationId = process.env.SQUARE_LOCATION_ID?.trim() || "";
   const hasToken = Boolean(process.env.SQUARE_ACCESS_TOKEN?.trim());
   const configured = Boolean(applicationId && locationId && hasToken);
-  const demo = !configured && !hasToken && process.env.BRIO_DEMO_PAYMENTS === "1";
+  const demo = !configured && demoAllowed(request);
   return { environment, applicationId, locationId, configured, demo };
 }
 
@@ -27,10 +39,10 @@ const ERROR_TEXT = {
   TRANSACTION_LIMIT: "La tarjeta ha superado su límite de operaciones.",
 };
 
-export async function createPayment({ sourceId, verificationToken, amountCents, currency, email, note, referenceId }) {
-  const cfg = squareConfig();
+export async function createPayment(request, { idempotencyKey, sourceId, verificationToken, amountCents, currency, email, note, referenceId }) {
+  const cfg = squareConfig(request);
   if (cfg.demo) {
-    if (sourceId === "demo-ok") return { ok: true, id: `demo_${randomUUID()}`, status: "COMPLETED", receiptUrl: null, environment: "demo" };
+    if (sourceId === "demo-ok") return { ok: true, id: `demo_${idempotencyKey}`, status: "COMPLETED", receiptUrl: null, environment: "demo" };
     return { ok: false, code: "CARD_DECLINED", message: ERROR_TEXT.CARD_DECLINED };
   }
   if (!cfg.configured) return { ok: false, code: "NOT_CONFIGURED", message: "Los pagos todavía no están activados en esta web." };
@@ -38,7 +50,7 @@ export async function createPayment({ sourceId, verificationToken, amountCents, 
   const base = cfg.environment === "production" ? "https://connect.squareup.com" : "https://connect.squareupsandbox.com";
   const body = {
     source_id: sourceId,
-    idempotency_key: randomUUID(),
+    idempotency_key: idempotencyKey,
     amount_money: { amount: amountCents, currency },
     location_id: cfg.locationId,
     autocomplete: true,

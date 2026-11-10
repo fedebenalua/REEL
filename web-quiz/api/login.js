@@ -7,6 +7,7 @@ export const POST = handle(async (request) => {
   const code = normalizeCode(body.code);
   if (!isEmail(email) || code.length < 8) throw new HttpError(400, "Escribe tu email y tu código de acceso.");
 
+  await sql("delete from login_attempts where at < now() - interval '1 day'");
   const [{ fails }] = await sql(
     "select count(*)::int as fails from login_attempts where email = $1 and not ok and at > now() - interval '15 minutes'",
     [email],

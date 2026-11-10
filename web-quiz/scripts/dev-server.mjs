@@ -3,7 +3,11 @@ import { readFile, stat } from "node:fs/promises";
 import { extname, join, normalize } from "node:path";
 import { pathToFileURL } from "node:url";
 
-process.env.BRIO_DEMO_PAYMENTS ??= process.env.SQUARE_ACCESS_TOKEN ? "0" : "1";
+if (process.env.DATABASE_URL || process.env.NODE_ENV === "production" || process.env.VERCEL) {
+  console.error("dev-server: solo para desarrollo local (sin DATABASE_URL ni entorno de producción).");
+  process.exit(1);
+}
+if (!process.env.SQUARE_ACCESS_TOKEN) globalThis.__BRIO_LOCAL_DEV_SERVER__ = true;
 const port = Number(process.env.PORT || 8000);
 const root = join(process.cwd(), "public");
 const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".json": "application/json" };

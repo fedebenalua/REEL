@@ -52,9 +52,23 @@ export async function createSession(userId) {
   return token;
 }
 
-export async function requireMember(request) {
+const bearer = (request) => {
   const auth = request.headers.get("authorization") || "";
-  const token = auth.startsWith("Bearer ") ? auth.slice(7).trim() : "";
+  return auth.startsWith("Bearer ") ? auth.slice(7).trim() : "";
+};
+
+export async function sessionUser(request) {
+  const token = bearer(request);
+  if (!token) return null;
+  const [user] = await sql(
+    "select u.id, u.email from sessions s join users u on u.id = s.user_id where s.token_hash = $1",
+    [sha256(token)],
+  );
+  return user || null;
+}
+
+export async function requireMember(request) {
+  const token = bearer(request);
   if (!token) throw new HttpError(401, "Inicia sesión para continuar.");
   const rows = await sql(
     `select u.id, u.email, u.name, u.answers, p.plan_id, p.expires_at
