@@ -10,7 +10,7 @@ if (process.env.DATABASE_URL || process.env.NODE_ENV === "production" || process
 if (!process.env.SQUARE_ACCESS_TOKEN) globalThis.__BRIO_LOCAL_DEV_SERVER__ = true;
 const port = Number(process.env.PORT || 8000);
 const root = join(process.cwd(), "public");
-const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".json": "application/json" };
+const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".webp": "image/webp", ".json": "application/json" };
 
 createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`);

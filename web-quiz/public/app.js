@@ -9,39 +9,8 @@
   const state = { units: "metric", answers: {} };
   const A = state.answers;
 
-  function figure({ w = 1, skin = "#f2c29b", top = "#1d6b63", bottom = "#0f3d3e", hair = "#3b2a20", long = false, bg = "#ffe9c7" } = {}) {
-    const hw = 18 * w, ww = 14 * w, hip = 17 * w;
-    const hairPath = long
-      ? `<path d="M41 30c0-12 7-18 19-18s19 6 19 18v18c-4 3-8 4-10 4V34H51v18c-3 0-7-1-10-4z" fill="${hair}"/>`
-      : `<path d="M44 28c0-10 6-15 16-15s16 5 16 15c-4-4-9-6-16-6s-12 2-16 6z" fill="${hair}"/>`;
-    return `<svg viewBox="0 0 120 120" aria-hidden="true">
-      <circle cx="60" cy="62" r="54" fill="${bg}"/>
-      <path d="M${60 - hw} 60 Q${60 - hw - 4} 66 ${60 - ww} 82 L${60 - hip} 96 Q60 102 ${60 + hip} 96 L${60 + ww} 82 Q${60 + hw + 4} 66 ${60 + hw} 60 Q60 52 ${60 - hw} 60z" fill="${top}"/>
-      <path d="M${60 - hip} 95 L${60 - hip + 2} 118 L${58} 118 L60 104 L${62} 118 L${60 + hip - 2} 118 L${60 + hip} 95 Q60 100 ${60 - hip} 95z" fill="${bottom}"/>
-      <rect x="55" y="44" width="10" height="12" rx="4" fill="${skin}"/>
-      <circle cx="60" cy="33" r="14" fill="${skin}"/>
-      ${hairPath}
-      <circle cx="55" cy="35" r="1.6" fill="#2b2b2b"/><circle cx="65" cy="35" r="1.6" fill="#2b2b2b"/>
-      <path d="M56 40q4 3 8 0" stroke="#2b2b2b" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-    </svg>`;
-  }
   const isWoman = () => A.gender === "mujer";
-  const fig = (opts) => figure({ long: isWoman(), hair: isWoman() ? "#6b3e26" : "#3b2a20", ...opts });
 
-  const heroArt = `<svg class="hero-art" viewBox="0 0 360 200" aria-hidden="true">
-    <defs><linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffcf7a"/><stop offset="1" stop-color="#ff9a6b"/></linearGradient></defs>
-    <circle cx="270" cy="70" r="46" fill="url(#sun)"/>
-    <path d="M0 150 Q90 100 180 140 T360 120 V200 H0z" fill="#1d6b63"/>
-    <path d="M0 175 Q120 140 220 170 T360 160 V200 H0z" fill="#2a8a7c"/>
-    <g transform="translate(70 40)">
-      <circle cx="40" cy="22" r="14" fill="#f2c29b"/>
-      <path d="M27 18c2-10 22-12 27 0-6-3-20-3-27 0z" fill="#3b2a20"/>
-      <path d="M30 40 L50 40 L56 80 L24 80z" fill="#ffb547"/>
-      <path d="M30 44 L8 62 M50 44 L72 30" stroke="#f2c29b" stroke-width="8" stroke-linecap="round"/>
-      <path d="M28 80 L16 118 M52 80 L66 112" stroke="#0f3d3e" stroke-width="10" stroke-linecap="round"/>
-    </g>
-    <g fill="#fff" opacity=".7"><circle cx="40" cy="40" r="2"/><circle cx="190" cy="30" r="1.5"/><circle cx="330" cy="140" r="2"/></g>
-  </svg>`;
 
   const ring = (pct, color = "#1d6b63") => {
     const c = 2 * Math.PI * 26;
@@ -203,12 +172,12 @@
         <span class="pill"><span class="dot"></span>Test de 2 minutos</span>
         <h1>Tu cuerpo, <span style="color:var(--amber)">a tu ritmo</span>.</h1>
         <p class="sub">Contesta unas preguntas y te preparamos un plan de comida, movimiento y hábitos pensado solo para ti.</p>
-        ${heroArt}
+        <img class="hero-img" src="/img/hero.webp" width="720" height="964" alt="" fetchpriority="high" />
       </section>
       <p class="intro-q">Para empezar, ¿cómo te identificas?</p>
       <div class="gender-grid">
-        <button class="gender" data-g="mujer">${figure({ long: true, hair: "#6b3e26", top: "#ff7a59", bg: "#ffe4d9" })}<span>Mujer →</span></button>
-        <button class="gender" data-g="hombre">${figure({ top: "#1d6b63", bg: "#d8efe6" })}<span>Hombre →</span></button>
+        <button class="gender" data-g="mujer"><img src="/img/genero-mujer.webp" width="300" height="420" alt="" /><span>Mujer →</span></button>
+        <button class="gender" data-g="hombre"><img src="/img/genero-hombre.webp" width="300" height="420" alt="" /><span>Hombre →</span></button>
       </div>
       <div class="trust">
         <div><b>${quizSteps}</b>preguntas</div>
@@ -261,11 +230,10 @@
   }
 
   function renderTiles(s) {
-    const palette = isWoman() ? ["#ff7a59", "#ffe4d9"] : ["#1d6b63", "#d8efe6"];
     mount(`
       <div class="q-head"><h2>${s.title}</h2>${s.sub ? `<p class="sub">${s.sub}</p>` : ""}</div>
       <div class="grid2">
-        ${s.options.map((o) => `<button class="tile ${A[s.id] === o.v ? "selected" : ""}" data-v="${o.v}">${fig({ w: o.w, top: palette[0], bg: palette[1] })}${o.t}</button>`).join("")}
+        ${s.options.map((o) => `<button class="tile ${A[s.id] === o.v ? "selected" : ""}" data-v="${o.v}"><img src="/img/body-${o.v}.webp" width="360" height="556" alt="" />${o.t}</button>`).join("")}
       </div>
     `);
     $screen.querySelectorAll(".tile").forEach((b) => b.addEventListener("click", () => {
