@@ -390,12 +390,12 @@
   function renderEmail() {
     mount(`
       <div class="q-head">
-        <h2>¡Tu plan está listo! ¿A dónde te lo enviamos?</h2>
-        <p class="sub">Te mandamos el resumen y tus primeras recetas. Nada de spam.</p>
+        <h2>¡Tu plan está listo! ¿Cómo te llamas?</h2>
+        <p class="sub">Así personalizamos tu plan. Tu email será tu usuario si decides activar tu zona Brío.</p>
       </div>
       <input class="text-field" id="name" type="text" placeholder="Tu nombre" autocomplete="given-name" value="${esc(A.name || "")}" />
       <input class="text-field" id="mail" type="email" placeholder="tu@email.com" autocomplete="email" inputmode="email" value="${esc(A.email || "")}" />
-      <div class="privacy"><span>🔒</span><span>Tus datos se quedan en tu dispositivo: esta demo no envía nada a ningún servidor.</span></div>
+      <div class="privacy"><span>🔒</span><span>Hasta que compres un plan, tus respuestas, tu nombre y tu email solo están en este navegador. Si compras, los guardamos en Brío para darte acceso y personalizar tu zona, y el pago lo procesa Square. No los vendemos ni los usamos para publicidad.</span></div>
       <div class="cta-wrap"><button class="cta" id="cont" disabled>Ver mi plan</button></div>
     `);
     const $m = $screen.querySelector("#mail"), $n = $screen.querySelector("#name"), $c = $screen.querySelector("#cont");
@@ -588,7 +588,7 @@
     const cfg = await getConfig();
     const plan = chosenPlan;
     const sq = cfg.square;
-    const testCards = sq.demo || sq.environment === "sandbox";
+    const testCards = sq.demo;
     const member = Boolean(localStorage.getItem("brio_token"));
     mount(`
       <div class="q-head" style="margin-bottom:14px"><h2>Pago seguro</h2></div>
@@ -600,7 +600,7 @@
       <span class="label">Tarjeta</span>
       ${sq.demo ? `<div class="demo-card"><input id="dnum" inputmode="numeric" value="4111 1111 1111 1111" aria-label="Número de tarjeta" /><input value="12/29" aria-label="Caducidad" /><input value="111" aria-label="CVV" /></div>` : `<div class="card-box" id="card-container"></div>`}
       <div id="perr"></div>
-      ${testCards ? `<div class="hint test-cards"><span class="ic">🧪</span><span>${sq.demo ? "<b>Modo demo</b> (Square sin configurar): no se cobra nada." : "<b>Square sandbox</b>: no se cobra nada."} Tarjeta de prueba <code>4111 1111 1111 1111</code>, CVV <code>111</code>, cualquier fecha futura y código postal. ${sq.demo ? "Para simular un rechazo usa <code>4000 0000 0000 0002</code>." : ""}</span></div>` : ""}
+      ${testCards ? `<div class="hint test-cards"><span class="ic">🧪</span><span><b>Modo demo local</b>: no se cobra nada. Tarjeta de prueba <code>4111 1111 1111 1111</code>, CVV <code>111</code>, cualquier fecha futura. Para simular un rechazo usa <code>4000 0000 0000 0002</code>.</span></div>` : ""}
       <div class="cta-wrap">
         <button class="cta" id="pay" disabled>Pagar ${money(plan.priceCents, cfg.currency)}</button>
         <div class="secure">🔒 Pago cifrado procesado por Square. Brío no guarda los datos de tu tarjeta.</div>
@@ -659,9 +659,14 @@
       }
       if (email) A.email = email;
       A.name = name || A.name;
-      submitPayment({ checkoutId: crypto.randomUUID(), planId: plan.id, sourceId, email, name, answers: metricAnswers() });
+      submitPayment({ checkoutId: crypto.randomUUID(), checkoutSecret: randomSecret(), planId: plan.id, sourceId, email, name, answers: metricAnswers() });
     });
   }
+
+  const randomSecret = () => {
+    const bytes = crypto.getRandomValues(new Uint8Array(32));
+    return btoa(String.fromCharCode(...bytes)).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  };
 
   // The same checkoutId (Square idempotency key) is resent on network retries, so a
   // retry can never charge twice. A declined or rejected attempt needs a new checkout.
@@ -681,6 +686,7 @@
       return renderPayError("Se ha cortado la conexión durante el pago. Vuelve a intentarlo: no se te cobrará dos veces.", () => submitPayment(attempt), "Reintentar");
     }
     if (res.ok) return renderPaySuccess(data, attempt.email);
+    if (data.alreadyPaid) return renderPayError(data.error, null, "Reintentar", true);
     if (res.status >= 500 || (res.status === 409 && !data.retryWithNewCheckout)) {
       return renderPayError(data.error || "No hemos podido confirmar el pago.", () => submitPayment(attempt), "Reintentar");
     }

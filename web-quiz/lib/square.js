@@ -1,4 +1,7 @@
-const env = () => (process.env.SQUARE_ENVIRONMENT?.trim().toLowerCase() === "production" ? "production" : "sandbox");
+const env = () => {
+  const v = process.env.SQUARE_ENVIRONMENT?.trim().toLowerCase();
+  return v === "production" || v === "sandbox" ? v : null;
+};
 
 const LOOPBACK = new Set(["127.0.0.1", "localhost", "[::1]"]);
 
@@ -19,7 +22,7 @@ export function squareConfig(request) {
   const applicationId = process.env.SQUARE_APPLICATION_ID?.trim() || "";
   const locationId = process.env.SQUARE_LOCATION_ID?.trim() || "";
   const hasToken = Boolean(process.env.SQUARE_ACCESS_TOKEN?.trim());
-  const configured = Boolean(applicationId && locationId && hasToken);
+  const configured = Boolean(environment && applicationId && locationId && hasToken);
   const demo = !configured && demoAllowed(request);
   return { environment, applicationId, locationId, configured, demo };
 }

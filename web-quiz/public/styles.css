@@ -225,7 +225,7 @@ a.restart { display: block; text-align: center; }
 .state-icon.warn { background: #ffe4d9; }
 .code-box { margin: 20px 0 6px; width: 100%; background: var(--card); border: 2px dashed var(--teal-2); border-radius: var(--radius); padding: 16px; text-align: center; }
 .code-box small { display: block; color: var(--ink-soft); font-size: 13px; }
-.code-box b { display: block; font-family: var(--display); font-size: 28px; letter-spacing: .04em; margin: 6px 0 10px; color: var(--teal); }
+.code-box b { display: block; font-family: var(--display); font-size: clamp(19px, 6vw, 26px); letter-spacing: .02em; white-space: nowrap; margin: 6px 0 10px; color: var(--teal); }
 .code-box button { border: 0; background: var(--mint); color: var(--teal); font-weight: 700; padding: 8px 16px; border-radius: 10px; }
 
 /* Members */

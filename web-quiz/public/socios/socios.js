@@ -101,7 +101,7 @@
       </div>
       ${msg ? `<div class="hint warn"><span class="ic">✋</span><span>${esc(msg)}</span></div>` : ""}
       <input class="text-field" id="mail" type="email" placeholder="tu@email.com" autocomplete="email" inputmode="email" />
-      <input class="text-field" id="code" type="text" placeholder="BRIO-XXXX-XXXX" autocomplete="one-time-code" autocapitalize="characters" spellcheck="false" />
+      <input class="text-field" id="code" type="text" placeholder="BRIO-XXXX-XXXX-XXXX" autocomplete="one-time-code" autocapitalize="characters" spellcheck="false" />
       <div class="cta-wrap"><button class="cta" id="go">Entrar</button>
       <a class="restart" href="/">¿Aún no tienes plan? Haz el test</a></div>
     `);
@@ -310,12 +310,12 @@
       <div class="plan-list">${challenges.map((c) => `<a class="ch-card link" href="#/reto/${c.id}" style="--c:${c.color}"><div class="ch-top"><div><small>${c.days} días</small><h3>${esc(c.title)}</h3></div>${ringSvg(pct(c), c.color)}</div><div class="bar"><span style="width:${pct(c)}%"></span></div></a>`).join("")}</div>
       <h3 class="section-t">Tu acceso</h3>
       <div class="bmi" id="access">
-        <p class="sub" style="margin:0">Entras con <b>${esc(me.email)}</b> y tu código de acceso. Si lo has perdido, crea uno nuevo: el anterior dejará de funcionar.</p>
+        <p class="sub" style="margin:0">Entras con <b>${esc(me.email)}</b> y tu código de acceso. Si lo has perdido, crea uno nuevo: el anterior dejará de funcionar y se cerrarán tus otras sesiones.</p>
         <button class="cta dark" id="newcode" style="margin-top:12px">Crear nuevo código</button>
       </div>
     `, { tab: "progreso" });
     $screen.querySelector("#newcode").addEventListener("click", async () => {
-      if (!confirm("¿Crear un código nuevo? El anterior dejará de funcionar.")) return;
+      if (!confirm("¿Crear un código nuevo? El anterior dejará de funcionar y se cerrará la sesión en tus otros dispositivos.")) return;
       try {
         const { accessCode } = await api("code", {});
         $screen.querySelector("#access").innerHTML = `<div class="code-box" style="margin:0"><small>Tu nuevo código de acceso</small><b>${esc(accessCode)}</b></div><p class="fine">Guárdalo: lo necesitarás para entrar desde otro dispositivo.</p>`;
@@ -348,7 +348,10 @@
   window.addEventListener("hashchange", route);
   $back.addEventListener("click", () => history.length > 1 ? history.back() : go("#/inicio"));
   $logout.addEventListener("click", logout);
-  function logout() { localStorage.removeItem(TOKEN_KEY); me = null; renderLogin(); }
+  async function logout() {
+    try { await api("logout", {}); } catch {}
+    localStorage.removeItem(TOKEN_KEY); me = null; renderLogin();
+  }
 
   async function boot() {
     if (!localStorage.getItem(TOKEN_KEY)) return renderLogin();
