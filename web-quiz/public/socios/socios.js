@@ -50,7 +50,7 @@
   function profile() {
     const a = me.answers || {};
     const w = a.weightKg || 70, t = a.targetKg || w, h = a.heightCm || 168;
-    const ageMid = { "18-29": 25, "30-39": 35, "40-49": 45, "50+": 57 }[a.age] || 35;
+    const ageMid = { "18-29": 25, "30-39": 35, "40-49": 45, "50+": 57, "18-34": 27, "35-44": 40, "45-54": 50, "55+": 60 }[a.age] || 35;
     const woman = a.gender !== "hombre";
     const bmr = 10 * w + 6.25 * h - 5 * ageMid + (woman ? -161 : 5);
     const factor = [1.2, 1.35, 1.5, 1.7][Number(a.activity || 2) - 1];

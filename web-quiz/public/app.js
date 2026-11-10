@@ -27,14 +27,15 @@
     return kgOf(A.weight) / (h * h);
   };
 
+  const AGES = ["18-34", "35-44", "45-54", "55+"];
+  const AGE_MID = { "18-34": 27, "35-44": 40, "45-54": 50, "55+": 60 };
+
   const steps = [
     {
-      id: "age", type: "single", title: "¿En qué etapa de la vida estás?", sub: "Ajustamos el ritmo y la intensidad a tu edad.",
+      id: "gender", type: "tiles", title: "Para ajustar tus calorías, ¿eres…?",
       options: [
-        { v: "18-29", t: "18 – 29 años", e: "🌱" },
-        { v: "30-39", t: "30 – 39 años", e: "🌿" },
-        { v: "40-49", t: "40 – 49 años", e: "🌳" },
-        { v: "50+", t: "50 años o más", e: "🍂" },
+        { v: "hombre", t: "Hombre", img: "genero-hombre" },
+        { v: "mujer", t: "Mujer", img: "genero-mujer" },
       ],
     },
     {
@@ -155,6 +156,7 @@
 
   function go(i) {
     idx = i;
+    document.body.classList.remove("landing-mode");
     if (idx < 0) return renderIntro();
     const s = steps[idx];
     ({ single: renderChoice, multi: renderChoice, tiles: renderTiles, number: renderNumber, inter: renderInter, loading: renderLoading, email: renderEmail, result: renderResult })[s.type](s);
@@ -167,27 +169,22 @@
   });
 
   function renderIntro() {
+    document.body.classList.add("landing-mode");
     mount(`
-      <section class="hero">
-        <span class="pill"><span class="dot"></span>Test de 2 minutos</span>
-        <h1>Tu cuerpo, <span style="color:var(--amber)">a tu ritmo</span>.</h1>
-        <p class="sub">Contesta unas preguntas y te preparamos un plan de comida, movimiento y hábitos pensado solo para ti.</p>
-        <img class="hero-img" src="/img/hero.webp" width="720" height="964" alt="" fetchpriority="high" />
+      <section class="landing">
+        <h1>Activo 28: <span>ponte fuerte en casa</span> en solo 28 días</h1>
+        <div class="landing-grid">
+          <img class="landing-img" src="/img/hero-reto.webp" width="600" height="835" alt="" fetchpriority="high" />
+          <div class="landing-ages">
+            <p class="landing-q">¿Cuántos años tienes?</p>
+            ${AGES.map((v) => `<button class="age" data-age="${v}"><span>${v}</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>`).join("")}
+          </div>
+        </div>
+        <p class="landing-legal">Al continuar aceptas los <a href="/terminos.html">Términos</a> y la <a href="/privacidad.html">Privacidad</a> de Brío.<br />Brío no sustituye el consejo médico.</p>
       </section>
-      <p class="intro-q">Para empezar, ¿cómo te identificas?</p>
-      <div class="gender-grid">
-        <button class="gender" data-g="mujer"><img src="/img/genero-mujer.webp" width="300" height="420" alt="" /><span>Mujer →</span></button>
-        <button class="gender" data-g="hombre"><img src="/img/genero-hombre.webp" width="300" height="420" alt="" /><span>Hombre →</span></button>
-      </div>
-      <div class="trust">
-        <div><b>${quizSteps}</b>preguntas</div>
-        <div><b>2 min</b>de tu tiempo</div>
-        <div><b>100%</b>personalizado</div>
-      </div>
-      <p class="fine">Brío no sustituye el consejo médico. Si tienes alguna condición de salud, consulta con un profesional antes de cambiar tu dieta o ejercicio.</p>
     `);
-    $screen.querySelectorAll(".gender").forEach((b) =>
-      b.addEventListener("click", () => { A.gender = b.dataset.g; go(0); })
+    $screen.querySelectorAll(".age").forEach((b) =>
+      b.addEventListener("click", () => { A.age = b.dataset.age; go(0); })
     );
   }
 
@@ -233,7 +230,7 @@
     mount(`
       <div class="q-head"><h2>${s.title}</h2>${s.sub ? `<p class="sub">${s.sub}</p>` : ""}</div>
       <div class="grid2">
-        ${s.options.map((o) => `<button class="tile ${A[s.id] === o.v ? "selected" : ""}" data-v="${o.v}"><img src="/img/body-${o.v}.webp" width="360" height="556" alt="" />${o.t}</button>`).join("")}
+        ${s.options.map((o) => `<button class="tile ${A[s.id] === o.v ? "selected" : ""}" data-v="${o.v}"><img src="/img/${o.img || `body-${o.v}`}.webp" alt="" />${o.t}</button>`).join("")}
       </div>
     `);
     $screen.querySelectorAll(".tile").forEach((b) => b.addEventListener("click", () => {
@@ -381,7 +378,7 @@
     const rate = w * (Number(A.activity) >= 3 ? 0.008 : 0.0065);
     const weeks = loss > 0 ? Math.max(4, Math.ceil(loss / rate)) : 8;
     const date = new Date(Date.now() + weeks * 7 * 864e5);
-    const ageMid = { "18-29": 25, "30-39": 35, "40-49": 45, "50+": 57 }[A.age] || 35;
+    const ageMid = AGE_MID[A.age] || 35;
     const h = cmOf(A.height);
     const bmr = 10 * w + 6.25 * h - 5 * ageMid + (isWoman() ? -161 : 5);
     const factor = [1.2, 1.35, 1.5, 1.7][Number(A.activity) - 1] || 1.3;

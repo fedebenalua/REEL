@@ -1,6 +1,6 @@
 const CHOICES = {
   gender: ["mujer", "hombre"],
-  age: ["18-29", "30-39", "40-49", "50+"],
+  age: ["18-34", "35-44", "45-54", "55+", "18-29", "30-39", "40-49", "50+"],
   goal: ["perder", "tonificar", "energia", "habitos"],
   body: ["delgado", "medio", "relleno", "grande"],
   ideal: ["ahora", "1", "3", "mas", "nunca"],
