@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f3d3e" />
+  <title>Brío · Tu plan para sentirte ligero</title>
+  <meta name="description" content="Responde unas preguntas rápidas y recibe un plan de hábitos, comida y movimiento hecho a tu medida." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230f3d3e'/%3E%3Cpath d='M20 44c14 0 24-10 24-26-16 0-26 10-26 24' fill='none' stroke='%23ffb547' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar" id="topbar">
+      <button class="back" id="back" aria-label="Volver" hidden>
+        <svg viewBox="0 0 24 24" width="22" height="22"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="brand">
+        <svg viewBox="0 0 64 64" width="26" height="26" aria-hidden="true"><rect width="64" height="64" rx="16" fill="#0f3d3e"/><path d="M20 44c14 0 24-10 24-26-16 0-26 10-26 24" fill="none" stroke="#ffb547" stroke-width="6" stroke-linecap="round"/></svg>
+        <span>brío</span>
+      </div>
+      <span class="step-count" id="stepCount"></span>
+    </header>
+    <div class="progress" id="progressWrap" hidden><div class="progress-bar" id="progress"></div></div>
+    <main id="screen" class="screen" aria-live="polite"></main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
